@@ -1,0 +1,503 @@
+Date,Tm,Opp,Quarter,Time,Down,ToGo,Location,Score,Detail,Yds,EPB,EPA,Diff
+2004-09-19,Bills,Raiders,4,1:56,4,18,BUF 30,3-13,Drew Bledsoe pass complete to Lee Evans for 65 yards (tackle by Ray Buchanan),65,-1.370,6.060,7.43
+2004-10-17,Saints,Vikings,3,9:12,4,3,NOR 28,14-28,Fred McAfee right tackle for 53 yards (tackle by Nate Burleson),53,-1.500,4.310,5.81
+2004-09-12,Jaguars,Bills,4,1:18,4,14,JAX 34,6-10,Byron Leftwich pass complete to Jimmy Smith for 45 yards (tackle by Nate Clements),45,-1.110,4.170,5.28
+2004-11-29,Packers,Rams,4,2:00,4,1,RAM 40,37-17,Najeh Davenport right tackle for 40 yards touchdown,40,0.590,7.000,6.41
+2004-10-03,Jaguars,Colts,4,10:45,4,1,CLT 40,15-17,Byron Leftwich pass complete to Jimmy Smith for 40 yards touchdown,40,0.590,7.000,6.41
+2004-11-14,49ers,Panthers,4,2:00,4,19,SFO 22,27-37,Tim Rattay pass complete to Cedrick Wilson for 39 yards (tackle by Mike Minter),39,-1.900,2.980,4.88
+2004-10-10,Lions,Falcons,2,3:30,4,5,ATL 39,6-7,Joey Harrington pass complete to Az-Zahir Hakim for 39 yards touchdown,39,0.660,7.000,6.34
+2004-09-12,Raiders,Steelers,4,5:05,4,12,PIT 38,19-21,Rich Gannon pass complete to Alvis Whitted for 38 yards touchdown,38,0.720,7.000,6.28
+2004-10-03,Bills,Patriots,2,3:33,4,2,BUF 25,10-10,Brian Moorman for 34 yards. Brian Moorman fumbles recovered by Brian Moorman at BUF-10,34,-1.700,2.850,4.55
+2004-11-14,Seahawks,Rams,4,0:02,4,2,RAM 47,12-23,Matt Hasselbeck pass complete to Koren Robinson for 33 yards (tackle by Rich Coady),33,0.130,0.280,.15
+2004-11-21,Rams,Bills,4,14:19,4,3,BUF 47,17-37,Marc Bulger pass complete to Shaun McDonald for 33 yards (tackle by Terrence McGee),33,0.130,4.650,4.52
+2004-09-19,Cowboys,Browns,2,5:17,4,1,DAL 36,7-6,Dexter Coakley right tackle for 33 yards (tackle by Michael Jameson),33,-0.980,3.510,4.49
+2004-09-26,Broncos,Chargers,3,3:39,4,9,SDG 33,19-10,Jake Plummer pass complete to Ashley Lelie for 33 yards touchdown,33,1.150,7.000,5.85
+2004-12-06,Seahawks,Cowboys,4,2:53,4,1,DAL 32,38-29,Shaun Alexander left tackle for 32 yards touchdown,32,1.310,7.000,5.69
+2004-11-28,Bills,Seahawks,4,10:47,4,1,SEA 30,30-3,Willis McGahee left end for 30 yards touchdown,30,1.520,7.000,5.48
+2004-10-03,Washington,Browns,2,6:14,4,6,CLE 37,3-3,Mark Brunell pass complete to Laveranues Coles for 30 yards (tackle by Anthony Henry),30,0.790,5.600,4.81
+2004-09-12,Giants,Eagles,4,1:05,4,10,PHI 46,17-31,Eli Manning pass complete to Tim Carter for 29 yards (tackle by Michael Lewis),29,0.200,4.440,4.24
+2004-10-03,Packers,Giants,3,10:10,4,5,NYG 28,6-0,Brett Favre pass complete to Javon Walker for 28 yards touchdown,28,1.630,7.000,5.37
+2004-10-31,Cardinals,Bills,4,4:01,4,11,BUF 28,13-38,Josh McCown pass complete to Bryant Johnson for 28 yards touchdown,28,1.590,7.000,5.41
+2005-01-02,Raiders,Jaguars,4,1:52,4,7,RAI 42,6-13,Kerry Collins pass complete to Jerry Porter for 27 yards (tackle by Dewayne Washington),27,-0.590,3.510,4.10
+2004-10-10,Falcons,Lions,2,10:21,4,6,ATL 36,0-0,Chris Mohr pass complete to Brian Finneran for 26 yards (tackle by Terrence Holt),26,-0.980,3.050,4.03
+2004-10-10,Dolphins,Patriots,4,4:49,4,1,MIA 45,10-24,Jay Fiedler pass complete to Marty Booker for 26 yards,26,-0.390,3.640,4.03
+2004-12-05,Saints,Panthers,4,0:45,4,15,CAR 25,20-32,Aaron Brooks pass complete to Donte Stallworth for 25 yards touchdown,25,1.800,7.000,5.20
+2004-10-18,Buccaneers,Rams,4,0:48,4,5,TAM 39,21-28,Brian Griese pass complete to Michael Clayton for 25 yards (tackle by Jerametrius Butler),25,-0.780,3.180,3.96
+2004-09-19,Bills,Raiders,1,7:28,4,11,BUF 27,0-0,Brian Moorman pass complete to Kevin Thomas for 24 yards (tackle by David Terrell),24,-1.570,2.320,3.89
+2004-11-14,Ravens,Jets,2,1:12,4,8,NYJ 34,0-14,Kyle Boller pass complete to Chester Taylor for 23 yards (tackle by Erik Coleman),23,1.060,4.840,3.78
+2004-10-24,Rams,Dolphins,4,6:39,4,17,MIA 49,7-24,Marc Bulger pass complete to Shaun McDonald for 23 yards,23,0.000,3.840,3.84
+2004-10-31,Bills,Cardinals,4,8:39,4,5,CRD 25,31-7,Drew Bledsoe pass complete to Eric Moulds for 23 yards,23,1.850,6.740,4.89
+2004-10-31,Washington,Packers,2,3:00,4,22,GNB 36,0-17,Mark Brunell pass complete to Robert Royal for 23 yards,23,0.880,4.710,3.83
+2004-11-07,Chargers,Saints,1,11:52,4,1,SDG 47,0-0,Jesse Chatman up the middle for 22 yards (tackle by Fred McAfee),22,-0.260,3.510,3.77
+2004-09-26,49ers,Seahawks,4,10:44,4,1,SFO 46,0-34,Ken Dorsey pass complete to Aaron Walker for 22 yards (tackle by Terreal Bierria),22,-0.320,3.450,3.77
+2004-10-11,Packers,Titans,4,7:23,4,10,OTI 46,13-41,Brett Favre pass complete to Javon Walker for 22 yards (tackle by Lamont Thompson),22,0.200,3.970,3.77
+2004-11-21,Titans,Jaguars,4,3:42,4,1,JAX 25,10-15,Steve McNair pass complete to Erron Kinney for 21 yards (tackle by Dewayne Washington and Akin Ayodele). Penalty on Dewayne Washington: Face Mask (5 Yards) 2 yards,21,1.950,6.740,4.79
+2004-12-20,Dolphins,Patriots,4,1:29,4,10,NWE 21,29-28,A.J. Feeley pass complete to Derrius Thompson for 21 yards touchdown,21,2.060,7.000,4.94
+2004-11-07,Dolphins,Cardinals,1,1:05,4,1,CRD 20,9-3,Jay Fiedler pass complete to Rob Konrad for 20 yards touchdown,20,2.270,7.000,4.73
+2004-11-07,Rams,Patriots,3,1:12,4,9,NWE 45,14-33,Marc Bulger pass complete to Torry Holt for 20 yards (tackle by Dexter Reid). Penalty on Grant Williams: Offensive Holding (Offsetting) Penalty on Rodney Harrison: Defensive Holding (Offsetting) (no play),20,0.270,0.270,.00
+2004-12-05,Browns,Patriots,3,2:20,4,7,NWE 32,7-42,Luke McCown pass complete to Frisman Jackson for 20 yards (tackle by Earthwind Moreland). Penalty on Aaron Shea: Offensive Holding 10 yards (no play),20,1.240,0.460,-0.78
+2004-12-26,Giants,Bengals,1,0:14,4,2,CIN 37,0-7,Eli Manning pass complete to Ike Hilliard for 20 yards (tackle by Kim Herring),20,0.790,4.440,3.65
+2004-12-26,Cowboys,Washington,3,3:58,4,1,WAS 26,6-3,Vinny Testaverde pass complete to Keyshawn Johnson for 20 yards (tackle by Antonio Pierce). Penalty on Fred Smoot: Face Mask (15 Yards) 3 yards,20,1.890,6.510,4.62
+2004-12-12,Broncos,Dolphins,4,8:19,4,6,MIA 34,17-17,Jake Plummer pass complete to Jeb Putzier for 19 yards (tackle by Will Poole),19,1.070,4.580,3.51
+2004-12-26,Bengals,Giants,4,1:51,4,10,NYG 24,17-22,Jon Kitna pass complete to T.J. Houshmandzadeh for 19 yards (tackle by Brent Alexander),19,1.870,6.060,4.19
+2004-12-26,Colts,Chargers,4,2:15,4,4,CLT 26,23-31,Peyton Manning pass complete to Reggie Wayne for 19 yards (tackle by Drayton Florence),19,-1.630,1.930,3.56
+2005-01-02,Cowboys,Giants,2,0:08,4,1,NYG 46,6-7,Vinny Testaverde pass complete to Patrick Crayton for 19 yards,19,0.200,3.780,3.58
+2004-09-09,Colts,Patriots,3,5:50,4,1,NWE 41,17-20,Peyton Manning right end for 19 yards (tackle by Rodney Harrison),19,0.530,4.110,3.58
+2004-09-26,Steelers,Dolphins,2,0:19,4,1,MIA 41,3-0,Ben Roethlisberger pass complete to Hines Ward for 19 yards (tackle by Sam Madison),19,0.530,4.110,3.58
+2004-10-10,Texans,Vikings,4,6:09,4,4,HTX 48,14-28,David Carr pass complete to Derick Armstrong for 19 yards (tackle by Terrance Shaw),19,-0.190,3.380,3.57
+2004-10-31,Seahawks,Panthers,3,7:56,4,2,CAR 36,14-10,Matt Hasselbeck right tackle for 19 yards (tackle by Mike Minter). Penalty on Brandon Short: Unnecessary Roughness 9 yards,19,0.890,5.370,4.48
+2004-12-26,49ers,Bills,4,8:05,4,17,BUF 32,0-41,Cody Pickett pass complete to Cedrick Wilson for 18 yards (tackle by Terrence McGee),18,1.240,4.650,3.41
+2004-09-19,Chargers,Jets,4,1:42,4,15,NYJ 47,21-34,Doug Flutie pass complete to Reche Caldwell for 18 yards (tackle by Donnie Abraham),18,0.130,3.640,3.51
+2004-09-20,Vikings,Eagles,2,1:42,4,1,PHI 20,6-10,Daunte Culpepper pass complete to Richard Owens for 18 yards (tackle by Dhani Jones),18,2.270,6.740,4.47
+2004-10-24,Titans,Vikings,3,0:09,4,5,MIN 20,3-17,Billy Volek pass complete to Derrick Mason for 18 yards (tackle by Corey Chavous). Penalty on Fred Miller: Unnecessary Roughness 15 yards (no play),18,2.170,0.970,-1.20
+2004-10-31,Broncos,Falcons,4,0:10,4,1,ATL 36,28-41,Jake Plummer pass complete to Reuben Droughns for 18 yards (tackle by Kevin McCadam),18,0.890,1.990,1.10
+2004-11-07,Steelers,Eagles,4,2:48,4,3,PHI 24,27-3,Ben Roethlisberger pass complete to Matt Cushing for 17 yards (tackle by Sheldon Brown),17,1.970,5.600,3.63
+2004-11-07,Rams,Patriots,3,0:58,4,9,NWE 45,14-33,Marc Bulger pass complete to Isaac Bruce for 17 yards (tackle by Don Davis). Penalty on Torry Holt: Taunting (Offsetting) Penalty on Dexter Reid: Taunting (Offsetting),17,0.270,3.710,3.44
+2004-12-05,Patriots,Browns,4,13:29,4,13,CLE 27,42-7,Rohan Davey pass complete to David Patten for 17 yards (tackle by Robert Griffith),17,1.670,4.910,3.24
+2005-01-02,Bears,Packers,3,7:38,4,3,GNB 38,7-28,Chad Hutchinson pass complete to Bernard Berrian for 17 yards (tackle by Ahmad Carroll),17,0.720,4.170,3.45
+2004-09-20,Vikings,Eagles,4,5:08,4,11,PHI 43,9-24,Daunte Culpepper pass complete to Nate Burleson for 17 yards (tackle by Lito Sheppard),17,0.400,3.840,3.44
+2004-11-07,Lions,Washington,4,0:22,4,4,DET 27,10-17,Joey Harrington pass complete to Az-Zahir Hakim for 16 yards (tackle by Ryan Clark),16,-1.570,1.800,3.37
+2005-01-02,Vikings,Washington,4,0:31,4,10,MIN 46,10-21,Daunte Culpepper pass complete to Jermaine Wiggins for 16 yards (tackle by Chris Clemons),16,-0.320,3.050,3.37
+2004-09-12,Falcons,49ers,1,5:25,4,2,SFO 39,0-0,Peerless Price left end for 16 yards (tackle by Tony Parrish),16,0.660,4.040,3.38
+2004-11-21,Rams,Bills,4,8:39,4,10,BUF 41,17-37,Marc Bulger pass complete to Torry Holt for 15 yards (tackle by Terrence McGee),15,0.530,3.840,3.31
+2004-12-26,Cowboys,Washington,4,1:09,4,10,DAL 25,6-10,Vinny Testaverde pass complete to Patrick Crayton for 15 yards (tackle by Sean Taylor),15,-1.700,1.600,3.30
+2005-01-02,Jaguars,Raiders,2,12:56,4,1,RAI 29,0-3,Byron Leftwich pass complete to Marc Edwards for 15 yards (tackle by Denard Walker),15,1.620,4.650,3.03
+2004-10-24,Rams,Dolphins,2,5:23,4,1,MIA 15,6-7,Marc Bulger up the middle for 15 yards touchdown,15,2.590,7.000,4.41
+2004-11-21,Saints,Broncos,4,5:31,4,23,DEN 37,13-34,Aaron Brooks pass complete to Deuce McAllister for 14 yards (tackle by Champ Bailey),14,0.790,-0.480,-1.27
+2004-11-21,49ers,Buccaneers,4,0:24,4,1,TAM 15,3-35,Tim Rattay pass complete to Maurice Hicks for 14 yards (tackle by Dexter Jackson),14,2.590,6.970,4.38
+2004-11-28,Browns,Bengals,3,9:59,4,1,CIN 23,20-34,Kelly Holcomb pass complete to Aaron Shea for 14 yards (tackle by Rogers Beckett),14,2.080,5.140,3.06
+2005-01-02,Lions,Titans,2,6:31,4,3,OTI 35,3-7,Joey Harrington pass complete to Reggie Swinton for 14 yards (tackle by Keith Bulluck),14,0.990,4.170,3.18
+2005-01-02,Chiefs,Chargers,4,2:20,4,2,SDG 14,16-24,Trent Green pass complete to Larry Johnson for 14 yards touchdown,14,2.630,7.000,4.37
+2004-10-17,Panthers,Eagles,4,1:25,4,5,CAR 36,8-30,Jake Delhomme pass complete to Nick Goings for 14 yards (tackle by Quintin Mikell),14,-0.980,2.260,3.24
+2004-10-24,Vikings,Titans,2,1:53,4,6,OTI 33,10-3,Daunte Culpepper pass complete to Nate Burleson for 14 yards (tackle by Andre Woolfolk),14,1.160,4.310,3.15
+2004-11-07,Lions,Washington,4,1:07,4,4,DET 8,10-17,Joey Harrington pass complete to Roy E. Williams for 13 yards (tackle by Todd Franz),13,-2.490,0.340,2.83
+2004-11-21,Jaguars,Titans,2,11:59,4,6,OTI 32,0-3,David Garrard pass complete to Reggie Williams for 13 yards (tackle by Justin Sandy),13,1.250,4.310,3.06
+2004-11-28,Browns,Bengals,4,0:19,4,22,CLE 45,48-58,Kelly Holcomb pass complete to Aaron Shea for 13 yards (tackle by Keiwan Ratliff),13,-0.390,-1.730,-1.34
+2004-12-05,Dolphins,Bills,4,0:02,4,8,MIA 24,32-42,Travis Minor up the middle for 13 yards (tackle by Nate Clements),13,-1.770,1.400,3.17
+2004-12-05,Broncos,Chargers,4,0:32,4,10,DEN 41,17-20,Jake Plummer pass complete to Darius Watts for 13 yards (tackle by Donnie Edwards),13,-0.650,2.520,3.17
+2004-12-13,Titans,Chiefs,3,2:31,4,1,KAN 46,28-28,Troy Fleming right end for 13 yards (tackle by Scott Fujita),13,0.200,3.380,3.18
+2004-12-19,Ravens,Colts,4,12:54,4,4,CLT 13,9-20,Kyle Boller pass complete to Todd Heap for 13 yards touchdown,13,2.640,7.000,4.36
+2004-12-19,Saints,Buccaneers,4,2:13,4,12,TAM 43,14-17,Aaron Brooks up the middle for 13 yards (tackle by Derrick Brooks),13,0.400,3.580,3.18
+2004-09-19,Chiefs,Panthers,4,7:30,4,10,KAN 48,17-28,Trent Green right end for 13 yards (tackle by Julius Peppers),13,-0.190,2.980,3.17
+2004-10-03,49ers,Rams,4,1:56,4,13,SFO 43,6-24,Tim Rattay pass complete to Eric Johnson for 13 yards (tackle by Kwamie Lassiter),13,-0.520,2.650,3.17
+2004-11-07,Rams,Patriots,4,2:13,4,16,NWE 16,22-40,Marc Bulger pass complete to Torry Holt for 12 yards (tackle by Troy Brown),12,2.380,0.380,-2.00
+2004-11-14,Browns,Steelers,4,8:11,4,5,PIT 43,3-24,Kelly Holcomb pass complete to Antonio Bryant for 12 yards (tackle by Ike Taylor),12,0.400,3.510,3.11
+2004-12-12,Texans,Colts,4,0:47,4,19,HTX 45,14-23,David Carr pass complete to Domanick Williams for 12 yards (tackle by Jim Nelson),12,-0.390,-1.800,-1.41
+2004-12-18,Falcons,Panthers,4,1:44,4,12,CAR 12,30-31,Michael Vick up the middle for 12 yards touchdown,12,2.630,7.000,4.37
+2004-09-19,Chargers,Jets,4,0:56,4,10,NYJ 18,21-34,Doug Flutie pass complete to Eric Parker for 12 yards (tackle by Donnie Abraham),12,2.250,5.830,3.58
+2004-11-07,Bills,Jets,1,5:25,4,1,NYJ 12,6-0,Willis McGahee right tackle for 12 yards touchdown,12,2.780,7.000,4.22
+2004-11-14,Bears,Titans,4,2:00,4,2,OTI 48,14-17,Craig Krenzel pass complete to David Terrell for 11 yards (tackle by Samari Rolle),11,0.070,0.000,-0.07
+2004-11-28,Texans,Titans,2,0:33,4,10,OTI 40,10-21,David Carr pass complete to Billy Miller for 11 yards (tackle by Andre Dyson),11,0.590,3.640,3.05
+2004-12-12,Bengals,Patriots,3,3:14,4,5,NWE 11,20-35,Kyle Larson left guard for 11 yards touchdown,11,2.750,7.000,4.25
+2004-12-19,Ravens,Colts,4,2:44,4,9,RAV 35,10-20,Kyle Boller pass complete to Jamal Lewis for 11 yards (tackle by Jim Nelson),11,-1.040,1.990,3.03
+2004-12-26,Lions,Bears,2,8:08,4,5,CHI 37,10-0,Joey Harrington right end for 11 yards (tackle by Michael Green),11,0.790,3.840,3.05
+2004-09-19,Texans,Lions,4,1:47,4,7,DET 45,16-28,David Carr pass complete to Derick Armstrong for 11 yards (tackle by Fernando Bryant),11,0.270,3.310,3.04
+2004-10-10,Texans,Vikings,4,3:15,4,11,MIN 11,20-28,David Carr pass complete to Derick Armstrong for 11 yards touchdown,11,2.700,7.000,4.30
+2004-10-11,Packers,Titans,2,0:45,4,2,GNB 41,10-27,Brett Favre pass complete to Donald Driver for 11 yards (tackle by Andre Dyson),11,-0.650,2.390,3.04
+2004-10-24,Rams,Dolphins,4,3:13,4,10,MIA 40,14-31,Marc Bulger pass complete to Marshall Faulk for 11 yards (tackle by Zach Thomas),11,0.590,3.640,3.05
+2004-10-31,Broncos,Falcons,4,6:28,4,4,DEN 24,21-34,Jake Plummer pass complete to Darius Watts for 11 yards (tackle by Kevin Mathis),11,-1.770,1.270,3.04
+2004-12-05,Broncos,Chargers,4,0:08,4,10,SDG 46,17-20,Jake Plummer pass complete to Darius Watts for 10 yards (tackle by Donnie Edwards),10,0.200,1.860,1.66
+2004-12-19,Broncos,Chiefs,3,5:35,4,6,KAN 33,10-35,Jake Plummer pass complete to Rod Smith for 10 yards (tackle by William Bartee). Penalty on Rod Smith: Offensive Pass Interference 10 yards (no play),10,1.160,0.400,-0.76
+2004-09-12,Broncos,Chiefs,1,8:24,4,1,KAN 42,0-7,Quentin Griffin for 10 yards,10,0.460,3.450,2.99
+2004-09-12,Raiders,Steelers,3,0:04,4,1,PIT 32,10-21,Tyrone Wheatley up the middle for 10 yards (tackle by Troy Polamalu),10,1.310,4.110,2.80
+2004-10-03,Bills,Patriots,4,1:04,4,2,NWE 42,17-31,Drew Bledsoe pass complete to Sam Aiken for 10 yards,10,0.460,3.450,2.99
+2004-10-03,Saints,Cardinals,4,0:25,4,5,NOR 45,10-34,Aaron Brooks pass complete to Boo Williams for 10 yards (tackle by LeVar Woods),10,-0.390,2.590,2.98
+2004-10-10,Falcons,Lions,2,9:03,4,5,DET 33,0-0,Michael Vick pass complete to Brian Finneran for 10 yards (tackle by Fernando Bryant),10,1.170,4.040,2.87
+2004-11-07,Cardinals,Dolphins,4,1:23,4,8,CRD 32,17-23,Josh McCown left end for 9 yards (tackle by Patrick Surtain),9,-1.240,1.660,2.90
+2004-11-08,Vikings,Colts,4,3:49,4,1,CLT 43,21-28,Daunte Culpepper for 9 yards (tackle by David Thornton),9,0.400,3.310,2.91
+2004-11-14,Vikings,Packers,4,5:01,4,2,GNB 44,17-31,Daunte Culpepper pass complete to Nate Burleson for 9 yards (tackle by Ahmad Carroll),9,0.330,3.250,2.92
+2004-12-05,Browns,Patriots,3,4:17,4,4,NWE 44,7-42,Luke McCown pass complete to Antonio Bryant for 9 yards (tackle by Rodney Harrison). Penalty on Richard Seymour: Defensive Offside (Declined),9,0.330,3.250,2.92
+2005-01-02,Falcons,Seahawks,4,0:18,4,1,SEA 12,20-28,Matt Schaub pass complete to Fred McCrary for 9 yards (tackle by Isaiah Kacyvenski),9,2.780,6.510,3.73
+2004-09-26,Browns,Giants,3,10:51,4,1,NYG 22,0-10,Jeff Garcia pass complete to Chad Mustard for 9 yards (tackle by Barrett Green),9,2.140,4.710,2.57
+2004-10-10,Dolphins,Patriots,3,4:02,4,6,NWE 29,7-24,Jay Fiedler pass complete to Marty Booker for 9 yards (tackle by Asante Samuel). Penalty on Richard Seymour: Roughing the Passer 10 yards,9,1.520,4.910,3.39
+2004-10-10,Seahawks,Rams,4,11:41,4,2,RAM 32,24-10,Matt Hasselbeck pass complete to Darrell Jackson for 9 yards (tackle by Jerametrius Butler),9,1.300,4.040,2.74
+2004-10-17,Bills,Dolphins,2,9:59,4,5,MIA 33,7-3,Drew Bledsoe pass complete to Willis McGahee for 9 yards (tackle by Junior Seau),9,1.170,3.970,2.80
+2004-10-17,Broncos,Raiders,4,2:02,4,10,RAI 31,31-3,Quentin Griffin up the middle for 9 yards (tackle by Stuart Schweigert),9,1.320,-0.480,-1.80
+2004-10-24,Rams,Dolphins,4,7:05,4,7,MIA 39,7-24,Marc Bulger pass complete to Shaun McDonald for 9 yards (tackle by Will Poole). Penalty on Scott Tercero: Offensive Holding 10 yards (no play),9,0.660,0.000,-0.66
+2004-11-14,Washington,Bengals,2,0:19,4,17,CIN 36,0-17,Patrick Ramsey pass complete to Clinton Portis for 8 yards (tackle by Madieu Williams),8,0.880,-0.810,-1.69
+2004-12-05,Titans,Colts,2,2:07,4,11,CLT 40,24-31,Billy Volek pass complete to Antowain Smith for 8 yards (tackle by Robert Mathis),8,0.590,-1.140,-1.73
+2004-12-05,Titans,Colts,4,4:16,4,3,CLT 41,24-51,Billy Volek pass complete to Derrick Mason for 8 yards (tackle by Gilbert Gardner),8,0.530,3.380,2.85
+2004-12-19,Texans,Bears,4,6:43,4,7,CHI 31,10-5,David Carr pass complete to Corey Bradford for 8 yards (tackle by Charles Tillman),8,1.320,4.040,2.72
+2004-12-26,Cowboys,Washington,2,2:32,4,1,WAS 37,3-3,Vinny Testaverde pass complete to Keyshawn Johnson for 8 yards (tackle by Fred Smoot),8,0.790,3.640,2.85
+2004-10-03,Titans,Chargers,4,1:14,4,10,SDG 36,17-38,Billy Volek pass complete to Chris Brown for 8 yards (tackle by Jamar Fletcher),8,0.880,-0.810,-1.69
+2004-10-10,Raiders,Colts,4,0:32,4,22,RAI 29,14-35,Kerry Collins pass complete to Ronald Curry for 8 yards (tackle by Von Hutchins),8,-1.440,-3.120,-1.68
+2004-10-10,Cardinals,49ers,1,1:52,4,1,CRD 39,0-0,Josh McCown left end for 8 yards (tackle by Ronnie Heard),8,-0.780,2.060,2.84
+2004-10-17,Saints,Vikings,4,4:37,4,5,MIN 27,24-38,Aaron Brooks pass complete to Joe Horn for 8 yards (tackle by Antoine Winfield),8,1.720,4.310,2.59
+2004-10-31,Titans,Bengals,2,2:36,4,2,CIN 41,6-3,Craig Hentrich up the middle for 8 yards (tackle by Kevin Walter),8,0.530,3.380,2.85
+2004-11-21,Saints,Broncos,4,12:34,4,2,DEN 7,13-34,Aaron Brooks up the middle for 7 yards. Penalty on Patrick Chukwurah: Defensive Offside (Offsetting) Penalty on NOR: Illegal Formation (Offsetting) (no play),7,3.000,3.000,.00
+2004-12-12,Giants,Ravens,4,0:15,4,14,RAV 14,14-37,Kurt Warner pass complete to Jeremy Shockey for 7 yards (tackle by Deion Sanders),7,2.510,0.380,-2.13
+2004-12-19,Ravens,Colts,4,14:22,4,2,CLT 26,3-20,Kyle Boller pass complete to Kevin Johnson for 7 yards (tackle by Jim Nelson),7,1.860,4.310,2.45
+2004-09-12,Jaguars,Bills,4,0:04,4,7,BUF 7,12-10,Byron Leftwich pass complete to Ernest Wilford for 7 yards touchdown,7,2.970,7.000,4.03
+2004-10-31,Cowboys,Lions,2,3:49,4,3,DET 35,7-14,Vinny Testaverde up the middle for 7 yards (tackle by Earl Holmes),7,0.990,3.710,2.72
+2004-11-07,Steelers,Eagles,1,11:25,4,1,PHI 40,0-0,Jerome Bettis right guard for 6 yards (tackle by Mark Simoneau and Dhani Jones),6,0.590,3.310,2.72
+2004-11-28,Washington,Steelers,4,1:52,4,15,WAS 5,7-16,Patrick Ramsey pass complete to Robert Royal for 6 yards (tackle by Chris Hope),6,-2.490,-4.840,-2.35
+2004-12-19,Bears,Texans,4,1:11,4,10,HTX 20,5-24,Chad Hutchinson pass complete to Thomas Jones for 6 yards (tackle by Dunta Robinson),6,2.120,0.280,-1.84
+2004-12-19,Bengals,Bills,2,13:40,4,4,BUF 31,7-14,Jon Kitna pass complete to Matt Schobel for 6 yards (tackle by Takeo Spikes),6,1.370,3.910,2.54
+2004-12-26,Bears,Lions,4,1:56,4,3,DET 49,13-19,Chad Hutchinson pass complete to Desmond Clark for 6 yards (tackle by Bracy Walker),6,0.000,2.720,2.72
+2005-01-02,49ers,Patriots,4,11:03,4,5,NWE 23,7-21,Ken Dorsey pass complete to Eric Johnson for 6 yards (tackle by Rodney Harrison). Penalty on Tully Banta-Cain: Defensive Offside (Declined),6,1.980,4.440,2.46
+2004-09-12,Jaguars,Bills,4,0:33,4,2,BUF 13,6-10,Byron Leftwich pass complete to Troy Edwards for 6 yards (tackle by Terrence McGee),6,2.690,5.600,2.91
+2004-10-03,Panthers,Falcons,2,2:00,4,1,ATL 37,7-13,DeShaun Foster left end for 6 yards (tackle by Jason Webster),6,0.790,3.510,2.72
+2004-10-03,Cardinals,Saints,2,7:02,4,1,NOR 47,7-3,Emmitt Smith up the middle for 6 yards (tackle by Charles Grant),6,0.130,2.850,2.72
+2004-10-10,Browns,Steelers,4,5:16,4,2,CLE 31,23-34,Jeff Garcia right end for 6 yards (tackle by Chris Hope),6,-1.310,1.400,2.71
+2004-10-10,49ers,Cardinals,4,4:46,4,6,CRD 6,18-28,Tim Rattay pass complete to Eric Johnson for 6 yards touchdown,6,2.990,7.000,4.01
+2004-10-24,Dolphins,Rams,3,5:16,4,1,MIA 40,14-7,Sammy Morris right guard for 6 yards (tackle by Trev Faulk),6,-0.720,1.990,2.71
+2004-10-24,Rams,Dolphins,4,5:33,4,5,MIA 21,7-24,Marshall Faulk for 6 yards (tackle by Will Poole),6,2.110,4.580,2.47
+2004-10-24,Titans,Vikings,4,9:30,4,4,OTI 35,3-20,Craig Hentrich pass complete to Eddie Berlin for 6 yards (tackle by Derek Ross),6,-1.040,1.660,2.70
+2004-10-31,Colts,Chiefs,4,5:31,4,3,KAN 6,34-38,Peyton Manning pass complete to Reggie Wayne for 6 yards touchdown,6,3.010,7.000,3.99
+2004-11-08,Colts,Vikings,1,9:12,4,1,MIN 5,6-0,Peyton Manning pass complete to Reggie Wayne for 5 yards touchdown,5,3.030,7.000,3.97
+2004-11-21,Saints,Broncos,4,14:01,4,2,NOR 45,13-34,Aaron Brooks pass complete to Donte Stallworth for 5 yards (tackle by Lenny Walls),5,-0.390,2.260,2.65
+2004-11-28,Falcons,Saints,1,9:33,4,1,NOR 48,0-0,T.J. Duckett up the middle for 5 yards (tackle by Colby Bockwoldt),5,0.070,2.720,2.65
+2004-11-28,Raiders,Broncos,4,1:55,4,5,DEN 5,25-24,Kerry Collins pass complete to Jerry Porter for 5 yards touchdown,5,3.010,7.000,3.99
+2004-12-19,Bears,Texans,1,10:11,4,1,HTX 28,0-0,Thomas Jones left end for 5 yards (tackle by Glenn Earl),5,1.720,4.040,2.32
+2004-12-26,Jets,Patriots,4,4:14,4,6,NWE 36,7-23,Chad Pennington pass complete to Justin McCareins for 5 yards (tackle by Asante Samuel),5,0.880,-1.000,-1.88
+2004-10-03,Saints,Cardinals,4,0:30,4,10,NOR 40,10-34,Aaron Brooks pass complete to Joe Horn for 5 yards (tackle by David Macklin). Penalty on Bertrand Berry: Defensive Offside 5 yards (no play),5,-0.720,-0.390,.33
+2004-10-03,Titans,Chargers,4,15:00,4,4,SDG 42,7-24,Billy Volek pass complete to Drew Bennett for 5 yards (tackle by Sammy Davis),5,0.460,3.120,2.66
+2004-10-03,Titans,Chargers,4,7:42,4,1,SDG 8,10-24,Billy Volek pass complete to Derrick Mason for 5 yards (tackle by Jerry Wilson),5,2.990,6.510,3.52
+2004-10-31,Bears,49ers,4,1:48,4,1,SFO 32,23-13,Anthony Thomas right tackle for 5 yards (tackle by Jeff Ulbrich),5,1.310,3.780,2.47
+2004-10-31,Falcons,Broncos,2,5:29,4,1,DEN 40,10-14,Michael Vick right end for 5 yards (tackle by Champ Bailey),5,0.590,3.250,2.66
+2004-10-31,Texans,Jaguars,4,8:47,4,2,JAX 26,10-3,Chad Stanley left guard for 5 yards (tackle by Akin Ayodele). Penalty on John Henderson: Unnecessary Roughness 10 yards,5,1.860,4.840,2.98
+2004-11-07,Patriots,Rams,3,7:47,4,4,RAM 4,25-14,Adam Vinatieri pass complete to Troy Brown for 4 yards touchdown,4,3.030,7.000,3.97
+2004-11-21,Cardinals,Panthers,4,1:29,4,13,CAR 34,10-35,Shaun King pass complete to Freddie Jones for 4 yards (tackle by Julius Peppers),4,1.060,-1.000,-2.06
+2004-12-05,Vikings,Bears,4,8:17,4,5,MIN 49,14-24,Brian Russell right end for 4 yards (tackle by Charles Tillman),4,-0.130,-2.060,-1.93
+2004-12-12,Bills,Browns,1,10:49,4,1,CLE 9,0-0,Willis McGahee up the middle for 4 yards (tackle by Earl Little and Barry Gardner),4,2.980,6.060,3.08
+2004-12-19,Bengals,Bills,4,3:14,4,4,BUF 4,16-33,Jon Kitna pass complete to Matt Schobel for 4 yards touchdown,4,3.030,7.000,3.97
+2004-12-26,Dolphins,Browns,3,13:24,4,2,CLE 29,7-7,A.J. Feeley pass complete to Marty Booker for 4 yards (tackle by Earl Little),4,1.600,3.910,2.31
+2004-12-26,Cardinals,Seahawks,4,3:39,4,5,SEA 49,14-24,Josh McCown pass complete to Bryant Johnson for 4 yards (tackle by Marcus Trufant). Penalty on Marcus Trufant: Illegal Use of Hands 6 yards (no play),4,0.000,2.720,2.72
+2004-09-12,49ers,Falcons,4,1:14,4,3,ATL 15,13-21,Tim Rattay pass complete to Cedrick Wilson for 4 yards (tackle by Bryan Scott),4,2.540,4.840,2.30
+2004-09-19,Texans,Lions,4,0:42,4,5,DET 5,16-28,David Carr up the middle for 4 yards (tackle by Marcus Bell),4,3.010,0.380,-2.63
+2004-09-19,Titans,Colts,4,4:31,4,10,OTI 50,17-24,Craig Hentrich pass complete to Troy Fleming for 4 yards (tackle by Jason David),4,-0.060,-1.990,-1.93
+2004-09-26,Rams,Saints,5,12:54,4,1,RAM 41,25-25,Marshall Faulk right guard for 4 yards (tackle by Derrick Rodgers),4,-0.650,1.930,2.58
+2004-10-03,Bears,Eagles,4,5:23,4,1,PHI 12,3-19,Thomas Jones right end for 4 yards (tackle by Mark Simoneau),4,2.780,5.370,2.59
+2004-10-10,Jaguars,Chargers,3,0:03,4,1,JAX 32,7-27,Chris Fuamatu-Ma'afala up the middle for 4 yards (tackle by Zeke Moreno),4,-1.240,1.330,2.57
+2004-10-17,Bengals,Browns,4,1:49,4,1,CLE 20,17-34,Carson Palmer pass complete to Kenny Watson for 4 yards (tackle by Daylon McCutcheon),4,2.270,4.510,2.24
+2004-10-31,49ers,Bears,4,3:19,4,1,SFO 41,13-23,Kevan Barlow left end for 4 yards (tackle by Todd Johnson),4,-0.650,1.930,2.58
+2004-11-07,49ers,Seahawks,4,7:14,4,1,SFO 41,27-42,Kevan Barlow left guard for 3 yards (tackle by Chad Brown),3,-0.650,1.860,2.51
+2004-11-14,Texans,Colts,4,2:00,4,3,CLT 33,14-42,David Carr left end for 3 yards (tackle by Cato June),3,1.190,3.580,2.39
+2004-11-28,Chiefs,Chargers,2,1:42,4,1,SDG 34,14-14,Derrick Blaylock left end for 3 yards (tackle by Stephen Cooper). Penalty on Igor Olshansky: Defensive Offside 5 yards (no play),3,1.100,3.640,2.54
+2004-12-12,Falcons,Raiders,4,0:33,4,4,RAI 26,35-10,Stanley Pritchett right tackle for 3 yards (tackle by John Parrella),3,1.810,-0.540,-2.35
+2004-12-12,Patriots,Bengals,1,8:09,4,1,CIN 20,0-0,Corey Dillon left guard for 3 yards (tackle by Landon Johnson and Caleb Miller),3,2.270,4.440,2.17
+2004-12-18,49ers,Washington,4,6:06,4,1,WAS 17,9-26,Kevan Barlow left end for 3 yards (tackle by Sean Taylor),3,2.460,4.650,2.19
+2004-12-19,Titans,Raiders,4,11:57,4,3,RAI 3,27-35,Billy Volek pass complete to Derrick Mason for 3 yards touchdown,3,3.040,7.000,3.96
+2004-12-24,Packers,Vikings,4,3:38,4,3,MIN 3,30-31,Brett Favre pass complete to Donald Driver for 3 yards touchdown,3,3.040,7.000,3.96
+2005-01-02,49ers,Patriots,2,14:18,4,1,NWE 40,7-0,Kevan Barlow up the middle for 3 yards (tackle by Rodney Harrison),3,0.590,3.120,2.53
+2005-01-02,Patriots,49ers,3,0:26,4,2,SFO 17,14-7,Tom Brady up the middle for 3 yards (tackle by Jeff Ulbrich and John Engelberger),3,2.440,4.650,2.21
+2004-09-19,Cowboys,Browns,3,11:41,4,2,CLE 36,10-9,Julius Jones right end for 3 yards (tackle by Ebenezer Ekuban),3,0.890,3.380,2.49
+2004-09-19,Packers,Bears,3,5:45,4,2,CHI 34,3-21,Ahman Green right end for 3 yards (tackle by Michael Green),3,1.100,3.510,2.41
+2004-09-26,Jaguars,Titans,4,2:00,4,1,OTI 31,7-12,Greg Jones right guard for 3 yards (tackle by Tank Williams and Carlos Hall),3,1.410,3.710,2.30
+2004-09-26,Rams,Saints,1,8:42,4,1,NOR 35,0-0,Marshall Faulk left tackle for 3 yards (tackle by Orlando Ruff and Courtney Watson),3,1.000,3.450,2.45
+2004-09-26,Seahawks,49ers,3,5:01,4,1,SFO 22,31-0,Heath Evans up the middle for 3 yards (tackle by Brandon Whiting),3,2.140,4.310,2.17
+2004-10-03,Titans,Chargers,3,1:24,4,1,OTI 49,7-24,Billy Volek up the middle for 3 yards (tackle by Igor Olshansky),3,-0.130,2.390,2.52
+2004-10-10,Dolphins,Patriots,2,3:21,4,7,MIA 43,7-10,Matt Turk left end for 3 yards (tackle by Patrick Pass),3,-0.520,-2.520,-2.00
+2004-10-31,Chiefs,Colts,1,10:28,4,1,CLT 17,0-0,Priest Holmes up the middle for 3 yards (tackle by Raheem Brock),3,2.460,4.650,2.19
+2004-11-07,Texans,Broncos,4,8:35,4,1,DEN 16,7-31,David Carr up the middle for 2 yards (tackle by Al Wilson),2,2.530,4.650,2.12
+2004-11-07,Texans,Broncos,4,1:32,4,1,HTX 35,13-31,Tony Hollings up the middle for 2 yards (tackle by Patrick Chukwurah and D.J. Williams),2,-1.040,1.400,2.44
+2004-11-14,Giants,Cardinals,3,10:51,4,1,CRD 35,14-10,Kurt Warner up the middle for 2 yards (tackle by Russell Davis),2,1.000,3.380,2.38
+2004-11-21,Colts,Bears,4,4:56,4,11,CHI 19,41-3,Dominic Rhodes left tackle for 2 yards (tackle by Joe Odom and Lance Briggs),2,2.180,0.060,-2.12
+2004-11-28,Jets,Cardinals,2,4:55,4,1,CRD 13,0-0,Quincy Carter up the middle for 2 yards (tackle by James Darling),2,2.720,4.840,2.12
+2004-11-28,Steelers,Washington,2,12:53,4,1,WAS 30,3-0,Jerome Bettis up the middle for 2 yards (tackle by Antonio Pierce and Brandon Noble). Penalty on WAS: Defensive 12 On-field 6 yards (no play),2,1.520,3.970,2.45
+2004-11-28,Washington,Steelers,3,3:29,4,2,PIT 2,6-13,Patrick Ramsey pass complete to Chris Cooley for 2 yards touchdown,2,3.250,7.000,3.75
+2004-11-28,Washington,Steelers,4,5:32,4,2,PIT 42,7-16,Patrick Ramsey pass complete to Chris Cooley for 2 yards (tackle by Willie J. Williams),2,0.460,2.920,2.46
+2004-12-05,Browns,Patriots,2,10:52,4,5,NWE 29,0-14,Luke McCown pass complete to Dennis Northcutt for 2 yards (tackle by Troy Brown),2,1.540,-0.810,-2.35
+2004-12-05,Texans,Jets,4,1:01,4,1,HTX 45,7-29,David Carr up the middle for 2 yards (tackle by James Reed),2,-0.390,2.060,2.45
+2004-12-18,Steelers,Giants,2,7:41,4,1,NYG 34,10-14,Jerome Bettis up the middle for 2 yards (tackle by Nick Greisen),2,1.100,3.450,2.35
+2004-12-19,Browns,Chargers,2,12:36,4,1,SDG 45,0-7,Lee Suggs left guard for 2 yards (tackle by Donnie Edwards),2,0.270,2.720,2.45
+2004-12-19,Cardinals,Rams,1,3:13,4,1,RAM 35,7-0,Obafemi Ayanbadejo up the middle for 2 yards (tackle by Robert W. Thomas and Anthony Hargrove),2,1.000,3.380,2.38
+2004-12-19,Lions,Vikings,4,13:26,4,1,MIN 47,13-14,Cory Schlesinger up the middle for 2 yards (tackle by Kenechi Udeze),2,0.130,2.590,2.46
+2004-12-19,Jets,Seahawks,4,1:15,4,1,SEA 11,37-14,LaMont Jordan left guard for 2 yards (tackle by Niko Koutouvides and Solomon Bates),2,2.850,5.140,2.29
+2004-12-26,Steelers,Ravens,3,8:29,4,1,RAV 9,10-7,Ben Roethlisberger up the middle for 2 yards (tackle by Ma'ake Kemoeatu and Anthony Weaver),2,2.980,5.600,2.62
+2005-01-02,Bills,Steelers,2,0:53,4,1,PIT 34,7-16,Willis McGahee right guard for 2 yards (tackle by Kendrick Clancy),2,1.100,3.450,2.35
+2005-01-02,Steelers,Bills,4,6:04,4,1,BUF 37,26-17,Brian St. Pierre right end for 2 yards (tackle by Nate Clements and Jeff Posey),2,0.790,3.250,2.46
+2005-01-02,49ers,Patriots,4,2:52,4,1,SFO 13,7-21,Maurice Hicks left guard for 2 yards (tackle by Tedy Bruschi). Maurice Hicks fumbles (forced by Tedy Bruschi) recovered by Earthwind Moreland at SFO-15,2,-2.490,-4.580,-2.09
+2005-01-02,Jets,Rams,1,2:59,4,1,RAM 33,0-0,Chad Pennington middle for 2 yards (tackle by Tommy Polley and Robert Thomas),2,1.210,3.510,2.30
+2004-09-11,Dolphins,Titans,3,12:38,4,1,MIA 47,0-7,Lamar Gordon up the middle for 2 yards (tackle by Albert Haynesworth),2,-0.260,2.190,2.45
+2004-09-19,Rams,Falcons,2,4:11,4,1,ATL 10,0-14,Steven Jackson up the middle for 2 yards (tackle by Patrick Kerney),2,2.910,5.370,2.46
+2004-09-19,Falcons,Rams,4,12:40,4,1,RAM 2,23-17,Warrick Dunn right tackle for 2 yards touchdown,2,3.250,7.000,3.75
+2004-09-19,Chiefs,Panthers,4,4:25,4,3,CAR 48,17-28,Derrick Blaylock up the middle for 2 yards (tackle by Dan Morgan),2,0.070,-1.990,-2.06
+2004-09-26,Falcons,Cardinals,4,1:13,4,1,CRD 19,6-3,Michael Vick up the middle for 2 yards (tackle by Russell Davis),2,2.340,4.440,2.10
+2004-09-26,Buccaneers,Raiders,4,8:49,4,1,TAM 44,12-30,Brad Johnson pass complete to Dave Moore for 2 yards (tackle by Marques Anderson),2,-0.460,1.990,2.45
+2004-10-03,Titans,Chargers,1,0:28,4,1,SDG 5,0-7,Billy Volek up the middle for 2 yards (tackle by Randall Godfrey and Igor Olshansky),2,3.030,6.510,3.48
+2004-10-03,Rams,49ers,1,1:55,4,1,SFO 2,6-0,Joey Goodspeed up the middle for 2 yards touchdown,2,3.250,7.000,3.75
+2004-10-03,49ers,Rams,4,4:10,4,4,RAM 4,6-24,Tim Rattay pass complete to Terry Jackson for 2 yards (tackle by Jerametrius Butler),2,3.030,0.380,-2.65
+2004-10-11,Titans,Packers,4,3:54,4,1,GNB 19,41-20,Steve McNair right guard for 2 yards (tackle by Nick Barnett and Na'il Diggs),2,2.340,4.440,2.10
+2004-10-17,Packers,Lions,4,3:09,4,1,DET 35,38-10,Nick Luchey up the middle for 2 yards (tackle by Shaun Rogers),2,1.000,3.380,2.38
+2004-10-17,Panthers,Eagles,4,2:52,4,1,PHI 2,6-23,Jake Delhomme pass complete to Muhsin Muhammad for 2 yards touchdown,2,3.250,7.000,3.75
+2004-10-24,Falcons,Chiefs,4,7:17,4,3,ATL 41,10-49,Matt Schaub pass complete to Alge Crumpler for 2 yards (tackle by William Bartee),2,-0.650,-2.650,-2.00
+2004-10-24,Jets,Patriots,4,6:55,4,1,NYJ 23,7-13,Chad Pennington up the middle for 2 yards (tackle by Keith Traylor and Richard Seymour),2,-1.830,0.610,2.44
+2004-10-24,Raiders,Saints,1,1:15,4,1,NOR 31,3-0,Amos Zereoue up the middle for 2 yards (tackle by Shaun Smith and Orlando Ruff),2,1.410,3.640,2.23
+2004-10-31,Texans,Jaguars,1,4:32,4,1,JAX 17,0-0,David Carr up the middle for 2 yards (tackle by Mike Peterson),2,2.460,4.580,2.12
+2004-10-31,Colts,Chiefs,1,13:53,4,14,CLT 43,0-0,Hunter Smith right end for 2 yards (tackle by Eric Warfield),2,-0.520,-2.590,-2.07
+2004-11-07,Washington,Lions,2,4:57,4,1,DET 1,0-0,Mark Brunell pass complete to Robert Royal for 1 yard. Penalty on Ray Brown: False Start 5 yards (no play),1,3.550,2.990,-0.56
+2004-11-07,Buccaneers,Chiefs,2,13:55,4,1,KAN 1,13-7,Michael Pittman for 1 yard touchdown,1,3.550,7.000,3.45
+2004-11-14,Texans,Colts,3,2:32,4,1,CLT 1,6-35,Domanick Williams left end for 1 yard touchdown,1,3.550,7.000,3.45
+2004-11-22,Chiefs,Patriots,2,2:00,4,1,NWE 23,10-17,Derrick Blaylock up the middle for 1 yard (tackle by Tedy Bruschi),1,2.080,4.110,2.03
+2004-11-25,Colts,Lions,4,1:11,4,3,DET 36,41-9,Dominic Rhodes right end for 1 yard (tackle by Earl Holmes),1,0.890,-1.270,-2.16
+2004-11-28,Saints,Falcons,4,13:30,4,1,ATL 9,14-17,Aaron Brooks up the middle for 1 yard (tackle by Ed Jasper and Roderick Coleman),1,2.980,5.370,2.39
+2004-12-05,Patriots,Browns,2,2:13,4,3,CLE 30,21-0,Patrick Pass right guard for 1 yard (tackle by Robert Griffith and Ebenezer Ekuban),1,1.480,-0.940,-2.42
+2004-12-05,49ers,Rams,3,11:25,4,1,RAM 41,3-13,Tim Rattay up the middle for 1 yard (tackle by Ryan Pickett),1,0.530,2.920,2.39
+2004-12-06,Seahawks,Cowboys,4,9:35,4,1,DAL 1,23-29,Shaun Alexander left end for 1 yard touchdown,1,3.550,7.000,3.45
+2004-12-12,49ers,Cardinals,1,2:48,4,1,SFO 34,7-0,Ken Dorsey up the middle for 1 yard (tackle by Kyle Vanden Bosch and Russell Davis),1,-1.110,1.270,2.38
+2004-12-12,Saints,Cowboys,1,0:41,4,4,NOR 37,0-3,Fred McAfee right end for 1 yard (tackle by Scott Shanle),1,-0.910,-3.050,-2.14
+2004-12-19,Browns,Chargers,1,12:08,4,1,SDG 46,0-0,Dennis Northcutt right end for 1 yard (tackle by Donnie Edwards),1,0.200,2.590,2.39
+2004-12-19,Jaguars,Packers,4,9:53,4,1,GNB 1,27-17,Greg Jones left guard for 1 yard touchdown,1,3.550,7.000,3.45
+2004-12-24,Packers,Vikings,2,6:40,4,1,MIN 1,6-7,Ahman Green right guard for 1 yard touchdown,1,3.550,7.000,3.45
+2004-12-26,Saints,Falcons,2,3:33,4,1,ATL 1,11-6,Aaron Brooks up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2004-12-26,Steelers,Ravens,4,2:00,4,1,RAV 27,20-7,Jerome Bettis up the middle for 1 yard (tackle by Ed Hartwell and Kelly Gregg),1,1.820,3.840,2.02
+2004-12-26,Steelers,Ravens,4,0:45,4,12,RAV 28,20-7,Tommy Maddox up the middle for 1 yard (tackle by Kelly Gregg),1,1.590,0.870,-0.72
+2004-12-26,Bills,49ers,4,0:33,4,8,SFO 30,41-7,Shaud Williams left guard for 1 yard (tackle by Saleem Rasheed),1,1.410,-0.870,-2.28
+2005-01-02,Cowboys,Giants,4,1:52,4,1,NYG 1,22-21,Julius Jones left tackle for 1 yard touchdown,1,3.550,7.000,3.45
+2005-01-02,Bengals,Eagles,1,0:29,4,1,PHI 10,0-0,Rudi Johnson left tackle for 1 yard (tackle by Sheldon Brown),1,2.910,5.140,2.23
+2005-01-02,Raiders,Jaguars,4,8:28,4,1,JAX 16,6-13,Zack Crockett up the middle for 1 yard,1,2.530,4.580,2.05
+2005-01-02,Falcons,Seahawks,1,8:03,4,1,SEA 3,0-0,Michael Vick right guard for 1 yard (tackle by Isaiah Kacyvenski),1,3.060,6.740,3.68
+2004-09-12,Cowboys,Vikings,1,3:00,4,1,MIN 36,3-0,Darian Barnes up the middle for 1 yard,1,0.890,3.250,2.36
+2004-09-19,Rams,Falcons,2,1:16,4,1,ATL 1,6-14,Marshall Faulk left end for 1 yard touchdown,1,3.550,7.000,3.45
+2004-09-26,Chiefs,Texans,2,2:00,4,2,HTX 6,7-3,Priest Holmes right end for 1 yard. Penalty on Tony Gonzalez: Illegal Motion (Declined),1,3.010,0.380,-2.63
+2004-09-26,Texans,Chiefs,4,9:15,4,1,HTX 41,14-21,Jason Simmons middle for 1 yard (tackle by Fred Jones),1,-0.650,1.730,2.38
+2004-09-26,Steelers,Dolphins,4,0:34,4,7,MIA 12,13-3,Jerome Bettis right tackle for 1 yard (tackle by Zach Thomas and Morlon Greenwood),1,2.630,0.370,-2.26
+2004-09-26,Buccaneers,Raiders,4,15:00,4,1,RAI 40,6-30,Brad Johnson up the middle for 1 yard (tackle by Danny Clark),1,0.590,2.980,2.39
+2004-09-26,Saints,Rams,3,7:05,4,1,RAM 25,13-10,Aaron Brooks up the middle for 1 yard (tackle by Damione Lewis),1,1.950,3.970,2.02
+2004-10-03,Browns,Washington,4,2:21,4,4,WAS 28,17-13,Derrick Frost for 1 yard (tackle by Marcus Washington),1,1.650,-0.740,-2.39
+2004-10-10,Jaguars,Chargers,2,2:00,4,1,SDG 2,0-21,Chris Fuamatu-Ma'afala up the middle for 1 yard (tackle by Donnie Edwards and Randall Godfrey),1,3.250,6.970,3.72
+2004-10-17,Chargers,Falcons,2,13:19,4,2,ATL 38,0-0,Drew Brees pass complete to Lorenzo Neal for 1 yard,1,0.720,-1.400,-2.12
+2004-10-17,Chargers,Falcons,2,1:22,4,1,ATL 1,6-7,LaDainian Tomlinson up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2004-10-17,Broncos,Raiders,4,2:07,4,1,RAI 22,31-3,Tatum Bell right end for 1 yard (tackle by Tyler Brayton). Penalty on Dwayne Carswell: Offensive Holding 10 yards,1,2.140,1.320,-0.82
+2004-10-18,Rams,Buccaneers,2,1:49,4,1,TAM 1,13-14,Marshall Faulk up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2004-10-24,Vikings,Titans,4,1:58,4,4,OTI 30,20-3,Daunte Culpepper pass complete to Mewelde Moore for 1 yard (tackle by Brad Kassell),1,1.460,-0.870,-2.33
+2004-10-24,Giants,Lions,2,9:39,4,1,DET 10,7-7,Ron Dayne right tackle for 1 yard (tackle by Chris Cash),1,2.910,5.140,2.23
+2004-10-31,Titans,Bengals,2,0:02,4,1,CIN 1,12-3,Billy Volek pass complete to Shad Meier for 1 yard touchdown,1,3.550,7.000,3.45
+2004-10-31,Chargers,Raiders,3,3:12,4,1,RAI 1,41-7,Drew Brees pass complete to Antonio Gates for 1 yard touchdown,1,3.550,7.000,3.45
+2004-11-07,Raiders,Panthers,2,14:11,4,1,CAR 1,9-0,Tyrone Wheatley left end for 1 yard touchdown,1,3.550,7.000,3.45
+2004-11-07,Texans,Broncos,2,13:15,4,1,DEN 50,0-7,David Carr up the middle for no gain (tackle by Donnie Spragan),0,-0.060,-2.260,-2.20
+2004-11-07,Giants,Bears,3,0:46,4,1,CHI 48,14-20,Tiki Barber middle for no gain (tackle by Michael Haynes and Tommie Harris),0,0.070,-2.130,-2.20
+2004-11-07,Giants,Bears,4,5:51,4,3,CHI 5,14-28,Kurt Warner pass incomplete intended for Jeremy Shockey. Penalty on Michael Haynes: Roughing the Passer 3 yards (no play),0,3.020,6.740,3.72
+2004-11-07,Steelers,Eagles,3,4:09,4,3,PHI 31,21-3,Ben Roethlisberger pass incomplete intended for Hines Ward (defended by Sheldon Brown). Penalty on Michael Lewis: Defensive Offside 5 yards (no play),0,1.380,3.840,2.46
+2004-11-07,Chargers,Saints,2,0:18,4,10,NOR 38,20-7,Drew Brees pass incomplete intended for Antonio Gates. Penalty on Will Smith: Roughing the Passer 15 yards (no play),0,0.720,4.040,3.32
+2004-11-14,Packers,Vikings,3,6:50,4,1,MIN 15,24-10,Nick Luchey up the middle for no gain (tackle by Spencer Johnson and E.J. Henderson),0,2.590,0.220,-2.37
+2004-11-14,Ravens,Jets,1,5:22,4,1,NYJ 1,0-0,Jamal Lewis left tackle for no gain (tackle by John Abraham),0,3.550,0.380,-3.17
+2004-11-14,Titans,Bears,1,9:50,4,1,CHI 45,0-0,Chris Brown left end for no gain (tackle by Brian Urlacher and Lance Briggs),0,0.270,-1.930,-2.20
+2004-11-14,Seahawks,Rams,3,13:18,4,1,RAM 38,6-17,Mack Strong up the middle for no gain (tackle by Damione Lewis),0,0.720,-1.530,-2.25
+2004-11-21,Rams,Bills,4,6:05,4,7,BUF 9,17-37,Marc Bulger pass incomplete intended for Kevin Curtis (defended by Jabari Greer). Penalty on Jabari Greer: Defensive Pass Interference 8 yards (no play),0,2.830,6.970,4.14
+2004-11-21,Washington,Eagles,4,7:49,4,1,WAS 32,6-21,Patrick Ramsey up the middle for no gain (tackle by Jamaal Green),0,-1.240,-3.450,-2.21
+2004-11-28,Raiders,Broncos,1,11:51,4,1,DEN 40,0-0,Tyrone Wheatley up the middle for no gain (tackle by Anton Palepoi and Al Wilson),0,0.590,-1.600,-2.19
+2004-11-28,Bills,Seahawks,4,0:32,4,5,SEA 13,38-9,Joe Burns left guard for no gain (tackle by Rocky Bernard and Terreal Bierria),0,2.620,0.280,-2.34
+2004-12-05,Bears,Vikings,4,3:54,4,1,MIN 33,24-14,Anthony Thomas left guard for no gain (tackle by Kenechi Udeze),0,1.210,-1.140,-2.35
+2004-12-05,Packers,Eagles,4,9:01,4,8,PHI 8,3-47,Craig Nall pass incomplete intended for Bubba Franks. Penalty on Jamaal Green: Defensive Pass Interference 7 yards (no play),0,2.950,6.970,4.02
+2004-12-06,Seahawks,Cowboys,2,3:11,4,1,DAL 39,14-12,Matt Hasselbeck for no gain. Matt Hasselbeck fumbles recovered by Matt Hasselbeck at DAL-40,0,0.660,-1.660,-2.32
+2004-12-12,Bills,Browns,2,0:02,4,20,CLE 20,17-7,Brian Moorman pass incomplete intended for Ryan Denney (defended by Earl Little). Brian Moorman fumbles recovered by Brian Moorman at CLE-28,0,2.120,0.280,-1.84
+2004-12-12,Panthers,Rams,4,9:32,4,1,RAM 43,20-7,Jake Delhomme up the middle for no gain (tackle by Jimmy Kennedy),0,0.400,-1.730,-2.13
+2004-12-12,Patriots,Bengals,4,6:41,4,1,CIN 39,35-21,Larry Izzo right guard for no gain (tackle by Duane Clemons and Madieu Williams),0,0.660,-1.530,-2.19
+2004-12-19,Chargers,Browns,4,0:34,4,11,CLE 21,21-0,Drew Brees kneels for no gain,0,2.060,-0.340,-2.40
+2004-12-19,Broncos,Chiefs,2,6:58,4,2,KAN 41,7-21,Jake Plummer sacked by Kawika Mitchell for 0 yards,0,0.530,-1.730,-2.26
+2004-12-19,Seahawks,Jets,3,2:20,4,1,NYJ 1,14-30,Shaun Alexander right end for no gain (tackle by Eric Barton). Shaun Alexander fumbles (forced by Eric Barton) recovered by Shaun Ellis at NYJ-0,0,3.550,-0.280,-3.83
+2004-12-25,Chiefs,Raiders,3,9:07,4,1,KAN 46,21-21,Larry Johnson up the middle for no gain (tackle by Marques Anderson),0,-0.320,-2.520,-2.20
+2004-12-26,Patriots,Jets,4,5:31,4,1,NYJ 25,23-7,Corey Dillon left guard for no gain (tackle by Bryan Thomas),0,1.950,-0.610,-2.56
+2004-12-26,Bills,49ers,3,9:43,4,3,SFO 38,20-0,Brian Moorman pass incomplete intended for Pierson Prioleau. Penalty on Lawrence Smith: Ineligible Downfield Kick (Declined),0,0.720,-1.470,-2.19
+2004-12-27,Rams,Eagles,2,13:50,4,2,PHI 41,7-7,Jeff Wilkins pass incomplete intended for Dane Looker (defended by Dexter Wynn). Penalty on Trev Faulk: Ineligible Downfield Pass (Declined),0,0.530,-1.660,-2.19
+2005-01-02,Bears,Packers,4,11:03,4,10,CHI 35,14-31,Brad Maynard pass incomplete intended for Adrian Peterson. Penalty on GNB: Defensive Pass Interference 10 yards (no play),0,-1.040,1.930,2.97
+2005-01-02,49ers,Patriots,4,8:44,4,1,NWE 8,7-21,Kevan Barlow right guard for no gain (tackle by Roman Phifer and Tully Banta-Cain),0,2.990,0.380,-2.61
+2005-01-02,Raiders,Jaguars,4,0:12,4,2,JAX 2,6-13,Kerry Collins for no gain. Kerry Collins fumbles recovered by Kerry Collins at JAX-7,0,3.250,0.380,-2.87
+2004-09-12,Chiefs,Broncos,2,0:03,4,13,DEN 45,7-17,Trent Green pass incomplete. Penalty on Raylee Johnson: Defensive Offside 5 yards (no play),0,0.270,0.590,.32
+2004-09-12,Cowboys,Vikings,2,13:47,4,5,MIN 6,3-0,Mat McBriar pass incomplete. Mat McBriar fumbles recovered by Mat McBriar at MIN-24. Penalty on Mat McBriar: Intentional Grounding 22 yards,0,2.990,-0.810,-3.80
+2004-09-19,Packers,Bears,4,1:18,4,8,CHI 11,10-21,Brett Favre pass incomplete. Penalty on Brett Favre: Intentional Grounding 15 yards,0,2.700,-0.670,-3.37
+2004-09-19,Titans,Colts,2,12:45,4,1,CLT 4,7-3,Chris Brown left guard for no gain (tackle by Rob Morris and David Thornton),0,3.040,0.380,-2.66
+2004-09-19,Bills,Raiders,4,15:00,4,1,RAI 1,3-10,Travis Henry up the middle for no gain (tackle by Danny Clark and Terdell Sands),0,3.550,0.380,-3.17
+2004-09-26,Dolphins,Steelers,3,10:26,4,1,MIA 47,0-3,A.J. Feeley up the middle for no gain,0,-0.260,-2.460,-2.20
+2004-09-26,Vikings,Bears,2,0:26,4,2,CHI 12,10-6,Gus Frerotte pass incomplete. Penalty on Cory Withrow: Offensive Holding (Declined),0,2.760,0.320,-2.44
+2004-09-26,Saints,Rams,1,11:05,4,1,RAM 34,0-0,Ki-Jana Carter right guard for no gain (tackle by Ryan Pickett and Leonard Little),0,1.100,-1.200,-2.30
+2004-09-27,Washington,Cowboys,3,5:38,4,1,DAL 41,3-14,Mark Brunell pass incomplete intended for Clinton Portis. Penalty on Marcellus Wiley: Roughing the Passer 15 yards (no play),0,0.530,3.840,3.31
+2004-10-03,Saints,Cardinals,1,8:58,4,1,CRD 1,0-0,Aaron Brooks for no gain. Aaron Brooks fumbles recovered by Gerald Hayes at ARI-0,0,3.550,-0.280,-3.83
+2004-10-03,Jaguars,Colts,1,8:57,4,1,CLT 24,0-0,LaBrandon Toefield up the middle for no gain (tackle by Rob Morris and Raheem Brock),0,2.020,-0.610,-2.63
+2004-10-03,Jaguars,Colts,4,2:00,4,1,CLT 45,17-24,Fred Taylor up the middle for no gain (tackle by Rob Morris),0,0.270,-1.930,-2.20
+2004-10-10,Steelers,Browns,4,10:55,4,1,CLE 35,34-16,Jerome Bettis middle for no gain (tackle by Andra Davis),0,1.000,-1.270,-2.27
+2004-10-24,Eagles,Browns,2,2:00,4,1,PHI 44,21-17,Donovan McNabb up the middle for no gain,0,-0.460,-2.650,-2.19
+2004-10-24,Browns,Eagles,4,2:25,4,6,PHI 32,24-31,Jeff Garcia pass incomplete intended for Aaron Shea. Penalty on Brian Dawkins: Roughing the Passer 15 yards (no play),0,1.250,4.440,3.19
+2004-10-24,Jaguars,Colts,3,8:32,4,1,CLT 2,10-14,Byron Leftwich for no gain. Byron Leftwich fumbles recovered by Josh Williams at IND-1 (tackle by Chris Naeole),0,3.250,0.380,-2.87
+2004-10-25,Bengals,Broncos,1,4:41,4,1,DEN 5,7-0,Rudi Johnson right guard for no gain (tackle by Kelly Herndon and Al Wilson),0,3.030,0.380,-2.65
+2004-10-31,Cowboys,Lions,4,0:19,4,2,DET 24,31-21,Eddie George right tackle for no gain (tackle by Jared DeVries),0,1.990,0.540,-1.45
+2004-10-31,Broncos,Falcons,4,5:29,4,5,DEN 40,21-34,Jake Plummer pass incomplete intended for Ashley Lelie. Penalty on Demorrio Williams: Roughing the Passer 15 yards (no play),0,-0.720,2.590,3.31
+2004-10-31,Chiefs,Colts,3,6:39,4,16,CLT 17,31-21,Stephen Cheek for no gain. Stephen Cheek fumbles recovered by Bob Sanders at IND-24,0,2.310,-0.540,-2.85
+2004-10-31,Seahawks,Panthers,4,2:10,4,5,CAR 27,23-10,Matt Hasselbeck for no gain. Matt Hasselbeck fumbles recovered by Matt Hasselbeck at CAR-34,0,1.720,-1.270,-2.99
+2004-10-31,Packers,Washington,2,13:50,4,1,WAS 3,3-0,Brett Favre pass incomplete intended for David Martin. Penalty on Lemar Marshall: Defensive Pass Interference 2 yards (no play),0,3.060,6.970,3.91
+2004-11-01,Jets,Dolphins,4,1:18,4,3,MIA 43,41-7,B.J. Askew right guard for no gain (tackle by Jay Williams and Reggie Howard),0,0.400,-1.800,-2.20
+2004-11-07,Cowboys,Bengals,1,10:01,4,1,CIN 22,0-0,Vinny Testaverde up the middle for no gain,0,2.140,-0.410,-2.55
+2004-11-07,Steelers,Eagles,4,1:19,4,12,PHI 12,27-3,Ben Roethlisberger kneels for -1 yards,-1,2.630,0.320,-2.31
+2004-12-12,Rams,Panthers,4,13:32,4,2,CAR 27,7-20,Arlen Harris right guard for -1 yards (tackle by Mark Fields),-1,1.800,-0.810,-2.61
+2004-09-19,Giants,Washington,2,14:25,4,1,WAS 35,0-7,Ron Dayne left end for -1 yards (tackle by Antonio Pierce and Marcus Washington),-1,1.000,-1.400,-2.40
+2004-10-03,Texans,Raiders,2,7:24,4,1,RAI 44,10-3,Jonathan Wells up the middle for -1 yards (tackle by Travian Smith),-1,0.330,-1.930,-2.26
+2004-11-14,Buccaneers,Falcons,4,10:44,4,1,ATL 28,14-17,Michael Pittman right end for -2 yards (tackle by Matt Stewart),-2,1.720,-0.940,-2.66
+2004-12-05,Patriots,Browns,4,10:38,4,5,CLE 5,42-7,Cedric Cobbs up the middle for -2 yards. Cedric Cobbs fumbles recovered by Michael Jameson at CLE-7,-2,3.010,0.380,-2.63
+2004-12-26,Bengals,Giants,3,11:26,4,1,NYG 37,10-13,Rudi Johnson right tackle for -2 yards (tackle by William Joseph and Kevin Lewis),-2,0.790,-1.600,-2.39
+2004-09-12,Jets,Bengals,2,9:05,4,5,CIN 36,14-7,Quincy Carter for -2 yards (tackle by Landon Johnson). Quincy Carter fumbles (forced by Landon Johnson) recovered by Chris Baker at CIN-38,-2,0.880,-1.530,-2.41
+2004-10-10,Falcons,Lions,2,0:27,4,4,DET 12,7-14,Chris Mohr pass complete to Jay Feely for -2 yards (tackle by Terrence Holt),-2,2.710,0.220,-2.49
+2004-10-10,Cowboys,Giants,1,2:01,4,1,NYG 5,0-3,Eddie George left tackle for -2 yards (tackle by Kevin Lewis),-2,3.030,0.380,-2.65
+2004-10-17,Broncos,Raiders,4,13:20,4,1,RAI 37,31-3,Reuben Droughns left tackle for -2 yards (tackle by Danny Clark and Bobby Hamilton),-2,0.790,-1.530,-2.32
+2004-11-14,Cardinals,Giants,4,3:58,4,1,NYG 26,17-14,Emmitt Smith left tackle for -3 yards (tackle by Reggie Torbor). Emmitt Smith fumbles (forced by Reggie Torbor) recovered by Emmitt Smith at NYG-29,-3,1.890,-0.940,-2.83
+2004-12-19,Chiefs,Broncos,4,2:00,4,6,DEN 8,45-17,Omar Easy right end for -3 yards (tackle by Anton Palepoi),-3,2.960,0.370,-2.59
+2005-01-02,Bears,Packers,4,7:53,4,13,GNB 47,14-31,Chad Hutchinson sacked by Kabeer Gbaja-Biamila for -3 yards,-3,0.130,-2.260,-2.39
+2005-01-02,Texans,Browns,4,8:55,4,1,CLE 43,7-19,David Carr right end for -3 yards (tackle by Warrick Holdman),-3,0.400,-1.990,-2.39
+2004-10-24,Giants,Lions,4,1:14,4,13,NYG 37,13-28,Kurt Warner sacked by Kalimba Edwards for -3 yards. Kurt Warner fumbles (forced by Kalimba Edwards) recovered by David Diehl at NYG-34,-3,-0.910,-3.310,-2.40
+2004-11-14,Patriots,Bills,4,0:34,4,10,BUF 33,29-6,Rabih Abdullah left end for -5 yards (tackle by London Fletcher and Aaron Schobel),-5,1.150,-1.470,-2.62
+2004-11-29,Rams,Packers,3,3:50,4,7,GNB 24,10-21,Jeff Wilkins left end for -5 yards (tackle by Al Harris and Mark Roman),-5,1.870,-0.870,-2.74
+2004-09-19,Giants,Washington,4,0:23,4,3,WAS 23,20-14,Tiki Barber left end for -6 yards (tackle by Marcus Washington and Ryan Clark),-6,2.030,-0.940,-2.97
+2004-09-26,Bengals,Ravens,4,5:17,4,18,RAV 25,9-23,Carson Palmer sacked by Marques Douglas for -6 yards,-6,1.800,-1.000,-2.80
+2004-11-07,Chiefs,Buccaneers,4,1:15,4,18,KAN 49,31-34,Trent Green sacked by Dewayne White for -7 yards,-7,-0.130,-2.790,-2.66
+2004-09-12,Lions,Bears,4,1:59,4,11,DET 7,20-16,Nick Harris for -7 yards safety,-7,-2.490,-2.000,.49
+2004-09-26,Bears,Vikings,4,1:16,4,5,CHI 15,22-27,Jonathan Quinn sacked by Kevin Williams for -7 yards,-7,-2.440,-5.370,-2.93
+2004-10-25,Broncos,Bengals,4,4:11,4,17,CIN 39,10-23,Jake Plummer sacked by Justin Smith for -7 yards,-7,0.660,-1.990,-2.65
+2004-11-21,Cardinals,Panthers,2,1:09,4,4,CAR 42,0-21,Shaun King sacked by Julius Peppers for -8 yards. Shaun King fumbles (forced by Julius Peppers) recovered by Freddie Jones at ARI-39,-8,0.460,-2.980,-3.44
+2005-01-02,Bears,Packers,4,1:23,4,16,CHI 44,14-31,Chad Hutchinson sacked by id_TrulR-20 for -9 yards,-9,-0.460,-3.250,-2.79
+2004-10-24,Rams,Dolphins,4,2:49,4,8,MIA 27,14-31,Marc Bulger sacked by Zach Thomas for -9 yards,-9,1.670,-1.330,-3.00
+2004-11-22,Chiefs,Patriots,4,1:02,4,6,KAN 36,19-27,Trent Green sacked by Willie McGinest for -10 yards,-10,-0.980,-3.840,-2.86
+2004-10-24,Cardinals,Seahawks,2,8:54,4,1,SEA 38,7-0,Josh McCown sacked by Chike Okeafor for -10 yards. Josh McCown fumbles (forced by Chike Okeafor) recovered by Alex Stepanovich at SEA-44,-10,0.720,-2.130,-2.85
+2004-10-31,Lions,Cowboys,4,11:44,4,1,DAL 37,14-21,Joey Harrington sacked by Nate Jones for -10 yards,-10,0.790,-2.060,-2.85
+2004-11-21,Bears,Colts,3,4:59,4,11,CLT 34,3-34,Craig Krenzel sacked by Robert Mathis for -11 yards. Craig Krenzel fumbles (forced by Robert Mathis) recovered by Robert Mathis at IND-46 (tackle by Craig Krenzel),-11,1.060,-1.990,-3.05
+2004-12-12,Ravens,Giants,2,2:56,4,5,NYG 34,17-6,Kyle Boller sacked by Reggie Torbor for -11 yards. Kyle Boller fumbles (forced by Reggie Torbor) recovered by Osi Umenyiora at tm_-50 and returned for 50 yards touchdown,-11,1.070,-7.000,-8.07
+2004-12-19,Bills,Bengals,4,1:12,4,9,CIN 31,33-17,Brian Moorman left end for -11 yards (tackle by Tory James),-11,1.320,-1.730,-3.05
+2004-11-21,Rams,Bills,4,2:00,4,17,RAM 22,17-37,Marc Bulger sacked by Jabari Greer for -13 yards,-13,-1.900,-5.140,-3.24
+2004-12-05,Browns,Patriots,3,2:02,4,17,NWE 42,7-42,Luke McCown sacked by Willie McGinest for -13 yards,-13,0.460,-2.590,-3.05
+2004-10-03,Bills,Patriots,4,2:59,4,3,NWE 17,17-30,Drew Bledsoe for -15 yards (tackle by Tedy Bruschi). Drew Bledsoe fumbles (forced by Tedy Bruschi) recovered by Richard Seymour at NWE-32 and returned for 68 yards touchdown,-15,2.410,-7.000,-9.41
+2004-12-26,Buccaneers,Panthers,2,0:30,4,16,CAR 39,7-14,Josh Bidwell for -17 yards. Josh Bidwell fumbles recovered by Micah Ross at TAM-44 (tackle by Marquis Cooper),-17,0.660,-2.650,-3.31
+2004-11-07,Cowboys,Bengals,4,11:19,4,1,DAL 34,3-19,Vinny Testaverde pass incomplete intended for Jason Witten is intercepted by Deltha O'Neal at CIN-43 and returned for 3 yards (tackle by Patrick Crayton). Penalty on Rogers Beckett: Defensive Holding 5 yards (no play),,-1.110,1.530,2.64
+2004-11-07,Lions,Washington,4,6:33,4,18,WAS 28,3-17,Joey Harrington pass incomplete intended for David Kircus is intercepted by Fred Smoot,,1.590,-0.280,-1.87
+2004-11-07,Giants,Bears,4,4:10,4,5,CHI 5,14-28,Kurt Warner pass incomplete intended for Amani Toomer (defended by Nathan Vasher),,3.010,0.380,-2.63
+2004-11-07,Giants,Bears,4,1:16,4,20,NYG 30,21-28,Kurt Warner pass incomplete intended for Jeremy Shockey (defended by Nathan Vasher),,-1.370,-3.580,-2.21
+2004-11-07,Eagles,Steelers,4,6:51,4,11,PIT 44,3-27,Donovan McNabb pass incomplete intended for Terrell Owens (defended by Russell Stuvaints),,0.330,-1.860,-2.19
+2004-11-14,Texans,Colts,4,12:07,4,4,CLT 11,7-42,David Carr pass incomplete intended for Jabar Gaffney,,2.770,0.350,-2.42
+2004-11-14,Giants,Cardinals,4,6:10,4,5,NYG 35,14-17,Jeff Feagles pass incomplete,,-1.040,-3.250,-2.21
+2004-11-14,Giants,Cardinals,4,1:09,4,2,NYG 33,14-17,Kurt Warner pass incomplete intended for Amani Toomer (defended by Karlos Dansby),,-1.180,-3.380,-2.20
+2004-11-14,Lions,Jaguars,1,12:23,4,2,JAX 28,0-0,Joey Harrington pass incomplete intended for Cory Schlesinger,,1.700,-0.810,-2.51
+2004-11-14,Jaguars,Lions,2,10:45,4,3,DET 35,7-0,David Garrard pass incomplete intended for Jimmy Smith,,0.990,-1.270,-2.26
+2004-11-14,Jaguars,Lions,4,8:58,4,1,DET 34,17-7,David Garrard pass incomplete intended for Troy Edwards,,1.100,-1.140,-2.24
+2004-11-14,Lions,Jaguars,4,1:25,4,5,JAX 33,10-17,Joey Harrington pass incomplete intended for David Kircus,,1.170,-1.140,-2.31
+2004-11-14,Bills,Patriots,4,11:40,4,7,NWE 30,6-26,Drew Bledsoe pass incomplete intended for Eric Moulds,,1.410,-0.940,-2.35
+2004-11-14,Washington,Bengals,1,3:15,4,3,CIN 36,0-7,Mark Brunell pass incomplete intended for Laveranues Coles,,0.890,-1.400,-2.29
+2004-11-14,Bengals,Washington,3,6:00,4,1,WAS 38,17-0,Carson Palmer pass incomplete intended for T.J. Houshmandzadeh (defended by Lemar Marshall),,0.720,-1.530,-2.25
+2004-11-21,Panthers,Cardinals,2,6:55,4,3,CRD 43,14-0,Ricky Proehl pass incomplete intended for Micah Ross,,0.400,-1.800,-2.20
+2004-11-21,Packers,Texans,1,2:24,4,2,HTX 34,0-0,Brett Favre pass incomplete intended for Javon Walker,,1.100,-1.200,-2.30
+2004-11-21,Vikings,Lions,2,10:04,4,1,DET 8,7-14,Daunte Culpepper pass incomplete intended for Kelly Campbell,,2.990,0.380,-2.61
+2004-11-21,Saints,Broncos,4,12:29,4,2,DEN 7,13-34,Aaron Brooks pass incomplete intended for Joe Horn is intercepted by Champ Bailey at DEN-0,,3.000,-0.280,-3.28
+2004-11-21,Giants,Falcons,4,0:49,4,3,ATL 42,10-14,Eli Manning pass incomplete intended for Jeremy Shockey (defended by Keith Brooking),,0.460,-1.800,-2.26
+2004-11-21,Ravens,Cowboys,2,2:48,4,5,DAL 35,0-3,Kyle Boller pass incomplete intended for Kevin Johnson (defended by Lance Frazier),,0.980,-1.270,-2.25
+2004-11-21,Cowboys,Ravens,2,0:39,4,5,RAV 37,3-0,Vinny Testaverde pass incomplete intended for Keyshawn Johnson (defended by Ed Reed),,0.790,-1.400,-2.19
+2004-11-25,Bears,Cowboys,4,1:47,4,12,DAL 49,7-21,Jonathan Quinn pass incomplete intended for Desmond Clark is intercepted by Dat Nguyen at DAL-27 and returned for 2 yards (tackle by Desmond Clark),,0.000,-0.870,-0.87
+2004-11-25,Lions,Colts,4,3:10,4,7,DET 43,9-41,Mike McMahon pass incomplete intended for Stephen Alexander,,-0.520,-2.720,-2.20
+2004-11-28,Saints,Falcons,4,0:09,4,9,NOR 36,21-24,Aaron Brooks pass incomplete intended for Joe Horn is intercepted by DeAngelo Hall at ATL-21 and returned for 2 yards (tackle by Joe Horn),,-0.980,0.000,.98
+2004-11-28,Chiefs,Chargers,4,1:52,4,4,KAN 30,31-34,Trent Green pass incomplete intended for Eddie Kennison (defended by Quentin Jammer),,-1.370,-3.580,-2.21
+2004-11-28,Jaguars,Vikings,4,0:51,4,5,MIN 15,16-27,Byron Leftwich pass incomplete intended for LaBrandon Toefield,,2.490,0.220,-2.27
+2004-11-28,Ravens,Patriots,4,0:54,4,15,RAV 42,3-24,Kyle Boller pass incomplete intended for Travis Taylor (defended by Dexter Reid),,-0.590,-2.790,-2.20
+2004-11-28,Giants,Eagles,4,7:03,4,7,PHI 38,6-27,Eli Manning pass incomplete intended for Jamaar Taylor,,0.720,-1.470,-2.19
+2004-11-28,Washington,Steelers,2,0:42,4,4,PIT 36,0-13,Patrick Ramsey pass incomplete intended for James Thrash (defended by Willie J. Williams),,0.890,-1.330,-2.22
+2004-11-28,Seahawks,Bills,3,2:22,4,3,BUF 30,3-24,Matt Hasselbeck pass incomplete intended for Itula Mili,,1.480,-0.940,-2.42
+2004-12-05,Titans,Colts,3,6:34,4,7,CLT 34,24-34,Billy Volek pass incomplete intended for Eddie Berlin,,1.060,-1.200,-2.26
+2004-12-05,Titans,Colts,3,3:37,4,9,OTI 35,24-41,Craig Hentrich pass incomplete intended for Ken Amato (defended by Gilbert Gardner),,-1.040,-3.250,-2.21
+2004-12-05,Titans,Colts,4,1:57,4,9,CLT 20,24-51,Billy Volek pass incomplete intended for Derrick Mason is intercepted by Gary Brackett at IND-5 and returned for 2 yards (tackle by Derrick Mason). Penalty on Fred Miller: Unnecessary Roughness 15 yards,,2.120,-0.410,-2.53
+2004-12-05,Cardinals,Lions,4,2:20,4,10,CRD 35,12-26,John Navarre pass incomplete intended for Freddie Jones,,-1.040,-3.250,-2.21
+2004-12-05,Texans,Jets,1,9:37,4,10,NYJ 33,0-0,David Carr pass incomplete intended for Andre Johnson (defended by David Barrett),,1.150,-1.140,-2.29
+2004-12-05,Texans,Jets,1,1:11,4,5,NYJ 37,0-3,David Carr pass incomplete intended for Andre Johnson (defended by Erik Coleman),,0.790,-1.400,-2.19
+2004-12-05,Raiders,Chiefs,4,0:55,4,19,RAI 45,27-34,Kerry Collins pass incomplete intended for John Stone,,-0.390,-2.590,-2.20
+2004-12-05,Falcons,Buccaneers,3,1:20,4,4,TAM 40,0-20,Chris Mohr pass incomplete intended for Michael Jenkins,,0.590,-1.600,-2.19
+2004-12-05,Falcons,Buccaneers,4,8:52,4,2,TAM 20,0-20,Michael Vick pass incomplete intended for Peerless Price (defended by Derrick Brooks),,2.250,-0.280,-2.53
+2004-12-05,Giants,Washington,4,8:18,4,8,WAS 23,7-31,Eli Manning pass incomplete intended for Amani Toomer (defended by Fred Smoot),,1.930,-0.480,-2.41
+2004-12-05,Giants,Washington,4,2:09,4,10,WAS 36,7-31,Eli Manning pass incomplete intended for Jamaar Taylor (defended by Sean Taylor),,0.880,-1.330,-2.21
+2004-12-12,Cowboys,Saints,2,1:20,4,4,NOR 38,10-7,Vinny Testaverde pass incomplete intended for Terrance Copper,,0.720,-1.470,-2.19
+2004-12-12,Dolphins,Broncos,4,2:03,4,3,MIA 39,17-20,A.J. Feeley pass incomplete intended for Derrius Thompson (defended by Kelly Herndon),,-0.780,-2.980,-2.20
+2004-12-12,Packers,Lions,2,0:19,4,10,DET 49,0-13,Brett Favre pass incomplete intended for Antonio Chatman,,0.000,-2.190,-2.19
+2004-12-12,Bears,Jaguars,4,0:51,4,13,JAX 18,3-22,Chad Hutchinson pass incomplete intended for Jason McKie,,2.250,-0.040,-2.29
+2004-12-12,Washington,Eagles,4,0:14,4,26,WAS 9,14-17,Patrick Ramsey pass incomplete,,-2.490,-5.370,-2.88
+2004-12-18,49ers,Washington,4,2:40,4,9,SFO 28,16-26,Ken Dorsey pass incomplete intended for Curtis Conway is intercepted by Walt Harris at SFO-47,,-1.500,-2.460,-0.96
+2004-12-19,Bears,Texans,2,12:56,4,6,HTX 35,0-0,Paul Edinger pass incomplete intended for Israel Idonije is intercepted by Aaron Glenn at HOU-14 and returned for 3 yards (tackle by Dustin Lyman),,0.970,0.060,-0.91
+2004-12-19,Browns,Chargers,3,5:27,4,5,SDG 5,0-21,Luke McCown pass incomplete intended for Antonio Bryant,,3.010,0.380,-2.63
+2004-12-19,Browns,Chargers,4,9:42,4,5,SDG 25,0-21,Luke McCown pass incomplete intended for Antonio Bryant (defended by Steve Foley),,1.850,-0.610,-2.46
+2004-12-19,Browns,Chargers,4,2:23,4,13,CLE 21,0-21,Luke McCown pass incomplete intended for Antonio Bryant,,-1.960,-4.240,-2.28
+2004-12-19,Ravens,Colts,4,8:35,4,7,CLT 38,10-20,Kyle Boller pass incomplete intended for Clarence Moore (defended by Jason David),,0.720,-1.530,-2.25
+2004-12-19,Ravens,Colts,4,1:12,4,3,CLT 28,10-20,Kyle Boller pass incomplete intended for Travis Taylor is intercepted by Cato June at IND-25 and returned for 71 yards,,1.680,-6.280,-7.96
+2004-12-19,Broncos,Chiefs,4,12:27,4,3,KAN 41,10-42,Jake Plummer pass incomplete intended for Ashley Lelie,,0.530,-1.660,-2.19
+2004-12-19,Titans,Raiders,3,1:42,4,3,RAI 31,21-35,Billy Volek pass incomplete intended for Derrick Mason is intercepted by Denard Walker at OAK-20 and returned for 45 yards (tackle by Antowain Smith),,1.380,-3.250,-4.63
+2004-12-19,Titans,Raiders,4,6:00,4,1,RAI 18,28-35,Craig Hentrich pass incomplete intended for Shad Meier,,2.400,-0.150,-2.55
+2004-12-25,Titans,Broncos,4,5:17,4,1,OTI 38,16-37,Doug Johnson pass incomplete intended for Derrick Mason (defended by Mario Fatafehi),,-0.850,-3.050,-2.20
+2004-12-26,Bengals,Giants,2,3:23,4,10,NYG 35,10-10,Jon Kitna pass incomplete intended for Chad Ochocinco is intercepted by Frank Walker at NYG-23 and returned for 10 yards (tackle by Kenny Watson),,0.970,-1.140,-2.11
+2004-12-26,Cowboys,Washington,4,1:54,4,1,WAS 33,6-10,Vinny Testaverde pass complete to Julius Jones for no gain,,1.210,-1.140,-2.35
+2004-12-26,Bears,Lions,4,1:17,4,10,DET 43,13-19,Chad Hutchinson pass incomplete intended for Bobby Wade (defended by Bracy Walker),,0.400,-1.860,-2.26
+2004-12-26,Steelers,Ravens,2,3:13,4,2,RAV 32,10-7,Ben Roethlisberger pass incomplete intended for Jerame Tuman,,1.300,-1.070,-2.37
+2004-12-26,Ravens,Steelers,4,7:45,4,4,PIT 34,7-20,Kyle Boller pass incomplete intended for Darnell Dinkins (defended by James Harrison),,1.080,-1.270,-2.35
+2005-01-02,Packers,Bears,1,10:38,4,1,CHI 42,0-7,Brett Favre pass incomplete intended for Bubba Franks,,0.460,-1.730,-2.19
+2005-01-02,Buccaneers,Cardinals,4,2:05,4,2,TAM 22,7-12,Chris Simms pass incomplete intended for Michael Clayton,,-1.900,-4.170,-2.27
+2005-01-02,Patriots,49ers,4,1:20,4,4,SFO 9,21-7,Rohan Davey pass incomplete intended for Rabih Abdullah,,2.900,0.380,-2.52
+2005-01-02,Lions,Titans,4,0:50,4,3,OTI 16,19-24,Joey Harrington pass incomplete intended for Roy E. Williams (defended by Donnie Nickey),,2.480,0.140,-2.34
+2005-01-02,Eagles,Bengals,4,14:21,4,7,CIN 22,3-31,Jeff Blake pass incomplete intended for Billy McMullen,,1.990,-0.480,-2.47
+2005-01-02,Eagles,Bengals,4,0:35,4,3,PHI 40,10-38,Jeff Blake pass incomplete intended for Billy McMullen,,-0.720,-2.920,-2.20
+2005-01-02,Raiders,Jaguars,4,4:19,4,6,JAX 6,6-13,Kerry Collins pass incomplete intended for Jerry Porter is intercepted by Donovin Darius at JAX-34 and returned for 37 yards (tackle by Robert Gallery). Penalty on Kerry Collins: Low Block 15 yards,,2.990,-2.190,-5.18
+2005-01-02,Chargers,Chiefs,2,12:46,4,7,KAN 7,3-0,Mike Scifres pass incomplete is intercepted by Greg Wesley at KAN-16 and returned for 25 yards (tackle by Mike Goff). Mike Scifres fumbles recovered by Mike Scifres at KAN-16,,2.970,-0.870,-3.84
+2005-01-02,Chiefs,Chargers,3,8:10,4,2,SDG 2,3-17,Trent Green pass incomplete intended for Tony Gonzalez (defended by Hanik Milligan),,3.250,0.380,-2.87
+2004-09-12,Ravens,Browns,4,2:54,4,2,RAV 46,3-20,Kyle Boller pass incomplete intended for Todd Heap is intercepted by Andra Davis at CLE-41 and returned for 2 yards (tackle by Devard Darling),,-0.320,-1.800,-1.48
+2004-09-12,Chiefs,Broncos,4,1:44,4,15,KAN 15,24-34,Trent Green pass incomplete (defended by Al Wilson),,-2.440,-4.580,-2.14
+2004-09-12,Saints,Seahawks,4,9:31,4,3,SEA 19,7-21,Aaron Brooks pass incomplete intended for Joe Horn (defended by Ken Lucas),,2.280,-0.150,-2.43
+2004-09-12,Giants,Eagles,4,6:29,4,5,PHI 5,10-31,Kurt Warner pass incomplete intended for Ike Hilliard (defended by Ike Reese),,3.010,0.380,-2.63
+2004-09-19,Cardinals,Patriots,4,2:38,4,10,CRD 22,12-23,Josh McCown pass incomplete intended for Obafemi Ayanbadejo (defended by Tyrone Poole),,-1.900,-4.110,-2.21
+2004-09-19,Washington,Giants,4,1:33,4,4,WAS 30,14-20,Patrick Ramsey pass incomplete intended for Clinton Portis (defended by Gibril Wilson),,-1.370,-3.580,-2.21
+2004-09-19,Titans,Colts,4,11:33,4,2,CLT 27,17-17,Steve McNair pass incomplete intended for Derrick Mason is intercepted by Nick Harper,,1.800,-0.280,-2.08
+2004-09-26,Lions,Eagles,3,2:10,4,6,PHI 35,7-27,Joey Harrington pass incomplete intended for Az-Zahir Hakim,,0.970,-1.270,-2.24
+2004-09-26,Lions,Eagles,4,2:57,4,5,PHI 15,13-30,Joey Harrington pass incomplete intended for Tai Streets,,2.490,0.140,-2.35
+2004-09-26,Browns,Giants,2,0:03,4,5,NYG 49,0-10,Jeff Garcia pass incomplete is intercepted by Gibril Wilson,,0.000,0.000,.00
+2004-09-26,Saints,Rams,1,5:30,4,4,RAM 36,0-7,Aaron Brooks pass incomplete intended for Aaron Stecker,,0.890,-1.330,-2.22
+2004-10-03,Bills,Patriots,4,0:04,4,5,NWE 27,17-31,Drew Bledsoe pass incomplete intended for Lee Evans,,1.720,0.740,-0.98
+2004-10-03,Panthers,Falcons,4,3:00,4,5,ATL 10,10-27,Jake Delhomme pass incomplete intended for Muhsin Muhammad (defended by Jason Webster),,2.810,0.380,-2.43
+2004-10-03,Saints,Cardinals,4,3:57,4,4,NOR 37,10-27,Aaron Brooks pass incomplete intended for Donte Stallworth,,-0.910,-3.120,-2.21
+2004-10-03,Dolphins,Jets,3,3:46,4,6,NYJ 36,9-17,Jay Fiedler pass incomplete intended for Marty Booker (defended by David Barrett),,0.880,-1.330,-2.21
+2004-10-03,Titans,Chargers,4,3:26,4,7,OTI 21,17-31,Billy Volek pass incomplete intended for Shad Meier,,-1.960,-4.170,-2.21
+2004-10-04,Ravens,Chiefs,4,1:26,4,13,RAV 40,24-27,Kyle Boller pass incomplete intended for Kevin Johnson (defended by Greg Wesley),,-0.720,-2.920,-2.20
+2004-10-10,Raiders,Colts,4,3:26,4,1,RAI 38,14-28,Kerry Collins pass incomplete intended for Jerry Rice is intercepted by Nick Harper at OAK-47 and returned for 6 yards (tackle by Jerry Rice). Penalty on Jim Nelson: Roughing the Passer 15 yards (no play),,-0.850,2.460,3.31
+2004-10-10,Raiders,Colts,4,2:57,4,10,CLT 47,14-28,Kerry Collins pass incomplete intended for Jerry Porter,,0.130,-2.060,-2.19
+2004-10-10,Cowboys,Giants,4,10:44,4,1,DAL 43,10-16,Vinny Testaverde pass complete to Darian Barnes for no gain,,-0.520,-2.790,-2.27
+2004-10-10,Broncos,Panthers,3,6:55,4,1,CAR 1,13-10,Jake Plummer pass incomplete intended for Rod Smith is intercepted by Julius Peppers at CAR-0 and returned for 97 yards (tackle by Rod Smith),,3.550,-6.510,-10.06
+2004-10-10,Dolphins,Patriots,4,10:07,4,11,NWE 21,10-24,Jay Fiedler pass incomplete intended for Derrius Thompson,,2.060,-0.340,-2.40
+2004-10-10,Dolphins,Patriots,4,4:00,4,15,NWE 16,10-24,Jay Fiedler pass incomplete intended for Randy McMichael (defended by Rodney Harrison),,2.380,0.140,-2.24
+2004-10-10,Dolphins,Patriots,4,1:56,4,7,NWE 7,10-24,A.J. Feeley pass incomplete intended for Chris Chambers (defended by Tedy Bruschi),,2.970,0.380,-2.59
+2004-10-10,Bills,Jets,4,0:02,4,10,BUF 48,14-16,Drew Bledsoe pass incomplete intended for Eric Moulds is intercepted by Terrell Buckley at NYJ-6 and returned for 12 yards (tackle by Eric Moulds),,-0.190,0.000,.19
+2004-10-10,Browns,Steelers,4,1:32,4,10,CLE 33,23-34,Jeff Garcia pass complete to Lee Suggs for no gain,,-1.180,-3.380,-2.20
+2004-10-10,Jaguars,Chargers,4,0:18,4,1,SDG 1,21-34,Byron Leftwich pass incomplete intended for Reggie Williams,,3.550,0.380,-3.17
+2004-10-11,Packers,Titans,3,5:10,4,4,OTI 4,13-34,Brett Favre pass incomplete intended for Javon Walker,,3.030,0.380,-2.65
+2004-10-17,Bears,Washington,4,0:25,4,15,CHI 46,10-13,Jonathan Quinn pass incomplete intended for Bobby Wade is intercepted by Sean Taylor at WAS-40 and returned for 45 yards (tackle by Steve Edwards),,-0.320,-4.580,-4.26
+2004-10-17,Bengals,Browns,4,0:32,4,14,CLE 20,17-34,Carson Palmer pass incomplete intended for Kelley Washington (defended by Daylon McCutcheon),,2.120,-0.280,-2.40
+2004-10-17,Lions,Packers,3,9:50,4,7,GNB 37,10-24,Joey Harrington pass incomplete intended for Tai Streets,,0.790,-1.400,-2.19
+2004-10-17,Jaguars,Chiefs,4,3:52,4,1,JAX 33,14-16,Byron Leftwich pass incomplete intended for Jimmy Smith (defended by Dexter McCleon),,-1.180,-3.380,-2.20
+2004-10-17,Titans,Texans,4,1:54,4,2,HTX 4,10-20,Steve McNair pass incomplete intended for Derrick Mason is intercepted by Marcus Coleman and returned for 14 yards (tackle by Derrick Mason),,3.040,0.370,-2.67
+2004-10-24,Panthers,Chargers,4,3:24,4,9,SDG 24,6-10,Jake Delhomme pass incomplete intended for Muhsin Muhammad (defended by Jamar Fletcher),,1.870,-0.540,-2.41
+2004-10-24,Panthers,Chargers,4,1:16,4,8,CAR 38,6-17,Jake Delhomme pass incomplete intended for Keary Colbert (defended by Stephen Cooper),,-0.850,-3.050,-2.20
+2004-10-24,Falcons,Chiefs,1,11:18,4,11,KAN 32,3-0,Michael Vick pass incomplete intended for Peerless Price,,1.240,-1.070,-2.31
+2004-10-24,Falcons,Chiefs,3,3:33,4,10,KAN 23,10-42,Michael Vick pass incomplete intended for Dez White (defended by William Bartee),,1.930,-0.540,-2.47
+2004-10-24,Falcons,Chiefs,4,11:33,4,7,KAN 12,10-49,Michael Vick pass incomplete intended for Alge Crumpler (defended by Greg Wesley),,2.630,0.320,-2.31
+2004-10-24,Titans,Vikings,4,3:01,4,3,MIN 46,3-20,Billy Volek pass incomplete intended for Jason McAddley is intercepted by Terrance Shaw at MIN-42 and returned for 22 yards (tackle by Robert Holcombe),,0.200,-3.180,-3.38
+2004-10-24,Jets,Patriots,4,2:19,4,8,NWE 30,7-13,Chad Pennington pass incomplete intended for Wayne Chrebet (defended by Rodney Harrison),,1.410,-0.940,-2.35
+2004-10-24,Giants,Lions,4,2:16,4,4,NYG 22,13-21,Kurt Warner pass incomplete intended for Jeremy Shockey (defended by Alex Lewis),,-1.900,-4.170,-2.27
+2004-10-24,Bills,Ravens,4,1:37,4,14,BUF 41,6-20,Drew Bledsoe pass incomplete intended for Josh Reed (defended by Will Demps),,-0.650,-2.850,-2.20
+2004-10-24,Bears,Buccaneers,4,2:12,4,3,TAM 34,7-19,Craig Krenzel pass incomplete intended for David Terrell,,1.090,-1.200,-2.29
+2004-10-24,Bears,Buccaneers,4,1:14,4,4,CHI 26,7-19,Craig Krenzel pass incomplete (defended by Dewayne White),,-1.630,-3.840,-2.21
+2004-10-31,Cardinals,Bills,3,5:59,4,4,BUF 40,7-17,Josh McCown pass incomplete intended for Anquan Boldin,,0.590,-1.660,-2.25
+2004-10-31,49ers,Bears,4,2:38,4,14,SFO 41,13-23,Ken Dorsey pass incomplete intended for Cedrick Wilson,,-0.650,-2.850,-2.20
+2004-10-31,Broncos,Falcons,4,3:58,4,7,ATL 7,21-34,Jake Plummer pass incomplete intended for Darius Watts,,2.970,0.380,-2.59
+2004-10-31,Ravens,Eagles,2,0:03,4,2,PHI 48,3-6,Kyle Boller pass incomplete intended for Clarence Moore is intercepted by Michael Lewis at PHI-0,,0.070,0.000,-0.07
+2004-10-31,Ravens,Eagles,4,1:09,4,10,PHI 48,10-15,Kyle Boller pass incomplete intended for Travis Taylor (defended by Sheldon Brown),,0.070,-2.130,-2.20
+2004-10-31,Raiders,Chargers,4,2:25,4,5,SDG 6,14-42,Kerry Collins pass incomplete intended for Doug Gabriel is intercepted by Sammy Davis and returned for 4 yards (tackle by Doug Gabriel),,2.990,0.380,-2.61
+2004-11-01,Dolphins,Jets,4,6:20,4,4,NYJ 4,7-41,Jay Fiedler pass incomplete intended for Bryan Gilmore is intercepted by Terrell Buckley at NYJ-0,,3.030,-0.280,-3.31
+2005-01-23,Steelers,Patriots,3,2:45,4,5,NWE 30,16-31,Ben Roethlisberger pass complete to Hines Ward for 30 yards touchdown,30,1.450,7.000,5.55
+2005-01-23,Falcons,Eagles,4,2:53,4,3,ATL 32,10-27,Michael Vick pass complete to Peerless Price for 23 yards (tackle by Lito Sheppard),23,-1.240,2.590,3.83
+2005-01-09,Broncos,Colts,4,8:29,4,6,CLT 19,17-42,Jake Plummer pass complete to Jeb Putzier for 18 yards (tackle by Gary Brackett),18,2.210,6.970,4.76
+2005-01-09,Broncos,Colts,3,11:10,4,1,CLT 28,3-35,Tatum Bell left end for 15 yards (tackle by Cato June),15,1.720,4.710,2.99
+2005-01-16,Vikings,Eagles,4,2:39,4,10,PHI 47,7-27,Daunte Culpepper pass complete to Randy Moss for 15 yards (tackle by Lito Sheppard),15,0.130,3.450,3.32
+2005-01-16,Vikings,Eagles,4,3:37,4,4,MIN 45,7-27,Daunte Culpepper pass complete to Nate Burleson for 8 yards (tackle by Ike Reese),8,-0.390,2.460,2.85
+2005-01-15,Falcons,Rams,4,3:52,4,1,RAM 11,40-17,T.J. Duckett left end for 6 yards (tackle by Robert W. Thomas and Ryan Pickett),6,2.850,6.060,3.21
+2005-01-23,Falcons,Eagles,1,0:01,4,1,PHI 31,0-7,T.J. Duckett left tackle for 5 yards (tackle by Keith Adams),5,1.410,3.840,2.43
+2005-01-09,Vikings,Packers,4,0:29,4,11,GNB 20,31-17,Onterrio Smith left end for 5 yards (tackle by Aaron Kampman),5,2.120,0.220,-1.90
+2005-01-15,Falcons,Rams,2,14:15,4,1,RAM 39,14-7,T.J. Duckett left tackle for 5 yards (tackle by Antuan Edwards),5,0.660,3.310,2.65
+2005-01-23,Eagles,Falcons,1,10:39,4,7,ATL 32,0-0,Koy Detmer pass complete to Chad Lewis for 3 yards (tackle by DeAngelo Hall),3,1.240,-0.940,-2.18
+2005-01-16,Patriots,Colts,2,10:55,4,1,CLT 1,0-0,Corey Dillon right guard for 1 yard. Penalty on Matt Light: False Start 5 yards (no play),1,3.550,2.990,-0.56
+2005-01-16,Vikings,Eagles,2,7:30,4,1,PHI 21,7-21,Daunte Culpepper up the middle for 1 yard (tackle by Sam Rayburn),1,2.210,4.240,2.03
+2005-01-09,Vikings,Packers,4,2:59,4,1,GNB 20,31-17,Daunte Culpepper middle for 1 yard (tackle by Grady Jackson),1,2.270,4.310,2.04
+2005-01-23,Patriots,Steelers,4,4:30,4,1,PIT 25,34-20,Kevin Faulk left end for 1 yard (tackle by Joey Porter and Clint Kriewaldt),1,1.950,3.970,2.02
+2005-01-23,Steelers,Patriots,1,7:07,4,1,NWE 39,0-3,Jerome Bettis up the middle for no gain (tackle by Rosevelt Colvin). Jerome Bettis fumbles (forced by Rosevelt Colvin) recovered by Mike Vrabel at NWE-39 and returned for 1 yards (tackle by Keydrick Vincent),0,0.660,-1.600,-2.26
+2005-01-08,Chargers,Jets,4,0:24,4,2,NYJ 2,10-17,Drew Brees pass incomplete intended for Antonio Gates (defended by Donnie Abraham). Penalty on Eric Barton: Roughing the Passer 1 yards (no play),0,3.250,6.970,3.72
+2005-01-08,Seahawks,Rams,2,0:09,4,10,RAM 43,10-14,Matt Hasselbeck sacked by Damione Lewis for -1 yards,-1,0.400,-1.860,-2.26
+2005-01-23,Falcons,Eagles,4,1:53,4,8,PHI 43,10-27,Michael Vick pass incomplete intended for Alge Crumpler,,0.400,-1.860,-2.26
+2005-01-16,Vikings,Eagles,3,0:53,4,22,PHI 31,7-21,Daunte Culpepper pass incomplete intended for Randy Moss (defended by Roderick Hood),,1.320,-1.000,-2.32
+2005-01-16,Vikings,Eagles,2,4:40,4,3,PHI 3,7-21,Gus Frerotte pass incomplete intended for Jermaine Wiggins,,3.040,0.380,-2.66
+2005-01-08,Seahawks,Rams,4,0:27,4,4,RAM 5,20-27,Matt Hasselbeck pass incomplete intended for Bobby Engram,,3.010,0.380,-2.63

@@ -1,0 +1,497 @@
+Date,Tm,Opp,Quarter,Time,Down,ToGo,Location,Score,Detail,Yds,EPB,EPA,Diff
+2012-09-30,Bengals,Jaguars,2,8:36,4,1,CIN 34,3-7,Cedric Peerman right end for 48 yards (tackle by Montell Owens),48,-1.110,4.370,5.48
+2012-12-02,Cardinals,Jets,2,1:11,4,7,CRD 25,0-0,Rashad Johnson right end for 40 yards (tackle by Kyle Wilson),40,-1.700,3.250,4.95
+2012-11-05,Eagles,Saints,2,14:17,4,1,NOR 38,0-7,LeSean McCoy right end for 34 yards (tackle by Martez Wilson and Malcolm Jenkins),34,0.720,6.280,5.56
+2012-11-18,Bengals,Chiefs,1,6:51,4,3,CIN 29,0-3,Cedric Peerman left end for 32 yards (tackle by Abram Elam),32,-1.440,2.980,4.42
+2013-01-05,Packers,Vikings,2,5:20,4,5,MIN 34,7-3,Aaron Rodgers pass complete short left to Greg Jennings for 32 yards (tackle by Mistral Raymond),32,1.070,6.740,5.67
+2012-12-16,49ers,Patriots,1,4:43,4,10,SFO 41,7-0,Dashon Goldson left end for 31 yards (tackle by Wes Welker),31,-0.650,3.710,4.36
+2012-09-13,Packers,Bears,2,1:56,4,26,CHI 27,9-0,Tim Masthay pass complete short middle to Tom Crabtree for 27 yards touchdown,27,1.670,7.000,5.33
+2012-09-09,Titans,Patriots,1,10:37,4,1,NWE 37,0-0,Jake Locker pass complete deep left to Nate Washington for 24 yards (tackle by Kyle Arrington),24,0.790,4.710,3.92
+2012-10-14,Cardinals,Bills,2,1:40,4,2,CRD 33,10-9,Rashad Johnson right end for 24 yards (tackle by Aaron Williams),24,-1.180,2.720,3.90
+2012-10-14,Jets,Colts,2,2:19,4,11,CLT 40,14-6,Tim Tebow pass complete short right to Nick Bellore for 23 yards (tackle by T.Y. Hilton),23,0.590,4.440,3.85
+2012-11-11,Rams,49ers,2,0:49,4,4,RAM 10,14-7,John Hekker pass complete short right to Rodney McLeod for 21 yards (tackle by Perrish Cox),21,-2.490,1.000,3.49
+2012-09-23,Steelers,Raiders,1,13:39,4,1,RAI 27,0-0,Ben Roethlisberger pass complete short middle to Mike Wallace for 20 yards (tackle by Richard Seymour),20,1.820,5.600,3.78
+2012-10-07,Bengals,Dolphins,1,3:23,4,2,MIA 35,3-0,Andy Dalton pass complete deep middle to Jermaine Gresham for 20 yards (tackle by Koa Misi and Chris Clemons),20,0.990,4.580,3.59
+2012-12-23,Chargers,Jets,2,12:09,4,2,NYJ 34,7-14,Philip Rivers pass complete short left to Danario Alexander for 18 yards (tackle by Antonio Cromartie),18,1.100,4.510,3.41
+2012-11-11,Giants,Bengals,2,1:17,4,6,CIN 41,3-17,Eli Manning pass complete short right to Hakeem Nicks for 16 yards (tackle by Terence Newman),16,0.530,0.000,-0.53
+2012-11-11,Bengals,Giants,2,7:44,4,2,NYG 37,14-3,Andy Dalton pass complete short middle to Mohamed Sanu for 15 yards (tackle by Prince Amukamara),15,0.790,4.110,3.32
+2012-12-23,Eagles,Washington,1,12:40,4,1,PHI 46,0-0,Nick Foles pass complete short left to Brent Celek for 15 yards (tackle by Jordan Pugh),15,-0.320,2.980,3.30
+2012-12-30,Eagles,Giants,2,14:48,4,10,NYG 31,0-21,Michael Vick pass complete short middle to Jason Avant for 15 yards (tackle by Stevie Brown),15,1.320,4.510,3.19
+2012-11-11,Bears,Texans,1,4:49,4,1,HTX 43,0-3,Michael Bush right guard for 11 yards (tackle by Glover Quin). Michael Bush fumbles (forced by Glover Quin) recovered by Bradie James at HOU-27 (tackle by Matt Spaeth),11,0.400,-0.740,-1.14
+2012-11-18,Bengals,Chiefs,1,4:43,4,7,KAN 36,0-3,Andy Dalton for 11 yards (tackle by Abram Elam),11,0.880,3.910,3.03
+2012-10-07,Titans,Vikings,1,1:09,4,1,OTI 41,0-7,Jordan Babineaux right end for 10 yards (tackle by Tyrone McKenzie),10,-0.650,2.320,2.97
+2012-12-16,Patriots,49ers,2,10:59,4,4,SFO 32,0-7,Tom Brady pass complete short middle to Deion Branch for 9 yards (tackle by Dashon Goldson),9,1.270,4.040,2.77
+2012-09-30,Broncos,Raiders,1,11:08,4,1,RAI 30,0-0,Peyton Manning pass complete short middle to Jacob Tamme for 8 yards (tackle by Tyvon Branch),8,1.520,4.110,2.59
+2012-12-16,Packers,Bears,2,12:53,4,2,CHI 37,0-0,Aaron Rodgers pass complete short middle to Jermichael Finley for 8 yards (tackle by Major Wright),8,0.790,3.640,2.85
+2013-02-03,Ravens,49ers,2,3:12,4,9,SFO 14,14-3,Justin Tucker left end for 8 yards (tackle by Darcel McBath),8,2.510,0.380,-2.13
+2012-09-30,Washington,Buccaneers,2,9:39,4,1,TAM 26,7-3,Alfred Morris up the middle for 7 yards (tackle by Mark Barron). Penalty on Gerald McCoy: Defensive Offside (Declined),7,1.890,4.310,2.42
+2012-11-22,Jets,Patriots,2,0:28,4,1,NWE 21,0-35,Mark Sanchez pass complete short right to Stephen Hill for 7 yards (tackle by Devin McCourty and Aqib Talib),7,2.210,4.650,2.44
+2012-12-30,Saints,Panthers,2,5:19,4,1,CAR 7,6-10,Drew Brees pass complete short left to Marques Colston for 7 yards touchdown,7,3.010,7.000,3.99
+2012-12-30,Eagles,Giants,2,12:13,4,1,NYG 7,6-21,Michael Vick pass complete short left to Jeremy Maclin for 7 yards touchdown,7,3.010,7.000,3.99
+2013-01-20,Patriots,Ravens,2,0:54,4,1,RAV 34,10-7,Danny Woodhead left guard for 7 yards (tackle by Corey Graham and Bernard Pollard),7,1.100,0.000,-1.10
+2012-09-10,Bengals,Ravens,2,0:27,4,1,RAV 6,9-17,BenJarvus Green-Ellis left guard for 6 yards touchdown,6,3.020,7.000,3.98
+2012-10-14,Washington,Vikings,2,13:05,4,3,MIN 35,0-9,Robert Griffin III pass complete short left to Santana Moss for 6 yards (tackle by Josh Robinson),6,0.990,3.640,2.65
+2012-11-04,Washington,Panthers,2,10:54,4,3,CAR 38,3-7,Robert Griffin III pass complete short right to Josh Morgan for 6 yards (tackle by Captain Munnerlyn),6,0.720,3.450,2.73
+2012-12-02,Texans,Titans,1,1:04,4,1,OTI 11,7-3,Arian Foster left end for 6 yards (tackle by Zach Brown),6,2.850,6.060,3.21
+2012-12-30,Vikings,Packers,1,2:41,4,1,GNB 44,10-0,Adrian Peterson left tackle for 6 yards (tackle by Tramon Williams),6,0.330,3.050,2.72
+2012-12-30,Chargers,Raiders,2,10:34,4,1,SDG 28,10-7,Eric Weddle up the middle for 6 yards (tackle by Kaelin Burnett and David Ausberry),6,-1.500,1.200,2.70
+2012-09-23,Jets,Dolphins,2,7:18,4,3,NYJ 25,0-10,Tim Tebow left guard for 5 yards (tackle by Olivier Vernon),5,-1.700,0.940,2.64
+2012-09-30,Packers,Saints,2,9:27,4,1,GNB 17,14-7,John Kuhn left guard for 5 yards (tackle by Isa Abdul-Quddus),5,-2.320,0.410,2.73
+2012-09-30,Texans,Titans,1,4:19,4,1,OTI 38,7-0,Ben Tate right end for 5 yards (tackle by Will Witherspoon and Alterraun Verner),5,0.720,3.380,2.66
+2012-11-11,Titans,Dolphins,1,2:46,4,2,MIA 37,7-0,Jake Locker right guard for 5 yards (tackle by Kevin Burnett),5,0.790,3.450,2.66
+2012-11-25,Bears,Vikings,2,6:48,4,1,MIN 42,10-3,Michael Bush right tackle for 5 yards (tackle by Erin Henderson),5,0.460,3.120,2.66
+2012-09-10,Bengals,Ravens,2,2:36,4,1,RAV 34,3-17,BenJarvus Green-Ellis right guard for 4 yards (tackle by Arthur Jones),4,1.100,3.580,2.48
+2012-11-04,Steelers,Giants,2,2:32,4,1,NYG 48,7-14,Isaac Redman right guard for 4 yards (tackle by Michael Boley and Stevie Brown),4,0.070,2.650,2.58
+2012-11-04,Raiders,Buccaneers,2,8:06,4,13,50,3-7,Shane Lechler pass complete short right to Taiwan Jones for 4 yards (tackle by Ahmad Black). Taiwan Jones fumbles (forced by Ahmad Black) recovered by Taiwan Jones at TAM-46,4,-0.060,-1.990,-1.93
+2012-12-02,Dolphins,Patriots,1,14:04,4,4,MIA 22,0-0,Brandon Fields for 4 yards. Brandon Fields fumbles recovered by Brandon Fields at MIA-8,4,-1.900,-4.780,-2.88
+2012-12-09,Lions,Packers,1,7:19,4,1,GNB 4,6-0,Matthew Stafford left end for 4 yards touchdown,4,3.040,7.000,3.96
+2012-12-09,Jaguars,Jets,1,6:39,4,1,NYJ 24,0-0,Greg Jones up the middle for 4 yards (tackle by David Harris and Sione Pouha),4,2.020,4.240,2.22
+2012-12-30,Eagles,Giants,2,0:23,4,5,50,7-28,Michael Vick pass complete short right to Jeremy Maclin for 4 yards (tackle by Will Hill),4,-0.060,-1.990,-1.93
+2012-09-16,Ravens,Eagles,2,12:42,4,4,RAV 43,7-7,Sean Considine up the middle for 3 yards (tackle by Stanley Havili),3,-0.520,-2.590,-2.07
+2012-10-08,Jets,Texans,2,15:00,4,1,NYJ 24,7-7,Tim Tebow left tackle for 3 yards (tackle by Tim Dobbins),3,-1.770,0.740,2.51
+2012-11-04,Washington,Panthers,2,7:59,4,1,CAR 10,3-7,Darrel Young left guard for 3 yards (tackle by Thomas Davis and Luke Kuechly),3,2.910,5.600,2.69
+2012-12-16,Vikings,Rams,1,9:00,4,1,RAM 7,0-0,Christian Ponder for 3 yards (tackle by Eugene Sims). Penalty on Mario Haggan: Defensive Holding 2 yards,3,3.010,6.740,3.73
+2012-12-23,Eagles,Washington,1,10:48,4,1,WAS 30,0-0,Nick Foles up the middle for 3 yards (tackle by Madieu Williams),3,1.520,3.780,2.26
+2012-12-30,Ravens,Bengals,1,11:09,4,1,CIN 33,0-0,Bernard Pierce right guard for 3 yards (tackle by Rey Maualuga and Vontaze Burfict),3,1.210,3.580,2.37
+2012-09-09,Washington,Saints,1,1:04,4,1,NOR 48,10-7,Darrel Young right guard for 2 yards (tackle by Curtis Lofton),2,0.070,2.520,2.45
+2012-09-16,Bengals,Browns,1,4:17,4,1,CIN 49,7-3,Andy Dalton right guard for 2 yards (tackle by John Hughes),2,-0.130,2.320,2.45
+2012-09-16,Eagles,Ravens,1,7:11,4,1,RAV 6,0-0,LeSean McCoy right end for 2 yards (tackle by Jameel McClain),2,3.020,6.280,3.26
+2012-09-23,Bears,Rams,1,1:48,4,1,RAM 32,3-0,Michael Bush right tackle for 2 yards (tackle by James Laurinaitis),2,1.310,3.580,2.27
+2012-09-23,Buccaneers,Cowboys,1,11:34,4,1,DAL 3,0-0,Doug Martin left tackle for 2 yards (tackle by Sean Lissemore),2,3.060,6.970,3.91
+2012-09-30,Rams,Seahawks,2,1:16,4,2,SEA 2,9-7,John Hekker pass complete short right to Danny Amendola for 2 yards touchdown,2,3.250,7.000,3.75
+2012-10-14,Chiefs,Buccaneers,2,9:54,4,1,TAM 27,0-7,Shaun Draughn right guard for 2 yards (tackle by Lavonte David and Daniel Te'o-Nesheim),2,1.820,3.910,2.09
+2012-10-28,Panthers,Bears,2,8:49,4,1,CHI 41,10-7,Cam Newton right guard for 2 yards (tackle by Chris Conte),2,0.530,2.980,2.45
+2012-10-28,Browns,Chargers,1,5:15,4,1,SDG 28,0-0,Brandon Weeden up the middle for 2 yards (tackle by Vaughn Martin and Corey Liuget),2,1.720,3.840,2.12
+2012-10-28,Washington,Steelers,2,11:38,4,2,PIT 2,6-10,Robert Griffin III pass complete short middle to Santana Moss for 2 yards touchdown,2,3.250,7.000,3.75
+2012-11-18,Raiders,Saints,2,12:30,4,1,NOR 3,0-14,Carson Palmer up the middle for 2 yards,2,3.060,6.970,3.91
+2012-11-25,Chargers,Ravens,2,11:19,4,1,RAV 27,0-0,Jackie Battle up the middle for 2 yards (tackle by Haloti Ngata and Ma'ake Kemoeatu),2,1.820,3.910,2.09
+2012-12-09,Panthers,Falcons,1,0:58,4,1,ATL 38,7-0,Cam Newton left guard for 2 yards (tackle by Akeem Dent),2,0.720,3.180,2.46
+2012-12-23,Packers,Titans,2,6:41,4,1,OTI 37,17-0,Ryan Grant left tackle for 2 yards (tackle by Tim Shaw and Zach Brown),2,0.790,3.250,2.46
+2012-09-10,Ravens,Bengals,1,7:22,4,1,CIN 20,3-0,Joe Flacco pass complete short right to Ray Rice for 1 yard (tackle by Nate Clements),1,2.270,4.310,2.04
+2012-09-23,Vikings,49ers,1,7:25,4,1,SFO 1,6-0,Christian Ponder pass complete short left to Kyle Rudolph for 1 yard touchdown,1,3.550,7.000,3.45
+2012-09-30,Dolphins,Cardinals,2,2:00,4,1,CRD 1,9-0,Jorvorskie Lane up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2012-10-08,Jets,Texans,2,10:01,4,1,NYJ 38,7-14,Mark Sanchez up the middle for 1 yard (tackle by Antonio Smith and Tim Dobbins),1,-0.850,1.530,2.38
+2012-10-21,Bengals,Steelers,1,4:04,4,1,PIT 21,0-3,BenJarvus Green-Ellis right guard for 1 yard (tackle by Lawrence Timmons and Evander Hood),1,2.210,4.240,2.03
+2012-10-28,Steelers,Washington,1,8:02,4,1,WAS 1,6-0,Ben Roethlisberger pass complete short right to Leonard Pope for 1 yard touchdown,1,3.550,7.000,3.45
+2012-10-28,Patriots,Rams,2,14:16,4,1,RAM 1,13-7,Shane Vereen right tackle for 1 yard touchdown,1,3.550,7.000,3.45
+2012-11-04,Seahawks,Vikings,2,1:52,4,1,MIN 48,14-17,Russell Wilson right guard for 1 yard (tackle by Antoine Winfield and Jasper Brinkley),1,0.070,2.460,2.39
+2012-11-08,Colts,Jaguars,2,7:43,4,1,JAX 1,16-0,Andrew Luck up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2012-11-11,49ers,Rams,2,12:02,4,1,RAM 48,0-14,Alex Smith up the middle for 1 yard (tackle by Kendall Langford),1,0.070,2.460,2.39
+2012-11-18,Bengals,Chiefs,2,7:54,4,1,KAN 1,13-3,Andy Dalton left end for 1 yard touchdown,1,3.550,7.000,3.45
+2012-11-18,Rams,Jets,1,3:48,4,1,NYJ 1,6-0,Sam Bradford pass complete short middle to Brandon Gibson for 1 yard touchdown,1,3.550,7.000,3.45
+2012-12-02,Chiefs,Panthers,2,0:02,4,1,CAR 1,16-14,Brady Quinn pass complete short middle to Tony Moeaki for 1 yard touchdown,1,3.550,7.000,3.45
+2012-12-16,Panthers,Chargers,1,9:07,4,1,SDG 2,0-0,Cam Newton left guard for 1 yard (tackle by Takeo Spikes and Melvin Ingram),1,3.250,6.970,3.72
+2012-12-23,Steelers,Bengals,2,13:03,4,1,50,0-7,Isaac Redman left guard for 1 yard (tackle by Vontaze Burfict and Robert Geathers),1,-0.060,2.320,2.38
+2012-12-30,Patriots,Dolphins,2,10:30,4,1,MIA 1,13-0,Stevan Ridley up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2013-01-12,Broncos,Ravens,2,2:12,4,1,RAV 37,21-14,Jacob Hester up the middle for 1 yard (tackle by Terrell Suggs),1,0.790,3.180,2.39
+2012-09-05,Cowboys,Giants,1,2:46,4,1,NYG 37,0-0,Lawrence Vickers left guard for no gain (tackle by Antrel Rolle and Keith Rivers),0,0.790,-1.400,-2.19
+2012-09-16,Panthers,Saints,2,11:53,4,1,NOR 4,7-10,Cam Newton for no gain. Cam Newton fumbles recovered by Jonathan Casillas at NOR-8 (tackle by Steve Smith),0,3.040,0.380,-2.66
+2012-09-17,Broncos,Falcons,2,2:50,4,1,ATL 43,0-20,Peyton Manning pass incomplete short left intended for Brandon Stokley. Penalty on Dominique Franks: Defensive Holding 11 yards (no play),0,0.400,3.450,3.05
+2012-10-07,Dolphins,Bengals,2,2:53,4,1,CIN 38,7-6,Jorvorskie Lane right guard for no gain (tackle by Reggie Nelson and Vontaze Burfict),0,0.720,-1.400,-2.12
+2012-10-07,Colts,Packers,1,4:43,4,1,GNB 44,0-0,Andrew Luck right guard for no gain (tackle by A.J. Hawk). Penalty on Donnie Avery: Illegal Shift (Declined),0,0.330,-1.860,-2.19
+2012-10-07,Steelers,Eagles,2,14:51,4,10,PHI 34,0-0,Ben Roethlisberger pass incomplete deep left intended for Mike Wallace. Ben Roethlisberger fumbles recovered by Ben Roethlisberger at PHI-45,0,1.060,-1.200,-2.26
+2012-10-14,Seahawks,Patriots,2,0:48,4,4,SEA 38,10-17,Jon Ryan for no gain. Jon Ryan fumbles recovered by Jon Ryan at SEA-24,0,-0.850,-3.970,-3.12
+2012-10-28,Chargers,Browns,1,8:58,4,1,CLE 30,0-0,Jackie Battle right guard for no gain (tackle by T.J. Ward),0,1.520,-0.940,-2.46
+2012-11-04,Washington,Panthers,2,5:21,4,2,CAR 2,3-7,Robert Griffin III right end for no gain (tackle by Charles Johnson),0,3.250,0.380,-2.87
+2012-11-11,Jets,Seahawks,1,9:38,4,1,SEA 40,0-0,Shonn Greene left guard for no gain (tackle by Mike Morgan),0,0.590,-1.660,-2.25
+2012-11-22,Jets,Patriots,2,10:06,4,1,NWE 31,0-7,Shonn Greene up the middle for no gain (tackle by Brandon Spikes). Shonn Greene fumbles (forced by Brandon Spikes) recovered by Steve Gregory at NWE-19 (tackle by Jeff Cumberland),0,1.410,0.060,-1.35
+2012-12-02,Bears,Seahawks,2,12:54,4,1,SEA 15,7-0,Michael Bush right guard for no gain (tackle by Bobby Wagner),0,2.590,0.220,-2.37
+2012-12-02,Bengals,Chargers,1,9:12,4,9,SDG 35,0-0,Andy Dalton pass incomplete. Penalty on Shareece Wright: Defensive Holding 5 yards (no play),0,0.970,3.580,2.61
+2012-12-09,Steelers,Chargers,2,2:00,4,1,PIT 47,0-10,Isaac Redman up the middle for no gain (tackle by Cam Thomas and Demorrio Williams),0,-0.260,-2.460,-2.20
+2012-12-16,Giants,Falcons,2,6:08,4,1,ATL 32,0-17,David Wilson left tackle for no gain (tackle by Sean Weatherspoon),0,1.310,-1.070,-2.38
+2012-12-16,Jaguars,Dolphins,2,9:41,4,1,MIA 11,3-3,Chad Henne up the middle for no gain (tackle by Karlos Dansby),0,2.850,0.370,-2.48
+2012-12-16,49ers,Patriots,2,15:00,4,1,NWE 25,7-0,Colin Kaepernick for no gain. Colin Kaepernick fumbles recovered by Colin Kaepernick at NWE-25,0,1.950,-0.610,-2.56
+2012-12-23,Cardinals,Bears,2,9:42,4,10,CHI 32,3-14,Jay Feely left end for no gain (tackle by Amobi Okoye). Jay Feely fumbles (forced by Amobi Okoye) ball out of bounds at CHI-32,0,1.240,-1.070,-2.31
+2012-12-23,Saints,Cowboys,2,1:40,4,1,DAL 23,7-14,Drew Brees pass incomplete short left intended for Marques Colston. Penalty on Anthony Spencer: Defensive Offside 5 yards (no play),0,2.080,4.370,2.29
+2012-09-23,Bengals,Washington,2,9:34,4,5,WAS 5,14-7,Kevin Huber right end for -1 yards (tackle by Madieu Williams and DeAngelo Hall),-1,3.010,0.380,-2.63
+2012-10-07,Saints,Chargers,2,0:01,4,1,NOR 42,14-17,Drew Brees kneels for -1 yards,-1,-0.590,1.800,2.39
+2012-10-21,Browns,Colts,2,0:01,4,4,CLE 41,6-14,Brandon Weeden kneels for -1 yards. Penalty on IND: Defensive 12 On-field 5 yards (no play),-1,-0.650,1.990,2.64
+2012-11-18,Jets,Rams,2,6:54,4,5,RAM 45,3-7,Tim Tebow pass complete short right to Lex Hilliard for -1 yards (tackle by James Laurinaitis),-1,0.270,-1.990,-2.26
+2012-11-25,Raiders,Bengals,2,1:55,4,1,CIN 45,0-21,Owen Schmitt up the middle for -1 yards (tackle by Vontaze Burfict and Robert Geathers),-1,0.270,-1.990,-2.26
+2012-12-02,Cardinals,Jets,1,10:11,4,1,NYJ 17,0-0,Chris Wells left tackle for -1 yards (tackle by Bryan Thomas),-1,2.460,-0.040,-2.50
+2013-01-13,Seahawks,Falcons,2,5:38,4,1,ATL 11,0-13,Michael Robinson right guard for -1 yards (tackle by William Moore),-1,2.850,0.350,-2.50
+2012-11-11,Raiders,Ravens,1,11:53,4,1,RAV 44,0-0,Carson Palmer sacked by Paul Kruger for -4 yards,-4,0.330,-2.130,-2.46
+2012-10-28,Rams,Patriots,2,2:00,4,4,NWE 35,7-21,John Hekker left end for -9 yards (tackle by Marquice Cole),-9,0.980,-1.860,-2.84
+2012-12-30,Falcons,Buccaneers,2,0:05,4,3,TAM 49,3-13,Matt Ryan sacked by Lavonte David for -14 yards,-14,0.000,1.270,1.27
+2012-09-23,Cowboys,Buccaneers,2,0:02,4,8,TAM 46,10-7,Tony Romo pass incomplete deep middle intended for Jason Witten (defended by Mark Barron),,0.200,1.990,1.79
+2012-09-27,Ravens,Browns,2,0:10,4,19,RAV 36,9-7,Joe Flacco pass incomplete deep right intended for Jacoby Jones,,-0.980,1.330,2.31
+2012-09-30,Broncos,Raiders,2,3:21,4,1,RAI 36,10-3,Matt Prater pass incomplete deep left intended for Zane Beadles,,0.890,-1.330,-2.22
+2012-10-21,Jaguars,Raiders,2,4:35,4,1,RAI 46,17-3,Chad Henne pass incomplete short right intended for Kevin Elliott,,0.200,-1.990,-2.19
+2012-10-21,Rams,Packers,2,10:32,4,2,GNB 14,3-10,Sam Bradford pass incomplete short left intended for Brandon Gibson (defended by Davon House),,2.630,0.220,-2.41
+2012-10-28,Saints,Broncos,2,9:17,4,2,DEN 47,7-7,Drew Brees pass incomplete intended for Jimmy Graham is intercepted by Wesley Woodyard at DEN-36 and returned for 8 yards (tackle by Jahri Evans),,0.130,-1.860,-1.99
+2012-10-29,Cardinals,49ers,2,0:04,4,8,CRD 47,0-17,John Skelton pass incomplete deep right intended for Larry Fitzgerald is intercepted by Chris Culliver at SFO-8,,-0.260,0.000,.26
+2012-11-11,Bengals,Giants,2,14:25,4,3,NYG 31,14-3,Andy Dalton pass incomplete short right intended for Jermaine Gresham (defended by Stevie Brown),,1.380,-1.000,-2.38
+2012-11-18,Packers,Lions,1,7:37,4,4,DET 31,0-0,Aaron Rodgers pass incomplete deep middle intended for Randall Cobb,,1.370,-1.000,-2.37
+2012-11-25,Jaguars,Titans,2,0:52,4,3,OTI 45,7-3,Chad Henne pass incomplete deep middle intended for Justin Blackmon,,0.270,-1.930,-2.20
+2012-12-02,Bills,Jaguars,2,5:37,4,5,JAX 37,7-3,Ryan Fitzpatrick pass incomplete short middle intended for Scott Chandler (defended by Russell Allen),,0.790,-1.400,-2.19
+2012-12-02,49ers,Rams,2,0:02,4,19,SFO 39,7-0,Colin Kaepernick pass incomplete deep left intended for Randy Moss,,-0.780,1.530,2.31
+2012-12-10,Texans,Patriots,2,4:49,4,5,NWE 33,0-21,Matt Schaub pass incomplete short left intended for Kevin Walter (defended by Kyle Arrington),,1.170,-1.140,-2.31
+2012-12-10,Texans,Patriots,2,1:55,4,5,NWE 38,0-21,Matt Schaub pass incomplete short left intended for Kevin Walter,,0.720,-1.470,-2.19
+2012-12-16,Giants,Falcons,2,1:14,4,1,ATL 11,0-17,Eli Manning pass incomplete short right intended for Victor Cruz (defended by Asante Samuel),,2.850,0.370,-2.48
+2012-12-23,Titans,Packers,2,10:23,4,1,GNB 31,0-17,Jake Locker pass incomplete short left intended for Damian Williams,,1.410,-1.000,-2.41
+2012-12-23,Packers,Titans,2,0:17,4,3,OTI 38,20-0,Aaron Rodgers pass incomplete deep left intended for James Jones,,0.720,-1.470,-2.19
+2012-12-23,Washington,Eagles,1,4:43,4,2,PHI 35,0-7,Robert Griffin III pass incomplete short right intended for Santana Moss (defended by Colt Anderson),,0.990,-1.270,-2.26
+2012-12-30,Patriots,Dolphins,1,11:43,4,6,MIA 24,0-0,Tom Brady pass incomplete short right intended for Wes Welker,,1.890,-0.540,-2.43
+2012-12-30,Jaguars,Titans,2,0:03,4,1,OTI 43,14-21,Chad Henne pass incomplete deep right intended for Jordan Shipley (defended by Jason McCourty),,0.400,1.800,1.40
+2013-01-05,Texans,Bengals,2,0:09,4,4,CIN 41,9-7,Matt Schaub pass incomplete short left intended for Owen Daniels (defended by Pacman Jones),,0.530,-1.660,-2.19
+2012-11-04,Cardinals,Packers,4,3:53,4,6,CRD 22,17-31,John Skelton pass complete deep right to Michael Floyd for 37 yards (tackle by Davon House),37,-1.900,2.850,4.75
+2012-12-30,Cardinals,49ers,4,2:06,4,24,SFO 37,12-27,Brian Hoyer pass complete deep right to Michael Floyd for 37 yards touchdown,37,0.790,7.000,6.21
+2012-12-30,Browns,Steelers,3,12:43,4,5,CLE 25,3-10,Raymond Ventrone middle for 35 yards (tackle by Antonio Brown),35,-1.700,2.920,4.62
+2012-09-09,Saints,Washington,4,6:25,4,10,WAS 33,23-33,Drew Brees pass complete deep left to Lance Moore for 33 yards touchdown,33,1.150,7.000,5.85
+2012-11-11,Eagles,Cowboys,4,2:41,4,9,DAL 33,17-31,Nick Foles pass complete short right to Damaris Johnson for 32 yards (tackle by Gerald Sensabaugh),32,1.150,6.970,5.82
+2012-09-30,Giants,Eagles,3,0:04,4,1,PHI 40,10-13,Eli Manning pass complete short middle to Victor Cruz for 30 yards (tackle by Dominique Rodgers-Cromartie),30,0.590,4.910,4.32
+2012-09-09,Bills,Jets,4,6:06,4,10,NYJ 29,27-41,Ryan Fitzpatrick pass complete short middle to Steve Johnson for 29 yards touchdown,29,1.500,7.000,5.50
+2012-09-23,Buccaneers,Cowboys,4,2:00,4,11,TAM 19,7-16,Josh Freeman pass complete deep left to Vincent Jackson for 29 yards (tackle by Orlando Scandrick),29,-2.140,2.130,4.27
+2012-11-25,Ravens,Chargers,4,1:59,4,29,RAV 37,10-13,Joe Flacco pass complete short middle to Ray Rice for 29 yards (tackle by Quentin Jammer and Antoine Cason),29,-0.910,3.310,4.22
+2012-12-16,Seahawks,Bills,4,12:49,4,4,BUF 43,47-17,Michael Robinson left guard for 29 yards (tackle by Ron Brooks),29,0.400,4.650,4.25
+2012-10-07,Broncos,Patriots,4,4:24,4,1,NWE 42,21-31,Peyton Manning pass complete deep right to Demaryius Thomas for 28 yards (tackle by Devin McCourty),28,0.460,4.650,4.19
+2012-12-09,Jaguars,Jets,4,0:58,4,15,JAX 29,10-17,Chad Henne pass complete deep middle to Jordan Shipley for 28 yards (tackle by Yeremiah Bell),28,-1.440,2.720,4.16
+2012-11-12,Chiefs,Steelers,4,0:22,4,15,KAN 45,10-13,Matt Cassel pass complete deep middle to Dwayne Bowe for 27 yards (tackle by Ryan Mundy),27,-0.390,3.710,4.10
+2012-09-09,Colts,Bears,4,1:59,4,15,CLT 38,21-41,Andrew Luck pass complete deep left to Donnie Avery for 26 yards (tackle by D.J. Moore),26,-0.850,3.180,4.03
+2012-09-24,Seahawks,Packers,4,0:08,4,10,GNB 24,13-12,Russell Wilson pass complete deep left to Golden Tate for 24 yards touchdown,24,1.870,7.000,5.13
+2012-12-16,Patriots,49ers,4,0:58,4,4,SFO 47,31-41,Tom Brady pass complete deep middle to Brandon Lloyd for 24 yards (tackle by Tarell Brown),24,0.130,4.040,3.91
+2012-09-16,Lions,49ers,4,1:54,4,4,SFO 31,12-27,Matthew Stafford pass complete short middle to Calvin Johnson for 22 yards (tackle by Chris Culliver),22,1.370,0.000,-1.37
+2012-12-09,Eagles,Buccaneers,4,0:16,4,5,TAM 23,16-21,Nick Foles pass complete deep middle to Jason Avant for 22 yards (tackle by Mark Barron),22,1.980,6.970,4.99
+2012-09-13,Bears,Packers,4,6:54,4,7,GNB 21,9-23,Jay Cutler pass complete deep middle to Kellen Davis for 21 yards touchdown,21,2.060,7.000,4.94
+2012-11-18,Chargers,Broncos,4,1:29,4,1,DEN 21,22-30,Philip Rivers pass complete deep left to Danario Alexander for 21 yards touchdown,21,2.210,7.000,4.79
+2012-12-02,Browns,Raiders,3,11:18,4,2,RAI 42,10-3,Brandon Weeden pass complete short left to Trent Richardson for 21 yards (tackle by Michael Mitchell),21,0.460,4.170,3.71
+2012-12-22,Lions,Falcons,4,0:48,4,9,DET 19,18-31,Matthew Stafford pass complete deep middle to Calvin Johnson for 21 yards (tackle by Sean Weatherspoon),21,-2.140,0.000,2.14
+2012-10-21,Washington,Giants,4,2:07,4,10,WAS 23,16-20,Robert Griffin III pass complete deep middle to Logan Paulsen for 19 yards (tackle by Jayron Hosley),19,-1.830,1.730,3.56
+2012-11-11,Rams,49ers,4,5:23,4,8,RAM 33,17-21,John Hekker pass complete short left to Lance Kendricks for 19 yards (tackle by Perrish Cox),19,-1.180,2.390,3.57
+2012-12-23,Cowboys,Saints,4,0:21,4,10,NOR 19,30-31,Tony Romo pass complete deep right to Miles Austin for 19 yards touchdown,19,2.180,7.000,4.82
+2012-12-16,Buccaneers,Saints,3,13:59,4,1,TAM 29,0-24,Keith Tandy right guard for 18 yards (tackle by Will Herring),18,-1.440,2.060,3.50
+2012-12-23,49ers,Seahawks,4,1:47,4,17,SEA 18,12-42,Colin Kaepernick pass complete deep right to Delanie Walker for 18 yards touchdown,18,2.250,7.000,4.75
+2012-09-30,Lions,Vikings,4,0:44,4,10,DET 22,13-20,Matthew Stafford pass complete deep right to Calvin Johnson for 17 yards (tackle by Antoine Winfield),17,-1.900,1.530,3.43
+2012-10-07,49ers,Bills,4,10:50,4,2,BUF 38,31-3,Alex Smith left end for 17 yards,17,0.720,0.000,-0.72
+2012-10-14,Cardinals,Bills,4,1:53,4,11,CRD 40,13-16,John Skelton pass complete short middle to Larry Fitzgerald for 17 yards (tackle by Bryan Scott),17,-0.720,2.720,3.44
+2012-10-28,Jets,Dolphins,4,8:43,4,7,MIA 42,3-27,Mark Sanchez pass complete short right to Clyde Gates for 17 yards (tackle by Sean Smith),17,0.460,3.910,3.45
+2012-11-25,Giants,Packers,4,8:44,4,2,GNB 34,38-10,Eli Manning pass complete short right to Martellus Bennett for 17 yards (tackle by Jerron McMillian),17,1.100,4.440,3.34
+2012-12-23,Jaguars,Patriots,4,0:39,4,10,NWE 47,16-23,Chad Henne pass complete deep right to Toney Clemons for 17 yards (tackle by Devin McCourty),17,0.130,3.580,3.45
+2012-12-30,Saints,Panthers,4,6:15,4,10,CAR 30,24-41,Drew Brees pass complete short left to Lance Moore for 17 yards (tackle by Luke Kuechly),17,1.410,4.710,3.30
+2012-10-01,Cowboys,Bears,4,9:48,4,3,DAL 39,10-27,Tony Romo pass complete short middle to Miles Austin for 16 yards (tackle by D.J. Moore),16,-0.780,2.590,3.37
+2012-10-14,Cowboys,Ravens,4,0:58,4,10,RAV 32,23-31,Tony Romo pass complete deep right to Jason Witten for 16 yards (tackle by Bernard Pollard),16,1.240,0.000,-1.24
+2012-10-18,Seahawks,49ers,4,0:56,4,17,SEA 4,6-13,Russell Wilson pass complete deep middle to Ben Obomanu for 16 yards (tackle by Donte Whitner). Penalty on Paul McQuistan: Chop Block (Declined),16,-2.490,-4.240,-1.75
+2012-10-29,Cardinals,49ers,4,1:20,4,6,SFO 23,3-24,John Skelton pass complete short middle to Larry Fitzgerald for 16 yards (tackle by Perrish Cox),16,1.950,0.000,-1.95
+2012-11-04,Bills,Texans,4,3:41,4,5,BUF 35,9-21,Ryan Fitzpatrick pass complete short middle to Scott Chandler for 16 yards (tackle by Kareem Jackson),16,-1.040,2.320,3.36
+2012-11-22,Texans,Lions,4,4:08,4,7,DET 41,24-31,Matt Schaub pass complete short middle to Andre Johnson for 16 yards (tackle by Ricardo Silva),16,0.530,3.910,3.38
+2012-12-22,Lions,Falcons,4,0:14,4,10,ATL 49,18-31,Matthew Stafford pass complete short middle to Will Heller for 16 yards (tackle by Asante Samuel),16,0.000,1.270,1.27
+2012-09-30,Cardinals,Dolphins,4,0:29,4,10,MIA 15,20-21,Kevin Kolb pass complete short left to Andre Roberts for 15 yards touchdown,15,2.440,7.000,4.56
+2012-10-14,Patriots,Seahawks,4,0:58,4,17,NWE 13,23-24,Tom Brady pass complete short right to Wes Welker for 15 yards (tackle by Bobby Wagner),15,-2.490,-3.710,-1.22
+2012-10-21,Titans,Bills,4,1:08,4,9,BUF 15,34-34,Matt Hasselbeck pass complete short middle to Nate Washington for 15 yards touchdown,15,2.440,7.000,4.56
+2012-10-21,Buccaneers,Saints,4,5:42,4,10,NOR 17,21-35,Josh Freeman pass complete short right to Dallas Clark for 15 yards (tackle by Jabari Greer),15,2.310,6.740,4.43
+2012-11-08,Jaguars,Colts,4,10:43,4,11,CLT 35,3-24,Chad Henne pass complete short middle to Cecil Shorts for 15 yards (tackle by Tom Zbikowski),15,0.970,4.240,3.27
+2012-11-18,Jaguars,Texans,5,6:36,4,10,HTX 49,34-37,Chad Henne pass complete short middle to Justin Blackmon for 15 yards (tackle by Danieal Manning),15,0.000,3.310,3.31
+2012-12-16,Patriots,49ers,4,12:44,4,2,NWE 42,17-31,Tom Brady pass complete short right to Wes Welker for 15 yards (tackle by Chris Culliver),15,-0.590,2.720,3.31
+2012-10-28,Saints,Broncos,4,4:13,4,9,NOR 41,7-34,Drew Brees pass complete short right to Marques Colston for 14 yards,14,-0.650,2.590,3.24
+2012-10-28,Eagles,Falcons,4,11:45,4,9,ATL 49,10-30,Michael Vick pass complete short right to Brent Celek for 14 yards (tackle by Kroy Biermann and Thomas DeCoud),14,0.000,3.250,3.25
+2012-11-04,Dolphins,Colts,4,1:48,4,15,MIA 45,20-23,Ryan Tannehill pass complete short left to Daniel Thomas for 14 yards (tackle by Moise Fokou). Penalty on Jake Long: Offensive Holding (Declined),14,-0.390,-1.660,-1.27
+2012-12-02,Colts,Lions,4,0:03,4,10,DET 14,34-33,Andrew Luck pass complete short right to Donnie Avery for 14 yards touchdown,14,2.510,7.000,4.49
+2012-12-22,Lions,Falcons,4,2:41,4,10,DET 46,16-31,Matthew Stafford pass complete short middle to Tony Scheffler for 14 yards (tackle by Thomas DeCoud),14,-0.320,2.920,3.24
+2012-12-23,Cardinals,Bears,4,8:26,4,1,CRD 39,6-28,Brian Hoyer pass complete short left to Larry Fitzgerald for 14 yards (tackle by Charles Tillman),14,-0.780,2.460,3.24
+2012-12-30,49ers,Cardinals,3,0:38,4,6,CRD 36,17-6,Colin Kaepernick pass complete short left to Michael Crabtree for 14 yards (tackle by Daryl Washington),14,0.880,4.110,3.23
+2012-09-09,Colts,Bears,4,12:16,4,10,CHI 31,14-34,Andrew Luck pass complete short middle to Kris Adams for 13 yards (tackle by D.J. Moore),13,1.320,4.370,3.05
+2012-09-30,Raiders,Broncos,4,3:00,4,1,RAI 29,6-37,Carson Palmer pass complete short left to Juron Criner for 13 yards (tackle by Tracy Porter),13,-1.440,1.730,3.17
+2012-11-11,Bills,Patriots,3,4:12,4,4,NWE 27,17-31,Ryan Fitzpatrick pass complete short right to Steve Johnson for 13 yards (tackle by Alfonzo Dennard),13,1.750,4.650,2.90
+2012-12-30,Bills,Jets,4,1:14,4,4,NYJ 13,27-9,Tashard Choice right guard for 13 yards touchdown,13,2.640,7.000,4.36
+2012-10-07,Bears,Jaguars,3,9:34,4,1,JAX 45,3-3,Jay Cutler pass complete short middle to Brandon Marshall for 12 yards (tackle by Kyle Bosworth). Penalty on JAX: Roughing the Passer 15 yards,12,0.270,4.370,4.10
+2012-10-14,Vikings,Washington,4,1:20,4,1,WAS 26,26-38,Christian Ponder pass complete short right to Michael Jenkins for 12 yards (tackle by David Jones),12,1.890,4.650,2.76
+2012-12-16,Packers,Bears,3,9:44,4,6,CHI 26,14-7,Aaron Rodgers pass complete short middle to Randall Cobb for 12 yards (tackle by Chris Conte),12,1.760,4.650,2.89
+2012-12-23,Eagles,Washington,4,0:18,4,2,WAS 17,20-27,Nick Foles pass complete short right to LeSean McCoy for 12 yards (tackle by Jordan Pugh),12,2.440,6.060,3.62
+2013-01-12,Packers,49ers,4,1:35,4,1,SFO 35,24-45,Aaron Rodgers pass complete short middle to Jordy Nelson for 12 yards (tackle by Patrick Willis),12,1.000,4.040,3.04
+2012-10-14,Cowboys,Ravens,4,2:08,4,10,DAL 46,23-31,Tony Romo pass complete short left to Jason Witten for 11 yards (tackle by Dannell Ellerbe),11,-0.320,2.720,3.04
+2012-10-28,Saints,Broncos,4,3:11,4,8,DEN 43,7-34,Drew Brees pass complete short right to Darren Sproles for 11 yards (tackle by Wesley Woodyard),11,0.400,3.450,3.05
+2012-11-11,Seahawks,Jets,4,2:00,4,3,NYJ 35,28-7,Russell Wilson pass complete short right to Zach Miller for 11 yards (tackle by Yeremiah Bell),11,0.990,3.970,2.98
+2012-11-22,Cowboys,Washington,4,8:24,4,3,WAS 11,27-35,Tony Romo pass complete short left to Dez Bryant for 11 yards touchdown,11,2.800,7.000,4.20
+2012-12-23,Buccaneers,Rams,4,1:12,4,14,TAM 20,13-28,Josh Freeman pass complete short middle to Dallas Clark for 11 yards (tackle by Jo-Lonn Dunbar),11,-2.030,-3.510,-1.48
+2012-09-09,Jaguars,Vikings,4,0:32,4,3,MIN 49,15-20,Blaine Gabbert pass complete short left to Justin Blackmon for 10 yards,10,0.000,2.980,2.98
+2012-10-07,Browns,Giants,4,10:50,4,3,NYG 20,20-34,Brandon Weeden pass complete short middle to Trent Richardson for 10 yards (tackle by Stevie Brown and Antrel Rolle),10,2.220,4.910,2.69
+2012-10-14,Seahawks,Patriots,4,7:26,4,3,NWE 10,16-23,Russell Wilson pass complete short left to Braylon Edwards for 10 yards touchdown. Penalty on Alfonzo Dennard: Defensive Pass Interference (Declined),10,2.860,7.000,4.14
+2012-10-21,Rams,Packers,4,0:29,4,6,GNB 13,13-30,Sam Bradford pass complete short middle to Steve Smith for 10 yards (tackle by Davon House),10,2.590,0.000,-2.59
+2012-10-29,Cardinals,49ers,3,4:26,4,2,SFO 39,0-24,John Skelton pass complete short middle to Jeff King for 10 yards (tackle by Perrish Cox),10,0.660,3.640,2.98
+2012-11-18,Buccaneers,Panthers,4,4:56,4,5,CAR 40,10-21,Josh Freeman pass complete deep left to Mike Williams for 10 yards (tackle by Josh Norman),10,0.590,3.580,2.99
+2012-11-18,Rams,Jets,4,1:36,4,3,RAM 41,13-27,Sam Bradford pass complete short right to Austin Pettis for 10 yards (tackle by Yeremiah Bell),10,-0.650,2.320,2.97
+2012-12-02,Eagles,Cowboys,4,2:00,4,13,PHI 45,27-38,Nick Foles pass complete short right to Brent Celek for 10 yards (tackle by Morris Claiborne and Sterling Moore),10,-0.390,-1.930,-1.54
+2012-12-30,Ravens,Bengals,4,4:37,4,1,RAV 32,14-23,Sam Koch for 10 yards (tackle by Brian Leonard),10,-1.240,1.730,2.97
+2012-09-30,Cardinals,Dolphins,4,1:50,4,2,MIA 43,14-21,Kevin Kolb pass complete short left to Andre Roberts for 9 yards (tackle by Nolan Carroll),9,0.400,3.310,2.91
+2012-09-30,Jaguars,Bengals,4,4:38,4,14,JAX 17,10-27,Blaine Gabbert pass complete short middle to Maurice Jones-Drew for 9 yards (tackle by Robert Geathers),9,-2.320,-3.840,-1.52
+2012-10-21,Washington,Giants,4,10:12,4,2,NYG 48,13-20,Robert Griffin III pass complete short left to Leonard Hankerson for 9 yards (tackle by Keith Rivers),9,0.070,2.980,2.91
+2012-10-21,Buccaneers,Saints,4,0:05,4,9,NOR 9,28-35,Josh Freeman pass complete short left to Mike Williams for 9 yards. Penalty on Mike Williams: Illegal Touch Pass (no play),9,2.830,4.370,1.54
+2012-11-18,Rams,Jets,4,0:47,4,11,50,13-27,Sam Bradford pass complete short right to Chris Givens for 9 yards (tackle by Ellis Lankster),9,-0.060,-1.660,-1.60
+2012-11-25,Saints,49ers,4,0:31,4,2,NOR 19,21-31,Drew Brees pass complete short middle to Jimmy Graham for 9 yards (tackle by Patrick Willis),9,-2.140,0.810,2.95
+2012-12-02,Dolphins,Patriots,4,10:12,4,1,NWE 22,10-20,Daniel Thomas left tackle for 9 yards (tackle by Devin McCourty),9,2.140,4.710,2.57
+2012-12-09,Rams,Bills,4,1:53,4,1,BUF 37,7-12,Sam Bradford pass complete short middle to Austin Pettis for 9 yards (tackle by Justin Rogers),9,0.790,3.710,2.92
+2012-09-30,Raiders,Broncos,4,0:27,4,18,DEN 27,6-37,Carson Palmer pass complete short right to Derek Hagan for 8 yards (tackle by David Bruton),8,1.670,-0.150,-1.82
+2012-10-14,Rams,Dolphins,4,11:38,4,2,MIA 41,6-17,Sam Bradford pass complete short right to Brandon Gibson for 8 yards (tackle by Nolan Carroll),8,0.530,3.380,2.85
+2012-10-21,Vikings,Cardinals,4,0:14,4,5,CRD 33,21-14,Adrian Peterson up the middle for 8 yards (tackle by James Sanders),8,1.170,2.850,1.68
+2012-10-21,Buccaneers,Saints,4,0:31,4,1,NOR 17,28-35,Josh Freeman pass complete short left to Vincent Jackson for 8 yards (tackle by Malcolm Jenkins),8,2.460,5.140,2.68
+2012-11-04,Washington,Panthers,4,3:19,4,4,CAR 37,6-21,Robert Griffin III up the middle for 8 yards (tackle by Captain Munnerlyn and James Anderson),8,0.790,3.640,2.85
+2012-11-25,Cardinals,Rams,4,0:49,4,10,RAM 11,17-31,Ryan Lindley pass complete short right to Rob Housler for 8 yards (tackle by Jo-Lonn Dunbar),8,2.700,0.380,-2.32
+2012-12-02,Colts,Lions,4,3:29,4,2,CLT 23,21-33,Andrew Luck up the middle for 8 yards (tackle by Nick Fairley). Penalty on Nick Fairley: Horse Collar Tackle 15 yards,8,-1.830,1.990,3.82
+2012-12-16,Patriots,49ers,4,1:24,4,3,NWE 39,31-41,Tom Brady pass complete short right to Deion Branch for 8 yards (tackle by Chris Culliver),8,-0.780,2.060,2.84
+2013-01-05,Bengals,Texans,4,2:51,4,11,HTX 36,13-19,Andy Dalton pass complete short left to Marvin Jones for 8 yards (tackle by Johnathan Joseph and Shiloh Keo),8,0.880,-0.810,-1.69
+2012-09-05,Giants,Cowboys,4,4:03,4,2,DAL 29,10-24,Eli Manning pass complete short middle to Victor Cruz for 7 yards (tackle by Sean Lee). Penalty on DeMarcus Ware: Defensive Offside (Declined),7,1.600,4.110,2.51
+2012-09-16,Vikings,Colts,4,5:15,4,4,CLT 7,12-20,Christian Ponder pass complete short right to Stephen Burton for 7 yards touchdown,7,2.990,7.000,4.01
+2012-09-23,Chiefs,Saints,4,2:26,4,5,NOR 46,21-24,Matt Cassel pass complete short left to Dwayne Bowe for 7 yards (tackle by Corey White),7,0.200,2.980,2.78
+2012-10-14,49ers,Giants,3,3:01,4,15,NYG 34,3-23,Alex Smith pass complete short right to Vernon Davis for 7 yards (tackle by Jayron Hosley),7,1.060,-0.740,-1.80
+2012-10-28,Colts,Titans,4,4:11,4,1,OTI 8,6-13,Delone Carter up the middle for 7 yards (tackle by Michael Griffin),7,2.990,6.970,3.98
+2012-11-11,Ravens,Raiders,3,5:44,4,3,RAI 7,47-17,Sam Koch left tackle for 7 yards touchdown,7,2.990,7.000,4.01
+2012-11-18,Rams,Jets,4,3:54,4,4,RAM 16,13-27,Sam Bradford pass complete short right to Lance Kendricks for 7 yards (tackle by LaRon Landry),7,-2.390,0.480,2.87
+2012-11-25,Vikings,Bears,4,3:45,4,5,CHI 47,10-28,Christian Ponder pass complete short right to John Carlson for 7 yards (tackle by Zackary Bowman),7,0.130,2.920,2.79
+2012-12-02,Seahawks,Bears,4,1:11,4,3,CHI 48,10-14,Russell Wilson pass complete short middle to Zach Miller for 7 yards (tackle by Brian Urlacher),7,0.070,2.850,2.78
+2012-12-09,Jaguars,Jets,4,0:35,4,2,NYJ 35,10-17,Chad Henne pass complete short left to Kevin Elliott for 7 yards (tackle by Eric Smith),7,0.990,3.710,2.72
+2012-12-30,Falcons,Buccaneers,4,7:07,4,7,TAM 7,16-22,Matt Ryan pass complete short right to Harry Douglas for 7 yards touchdown,7,2.970,7.000,4.03
+2012-12-30,Packers,Vikings,4,5:45,4,1,GNB 43,27-34,Aaron Rodgers pass complete short right to Jarrett Boykin for 7 yards (tackle by A.J. Jefferson). Penalty on A.J. Jefferson: Defensive Pass Interference (Declined),7,-0.520,2.260,2.78
+2012-12-30,Patriots,Dolphins,4,10:06,4,4,MIA 30,21-0,Tom Brady pass complete short left to Wes Welker for 7 yards (tackle by Bryan McCann),7,1.460,4.040,2.58
+2012-12-30,49ers,Cardinals,4,11:59,4,6,CRD 30,24-6,Colin Kaepernick pass complete short middle to Michael Crabtree for 7 yards (tackle by Rashad Johnson),7,1.430,4.040,2.61
+2012-09-23,Steelers,Raiders,4,3:51,4,1,PIT 29,31-31,Isaac Redman up the middle for 6 yards (tackle by Philip Wheeler and Matt Giordano),6,-1.440,1.270,2.71
+2012-09-30,Saints,Packers,4,4:41,4,2,NOR 49,27-28,Drew Brees pass complete short middle to Lance Moore for 6 yards (tackle by Casey Hayward),6,-0.130,2.590,2.72
+2012-10-28,Seahawks,Lions,4,6:41,4,2,DET 32,17-21,Russell Wilson pass complete short right to Golden Tate for 6 yards (tackle by Alphonso Smith),6,1.300,3.840,2.54
+2012-10-29,Cardinals,49ers,4,0:59,4,7,SFO 7,3-24,John Skelton pass complete short right to Larry Fitzgerald for 6 yards (tackle by Dashon Goldson and Patrick Willis),6,2.970,0.380,-2.59
+2012-11-04,Jaguars,Lions,4,0:54,4,5,DET 6,14-31,Blaine Gabbert pass complete short middle to Justin Blackmon for 6 yards touchdown,6,2.990,7.000,4.01
+2012-11-04,Seahawks,Vikings,4,1:10,4,4,MIN 15,30-20,Russell Wilson pass complete short right to Michael Robinson for 6 yards (tackle by Jasper Brinkley),6,2.520,5.140,2.62
+2012-12-23,Browns,Broncos,4,9:27,4,5,CLE 36,6-31,Colt McCoy pass complete short right to Trent Richardson for 6 yards (tackle by Mike Adams),6,-0.980,1.730,2.71
+2012-12-30,Rams,Seahawks,4,0:59,4,5,SEA 35,13-20,Sam Bradford for 6 yards,6,0.980,3.640,2.66
+2013-01-06,Seahawks,Washington,4,3:21,4,1,WAS 32,24-14,Russell Wilson pass complete short left to Zach Miller for 6 yards (tackle by Reed Doughty),6,1.310,3.840,2.53
+2012-09-30,Titans,Texans,4,8:11,4,3,OTI 15,7-28,Matt Hasselbeck pass complete short left to Craig Stevens for 5 yards (tackle by Brian Cushing),5,-2.440,0.280,2.72
+2012-10-28,Jets,Dolphins,3,1:15,4,1,NYJ 21,3-27,Lex Hilliard up the middle for 5 yards (tackle by Kheeston Randall and Tony McDaniel),5,-1.960,0.670,2.63
+2012-10-28,Falcons,Eagles,4,0:26,4,6,PHI 30,30-17,Matt Ryan pass complete short middle to Jason Snelling for 5 yards (tackle by Fletcher Cox). Penalty on Trent Cole: Defensive Offside 5 yards (no play),5,1.430,1.950,.52
+2012-10-28,Washington,Steelers,4,8:10,4,4,WAS 43,12-27,Robert Griffin III pass complete short left to Santana Moss for 5 yards (tackle by Ike Taylor),5,-0.520,2.130,2.65
+2012-11-04,Bengals,Broncos,4,2:08,4,1,DEN 40,20-31,Brian Leonard right guard for 5 yards (tackle by Wesley Woodyard and Jim Leonhard),5,0.590,3.250,2.66
+2012-12-02,Chiefs,Panthers,3,6:08,4,1,CAR 27,17-14,Peyton Hillis up the middle for 5 yards (tackle by James Anderson),5,1.820,4.110,2.29
+2012-12-09,Falcons,Panthers,3,6:07,4,4,CAR 13,0-23,Matt Ryan pass complete short right to Jason Snelling for 5 yards (tackle by Luke Kuechly),5,2.640,0.000,-2.64
+2012-12-09,Bears,Vikings,4,6:02,4,3,MIN 32,7-21,Jay Cutler pass complete short middle to Brandon Marshall for 5 yards (tackle by Josh Robinson),5,1.290,3.780,2.49
+2012-12-16,Rams,Vikings,3,0:12,4,1,MIN 21,7-33,Sam Bradford pass complete short left to Austin Pettis for 5 yards (tackle by A.J. Jefferson),5,2.210,4.510,2.30
+2012-12-23,Bills,Dolphins,4,2:13,4,5,MIA 25,10-24,Ryan Fitzpatrick up the middle for 5 yards (tackle by Karlos Dansby),5,1.850,4.240,2.39
+2012-09-05,Giants,Cowboys,4,3:05,4,1,DAL 13,10-24,Ahmad Bradshaw left tackle for 4 yards (tackle by Sean Lee and Anthony Spencer),4,2.720,5.140,2.42
+2012-09-16,Dolphins,Raiders,4,1:15,4,2,RAI 28,35-13,Jorvorskie Lane up the middle for 4 yards (tackle by Matt Shaughnessy),4,1.700,3.450,1.75
+2012-10-21,Panthers,Cowboys,4,0:03,4,20,CAR 36,-,Cam Newton pass complete short right to Greg Olsen for 4 yards lateral to Jordan Gross for 1 yard lateral to Cam Newton for 6 yards. Cam Newton fumbles recovered by DeMarcus Ware at CAR-47 (tackle by Byron Bell),4,-0.980,1.070,2.05
+2012-10-21,Rams,Packers,4,2:13,4,5,RAM 24,13-27,Sam Bradford pass complete short middle to Steve Smith for 4 yards (tackle by Morgan Burnett),4,-1.770,-3.710,-1.94
+2012-11-11,Buccaneers,Chargers,3,5:36,4,1,50,17-21,Josh Freeman up the middle for 4 yards (tackle by Shaun Phillips),4,-0.060,2.520,2.58
+2012-12-09,Chargers,Steelers,3,1:14,4,2,SDG 28,27-10,Eric Weddle left end for 4 yards (tackle by Robert Golden),4,-1.500,1.070,2.57
+2012-12-23,Buccaneers,Rams,4,12:15,4,7,RAM 7,13-28,Josh Freeman pass complete short middle to Doug Martin for 4 yards (tackle by Rodger Saffold),4,2.970,0.380,-2.59
+2012-09-09,Eagles,Browns,4,2:50,4,1,CLE 23,10-16,LeSean McCoy right tackle for 3 yards (tackle by Kaluka Maiava),3,2.080,4.240,2.16
+2012-09-09,Dolphins,Texans,4,8:24,4,8,HTX 9,10-30,Ryan Tannehill pass complete short left to Anthony Fasano for 3 yards (tackle by Johnathan Joseph),3,2.830,0.380,-2.45
+2012-09-16,Texans,Jaguars,4,2:00,4,2,JAX 11,27-7,Justin Forsett up the middle for 3 yards (tackle by C.J. Mosley),3,2.820,5.370,2.55
+2012-09-23,Chiefs,Saints,5,10:40,4,1,NOR 44,24-24,Jamaal Charles right tackle for 3 yards (tackle by Curtis Lofton),3,0.330,2.850,2.52
+2012-09-24,Seahawks,Packers,4,4:21,4,2,GNB 17,7-12,Marshawn Lynch left guard for 3 yards (tackle by B.J. Raji and Morgan Burnett),3,2.440,4.650,2.21
+2012-10-04,Cardinals,Rams,4,5:30,4,6,RAM 6,3-17,Kevin Kolb pass complete short left to Larry Fitzgerald for 3 yards (tackle by Janoris Jenkins),3,2.990,0.380,-2.61
+2012-10-14,Dolphins,Rams,4,4:15,4,1,MIA 40,17-14,Chris Clemons up the middle for 3 yards (tackle by Trumaine Johnson),3,-0.720,1.800,2.52
+2012-10-21,Washington,Giants,4,7:46,4,1,NYG 30,13-20,Robert Griffin III right end for 3 yards (tackle by Stevie Brown),3,1.520,3.780,2.26
+2012-11-04,Raiders,Buccaneers,4,4:34,4,2,TAM 16,24-35,Carson Palmer up the middle for 3 yards (tackle by Lavonte David),3,2.500,4.710,2.21
+2012-11-08,Jaguars,Colts,4,11:01,4,16,CLT 40,3-24,Chad Henne pass complete short left to Rashad Jennings for 3 yards (tackle by Cory Redding). Penalty on Jerry Hughes: Defensive Offside 5 yards (no play),3,0.590,0.970,.38
+2012-11-11,49ers,Rams,4,10:09,4,1,RAM 21,7-17,Frank Gore right end for 3 yards (tackle by Cortland Finnegan),3,2.210,4.370,2.16
+2012-11-18,Cowboys,Browns,4,10:30,4,1,CLE 44,10-13,Tony Romo pass complete short right to Lawrence Vickers for 3 yards (tackle by D'Qwell Jackson),3,0.330,2.850,2.52
+2012-12-02,Browns,Raiders,4,4:57,4,1,RAI 45,13-10,Brandon Weeden up the middle for 3 yards,3,0.270,0.000,-0.27
+2012-12-02,Raiders,Browns,4,0:32,4,1,CLE 15,10-20,Carson Palmer pass complete short middle to Juron Criner for 3 yards (tackle by Eric Hagg),3,2.590,4.780,2.19
+2012-12-09,Dolphins,49ers,4,8:01,4,3,SFO 3,12-20,Ryan Tannehill pass complete short left to Anthony Fasano for 3 yards touchdown,3,3.040,7.000,3.96
+2012-12-09,Eagles,Buccaneers,4,0:54,4,1,TAM 31,16-21,Nick Foles left guard for 3 yards (tackle by Daniel Te'o-Nesheim),3,1.410,3.710,2.30
+2012-12-23,Packers,Titans,4,8:39,4,2,OTI 24,48-0,Ryan Grant right tackle for 3 yards (tackle by Derrick Morgan and Jason McCourty),3,1.990,4.170,2.18
+2013-01-13,Texans,Patriots,4,12:07,4,1,NWE 28,13-38,Arian Foster up the middle for 3 yards (tackle by Brandon Spikes),3,1.720,3.910,2.19
+2012-09-09,Steelers,Broncos,3,9:58,4,1,DEN 38,10-7,Ben Roethlisberger middle for 2 yards (tackle by Elvis Dumervil and Rahim Moore),2,0.720,3.180,2.46
+2012-09-09,Saints,Washington,4,2:29,4,2,WAS 2,31-40,Drew Brees pass complete short left to Darren Sproles for 2 yards touchdown,2,3.250,7.000,3.75
+2012-09-16,Seahawks,Cowboys,4,3:08,4,1,DAL 38,27-7,Russell Wilson up the middle for 2 yards (tackle by Sean Lissemore and DeMarcus Ware),2,0.720,3.180,2.46
+2012-09-17,Broncos,Falcons,4,3:29,4,2,ATL 2,20-27,Willis McGahee right guard for 2 yards touchdown,2,3.250,7.000,3.75
+2012-09-30,49ers,Jets,3,2:55,4,1,NYJ 2,16-0,Frank Gore left guard for 2 yards touchdown,2,3.250,7.000,3.75
+2012-10-07,Browns,Giants,3,13:12,4,1,CLE 36,17-27,Brandon Weeden up the middle for 2 yards (tackle by Justin Tuck),2,-0.980,1.470,2.45
+2012-10-07,Eagles,Steelers,4,13:11,4,1,PHI 30,7-13,LeSean McCoy up the middle for 2 yards (tackle by Keenan Lewis),2,-1.370,1.070,2.44
+2012-10-07,Eagles,Steelers,4,10:02,4,1,PIT 47,7-13,LeSean McCoy right guard for 2 yards (tackle by Lawrence Timmons),2,0.130,2.590,2.46
+2012-10-21,Colts,Browns,3,5:31,4,1,CLE 24,14-13,Delone Carter up the middle for 2 yards (tackle by D'Qwell Jackson),2,2.020,0.000,-2.02
+2012-11-04,Ravens,Browns,4,0:36,4,1,CLE 46,25-15,Joe Flacco right guard for 2 yards (tackle by Billy Winn),2,0.200,2.390,2.19
+2012-11-04,Bears,Titans,4,3:56,4,12,OTI 12,51-20,Armando Allen up the middle for 2 yards (tackle by Tim Shaw and Jurrell Casey),2,2.630,0.370,-2.26
+2012-12-16,Washington,Browns,4,1:20,4,1,CLE 5,38-21,Darrel Young left guard for 2 yards (tackle by Tashaun Gipson),2,3.030,6.510,3.48
+2013-01-05,Bengals,Texans,4,11:21,4,1,HTX 39,10-19,BenJarvus Green-Ellis up the middle for 2 yards (tackle by Bradie James),2,0.660,3.120,2.46
+2012-09-16,Chargers,Titans,4,1:17,4,1,OTI 1,37-10,Jackie Battle left guard for 1 yard touchdown,1,3.550,7.000,3.45
+2012-10-14,Packers,Texans,4,2:00,4,2,HTX 28,42-24,James Starks left tackle for 1 yard (tackle by Jared Crick),1,1.700,-0.740,-2.44
+2012-10-14,Rams,Dolphins,4,8:35,4,1,MIA 1,12-17,Sam Bradford up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2012-10-28,Cowboys,Giants,3,9:21,4,1,NYG 1,16-23,Tony Romo right end for 1 yard touchdown,1,3.550,7.000,3.45
+2012-10-28,Rams,Patriots,3,5:59,4,1,RAM 31,7-38,Sam Bradford pass complete short right to Austin Pettis for 1 yard (tackle by Tavon Wilson),1,-1.310,1.070,2.38
+2012-11-04,Seahawks,Vikings,4,3:09,4,1,MIN 32,30-20,Russell Wilson right guard for 1 yard (tackle by Chad Greenway and Erin Henderson),1,1.310,0.000,-1.31
+2012-11-18,Buccaneers,Panthers,4,10:40,4,1,CAR 2,10-14,Doug Martin up the middle for 1 yard (tackle by Thomas Davis). Doug Martin fumbles (forced by Thomas Davis) recovered by Luke Kuechly at CAR-0,1,3.250,-0.280,-3.53
+2012-12-02,Cowboys,Eagles,3,0:29,4,1,PHI 39,17-24,DeMarco Murray middle for 1 yard (tackle by Cedric Thornton and DeMeco Ryans),1,0.660,3.050,2.39
+2012-12-02,Chiefs,Panthers,3,4:03,4,1,CAR 13,17-14,Peyton Hillis right guard for 1 yard (tackle by James Anderson),1,2.720,4.780,2.06
+2012-12-16,Bears,Packers,3,0:22,4,1,GNB 1,7-21,Jay Cutler pass complete short right to Alshon Jeffery for 1 yard. Penalty on Alshon Jeffery: Offensive Pass Interference 10 yards (no play),1,3.550,2.700,-0.85
+2012-12-16,Patriots,49ers,4,15:00,4,1,SFO 1,16-31,Tom Brady up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2012-12-16,Chiefs,Raiders,3,2:36,4,9,RAI 9,0-12,Brady Quinn pass complete short right to Jamaal Charles for 1 yard (tackle by Matt Giordano),1,2.830,0.380,-2.45
+2013-01-13,Texans,Patriots,4,15:00,4,1,HTX 23,13-31,Arian Foster left end for 1 yard (tackle by Aqib Talib),1,-1.830,0.540,2.37
+2013-01-13,Texans,Patriots,4,5:15,4,1,NWE 1,26-38,Matt Schaub pass complete short left to Arian Foster for 1 yard touchdown,1,3.550,7.000,3.45
+2012-09-09,Seahawks,Cardinals,4,0:59,4,6,CRD 27,16-20,Russell Wilson pass incomplete deep right intended for Sidney Rice. Penalty on Patrick Peterson: Defensive Pass Interference 14 yards (no play),0,1.700,4.710,3.01
+2012-09-09,Washington,Saints,3,11:35,4,1,NOR 33,20-14,Robert Griffin III pass incomplete deep right intended for Aldrick Robinson. Penalty on Roman Harper: Defensive Pass Interference 32 yards (no play),0,1.210,6.970,5.76
+2012-09-10,Raiders,Chargers,3,9:16,4,7,RAI 47,6-10,Shane Lechler for no gain. Shane Lechler fumbles recovered by Shane Lechler at OAK-OAK,0,-0.260,-2.980,-2.72
+2012-09-10,Raiders,Chargers,4,9:58,4,21,RAI 49,6-19,Shane Lechler for no gain. Shane Lechler fumbles recovered by David Ausberry at OAK-42,0,-0.130,-2.790,-2.66
+2012-09-10,Raiders,Chargers,4,2:51,4,4,RAI 42,6-22,Carson Palmer pass incomplete short middle intended for Darrius Heyward-Bey. Penalty on Antoine Cason: Defensive Pass Interference 8 yards (no play),0,-0.590,2.260,2.85
+2012-09-10,Raiders,Chargers,4,1:24,4,3,SDG 26,6-22,Carson Palmer pass incomplete deep left intended for Derek Hagan. Penalty on Melvin Ingram: Roughing the Passer 13 yards (no play),0,1.840,4.710,2.87
+2012-09-16,Saints,Panthers,4,7:19,4,4,CAR 24,20-35,Drew Brees pass incomplete short right intended for Jimmy Graham (defended by Jon Beason). Drew Brees fumbles (forced by Charles Johnson) recovered by Drew Brees at CAR-33,0,1.940,-0.540,-2.48
+2012-09-16,Seahawks,Cowboys,4,0:43,4,4,DAL 30,27-7,Leon Washington left guard for no gain (tackle by Victor Butler and Sean Lissemore),0,1.460,-0.940,-2.40
+2012-09-23,Cardinals,Eagles,4,0:36,4,16,PHI 22,27-6,Kevin Kolb kneels for no gain,0,1.990,-0.410,-2.40
+2012-09-23,Broncos,Texans,4,5:04,4,16,HTX 45,18-31,Peyton Manning pass incomplete deep right intended for Demaryius Thomas. Penalty on Brice McCain: Illegal Contact 5 yards (no play),0,0.270,2.920,2.65
+2012-09-27,Browns,Ravens,4,0:10,4,10,RAV 33,16-23,Brandon Weeden pass incomplete deep left intended for Jordan Cameron (defended by Ed Reed). Penalty on Paul Kruger: Unnecessary Roughness 15 yards,0,1.150,0.000,-1.15
+2012-09-30,Giants,Eagles,4,1:03,4,1,NYG 44,17-19,Eli Manning pass incomplete deep right intended for Ramses Barden. Penalty on Dominique Rodgers-Cromartie: Defensive Pass Interference 21 yards (no play),0,-0.460,3.250,3.71
+2012-10-21,Ravens,Texans,4,13:58,4,3,HTX 28,10-36,Joe Flacco pass incomplete short right intended for Torrey Smith. Penalty on Johnathan Joseph: Defensive Pass Interference 9 yards (no play),0,1.680,4.310,2.63
+2012-10-21,Cardinals,Vikings,3,7:47,4,2,MIN 18,7-21,John Skelton sacked by Antoine Winfield for 0 yards,0,2.370,-0.150,-2.52
+2012-10-21,Raiders,Jaguars,4,3:53,4,10,JAX 25,16-23,Carson Palmer pass incomplete deep right intended for Darrius Heyward-Bey. Penalty on Aaron Ross: Defensive Pass Interference 24 yards (no play),0,1.800,6.970,5.17
+2012-10-28,Falcons,Eagles,4,0:20,4,1,PHI 25,30-17,Michael Turner up the middle for no gain (tackle by Fletcher Cox). Penalty on Trent Cole: Personal Foul (Offsetting) Penalty on Tony Gonzalez: Personal Foul (Offsetting),0,1.950,-0.610,-2.56
+2012-11-04,Raiders,Buccaneers,4,5:46,4,2,TAM 37,24-35,Carson Palmer pass incomplete deep right intended for Denarius Moore. Penalty on Eric Wright: Defensive Pass Interference 13 yards (no play),0,0.790,3.970,3.18
+2012-11-11,Raiders,Ravens,4,7:36,4,3,RAV 10,20-55,Carson Palmer for no gain. Carson Palmer fumbles recovered by Albert McClellan at BAL-13 (tackle by Marcel Reece),0,2.860,0.320,-2.54
+2012-11-18,Raiders,Saints,4,15:00,4,1,NOR 40,10-35,Marcel Reece up the middle for no gain,0,0.590,-1.600,-2.19
+2012-11-18,Washington,Eagles,4,14:10,4,1,PHI 18,24-6,Alfred Morris right tackle for no gain (tackle by Jason Babin),0,2.400,-0.150,-2.55
+2012-11-18,Eagles,Washington,4,1:41,4,3,PHI 43,6-31,Nick Foles pass incomplete short right intended for Jeremy Maclin. Penalty on Lorenzo Alexander: Defensive Offside 5 yards (no play),0,-0.520,2.130,2.65
+2012-11-19,Bears,49ers,4,2:25,4,1,SFO 45,7-32,Armando Allen up the middle for no gain (tackle by Demarcus Dobbs),0,0.270,-1.930,-2.20
+2012-11-22,Jets,Patriots,3,6:56,4,1,NWE 1,3-35,Shonn Greene up the middle for no gain (tackle by Brandon Spikes),0,3.550,0.380,-3.17
+2012-11-25,Vikings,Bears,4,2:36,4,1,CHI 31,10-28,Adrian Peterson left guard for no gain (tackle by Julius Peppers),0,1.410,-1.000,-2.41
+2012-11-26,Eagles,Panthers,4,8:42,4,1,CAR 40,22-24,Bryce Brown right end for no gain (tackle by Frank Alexander),0,0.590,-1.600,-2.19
+2012-12-09,49ers,Dolphins,3,1:45,4,1,MIA 38,13-6,Colin Kaepernick pass incomplete short right intended for Michael Crabtree (defended by Sean Smith). Penalty on Sean Smith: Defensive Pass Interference 8 yards (no play),0,0.720,3.580,2.86
+2012-12-16,Bears,Packers,4,8:11,4,13,CHI 30,10-21,. Randall Cobb fumbles recovered by Anthony Walters at GNB-16. Penalty on Jarrett Bush: Offensive Holding (Declined),0,-1.370,4.510,5.88
+2012-12-16,Jaguars,Dolphins,4,12:27,4,1,MIA 15,3-16,Montell Owens left tackle for no gain (tackle by Jason Trusnik),0,2.590,0.220,-2.37
+2012-12-23,Chiefs,Colts,4,10:21,4,1,CLT 27,13-13,Brady Quinn up the middle for no gain (tackle by Robert Mathis),0,1.820,-0.740,-2.56
+2012-12-23,Buccaneers,Rams,3,1:38,4,1,RAM 5,13-28,Josh Freeman up the middle for no gain (tackle by Jo-Lonn Dunbar),0,3.030,0.380,-2.65
+2012-12-23,Buccaneers,Rams,4,2:34,4,5,RAM 24,13-28,Josh Freeman sacked by William Hayes for 0 yards,0,1.920,-0.540,-2.46
+2012-09-23,Lions,Titans,5,6:41,4,1,OTI 7,41-44,Shaun Hill up the middle for -1 yards (tackle by Jurrell Casey),-1,3.010,0.000,-3.01
+2012-09-23,Ravens,Patriots,4,10:56,4,1,NWE 33,21-30,Bernard Pierce left guard for -1 yards (tackle by Patrick Chung),-1,1.210,-1.200,-2.41
+2012-10-28,Steelers,Washington,4,0:29,4,8,WAS 19,27-12,Baron Batch up the middle for -1 yards (tackle by Madieu Williams),-1,2.180,-0.340,-2.52
+2012-11-12,Steelers,Chiefs,3,5:20,4,1,PIT 50,10-10,Isaac Redman up the middle for -1 yards (tackle by Derrick O. Johnson),-1,-0.060,-2.320,-2.26
+2012-12-30,Jets,Bills,4,5:38,4,1,NYJ 48,9-21,Bilal Powell up the middle for -1 yards (tackle by Alex Carrington and Jairus Byrd),-1,-0.190,-2.460,-2.27
+2012-11-25,Ravens,Chargers,3,0:34,4,1,SDG 14,3-10,Bernard Pierce right end for -2 yards (tackle by Corey Liuget),-2,2.660,0.140,-2.52
+2012-12-23,Vikings,Texans,4,0:24,4,7,HTX 20,23-6,Christian Ponder kneels for -2 yards,-2,2.120,-0.410,-2.53
+2012-12-30,Titans,Jaguars,4,6:49,4,2,JAX 27,38-14,Jake Locker sacked by Paul Posluszny for -2 yards,-2,1.800,-0.870,-2.67
+2012-12-23,Eagles,Washington,3,4:38,4,2,WAS 47,13-20,Nick Foles sacked by Lorenzo Alexander for -3 yards,-3,0.130,-2.260,-2.39
+2012-12-30,Eagles,Giants,4,4:06,4,1,NYG 40,7-42,Bryce Brown right tackle for -3 yards (tackle by Jason Pierre-Paul),-3,0.590,-1.800,-2.39
+2012-10-07,Titans,Vikings,4,2:05,4,1,MIN 9,7-30,Chris Johnson left guard for -4 yards (tackle by Robert Blanton and Chad Greenway),-4,2.980,0.320,-2.66
+2012-10-21,Buccaneers,Saints,3,3:34,4,1,NOR 1,21-28,Josh Freeman right end for -4 yards (tackle by Will Herring),-4,3.550,0.380,-3.17
+2012-11-18,Panthers,Buccaneers,3,12:36,4,6,CAR 41,14-10,Haruki Nakamura left end for -4 yards (tackle by Arrelious Benn),-4,-0.650,-3.120,-2.47
+2012-12-30,Jaguars,Titans,4,4:43,4,2,OTI 31,14-38,Chad Henne sacked by Akeem Ayers and Karl Klug for -4 yards,-4,1.400,-1.270,-2.67
+2012-09-09,Steelers,Broncos,4,0:54,4,15,PIT 15,19-31,Ben Roethlisberger sacked by Wesley Woodyard for -5 yards,-5,-2.440,-5.140,-2.70
+2012-10-14,49ers,Giants,4,1:04,4,3,NYG 32,3-26,Colin Kaepernick sacked by Adrian Tracy for -6 yards,-6,1.290,-1.470,-2.76
+2012-11-04,Buccaneers,Raiders,4,0:02,4,24,TAM 45,42-32,Josh Freeman kneels for -6 yards,-6,-0.390,2.320,2.71
+2012-10-04,Cardinals,Rams,4,2:15,4,1,RAM 13,3-17,Kevin Kolb sacked by Cortland Finnegan for -7 yards,-7,2.720,-0.280,-3.00
+2012-10-15,Chargers,Broncos,4,0:52,4,16,SDG 41,24-35,Philip Rivers sacked by Elvis Dumervil for -7 yards. Philip Rivers fumbles (forced by Elvis Dumervil) recovered by Mike Adams at SDG-34 (tackle by Tyronne Green),-7,-0.650,-3.380,-2.73
+2012-12-23,Browns,Broncos,4,0:44,4,13,CLE 17,12-34,Colt McCoy sacked by Wesley Woodyard for -7 yards,-7,-2.320,-4.910,-2.59
+2012-10-28,Rams,Patriots,4,14:56,4,6,NWE 37,7-38,Sam Bradford sacked by Rob Ninkovich for -8 yards,-8,0.790,-1.930,-2.72
+2012-11-04,Titans,Bears,4,1:57,4,4,OTI 36,20-51,Matt Hasselbeck sacked by Corey Wootton for -8 yards,-8,-0.980,-3.710,-2.73
+2012-12-09,Chiefs,Browns,4,6:27,4,8,CLE 16,7-30,Brady Quinn sacked by Juqua Parker for -8 yards,-8,2.380,-0.540,-2.92
+2012-12-16,Lions,Cardinals,4,3:58,4,10,DET 37,10-31,Matthew Stafford sacked by Adrian Wilson for -8 yards,-8,-0.910,-3.640,-2.73
+2012-12-23,Browns,Broncos,4,4:02,4,10,DEN 47,12-31,Colt McCoy sacked by Elvis Dumervil for -8 yards,-8,0.130,-2.590,-2.72
+2012-12-30,Browns,Steelers,4,1:22,4,9,PIT 36,10-24,Josh Johnson sacked by Lawrence Timmons for -8 yards. Josh Johnson fumbles (forced by Lawrence Timmons) recovered by Evander Hood at PIT-44 and returned for 1 yards (tackle by Josh Cooper),-8,0.880,-1.930,-2.81
+2013-02-03,Ravens,49ers,4,0:12,4,7,RAV 8,34-31,Sam Koch for -8 yards safety,-8,-2.490,-2.000,.49
+2012-10-21,Cardinals,Vikings,4,6:21,4,10,MIN 37,7-21,John Skelton sacked by Kevin Williams for -9 yards,-9,0.790,-1.990,-2.78
+2012-11-04,Washington,Panthers,4,6:03,4,10,WAS 43,6-21,Robert Griffin III sacked by Greg Hardy and Charles Johnson for -9 yards,-9,-0.520,-3.310,-2.79
+2012-12-23,Jets,Chargers,4,2:00,4,19,NYJ 26,17-27,Greg McElroy sacked by Corey Liuget for -9 yards,-9,-1.630,-4.440,-2.81
+2013-01-05,Vikings,Packers,3,4:06,4,3,GNB 38,3-24,Joe Webb sacked by Clay Matthews for -9 yards. Joe Webb fumbles (forced by Clay Matthews) recovered by Clay Matthews at GNB-45 (tackle by Joe Webb),-9,0.720,-1.930,-2.65
+2012-09-30,Lions,Vikings,4,9:51,4,5,MIN 7,6-20,Matthew Stafford sacked by Everson Griffen for -10 yards,-10,2.980,0.060,-2.92
+2012-09-30,Lions,Vikings,4,0:05,4,5,DET 44,13-20,Matthew Stafford sacked by Everson Griffen for -11 yards,-11,-0.460,2.590,3.05
+2012-10-07,Patriots,Broncos,4,8:17,4,5,DEN 37,31-14,Tom Brady sacked by Elvis Dumervil and Wesley Woodyard for -11 yards. Tom Brady fumbles (forced by Elvis Dumervil) recovered by Nate Solder at NWE-43,-11,0.790,-2.720,-3.51
+2012-09-09,Dolphins,Texans,4,1:56,4,2,HTX 49,10-30,Ryan Tannehill sacked by Tim Jamison for -12 yards,-12,0.000,-2.980,-2.98
+2012-09-10,Bengals,Ravens,4,11:06,4,15,RAV 32,13-41,Andy Dalton sacked by Pernell McPhee and Courtney Upshaw for -12 yards,-12,1.240,-1.860,-3.10
+2012-12-02,Titans,Texans,4,10:42,4,3,HTX 7,10-24,Jake Locker sacked for -12 yards. Jake Locker fumbles recovered by Tim Dobbins at HOU-22 (tackle by Deuce Lutui),-12,2.990,-0.410,-3.40
+2012-10-07,Seahawks,Panthers,4,0:59,4,7,SEA 18,16-12,Jon Ryan for -18 yards safety,-18,-2.240,-2.000,.24
+2012-09-09,Seahawks,Cardinals,4,0:21,4,4,CRD 4,16-20,Russell Wilson pass incomplete short right intended for Braylon Edwards,,3.030,0.380,-2.65
+2012-09-09,Packers,49ers,4,0:54,4,10,SFO 45,22-30,Aaron Rodgers pass incomplete deep right intended for Jordy Nelson (defended by Chris Culliver),,0.270,-1.930,-2.20
+2012-09-09,Dolphins,Texans,4,4:05,4,5,HTX 5,10-30,Ryan Tannehill pass incomplete short middle intended for Anthony Fasano (defended by Tim Jamison),,3.010,0.380,-2.63
+2012-09-09,Jaguars,Vikings,5,10:12,4,2,JAX 31,23-26,Blaine Gabbert pass incomplete deep right intended for Laurent Robinson,,-1.310,0.000,1.31
+2012-09-09,Titans,Patriots,4,3:46,4,6,OTI 24,13-31,Matt Hasselbeck pass incomplete short left intended for Chris Johnson,,-1.770,-3.970,-2.20
+2012-09-13,Bears,Packers,4,3:07,4,5,CHI 23,10-23,Jay Cutler pass incomplete short left intended for Earl Bennett is intercepted by Jerron McMillian at CHI-30,,-1.830,-3.580,-1.75
+2012-09-16,Ravens,Eagles,4,0:54,4,1,RAV 46,23-24,Joe Flacco pass incomplete short right intended for Ray Rice,,-0.320,-2.590,-2.27
+2012-09-20,Panthers,Giants,4,6:36,4,8,NYG 8,7-33,Cam Newton pass incomplete short middle intended for Brandon LaFell is intercepted by Stevie Brown at NYG--1 and returned for 44 yards (tackle by Kealoha Pilares),,2.950,-1.800,-4.75
+2012-09-23,Rams,Bears,3,12:25,4,1,CHI 43,3-10,Sam Bradford pass incomplete short left intended for Brandon Gibson (defended by Tim Jennings),,0.400,-1.800,-2.20
+2012-09-23,Eagles,Cardinals,4,3:08,4,10,PHI 36,6-27,Michael Vick pass incomplete short right intended for DeSean Jackson,,-0.980,-3.180,-2.20
+2012-09-24,Seahawks,Packers,4,2:00,4,3,GNB 7,7-12,Russell Wilson pass incomplete short left intended for Golden Tate,,2.990,0.380,-2.61
+2012-10-07,Panthers,Seahawks,4,3:47,4,1,SEA 1,10-16,Cam Newton pass incomplete short middle intended for Ben Hartsock,,3.550,0.380,-3.17
+2012-10-07,Broncos,Patriots,4,10:54,4,1,NWE 47,14-31,Peyton Manning pass incomplete short right intended for Willis McGahee,,0.130,-2.060,-2.19
+2012-10-14,Chiefs,Buccaneers,4,4:40,4,6,TAM 47,10-31,Brady Quinn pass incomplete deep middle intended for Tony Moeaki,,0.130,-2.060,-2.19
+2012-10-14,Chiefs,Buccaneers,4,0:36,4,2,KAN 28,10-38,Brady Quinn pass incomplete deep right intended for Dwayne Bowe (defended by Leonard Johnson),,-1.500,-3.710,-2.21
+2012-10-21,Titans,Bills,4,3:58,4,5,BUF 36,28-34,Matt Hasselbeck pass incomplete short middle intended for Jared Cook (defended by Bryan Scott),,0.880,-1.330,-2.21
+2012-10-21,Bills,Titans,4,0:31,4,2,BUF 28,34-35,Ryan Fitzpatrick pass incomplete deep left intended for Steve Johnson,,-1.500,-3.710,-2.21
+2012-10-21,Panthers,Cowboys,4,2:11,4,1,CAR 40,14-16,Cam Newton pass incomplete short right intended for Louis Murphy,,-0.720,-2.980,-2.26
+2012-10-21,Browns,Colts,4,1:57,4,6,CLT 39,13-17,Brandon Weeden pass incomplete short middle intended for Josh Cooper (defended by Jerraud Powers),,0.660,-1.530,-2.19
+2012-10-21,Ravens,Texans,4,4:49,4,10,HTX 43,13-43,Joe Flacco pass incomplete short left intended for Torrey Smith,,0.400,-1.860,-2.26
+2012-10-22,Lions,Bears,4,2:46,4,3,CHI 3,0-13,Matthew Stafford pass incomplete short right intended for Ryan Broyles is intercepted by D.J. Moore at CHI-3 and returned for 2 yards (tackle by Ryan Broyles),,3.040,0.380,-2.66
+2012-10-25,Vikings,Buccaneers,4,4:34,4,7,TAM 19,17-36,Christian Ponder pass incomplete short right intended for Michael Jenkins,,2.180,-0.150,-2.33
+2012-10-28,Chargers,Browns,4,1:24,4,10,CLE 44,6-7,Philip Rivers pass incomplete short left intended for Malcom Floyd (defended by Buster Skrine),,0.330,-1.860,-2.19
+2012-10-28,Cowboys,Giants,4,1:14,4,1,NYG 19,24-29,Tony Romo pass incomplete is intercepted by Stevie Brown at NYG-17. Penalty on Doug Free: Offensive Holding (Declined),,2.340,0.060,-2.28
+2012-10-28,Packers,Jaguars,3,8:37,4,6,JAX 37,14-12,Tim Masthay pass incomplete deep right intended for D.J. Williams,,0.790,-1.400,-2.19
+2012-10-28,Jaguars,Packers,4,2:59,4,4,GNB 44,15-21,Blaine Gabbert pass incomplete short right intended for Justin Blackmon,,0.330,-1.860,-2.19
+2012-10-28,Jaguars,Packers,4,0:12,4,10,JAX 20,15-24,Blaine Gabbert pass incomplete short middle intended for Rashad Jennings,,-2.030,-4.240,-2.21
+2012-10-28,Jets,Dolphins,4,1:23,4,7,MIA 19,9-30,Mark Sanchez pass incomplete short middle intended for Jeremy Kerley (defended by Jimmy Wilson),,2.180,-0.280,-2.46
+2012-10-28,Eagles,Falcons,4,4:50,4,12,PHI 48,17-30,Michael Vick pass incomplete short middle intended for DeSean Jackson,,-0.190,-2.390,-2.20
+2012-10-28,Eagles,Falcons,4,2:31,4,18,PHI 34,17-30,Michael Vick pass incomplete short right intended for Stanley Havili,,-1.110,-3.310,-2.20
+2012-10-28,Washington,Steelers,4,4:17,4,17,PIT 24,12-27,Robert Griffin III pass incomplete short left intended for Santana Moss (defended by Cortez Allen),,1.870,-0.540,-2.41
+2012-11-04,Browns,Ravens,4,3:53,4,2,CLE 28,15-22,Brandon Weeden pass incomplete deep left intended for Greg Little,,-1.500,-3.710,-2.21
+2012-11-04,Cardinals,Packers,4,2:24,4,3,GNB 34,17-31,John Skelton pass incomplete short middle intended for Andre Roberts (defended by Casey Hayward),,1.090,-1.270,-2.36
+2012-11-04,Texans,Bills,4,4:38,4,6,BUF 30,21-9,Matt Schaub pass incomplete deep left intended for Andre Johnson,,1.430,-0.940,-2.37
+2012-11-05,Eagles,Saints,4,0:14,4,10,NOR 15,13-28,Michael Vick pass incomplete short left intended for Brent Celek,,2.440,0.220,-2.22
+2012-11-08,Jaguars,Colts,4,1:59,4,1,CLT 35,10-27,Chad Henne pass incomplete is intercepted by Darius Butler at IND-36 and returned for 51 yards (tackle by Jalen Parmele),,1.000,-4.710,-5.71
+2012-11-11,Bears,Texans,4,1:05,4,8,CHI 40,6-13,Jason Campbell pass incomplete short middle intended for Matt Forte,,-0.720,-2.920,-2.20
+2012-11-11,Giants,Bengals,4,14:19,4,4,CIN 32,6-31,Eli Manning pass incomplete short right intended for Hakeem Nicks,,1.270,-1.070,-2.34
+2012-11-11,Falcons,Saints,4,1:46,4,2,NOR 2,27-31,Matt Ryan pass incomplete short middle intended for Roddy White (defended by Jabari Greer),,3.250,0.380,-2.87
+2012-11-11,Falcons,Saints,4,0:16,4,1,ATL 40,27-31,Matt Ryan pass incomplete short right intended for Tony Gonzalez,,-0.720,-2.920,-2.20
+2012-11-18,Cardinals,Falcons,4,3:13,4,2,ATL 24,19-23,Ryan Lindley pass incomplete deep left intended for Larry Fitzgerald,,1.990,-0.540,-2.53
+2012-11-18,Browns,Cowboys,4,1:47,4,1,DAL 1,13-17,Brandon Weeden pass incomplete short left intended for Jordan Cameron,,3.550,0.380,-3.17
+2012-11-18,Chargers,Broncos,4,9:18,4,14,DEN 46,16-27,Philip Rivers pass incomplete deep middle intended for Malcom Floyd is intercepted by Jim Leonhard at DEN-29,,0.200,-0.870,-1.07
+2012-11-18,Lions,Packers,4,1:31,4,15,DET 20,20-21,Matthew Stafford pass incomplete deep right intended for Tony Scheffler (defended by Jerron McMillian),,-2.030,-4.240,-2.21
+2012-11-18,Jaguars,Texans,5,2:36,4,10,HTX 47,37-37,Chad Henne pass incomplete deep middle intended for Justin Blackmon,,0.130,-2.060,-2.19
+2012-11-18,Chiefs,Bengals,4,6:43,4,2,CIN 27,6-28,Brady Quinn pass incomplete deep right intended for Terrance Copper,,1.800,-0.740,-2.54
+2012-11-18,Steelers,Ravens,4,0:12,4,10,PIT 28,10-13,Byron Leftwich pass complete short left to Mike Wallace for no gain lateral to Willie Colon for -2 yards lateral to Courtney Upshaw for 5 yards (tackle by Max Starks). Max Starks fumbles (forced by Paul Kruger) recovered by Courtney Upshaw at PIT-31 and returned for 5 yards (tackle by Max Starks),,-1.500,0.810,2.31
+2012-11-18,Raiders,Saints,4,8:23,4,5,NOR 44,10-38,Carson Palmer pass incomplete deep right intended for Denarius Moore,,0.330,-1.860,-2.19
+2012-11-18,Rams,Jets,4,3:14,4,10,RAM 23,13-27,Sam Bradford pass incomplete short left intended for Austin Pettis,,-1.830,-4.040,-2.21
+2012-11-18,Eagles,Washington,4,0:45,4,3,WAS 34,6-31,Nick Foles pass incomplete short right intended for Clay Harbor,,1.090,-1.200,-2.29
+2012-11-25,Vikings,Bears,4,14:11,4,2,CHI 8,10-28,Christian Ponder pass incomplete short left intended for Michael Jenkins,,2.990,0.380,-2.61
+2012-11-25,Raiders,Bengals,4,1:54,4,10,RAI 31,10-34,Carson Palmer pass incomplete short left intended for Brandon Myers,,-1.310,-3.510,-2.20
+2012-11-25,Cardinals,Rams,4,3:00,4,6,RAM 10,17-31,Ryan Lindley pass incomplete short right intended for Larry Fitzgerald is intercepted by James Laurinaitis at STL-8 and returned for 18 yards (tackle by Ryan Lindley),,2.790,-0.670,-3.46
+2012-11-25,Saints,49ers,4,5:12,4,11,NOR 36,21-31,Drew Brees pass incomplete short left intended for Joe Morgan (defended by Tarell Brown),,-0.980,-3.180,-2.20
+2012-11-25,Saints,49ers,4,4:04,4,4,NOR 46,21-31,Drew Brees pass incomplete deep left intended for Lance Moore,,-0.320,-2.590,-2.27
+2012-11-25,Packers,Giants,4,14:23,4,5,NYG 14,10-38,Aaron Rodgers pass incomplete short middle intended for Jermichael Finley (defended by Chase Blackburn),,2.560,0.280,-2.28
+2012-11-25,Giants,Packers,4,5:03,4,1,GNB 1,38-10,Eli Manning pass incomplete short left intended for Hakeem Nicks (defended by Dezman Moses),,3.550,0.380,-3.17
+2012-12-02,Jaguars,Bills,3,7:09,4,5,BUF 39,10-24,Chad Henne pass incomplete short left intended for Marcedes Lewis,,0.660,-1.530,-2.19
+2012-12-02,Jaguars,Bills,4,5:47,4,8,BUF 39,18-34,Chad Henne pass incomplete deep left intended for Justin Blackmon,,0.660,-1.530,-2.19
+2012-12-02,Jaguars,Bills,4,1:54,4,5,BUF 27,18-34,Chad Henne pass incomplete short middle intended for Jordan Shipley (defended by Alex Carrington),,1.720,-0.740,-2.46
+2012-12-02,Buccaneers,Broncos,4,6:19,4,9,TAM 35,13-31,Josh Freeman pass incomplete short left intended for Tiquan Underwood (defended by Tony Carter),,-1.040,-3.250,-2.21
+2012-12-02,Titans,Texans,4,4:31,4,5,HTX 33,10-24,Jake Locker pass incomplete short right intended for Kendall Wright (defended by Roc Carmichael),,1.170,-1.140,-2.31
+2012-12-02,Rams,49ers,3,6:51,4,1,SFO 4,0-7,Sam Bradford pass incomplete short right intended for Austin Pettis (defended by Tarell Brown),,3.040,0.380,-2.66
+2012-12-02,Chargers,Bengals,4,0:55,4,10,CIN 17,13-20,Philip Rivers pass incomplete deep right intended for Malcom Floyd is intercepted by Reggie Nelson at CIN-0,,2.310,-0.280,-2.59
+2012-12-09,Falcons,Panthers,4,6:25,4,8,CAR 48,13-23,Matt Ryan pass incomplete short right intended for Roddy White is intercepted by Thomas Davis at CAR-40,,0.070,-1.600,-1.67
+2012-12-09,Lions,Packers,4,2:32,4,10,GNB 44,17-27,Matthew Stafford pass incomplete deep middle intended for Tony Scheffler,,0.330,-1.860,-2.19
+2012-12-09,Bears,Vikings,4,4:31,4,6,MIN 23,7-21,Jay Cutler pass incomplete short middle intended for Brandon Marshall,,1.950,-0.480,-2.43
+2012-12-09,Saints,Giants,4,1:27,4,5,NYG 37,27-52,Drew Brees pass incomplete short left intended for Darren Sproles,,0.790,-1.400,-2.19
+2012-12-09,Seahawks,Cardinals,4,7:21,4,23,CRD 33,51-0,Matt Flynn pass incomplete deep left intended for Jermaine Kearse,,1.150,-1.140,-2.29
+2012-12-09,Cardinals,Seahawks,4,0:15,4,21,CRD 31,0-58,Ryan Lindley pass incomplete short middle intended for William Powell,,-1.310,-3.580,-2.27
+2012-12-09,Dolphins,49ers,4,4:16,4,10,SFO 35,13-20,Ryan Tannehill pass incomplete deep left intended for Marlon Moore,,0.970,-1.270,-2.24
+2012-12-09,Dolphins,49ers,4,1:33,4,11,MIA 38,13-27,Ryan Tannehill pass incomplete deep left intended for Anthony Fasano,,-0.850,-3.050,-2.20
+2012-12-13,Bengals,Eagles,4,4:07,4,5,PHI 6,34-13,Andy Dalton pass incomplete short right intended for Jermaine Gresham (defended by Nate Allen),,2.990,0.380,-2.61
+2012-12-16,Giants,Falcons,3,6:57,4,2,ATL 25,0-24,Eli Manning pass incomplete short right intended for Kregg Lumpkin (defended by Jonathan Babineaux),,1.930,-0.670,-2.60
+2012-12-16,Bills,Seahawks,4,4:44,4,21,SEA 37,17-50,Ryan Fitzpatrick pass incomplete short right intended for Ruvell Martin,,0.790,-1.400,-2.19
+2012-12-16,Bears,Packers,4,2:12,4,9,CHI 45,13-21,Jay Cutler pass incomplete short left intended for Alshon Jeffery (defended by Sam Shields),,-0.390,-2.590,-2.20
+2012-12-16,Browns,Washington,3,5:48,4,3,WAS 41,14-24,Brandon Weeden pass incomplete short left intended for Ben Watson,,0.530,-1.660,-2.19
+2012-12-16,Browns,Washington,4,3:41,4,8,CLE 33,21-38,Brandon Weeden pass incomplete short right intended for Greg Little,,-1.180,-3.380,-2.20
+2012-12-16,Lions,Cardinals,4,5:24,4,2,CRD 4,10-30,Matthew Stafford pass incomplete short left intended for Kris Durham is intercepted by Gregory Toler at ARI--2 and returned for 102 yards touchdown,,3.040,-7.000,-10.04
+2012-12-16,Dolphins,Jaguars,3,9:33,4,4,JAX 5,10-3,Brandon Fields pass incomplete short right intended for Anthony Fasano,,3.010,0.380,-2.63
+2012-12-16,Jaguars,Dolphins,4,1:14,4,4,MIA 4,3-24,Chad Henne pass incomplete short right intended for Cecil Shorts (defended by Cameron Wake),,3.030,0.380,-2.65
+2012-12-16,Buccaneers,Saints,3,5:28,4,14,NOR 34,0-31,Josh Freeman pass incomplete deep right intended for Vincent Jackson,,1.060,-1.270,-2.33
+2012-12-16,Buccaneers,Saints,3,0:05,4,2,NOR 11,0-31,Josh Freeman pass incomplete (defended by Martez Wilson),,2.820,0.350,-2.47
+2012-12-16,Patriots,49ers,4,2:24,4,1,NWE 12,31-38,Tom Brady pass incomplete short left intended for Danny Woodhead,,-2.490,-4.780,-2.29
+2012-12-16,Chiefs,Raiders,4,9:32,4,12,RAI 20,0-15,Brady Quinn pass incomplete deep left intended for Jonathan Baldwin,,2.120,-0.280,-2.40
+2012-12-16,Chiefs,Raiders,4,3:59,4,1,KAN 38,0-15,Brady Quinn pass complete short right to Dexter McCluster for no gain,,-0.850,-3.050,-2.20
+2012-12-16,Rams,Vikings,4,4:29,4,10,RAM 49,22-36,Sam Bradford pass incomplete short right intended for Danny Amendola (defended by Marcus Sherels),,-0.130,-2.320,-2.19
+2012-12-16,Rams,Vikings,4,1:22,4,3,MIN 12,22-36,Sam Bradford pass incomplete short right intended for Brian Quick,,2.730,0.350,-2.38
+2012-12-16,Ravens,Broncos,3,2:04,4,4,DEN 23,3-31,Joe Flacco pass incomplete short right intended for Ray Rice (defended by Wesley Woodyard),,2.000,-0.480,-2.48
+2012-12-16,Ravens,Broncos,4,2:08,4,3,RAV 23,17-34,Joe Flacco pass incomplete short left intended for Anquan Boldin,,-1.830,-4.040,-2.21
+2012-12-22,Lions,Falcons,4,1:31,4,1,ATL 2,16-31,Matthew Stafford pass incomplete short middle intended for Will Heller,,3.250,0.380,-2.87
+2012-12-23,Raiders,Panthers,4,5:24,4,4,CAR 24,6-14,Matt Leinart pass incomplete short left intended for Darren McFadden (defended by Greg Hardy),,1.940,-0.540,-2.48
+2012-12-23,Raiders,Panthers,4,2:00,4,12,RAI 19,6-17,Matt Leinart pass incomplete deep right intended for Darrius Heyward-Bey,,-2.140,-4.310,-2.17
+2012-12-23,Titans,Packers,4,11:15,4,3,OTI 33,0-48,Jake Locker pass incomplete deep left intended for Kenny Britt,,-1.180,-3.450,-2.27
+2012-12-23,Jaguars,Patriots,4,3:32,4,10,NWE 10,16-23,Chad Henne pass incomplete short middle intended for Cecil Shorts is intercepted by Patrick Chung at NWE-1 and returned for 27 yards (tackle by Guy Whimper). Penalty on Vince Wilfork: Unnecessary Roughness 14 yards,,2.760,0.280,-2.48
+2012-12-23,Bengals,Steelers,3,9:15,4,22,PIT 33,10-7,Andy Dalton pass incomplete deep left intended for A.J. Green (defended by Josh Victorian),,1.150,-1.140,-2.29
+2012-12-30,Falcons,Buccaneers,4,2:07,4,10,ATL 33,17-22,Matt Ryan pass incomplete deep right intended for Tony Gonzalez (defended by Mark Barron),,-1.180,-3.380,-2.20
+2012-12-30,Dolphins,Patriots,4,11:53,4,7,MIA 47,0-21,Ryan Tannehill pass incomplete short left intended for Armon Binns,,-0.260,-2.460,-2.20
+2012-12-30,Titans,Jaguars,3,8:33,4,3,JAX 17,35-14,Jake Locker pass incomplete short middle intended for Kenny Britt (defended by Terrance Knighton),,2.410,0.060,-2.35
+2012-12-30,Jaguars,Titans,3,4:05,4,3,OTI 29,14-35,Chad Henne pass incomplete short left intended for Marcedes Lewis,,1.580,-0.870,-2.45
+2012-12-30,Rams,Seahawks,4,0:40,4,10,SEA 29,13-20,Sam Bradford pass incomplete deep right intended for Austin Pettis is intercepted by Richard Sherman at SEA--1 and returned for 9 yards,,1.500,0.380,-1.12
+2013-01-05,Vikings,Packers,4,6:29,4,4,GNB 43,3-24,Joe Webb pass incomplete short right intended for Jerome Simpson (defended by Tramon Williams),,0.400,-1.800,-2.20
+2013-01-06,Colts,Ravens,4,5:35,4,1,RAV 18,9-24,Andrew Luck pass incomplete short left intended for Reggie Wayne is intercepted by Cary Williams at BAL-15 and returned for 41 yards (tackle by Andrew Luck),,2.400,-2.650,-5.05
+2013-01-06,Colts,Ravens,4,2:14,4,5,RAV 37,9-24,Andrew Luck pass incomplete short right intended for Vick Ballard,,0.790,-1.400,-2.19
+2013-01-06,Washington,Seahawks,4,4:21,4,14,WAS 41,14-24,Kirk Cousins pass incomplete short middle intended for Santana Moss,,-0.650,-2.850,-2.20
+2013-01-06,Seahawks,Washington,4,1:16,4,4,WAS 20,24-14,Russell Wilson pass incomplete short right intended for Michael Robinson,,2.200,-0.280,-2.48
+2013-01-06,Washington,Seahawks,4,0:39,4,6,WAS 24,14-24,Kirk Cousins pass incomplete deep middle intended for Leonard Hankerson,,-1.770,-3.970,-2.20
+2013-01-12,Ravens,Broncos,4,3:16,4,5,DEN 31,28-35,Joe Flacco pass incomplete short middle intended for Dennis Pitta (defended by Mike Adams),,1.350,-1.000,-2.35
+2013-01-13,Texans,Patriots,4,13:19,4,1,HTX 33,13-31,Matt Schaub pass incomplete deep middle intended for DeVier Posey,,-1.180,-3.380,-2.20
+2013-01-20,Falcons,49ers,4,1:13,4,4,SFO 10,24-28,Matt Ryan pass incomplete short middle intended for Roddy White,,2.840,0.380,-2.46
+2013-01-20,Patriots,Ravens,4,8:35,4,4,RAV 19,13-28,Tom Brady pass incomplete deep middle intended for Deion Branch,,2.260,-0.150,-2.41
+2013-02-03,49ers,Ravens,4,1:50,4,5,RAV 5,29-34,Colin Kaepernick pass incomplete short right intended for Michael Crabtree,,3.010,0.380,-2.63

@@ -1,0 +1,525 @@
+Date,Tm,Opp,Quarter,Time,Down,ToGo,Location,Score,Detail,Yds,EPB,EPA,Diff
+2008-10-26,Browns,Jaguars,2,8:52,4,1,CLE 47,7-7,Derek Anderson pass complete short right to Steve Heiden for 51 yards (tackle by Brian Williams),51,-0.260,6.740,7.00
+2008-09-28,Jaguars,Texans,1,8:47,4,4,HTX 41,6-0,Montell Owens up the middle for 41 yards touchdown,41,0.530,7.000,6.47
+2008-09-28,Jets,Cardinals,4,7:33,4,1,CRD 40,47-28,Brett Favre pass complete deep middle to Jerricho Cotchery for 40 yards touchdown,40,0.590,7.000,6.41
+2008-09-21,Bears,Buccaneers,2,2:06,4,1,CHI 44,6-14,Garrett Wolfe right end for 38 yards (tackle by Dexter Jackson),38,-0.460,4.370,4.83
+2008-10-05,Colts,Texans,1,4:07,4,1,HTX 45,3-0,Peyton Manning pass complete deep left to Reggie Wayne for 36 yards (tackle by Jacques Reeves),36,0.270,5.140,4.87
+2008-10-19,Colts,Packers,4,2:32,4,3,CLT 33,7-34,Peyton Manning pass complete deep left to Anthony Gonzalez for 34 yards (tackle by Aaron Rouse). Penalty on Aaron Rouse: Face Mask (15 Yards) 15 yards,34,-1.180,4.370,5.55
+2008-10-05,Cowboys,Bengals,1,6:08,4,4,CIN 33,9-0,Felix Jones right end for 33 yards touchdown,33,1.180,7.000,5.82
+2008-11-16,Chiefs,Saints,4,15:00,4,3,NOR 38,13-27,Tyler Thigpen left end for 32 yards (tackle by Usama Young). Penalty on Usama Young: Unnecessary Roughness 3 yards,32,0.720,6.510,5.79
+2008-10-26,Giants,Steelers,4,9:55,4,6,PIT 34,9-14,Eli Manning pass complete deep right to Amani Toomer for 30 yards (tackle by William Gay),30,1.070,6.280,5.21
+2008-12-28,Buccaneers,Raiders,4,0:45,4,10,TAM 20,24-31,Jeff Garcia pass complete deep middle to Antonio Bryant for 30 yards (tackle by Chris Johnson),30,-2.030,2.260,4.29
+2008-10-20,Patriots,Broncos,2,1:32,4,1,DEN 42,13-0,Sammy Morris left end for 29 yards (tackle by Calvin Lowry),29,0.460,4.710,4.25
+2008-11-30,Chargers,Falcons,4,13:47,4,2,SDG 41,13-22,Jacob Hester right end for 28 yards (tackle by Thomas DeCoud and Michael Boley),28,-0.650,3.510,4.16
+2008-12-07,Titans,Browns,2,14:19,4,1,CLE 28,6-6,Kerry Collins pass complete short left to Ahmard Hall for 28 yards touchdown,28,1.720,7.000,5.28
+2009-01-03,Falcons,Cardinals,4,7:03,4,6,ATL 46,17-30,Matt Ryan pass complete short left to Jerious Norwood for 28 yards (tackle by Aaron Francisco),28,-0.320,3.840,4.16
+2008-09-21,Colts,Jaguars,4,2:00,4,2,CLT 31,14-20,Peyton Manning pass complete deep right to Marvin Harrison for 27 yards,27,-1.310,2.790,4.10
+2008-12-01,Jaguars,Texans,4,14:09,4,2,HTX 33,3-16,David Garrard pass complete deep left to Matt Jones for 27 yards (tackle by Eugene Wilson),27,1.200,5.830,4.63
+2008-09-28,Jets,Cardinals,4,2:00,4,5,CRD 24,54-35,Brett Favre pass complete deep left to Dustin Keller for 24 yards touchdown,24,1.920,7.000,5.08
+2008-09-08,Vikings,Packers,4,14:19,4,1,GNB 23,12-17,Tarvaris Jackson pass complete short left to Sidney Rice for 23 yards touchdown,23,2.080,7.000,4.92
+2008-10-12,Texans,Dolphins,4,0:52,4,10,HTX 36,23-28,Matt Schaub pass complete deep left to Andre Johnson for 23 yards (tackle by Yeremiah Bell),23,-0.980,2.850,3.83
+2008-11-09,Lions,Jaguars,4,8:46,4,12,JAX 36,7-38,Drew Stanton pass complete deep right to Brandon Middleton for 23 yards (tackle by Brian Williams),23,0.880,4.710,3.83
+2008-09-07,Jets,Dolphins,2,7:02,4,13,MIA 22,13-7,Brett Favre pass complete deep middle to Chansi Stuckey for 22 yards touchdown,22,1.990,7.000,5.01
+2008-10-19,Raiders,Jets,4,6:37,4,2,RAI 27,10-10,Jon Alston right end for 22 yards (tackle by Ahmad Carroll),22,-1.570,2.190,3.76
+2008-11-09,Jaguars,Lions,2,1:09,4,4,DET 37,17-7,David Garrard pass complete deep right to Matt Jones for 22 yards (tackle by Daniel Bullocks),22,0.790,4.580,3.79
+2008-11-23,Texans,Browns,2,0:17,4,3,CLE 35,10-6,Sage Rosenfels pass complete short right to Andre Johnson for 22 yards (tackle by Sean Jones),22,0.990,4.710,3.72
+2008-10-06,Saints,Vikings,2,4:42,4,1,MIN 32,10-17,Drew Brees pass complete short right to Reggie Bush for 21 yards (tackle by Cedric Griffin),21,1.310,4.840,3.53
+2008-10-26,Lions,Washington,4,8:57,4,1,WAS 44,10-22,Dan Orlovsky pass complete short left to Michael Gaines for 21 yards (tackle by LaRon Landry). Penalty on Marcus Washington: Illegal Contact (Declined),21,0.330,4.040,3.71
+2008-11-16,Lions,Panthers,2,15:00,4,1,CAR 37,7-0,Kevin Smith left end for 20 yards (tackle by Julius Peppers),20,0.790,4.440,3.65
+2008-11-30,Raiders,Chiefs,4,4:51,4,7,RAI 24,10-20,JaMarcus Russell right end for 20 yards (tackle by Brandon Flowers),20,-1.770,1.860,3.63
+2008-11-30,Buccaneers,Saints,2,4:28,4,3,NOR 32,3-3,Jeff Garcia up the middle for 20 yards (tackle by Kevin Kaesviharn),20,1.290,4.780,3.49
+2008-10-19,Vikings,Bears,4,3:41,4,16,CHI 27,34-48,Gus Frerotte pass complete deep right to Bobby Wade for 19 yards (tackle by Mike Brown),19,1.670,5.370,3.70
+2008-11-09,Saints,Falcons,4,5:47,4,5,NOR 47,13-27,Drew Brees pass complete short middle to David Patten for 19 yards (tackle by Chris Houston),19,-0.260,3.310,3.57
+2008-10-26,Lions,Washington,4,6:46,4,4,WAS 17,16-22,Dan Orlovsky pass complete short left to Calvin Johnson for 17 yards touchdown. Penalty on LaRon Landry: Face Mask (15 Yards) 15 yards,17,2.390,7.000,4.61
+2008-12-21,Texans,Raiders,4,0:38,4,7,HTX 39,16-27,Matt Schaub pass complete short left to Owen Daniels for 17 yards (tackle by Stanford Routt),17,-0.780,2.650,3.43
+2008-12-21,Rams,49ers,4,0:31,4,9,RAM 38,16-17,Marc Bulger pass complete right to Donnie Avery for 17 yards (tackle by Tarell Brown),17,-0.850,2.590,3.44
+2008-09-21,Packers,Cowboys,4,0:18,4,22,GNB 39,16-27,Aaron Rodgers pass complete short left to Brandon Jackson for 16 yards (tackle by Mike Jenkins),16,-0.780,-1.930,-1.15
+2008-09-28,Cardinals,Jets,4,1:07,4,10,CRD 46,35-56,Kurt Warner pass complete short middle to Anquan Boldin for 16 yards (tackle by Darrelle Revis),16,-0.320,3.050,3.37
+2008-11-13,Patriots,Jets,4,0:08,4,1,NYJ 16,30-31,Matt Cassel pass complete deep right to Randy Moss for 16 yards touchdown,16,2.530,7.000,4.47
+2008-11-16,Lions,Panthers,4,10:35,4,2,CAR 41,16-24,Daunte Culpepper pass complete short right to John Standeford for 16 yards (tackle by Charles Godfrey),16,0.530,3.910,3.38
+2008-11-23,Falcons,Panthers,4,1:00,4,6,CAR 16,44-28,Michael Turner up the middle for 16 yards touchdown,16,2.400,7.000,4.60
+2008-12-21,Patriots,Cardinals,2,3:19,4,11,CRD 30,21-0,Matt Cassel left guard for 16 yards (tackle by Karlos Dansby and Antonio Smith),16,1.410,4.650,3.24
+2008-11-23,Broncos,Raiders,4,7:00,4,11,RAI 38,10-31,Jay Cutler pass complete short right to Brandon Marshall for 15 yards (tackle by Chris Johnson). Penalty on Stanford Routt: Defensive Holding (Offsetting) Penalty on Peyton Hillis: Chop Block (Offsetting) (no play),15,0.720,0.720,.00
+2008-09-07,Dolphins,Jets,4,4:41,4,7,50,7-20,Chad Pennington pass complete short left to Ted Ginn Jr. for 14 yards (tackle by Darrelle Revis),14,-0.060,3.180,3.24
+2008-09-07,Panthers,Chargers,4,0:02,4,1,SDG 14,25-24,Jake Delhomme pass complete short middle to Dante Rosario for 14 yards touchdown,14,2.660,7.000,4.34
+2008-09-14,Dolphins,Cardinals,4,5:01,4,5,CRD 20,3-31,Chad Henne pass complete short left to Greg Camarillo for 14 yards (tackle by Eric Green),14,2.170,5.830,3.66
+2008-10-19,Colts,Packers,4,1:51,4,7,GNB 15,7-34,Peyton Manning pass complete short left to Dallas Clark for 14 yards (tackle by Tramon Williams). Dallas Clark fumbles (forced by Tramon Williams) ball out of bounds at GNB-1,14,2.440,6.970,4.53
+2008-11-23,Colts,Chargers,4,0:26,4,1,SDG 48,20-20,Peyton Manning pass complete short left to Marvin Harrison for 14 yards (tackle by Quentin Jammer),14,0.070,3.310,3.24
+2008-12-14,Giants,Cowboys,4,1:08,4,11,NYG 30,8-20,Eli Manning pass complete short middle to Amani Toomer for 14 yards (tackle by Terence Newman),14,-1.370,1.860,3.23
+2008-12-14,Rams,Seahawks,2,10:38,4,1,SEA 43,7-7,Steven Jackson left tackle for 14 yards (tackle by Brian Russell and Deon Grant),14,0.400,3.640,3.24
+2008-09-14,Bengals,Titans,2,3:22,4,1,OTI 13,6-7,Chris Perry right tackle for 13 yards touchdown,13,2.720,7.000,4.28
+2008-09-14,Steelers,Browns,2,8:23,4,1,CLE 40,0-0,Willie Parker right guard for 13 yards (tackle by Mike Adams),13,0.590,3.780,3.19
+2008-09-21,Chiefs,Falcons,4,7:10,4,2,ATL 33,14-31,Tyler Thigpen pass complete short right to Dwayne Bowe for 13 yards,13,1.200,4.240,3.04
+2008-09-21,Packers,Cowboys,4,0:54,4,10,GNB 38,16-27,Aaron Rodgers pass complete short right to Donald Lee for 13 yards (tackle by Pacman Jones),13,-0.850,2.320,3.17
+2008-09-21,Texans,Titans,4,9:11,4,3,OTI 17,12-24,Matt Schaub pass complete short left to Andre Johnson for 13 yards (tackle by Vincent Fuller),13,2.410,6.280,3.87
+2008-11-09,Lions,Jaguars,4,3:06,4,34,JAX 42,14-38,Drew Stanton pass complete short right to Michael Gaines for 13 yards (tackle by Derrick Harvey),13,0.460,-0.870,-1.33
+2008-11-09,Dolphins,Seahawks,2,0:14,4,10,SEA 42,14-7,Chad Pennington pass complete short left to Davone Bess for 13 yards (tackle by Julian Peterson),13,0.460,1.930,1.47
+2008-09-21,Patriots,Dolphins,2,13:43,4,2,MIA 37,0-7,Matt Cassel pass complete short left to Jabar Gaffney for 12 yards (tackle by Andre' Goodman),12,0.790,3.910,3.12
+2008-10-12,Ravens,Colts,4,0:32,4,9,CLT 26,3-31,Joe Flacco pass complete short middle to Ray Rice for 12 yards (tackle by Marlin Jackson),12,1.740,4.650,2.91
+2008-11-16,Ravens,Giants,4,6:37,4,6,RAV 47,10-30,Joe Flacco pass complete short right to Todd Heap for 12 yards (tackle by Michael Johnson),12,-0.260,2.850,3.11
+2008-12-21,Chiefs,Dolphins,1,1:04,4,5,MIA 29,7-10,Tyler Thigpen pass complete short right to Dwayne Bowe for 12 yards (tackle by Renaldo Hill),12,1.540,4.440,2.90
+2008-09-04,Washington,Giants,4,2:12,4,13,NYG 43,7-16,Jason Campbell pass complete short right to Ladell Betts for 11 yards (tackle by Aaron Ross),11,0.400,-1.070,-1.47
+2008-09-28,49ers,Saints,4,10:27,4,7,NOR 27,9-28,J.T. O'Sullivan pass complete short right to Arnaz Battle for 11 yards (tackle by Usama Young),11,1.670,4.510,2.84
+2008-10-26,Chargers,Saints,4,2:26,4,2,NOR 48,30-37,Philip Rivers pass complete short left to Antonio Gates for 11 yards (tackle by Kevin Kaesviharn),11,0.070,3.120,3.05
+2008-11-02,Texans,Vikings,4,5:13,4,1,HTX 42,14-28,Sage Rosenfels pass complete short right to Owen Daniels for 11 yards (tackle by Antoine Winfield),11,-0.590,2.460,3.05
+2008-11-09,Chiefs,Chargers,4,1:05,4,8,SDG 29,13-20,Tyler Thigpen pass complete short left to Mark Bradley for 11 yards (tackle by Antoine Cason),11,1.500,4.370,2.87
+2008-11-23,Panthers,Falcons,4,3:46,4,6,ATL 49,21-38,Jake Delhomme pass complete short left to Dwayne Jarrett for 11 yards (tackle by Chris Houston),11,0.000,3.050,3.05
+2008-12-28,Lions,Packers,2,13:52,4,5,GNB 31,0-14,Dan Orlovsky pass complete short right to Keary Colbert for 11 yards (tackle by A.J. Hawk),11,1.350,4.240,2.89
+2008-12-28,Lions,Packers,4,4:58,4,4,DET 48,21-31,Dan Orlovsky pass complete short left to John Standeford for 11 yards (tackle by Al Harris). Penalty on Al Harris: Defensive Holding (Declined),11,-0.190,2.850,3.04
+2008-09-21,Lions,49ers,4,7:36,4,5,SFO 44,6-28,Jon Kitna up the middle for 10 yards (tackle by Roderick Green and Parys Haralson),10,0.330,3.310,2.98
+2008-10-05,Jaguars,Steelers,4,1:15,4,9,JAX 27,21-26,David Garrard pass complete short left to Matt Jones for 10 yards (tackle by Deshea Townsend),10,-1.570,1.400,2.97
+2008-10-19,Vikings,Bears,4,12:09,4,3,CHI 49,31-48,Gus Frerotte pass complete short right to Aundrae Allison for 10 yards (tackle by Kevin Payne),10,0.000,2.980,2.98
+2008-10-26,Cardinals,Panthers,2,1:14,4,15,CAR 21,10-3,Dirk Johnson pass complete short right to Jerame Tuman for 10 yards (tackle by Charles Godfrey),10,2.060,0.370,-1.69
+2008-11-23,Browns,Texans,4,8:50,4,10,HTX 35,6-16,Derek Anderson pass complete short right to Braylon Edwards for 10 yards (tackle by Jacques Reeves),10,0.970,3.910,2.94
+2008-09-22,Jets,Chargers,4,13:33,4,1,SDG 35,14-38,Brett Favre pass complete short left to Chris Baker for 9 yards (tackle by Steve Gregory),9,1.000,3.840,2.84
+2008-09-28,Jaguars,Texans,4,2:27,4,8,HTX 18,20-24,David Garrard up the middle for 9 yards (tackle by Dominique Barber),9,2.250,5.140,2.89
+2008-10-12,Seahawks,Packers,2,9:50,4,1,GNB 23,3-3,T.J. Duckett left end for 9 yards (tackle by Nick Barnett),9,2.080,4.650,2.57
+2008-10-26,Raiders,Ravens,4,2:14,4,3,RAV 29,10-29,JaMarcus Russell pass complete short middle to Johnnie Lee Higgins for 9 yards (tackle by Corey Ivy),9,1.580,4.240,2.66
+2008-11-16,Washington,Cowboys,1,8:20,4,1,DAL 11,0-0,Clinton Portis left tackle for 9 yards (tackle by Zach Thomas),9,2.850,6.740,3.89
+2008-12-07,Jets,49ers,4,2:08,4,3,NYJ 29,14-24,Brett Favre pass complete short middle to Dustin Keller for 9 yards (tackle by Michael Lewis),9,-1.440,1.470,2.91
+2008-12-28,Saints,Panthers,4,5:38,4,2,CAR 9,23-30,Drew Brees pass complete short right to Lance Moore for 9 yards touchdown,9,2.950,7.000,4.05
+2009-01-04,Dolphins,Ravens,4,2:42,4,11,MIA 34,9-27,Chad Pennington pass complete short left to Brandon London for 9 yards (tackle by Corey Ivy),9,-1.110,-2.720,-1.61
+2008-09-08,Raiders,Broncos,4,13:12,4,7,DEN 8,6-27,JaMarcus Russell pass complete short left to Ashley Lelie for 8 yards touchdown. Penalty on Karl Paymah: Defensive Pass Interference (Declined),8,2.960,7.000,4.04
+2008-09-14,Rams,Giants,4,6:31,4,6,RAM 33,13-27,Marc Bulger pass complete short right to Dante Hall for 8 yards (tackle by Michael Johnson),8,-1.180,1.660,2.84
+2008-09-14,Washington,Saints,4,1:58,4,2,NOR 34,29-24,Jason Campbell pass complete short left to Santana Moss for 8 yards (tackle by Tracy Porter),8,1.100,3.840,2.74
+2008-10-12,Jets,Bengals,1,11:20,4,1,CIN 38,0-7,Brett Favre pass complete short left to Laveranues Coles for 8 yards (tackle by David Jones),8,0.720,3.580,2.86
+2008-10-19,Bengals,Steelers,4,0:09,4,1,CIN 29,10-38,Jordan Palmer pass complete short left to Chad Ochocinco for 8 yards (tackle by Anthony Madison),8,-1.440,1.400,2.84
+2008-11-02,Falcons,Raiders,1,1:01,4,1,RAI 46,14-0,Michael Turner left tackle for 8 yards (tackle by Gerard Warren and Hiram Eugene),8,0.200,3.050,2.85
+2008-11-09,Bears,Titans,1,8:25,4,1,OTI 15,0-0,Matt Forte right tackle for 8 yards (tackle by Keith Bulluck),8,2.590,5.600,3.01
+2008-11-09,Jets,Rams,2,15:00,4,2,RAM 35,17-0,Brett Favre pass complete short right to Dustin Keller for 8 yards (tackle by Quinton Culberson),8,0.990,3.780,2.79
+2008-11-27,Seahawks,Cowboys,4,0:13,4,4,DAL 28,9-34,Matt Hasselbeck pass complete short right to Deion Branch for 8 yards (tackle by Courtney L. Brown),8,1.650,3.180,1.53
+2008-12-07,Jaguars,Bears,4,5:17,4,5,JAX 24,10-23,David Garrard pass complete short left to Matt Jones for 8 yards (tackle by Danieal Manning),8,-1.770,1.070,2.84
+2008-12-14,Cardinals,Vikings,4,0:27,4,2,MIN 27,14-35,Matt Leinart pass complete short left to Tim Hightower for 8 yards (tackle by E.J. Henderson),8,1.800,4.310,2.51
+2008-12-14,Rams,Seahawks,4,14:13,4,6,SEA 37,17-13,Marc Bulger pass complete short right to Torry Holt for 8 yards (tackle by Marcus Trufant),8,0.790,3.640,2.85
+2008-12-21,Chiefs,Dolphins,2,14:14,4,1,MIA 8,13-10,Tyler Thigpen pass complete short right to Tony Gonzalez for 8 yards touchdown,8,2.990,7.000,4.01
+2008-12-28,Packers,Lions,1,11:28,4,12,DET 32,0-0,Aaron Rodgers pass complete short middle to Donald Driver for 8 yards (tackle by Leigh Bodden),8,1.240,-0.540,-1.78
+2008-09-04,Washington,Giants,4,0:32,4,2,NYG 39,7-16,Jason Campbell pass complete short right to Antwaan Randle El for 7 yards (tackle by Kevin Dockery),7,0.660,3.450,2.79
+2008-09-21,Cowboys,Packers,4,1:59,4,8,GNB 32,27-16,Tony Romo pass complete short left to Jason Witten for 7 yards (tackle by A.J. Hawk),7,1.240,-0.610,-1.85
+2008-09-28,Falcons,Panthers,4,1:25,4,15,ATL 31,9-24,Matt Ryan pass complete short right to Jerious Norwood for 7 yards (tackle by Richard Marshall),7,-1.310,-3.050,-1.74
+2008-10-05,Colts,Texans,4,4:10,4,6,HTX 7,16-27,Peyton Manning pass complete short middle to Tom Santi for 7 yards touchdown,7,2.980,7.000,4.02
+2008-10-19,Packers,Colts,2,7:15,4,1,GNB 44,10-7,Ryan Grant right end for 7 yards (tackle by Marlin Jackson),7,-0.460,2.320,2.78
+2008-10-19,Colts,Packers,4,6:51,4,5,GNB 27,7-27,Peyton Manning pass complete short middle to Anthony Gonzalez for 7 yards (tackle by Tramon Williams),7,1.720,4.240,2.52
+2008-11-16,Dolphins,Raiders,4,2:00,4,5,RAI 35,14-15,Chad Pennington pass complete short right to Ted Ginn Jr. for 7 yards (tackle by Stanford Routt),7,0.980,3.710,2.73
+2008-11-30,Buccaneers,Saints,1,1:42,4,1,NOR 35,0-3,Cadillac Williams up the middle for 7 yards (tackle by Roman Harper),7,1.000,3.710,2.71
+2008-12-14,Cardinals,Vikings,4,13:05,4,2,MIN 40,14-35,Kurt Warner pass complete short left to Anquan Boldin for 7 yards (tackle by Antoine Winfield),7,0.590,3.380,2.79
+2008-12-14,Bills,Jets,4,0:26,4,5,BUF 42,27-31,J.P. Losman pass complete short left to Lee Evans for 7 yards (tackle by Eric Smith),7,-0.590,2.190,2.78
+2008-12-28,Patriots,Bills,2,7:23,4,5,BUF 35,3-0,Matt Cassel right guard for 7 yards (tackle by Reggie Corner),7,0.980,3.710,2.73
+2008-12-28,Seahawks,Cardinals,4,2:02,4,2,SEA 41,21-34,Seneca Wallace pass complete short right to John Carlson for 7 yards (tackle by Michael Adams),7,-0.650,2.130,2.78
+2008-10-05,Colts,Texans,1,12:19,4,1,HTX 41,0-0,Joseph Addai right end for 6 yards (tackle by Morlon Greenwood),6,0.530,3.250,2.72
+2008-10-12,Bengals,Jets,2,2:04,4,2,NYJ 42,7-17,Ryan Fitzpatrick pass complete short right to T.J. Houshmandzadeh for 6 yards (tackle by Drew Coleman),6,0.460,3.180,2.72
+2008-10-19,Ravens,Dolphins,1,4:15,4,2,MIA 34,0-3,Joe Flacco pass complete short right to Ray Rice for 6 yards (tackle by Vonnie Holliday),6,1.100,3.710,2.61
+2008-10-26,Buccaneers,Cowboys,4,0:47,4,4,DAL 29,9-13,Jeff Garcia pass complete short middle to Ike Hilliard for 6 yards (tackle by Kevin Burnett),6,1.560,4.040,2.48
+2008-10-26,Falcons,Eagles,4,4:34,4,5,PHI 15,7-20,Matt Ryan pass complete short right to Roddy White for 6 yards (tackle by Joselio Hanson),6,2.490,5.140,2.65
+2008-10-26,Seahawks,49ers,1,1:00,4,6,SFO 35,6-0,Seneca Wallace pass complete short left to Koren Robinson for 6 yards (tackle by Tarell Brown),6,0.970,3.640,2.67
+2008-11-23,Patriots,Dolphins,1,4:00,4,1,MIA 43,3-7,Matt Cassel up the middle for 6 yards (tackle by Randy Starks),6,0.400,3.120,2.72
+2008-12-07,Washington,Ravens,4,2:19,4,4,WAS 33,10-24,Jason Campbell pass complete short left to Santana Moss for 6 yards (tackle by Corey Ivy),6,-1.180,1.530,2.71
+2008-12-14,Colts,Lions,1,8:26,4,1,DET 7,0-0,Peyton Manning pass complete short right to Dallas Clark for 6 yards (tackle by Ernie Sims),6,3.010,6.970,3.96
+2008-12-14,Bills,Jets,1,10:29,4,5,BUF 37,0-7,Keith Ellison left end for 6 yards (tackle by David Bowens and James Ihedigbo),6,-0.910,1.800,2.71
+2008-12-22,Packers,Bears,2,9:43,4,2,CHI 37,0-0,Matt Flynn right end for 6 yards (tackle by Craig Steltz and Marcus Hamilton),6,0.790,3.510,2.72
+2009-01-18,Cardinals,Eagles,4,7:57,4,1,PHI 49,24-25,Tim Hightower right end for 6 yards (tackle by Brian Dawkins),6,0.000,2.720,2.72
+2008-09-14,Patriots,Jets,4,1:56,4,3,NYJ 29,19-10,Matt Cassel pass complete short left to Wes Welker for 5 yards (tackle by Kerry Rhodes),5,1.580,3.970,2.39
+2008-09-21,Bills,Raiders,2,1:05,4,2,RAI 36,7-9,Trent Edwards pass complete short middle to Marshawn Lynch for 5 yards (tackle by Derrick Burgess),5,0.890,3.510,2.62
+2008-10-26,Jaguars,Browns,4,0:36,4,3,JAX 49,17-23,David Garrard pass complete short middle to Dennis Northcutt for 5 yards (tackle by Nick Sorensen). Penalty on Tony Pashos: Unnecessary Roughness 15 yards,5,-0.130,1.530,1.66
+2008-11-09,Raiders,Panthers,4,0:29,4,1,CAR 45,6-17,Michael Bush up the middle for 5 yards (tackle by Charles Godfrey),5,0.270,2.920,2.65
+2008-11-16,Seahawks,Cardinals,4,10:27,4,3,CRD 7,13-26,Matt Hasselbeck left tackle for 5 yards (tackle by Matt Ware),5,2.990,6.740,3.75
+2008-12-04,Chargers,Raiders,4,0:29,4,1,SDG 39,34-7,Jacob Hester left tackle for 5 yards (tackle by Gerard Warren),5,-0.780,1.860,2.64
+2008-12-07,Jaguars,Bears,4,2:53,4,6,JAX 48,10-23,David Garrard pass complete short right to Marcedes Lewis for 5 yards (tackle by Mike Brown),5,-0.190,-2.130,-1.94
+2008-12-07,Washington,Ravens,4,11:32,4,5,RAV 5,9-17,Jason Campbell pass complete short right to Antwaan Randle El for 5 yards touchdown,5,3.010,7.000,3.99
+2008-12-21,Eagles,Washington,4,0:27,4,4,WAS 23,3-10,Donovan McNabb pass complete short left to Brian Westbrook for 5 yards (tackle by Jason Taylor),5,2.000,4.370,2.37
+2008-12-28,Lions,Packers,4,4:17,4,4,GNB 35,21-31,Dan Orlovsky pass complete short middle to Calvin Johnson for 5 yards (tackle by Nick Collins),5,0.980,3.580,2.60
+2008-09-08,Raiders,Broncos,4,1:35,4,4,DEN 4,13-41,JaMarcus Russell pass complete short middle to Ronald Curry for 4 yards touchdown,4,3.030,7.000,3.97
+2008-09-14,Broncos,Chargers,4,0:29,4,4,SDG 4,37-38,Jay Cutler pass complete short middle to Eddie Royal for 4 yards touchdown,4,3.030,7.000,3.97
+2008-09-15,Eagles,Cowboys,4,1:10,4,17,PHI 42,37-41,Donovan McNabb pass complete short left to DeSean Jackson for 4 yards lateral to Hank Baskett for 1 yard lateral to Brian Westbrook for 2 yards (tackle by Mike Jenkins),4,-0.590,-2.320,-1.73
+2008-10-19,Dolphins,Ravens,4,4:43,4,7,RAV 19,13-27,Chad Pennington pass complete short left to Patrick Cobbs for 4 yards (tackle by Ed Reed),4,2.180,0.220,-1.96
+2008-10-20,Patriots,Broncos,2,7:37,4,1,DEN 4,12-0,Sammy Morris left tackle for 4 yards touchdown,4,3.040,7.000,3.96
+2008-10-26,Buccaneers,Cowboys,4,2:31,4,1,TAM 35,9-13,Earnest Graham left guard for 4 yards (tackle by Zach Thomas),4,-1.040,1.530,2.57
+2008-11-16,Chiefs,Saints,1,8:08,4,1,NOR 24,0-0,Larry Johnson up the middle for 4 yards (tackle by Kevin Kaesviharn),4,2.020,4.240,2.22
+2008-11-23,Texans,Browns,1,1:12,4,1,CLE 16,7-0,Ahman Green left tackle for 4 yards (tackle by Corey Williams),4,2.530,4.780,2.25
+2008-12-07,Bills,Dolphins,4,6:12,4,5,MIA 47,3-16,J.P. Losman pass complete short right to Marshawn Lynch for 4 yards (tackle by Yeremiah Bell),4,0.130,-1.800,-1.93
+2008-12-07,Chiefs,Broncos,4,4:44,4,5,DEN 5,17-24,Tyler Thigpen up the middle for 4 yards (tackle by Dre' Bly),4,3.010,0.380,-2.63
+2008-12-07,49ers,Jets,2,3:28,4,1,SFO 46,7-7,Frank Gore left tackle for 4 yards (tackle by Abram Elam and Darrelle Revis),4,-0.320,2.260,2.58
+2008-12-14,Jaguars,Packers,4,13:31,4,1,GNB 32,7-13,David Garrard up the middle for 4 yards (tackle by A.J. Hawk),4,1.310,3.710,2.40
+2008-12-14,Raiders,Patriots,4,2:36,4,4,NWE 25,20-49,JaMarcus Russell pass complete short right to Chaz Schilens for 4 yards (tackle by Jonathan Wilhite),4,1.880,4.170,2.29
+2008-12-21,Buccaneers,Chargers,4,4:10,4,3,TAM 42,24-34,Jeff Garcia pass complete short left to Ike Hilliard for 4 yards (tackle by Antoine Cason),4,-0.590,1.990,2.58
+2008-12-22,Packers,Bears,4,14:26,4,1,CHI 9,14-10,DeShawn Wynn left guard for 4 yards (tackle by Tommie Harris),4,2.980,6.060,3.08
+2008-12-28,Seahawks,Cardinals,1,10:43,4,1,CRD 42,0-0,T.J. Duckett right tackle for 4 yards (tackle by Monty Beisel and Adrian Wilson),4,0.460,3.050,2.59
+2008-12-28,Browns,Steelers,4,2:32,4,4,CLE 27,0-31,Jamal Lewis up the middle for 4 yards (tackle by Andre Frazier and Orpheus Roye),4,-1.570,1.000,2.57
+2008-12-28,Chargers,Broncos,4,1:19,4,1,DEN 4,51-21,Jacob Hester up the middle for 4 yards touchdown,4,3.040,7.000,3.96
+2008-09-08,Vikings,Packers,4,3:44,4,1,GNB 29,12-24,Tarvaris Jackson right guard for 3 yards (tackle by Mike Montgomery),3,1.620,3.840,2.22
+2008-09-14,Lions,Packers,4,1:28,4,7,DET 25,25-48,Dan Orlovsky pass complete short middle to Kevin Smith for 3 yards (tackle by Nick Barnett),3,-1.700,-3.710,-2.01
+2008-09-21,Texans,Titans,2,9:58,4,1,OTI 11,6-14,Steve Slaton right tackle for 3 yards (tackle by Ryan Fowler),3,2.850,5.370,2.52
+2008-09-21,Seahawks,Rams,1,8:02,4,1,RAM 15,3-0,T.J. Duckett right tackle for 3 yards (tackle by O.J. Atogwe),3,2.590,4.780,2.19
+2008-10-05,Panthers,Chiefs,4,5:49,4,10,KAN 33,34-0,Nick Goings up the middle for 3 yards (tackle by Demorrio Williams),3,1.150,-0.940,-2.09
+2008-10-05,Cardinals,Bills,4,12:05,4,1,BUF 10,34-17,Tim Hightower left tackle for 3 yards (tackle by George Wilson),3,2.910,5.600,2.69
+2008-10-05,Dolphins,Chargers,2,6:56,4,1,SDG 22,3-3,Ronnie Brown up the middle for 3 yards (tackle by Shaun Phillips),3,2.140,4.310,2.17
+2008-10-05,Washington,Eagles,4,2:48,4,1,PHI 38,23-17,Clinton Portis up the middle for 3 yards (tackle by Mike Patterson),3,0.720,3.250,2.53
+2008-10-12,Texans,Dolphins,4,0:07,4,2,MIA 3,29-28,Matt Schaub up the middle for 3 yards touchdown,3,3.050,7.000,3.95
+2008-10-19,49ers,Giants,4,1:19,4,12,SFO 34,17-29,J.T. O'Sullivan for 3 yards (tackle by Chase Blackburn),3,-1.110,-3.120,-2.01
+2008-11-09,Saints,Falcons,4,13:49,4,1,NOR 29,6-27,Pierre Thomas up the middle for 3 yards (tackle by Erik Coleman),3,-1.440,1.070,2.51
+2008-11-16,Bears,Packers,4,6:08,4,6,GNB 46,3-34,Rex Grossman pass complete short middle to Adrian Peterson for 3 yards (tackle by Brady Poppinga),3,0.200,-1.800,-2.00
+2008-11-16,Cowboys,Washington,4,1:08,4,1,WAS 17,14-10,Marion Barber right end for 3 yards (tackle by Rocky McIntosh),3,2.460,4.650,2.19
+2008-11-23,Texans,Browns,2,0:53,4,1,CLE 45,10-6,Ahman Green right tackle for 3 yards (tackle by Brodney Pool),3,0.270,2.790,2.52
+2008-11-23,Buccaneers,Lions,4,2:41,4,2,DET 27,38-20,B.J. Askew up the middle for 3 yards (tackle by Ryan Nece),3,1.800,3.970,2.17
+2008-12-21,Vikings,Falcons,4,5:02,4,1,MIN 27,10-24,Adrian Peterson left end for 3 yards (tackle by Keith Brooking),3,-1.570,0.940,2.51
+2008-12-28,Washington,49ers,2,4:16,4,1,SFO 39,10-7,Clinton Portis left guard for 3 yards (tackle by Nate Clements),3,0.660,3.180,2.52
+2009-01-11,Giants,Eagles,1,13:46,4,2,PHI 27,0-0,Brandon Jacobs left tackle for 3 yards (tackle by Brodrick Bunkley),3,1.800,3.970,2.17
+2008-09-07,Cowboys,Browns,4,1:15,4,1,CLE 15,28-10,Tashard Choice left guard for 2 yards (tackle by D'Qwell Jackson and Andra Davis),2,2.590,4.710,2.12
+2008-09-07,Jaguars,Titans,1,3:32,4,1,JAX 41,0-3,David Garrard left guard for 2 yards (tackle by Kyle Vanden Bosch and Michael Griffin),2,-0.650,1.800,2.45
+2008-09-07,Cardinals,49ers,4,6:11,4,1,SFO 27,20-13,Tim Hightower up the middle for 2 yards (tackle by Takeo Spikes),2,1.820,3.910,2.09
+2008-09-08,Raiders,Broncos,1,6:08,4,1,DEN 10,0-7,JaMarcus Russell up the middle for 2 yards,2,2.910,5.370,2.46
+2008-09-14,Raiders,Chiefs,2,0:01,4,1,RAI 20,6-0,Darren McFadden up the middle for 2 yards (tackle by Tank Tyler),2,-2.030,0.410,2.44
+2008-09-21,Titans,Texans,1,6:36,4,1,HTX 2,6-3,LenDale White left tackle for 2 yards touchdown,2,3.250,7.000,3.75
+2008-09-21,Ravens,Browns,1,3:51,4,2,CLE 49,0-0,Joe Flacco up the middle for 2 yards (tackle by Alex Hall),2,0.000,2.460,2.46
+2008-09-21,Ravens,Browns,4,7:32,4,1,CLE 25,28-10,Le'Ron McClain left guard for 2 yards (tackle by Louis Leonard and Shaun Rogers),2,1.950,4.040,2.09
+2008-09-22,Jets,Chargers,4,11:12,4,1,SDG 6,14-38,Brett Favre up the middle for 2 yards (tackle by Matt Wilhelm),2,3.020,6.280,3.26
+2008-09-28,Jets,Cardinals,1,3:00,4,1,CRD 40,0-0,Thomas Jones left tackle for 2 yards (tackle by Karlos Dansby),2,0.590,3.050,2.46
+2008-09-28,Titans,Vikings,2,4:18,4,2,MIN 3,13-7,Kerry Collins pass complete short right to Justin Gage for 2 yards (tackle by Antoine Winfield and Brian Robison),2,3.050,6.970,3.92
+2008-09-28,Buccaneers,Packers,2,2:23,4,1,GNB 23,10-7,Earnest Graham right guard for 2 yards (tackle by Nick Barnett and Ryan Pickett),2,2.080,4.170,2.09
+2008-10-05,Panthers,Chiefs,2,2:00,4,1,KAN 36,14-0,Jonathan Stewart up the middle for 2 yards (tackle by Tank Tyler),2,0.890,3.310,2.42
+2008-10-05,Lions,Bears,4,9:39,4,3,CHI 30,7-34,Dan Orlovsky pass complete short left to Mike Furrey for 2 yards (tackle by Lance Briggs),2,1.480,-0.810,-2.29
+2008-10-19,Giants,49ers,1,0:45,4,1,SFO 10,7-3,Ahmad Bradshaw right end for 2 yards (tackle by Takeo Spikes and Parys Haralson),2,2.910,5.370,2.46
+2008-10-19,Seahawks,Buccaneers,4,2:00,4,1,TAM 2,9-20,Seneca Wallace pass complete short right to John Carlson for 2 yards touchdown,2,3.250,7.000,3.75
+2008-10-26,Lions,Washington,4,0:48,4,3,DET 45,17-25,Dan Orlovsky pass complete short right to Calvin Johnson for 2 yards (tackle by London Fletcher),2,-0.390,-2.460,-2.07
+2008-10-26,Rams,Patriots,1,13:18,4,1,RAM 41,0-0,Antonio Pittman right guard for 2 yards (tackle by Mike Wright and Tedy Bruschi),2,-0.650,1.800,2.45
+2008-11-02,Vikings,Texans,1,1:28,4,1,HTX 26,7-7,Gus Frerotte up the middle for 2 yards,2,1.890,3.970,2.08
+2008-11-06,Broncos,Browns,4,3:58,4,1,DEN 45,27-30,Peyton Hillis right guard for 2 yards (tackle by Sean Jones),2,-0.390,2.060,2.45
+2008-11-09,Eagles,Giants,4,5:36,4,2,NYG 2,30-36,Donovan McNabb pass complete short right to Kevin Curtis for 2 yards touchdown,2,3.250,7.000,3.75
+2008-11-09,Giants,Eagles,4,0:15,4,1,PHI 36,36-31,Eli Manning up the middle for 2 yards (tackle by Omar Gaither),2,0.890,3.050,2.16
+2008-11-13,Patriots,Jets,2,0:33,4,1,NYJ 21,6-24,Matt Cassel up the middle for 2 yards (tackle by C.J. Mosley),2,2.210,4.310,2.10
+2008-11-16,Eagles,Bengals,4,7:38,4,1,CIN 20,10-13,Donovan McNabb right guard for 2 yards (tackle by Robert Geathers),2,2.270,4.370,2.10
+2008-11-23,Buccaneers,Lions,4,5:33,4,1,DET 37,38-20,Cadillac Williams left tackle for 2 yards (tackle by Daniel Bullocks and Jordon Dizon),2,0.790,3.250,2.46
+2008-11-23,Rams,Bears,4,11:15,4,2,CHI 28,3-27,Trent Green up the middle for 2 yards (tackle by Tommie Harris),2,1.700,3.840,2.14
+2008-11-24,Packers,Saints,4,14:52,4,2,NOR 35,21-45,Brandon Jackson right guard for 2 yards (tackle by Jonathan Vilma),2,0.990,3.380,2.39
+2008-11-24,Saints,Packers,4,9:39,4,1,GNB 33,45-29,Pierre Thomas right guard for 2 yards (tackle by Ryan Pickett),2,1.210,3.510,2.30
+2008-11-30,Packers,Panthers,4,6:05,4,1,CAR 41,28-28,Aaron Rodgers up the middle for 2 yards (tackle by Ma'ake Kemoeatu),2,0.530,2.980,2.45
+2008-11-30,Patriots,Steelers,2,8:56,4,1,PIT 21,7-3,Sammy Morris left guard for 2 yards (tackle by Ryan Clark),2,2.210,4.310,2.10
+2008-11-30,Falcons,Chargers,2,9:59,4,1,SDG 20,6-7,Ovie Mughelli middle for 2 yards (tackle by Clinton Hart),2,2.270,4.370,2.10
+2008-12-04,Chargers,Raiders,1,1:14,4,1,RAI 26,10-0,Philip Rivers up the middle for 2 yards (tackle by William Joseph),2,1.890,3.970,2.08
+2008-12-07,Dolphins,Bills,2,5:03,4,1,BUF 34,10-3,Lousaka Polite up the middle for 2 yards (tackle by Paul Posluszny),2,1.100,3.450,2.35
+2008-12-07,Saints,Falcons,4,6:16,4,1,ATL 7,22-25,Mike Karney right guard for 2 yards (tackle by Keith Brooking and Curtis Lofton),2,3.010,6.060,3.05
+2008-12-14,Bengals,Washington,4,6:07,4,1,WAS 46,17-10,Ryan Fitzpatrick up the middle for 2 yards (tackle by Jason Taylor),2,0.200,2.650,2.45
+2008-12-14,Texans,Titans,1,1:50,4,1,OTI 19,0-3,Steve Slaton right tackle for 2 yards (tackle by Cortland Finnegan and Michael Griffin),2,2.340,4.440,2.10
+2008-12-18,Jaguars,Colts,1,2:31,4,1,JAX 31,7-0,David Garrard up the middle for 2 yards (tackle by Clint Session),2,-1.310,1.140,2.45
+2008-12-21,Vikings,Falcons,4,3:42,4,1,ATL 31,10-24,Adrian Peterson up the middle for 2 yards (tackle by John Abraham and Kindal Moorehead),2,1.410,3.640,2.23
+2008-12-21,Texans,Raiders,2,8:23,4,1,HTX 38,7-13,Matt Schaub up the middle for 2 yards,2,-0.850,1.600,2.45
+2008-12-21,Rams,49ers,1,6:17,4,1,SFO 45,0-0,Steven Jackson right guard for 2 yards (tackle by Justin Smith),2,0.270,2.720,2.45
+2008-12-28,Seahawks,Cardinals,4,12:11,4,2,CRD 2,20-28,Seneca Wallace pass complete short middle to Deion Branch for 2 yards touchdown,2,3.250,7.000,3.75
+2008-12-28,Lions,Packers,1,4:59,4,1,GNB 48,0-7,Kevin Smith left tackle for 2 yards (tackle by Mike Montgomery),2,0.070,2.520,2.45
+2008-12-28,Dolphins,Jets,4,2:30,4,1,NYJ 40,24-17,Chad Pennington right guard for 2 yards (tackle by Shaun Ellis),2,0.590,3.050,2.46
+2008-12-28,Chargers,Broncos,2,13:08,4,1,DEN 17,10-6,Philip Rivers up the middle for 2 yards (tackle by Nate Webster and Josh Barrett),2,2.460,4.580,2.12
+2008-12-28,Washington,49ers,4,1:15,4,2,SFO 2,23-24,Jason Campbell up the middle for 2 yards touchdown,2,3.250,7.000,3.75
+2008-09-14,Dolphins,Cardinals,4,2:42,4,1,CRD 1,9-31,Ronnie Brown up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2008-09-21,Chiefs,Falcons,4,3:59,4,2,ATL 2,14-31,Larry Johnson right end for 1 yard (tackle by Jason Jefferson and Keith Brooking),1,3.250,0.380,-2.87
+2008-09-21,Jaguars,Colts,2,6:19,4,2,CLT 11,3-7,Fred Taylor right tackle for 1 yard (tackle by Marlin Jackson and Robert Mathis),1,2.820,0.380,-2.44
+2008-09-21,Texans,Titans,4,7:12,4,2,OTI 2,12-24,Steve Slaton up the middle for 1 yard (tackle by Tony Brown and David Thornton),1,3.250,0.380,-2.87
+2008-09-21,Ravens,Browns,4,2:00,4,3,CLE 5,28-10,Le'Ron McClain up the middle for 1 yard (tackle by Kamerion Wimbley),1,3.020,0.380,-2.64
+2008-09-21,49ers,Lions,4,9:37,4,1,DET 1,27-6,Allen Rossum left end for 1 yard touchdown,1,3.550,7.000,3.45
+2008-09-28,Raiders,Chargers,2,5:35,4,1,SDG 1,12-0,Michael Bush left tackle for 1 yard. Penalty on Cornell Green: Offensive Holding 10 yards (no play),1,3.550,2.700,-0.85
+2008-09-28,Packers,Buccaneers,1,13:30,4,1,TAM 49,0-0,Aaron Rodgers up the middle for 1 yard (tackle by Jovan Haye),1,0.000,2.390,2.39
+2008-10-05,Falcons,Packers,1,9:58,4,1,GNB 1,6-0,Matt Ryan pass complete short right to Justin Peelle for 1 yard touchdown,1,3.550,7.000,3.45
+2008-10-12,Bengals,Jets,4,0:54,4,1,NYJ 35,14-26,Ryan Fitzpatrick up the middle for 1 yard (tackle by David Bowens),1,1.000,3.310,2.31
+2008-10-12,Washington,Rams,2,9:55,4,1,RAM 40,7-3,Clinton Portis right tackle for 1 yard (tackle by Victor Adeyanju and Will Witherspoon),1,0.590,2.980,2.39
+2008-10-19,Saints,Panthers,4,11:31,4,2,CAR 3,7-27,Aaron Stecker up the middle for 1 yard (tackle by Julius Peppers),1,3.050,0.380,-2.67
+2008-10-19,Vikings,Bears,1,9:24,4,1,CHI 1,6-0,Adrian Peterson left tackle for 1 yard touchdown,1,3.550,7.000,3.45
+2008-10-19,Chiefs,Titans,2,8:25,4,1,KAN 44,0-10,Kolby Smith left end for 1 yard (tackle by Stephen Tulloch). Penalty on Kevin Vickerson: Defensive Offside 5 yards (no play),1,-0.460,2.190,2.65
+2008-10-19,Browns,Washington,4,2:49,4,1,WAS 1,9-14,Derek Anderson pass complete short middle to Josh Cribbs for 1 yard touchdown,1,3.550,7.000,3.45
+2008-10-26,Cowboys,Buccaneers,4,6:28,4,1,DAL 38,13-9,Marion Barber right guard for 1 yard (tackle by Sabby Piscitelli),1,-0.850,1.530,2.38
+2008-10-26,Saints,Chargers,2,8:57,4,1,SDG 1,15-3,Deuce McAllister left tackle for 1 yard touchdown,1,3.550,7.000,3.45
+2008-11-02,Dolphins,Broncos,4,6:01,4,1,DEN 35,19-17,Lousaka Polite up the middle for 1 yard (tackle by Nate Webster and Dewayne Robertson),1,1.000,3.310,2.31
+2008-11-02,Eagles,Seahawks,2,2:00,4,1,SEA 35,7-7,Donovan McNabb up the middle for 1 yard (tackle by Rocky Bernard and Brandon Mebane),1,1.000,3.310,2.31
+2008-11-09,Dolphins,Seahawks,4,8:04,4,1,SEA 30,14-13,Lousaka Polite left guard for 1 yard (tackle by Rocky Bernard),1,1.520,3.640,2.12
+2008-11-16,Packers,Bears,4,13:19,4,1,CHI 36,24-3,Aaron Rodgers up the middle for 1 yard (tackle by Adewale Ogunleye),1,0.890,3.250,2.36
+2008-11-16,Seahawks,Cardinals,4,13:22,4,1,CRD 2,7-26,T.J. Duckett up the middle for 1 yard (tackle by Bryan Robinson),1,3.250,6.970,3.72
+2008-11-20,Steelers,Bengals,2,11:30,4,1,CIN 4,0-7,Gary Russell left tackle for 1 yard (tackle by Brandon Johnson and Jonathan Fanene),1,3.040,6.510,3.47
+2008-11-23,Falcons,Panthers,4,7:16,4,1,CAR 1,30-21,Michael Turner left tackle for 1 yard touchdown,1,3.550,7.000,3.45
+2008-11-23,Giants,Cardinals,1,0:01,4,1,CRD 36,0-3,Derrick Ward right tackle for 1 yard (tackle by Chike Okeafor),1,0.890,3.250,2.36
+2008-11-23,Bills,Chiefs,1,6:45,4,1,KAN 1,6-7,Marshawn Lynch up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2008-11-23,Bills,Chiefs,4,4:43,4,4,KAN 30,54-24,Fred Jackson up the middle for 1 yard (tackle by Rocky Boiman),1,1.460,-0.870,-2.33
+2008-11-23,Patriots,Dolphins,4,0:40,4,1,MIA 1,47-28,BenJarvus Green-Ellis left tackle for 1 yard touchdown,1,3.550,7.000,3.45
+2008-11-30,Bills,49ers,4,1:13,4,15,BUF 14,3-10,J.P. Losman pass complete short right to Marshawn Lynch for 1 yard (tackle by Donald Strickland),1,-2.470,-4.580,-2.11
+2008-11-30,Patriots,Steelers,4,4:19,4,1,PIT 15,10-26,Matt Cassel up the middle for 1 yard (tackle by James Farrior),1,2.590,4.650,2.06
+2008-12-07,Chiefs,Broncos,2,13:28,4,1,KAN 41,10-7,Tyler Thigpen left guard for 1 yard (tackle by Dewayne Robertson),1,-0.650,1.730,2.38
+2008-12-07,Steelers,Cowboys,4,3:27,4,1,DAL 23,6-13,Ben Roethlisberger up the middle for 1 yard (tackle by Jay Ratliff and Marcus R. Spears),1,2.080,4.110,2.03
+2008-12-07,Patriots,Seahawks,4,2:50,4,1,SEA 1,22-21,Sammy Morris up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2008-12-21,Raiders,Texans,4,1:16,4,6,HTX 37,27-16,Justin Fargas up the middle for 1 yard (tackle by Kevin Bentley),1,0.790,-1.330,-2.12
+2008-12-22,Bears,Packers,4,3:41,4,1,GNB 4,10-17,Matt Forte right guard for 1 yard (tackle by Ryan Pickett),1,3.040,6.510,3.47
+2008-12-28,Bills,Patriots,4,2:33,4,10,NWE 34,0-13,Trent Edwards right end for 1 yard (tackle by Jerod Mayo),1,1.060,-1.140,-2.20
+2008-12-28,Chiefs,Bengals,4,3:15,4,1,CIN 1,0-16,Tyler Thigpen pass complete short right to Dwayne Bowe for 1 yard. Penalty on Dwayne Bowe: Offensive Pass Interference 9 yards (no play),1,3.550,2.760,-0.79
+2008-12-28,Texans,Bears,4,13:51,4,1,CHI 6,21-17,Matt Schaub up the middle for 1 yard (tackle by Lance Briggs),1,3.020,6.060,3.04
+2008-12-28,Bears,Texans,4,2:04,4,1,HTX 11,17-31,Kyle Orton right guard for 1 yard (tackle by Anthony Weaver and Brandon Harrison),1,2.850,4.910,2.06
+2009-01-03,Chargers,Colts,4,13:08,4,1,CLT 33,14-17,Philip Rivers up the middle for 1 yard (tackle by Clint Session),1,1.210,3.450,2.24
+2009-01-11,Giants,Eagles,4,6:40,4,2,NYG 47,11-20,Brandon Jacobs right guard for 1 yard (tackle by Brodrick Bunkley and Stewart Bradley),1,-0.260,-2.390,-2.13
+2008-09-07,Titans,Jaguars,4,0:20,4,1,JAX 30,17-10,Kerry Collins right guard for no gain (tackle by Rob Meier),0,1.520,-0.940,-2.46
+2008-09-07,Texans,Steelers,1,10:50,4,1,PIT 48,0-0,Matt Schaub up the middle for no gain (tackle by Brett Keisel and Casey Hampton),0,0.070,-2.130,-2.20
+2008-09-14,Bears,Panthers,4,2:00,4,1,50,17-20,Jason McKie up the middle for no gain (tackle by Thomas Davis and Julius Peppers),0,-0.060,-2.260,-2.20
+2008-09-14,Titans,Bengals,4,1:15,4,2,CIN 25,24-7,LenDale White right guard for no gain (tackle by John Thornton),0,1.930,-0.610,-2.54
+2008-09-14,Packers,Lions,4,11:44,4,6,GNB 14,24-18,Derrick Frost for no gain. Derrick Frost fumbles safety,0,-2.470,-2.000,.47
+2008-09-14,Buccaneers,Falcons,4,0:32,4,1,ATL 3,24-9,Warrick Dunn right guard for no gain (tackle by Jamaal Anderson),0,3.060,0.380,-2.68
+2008-09-21,Jaguars,Colts,4,0:29,4,1,JAX 29,20-21,David Garrard pass incomplete short right intended for Reggie Williams. Penalty on Freddie Keiaho: Defensive Pass Interference 11 yards (no play),0,-1.440,1.600,3.04
+2008-09-21,Saints,Broncos,2,0:31,4,1,DEN 1,17-24,Pierre Thomas up the middle for no gain (tackle by Nate Webster),0,3.550,0.380,-3.17
+2008-09-21,Rams,Seahawks,4,2:48,4,15,SEA 48,13-37,Marc Bulger pass incomplete deep left intended for Donnie Avery (defended by Deon Grant). Penalty on Deon Grant: Personal Foul 15 yards,0,0.070,-1.140,-1.21
+2008-09-28,Eagles,Bears,4,3:40,4,1,CHI 1,20-24,Correll Buckhalter left guard for no gain (tackle by Alex Brown),0,3.550,0.380,-3.17
+2008-10-05,Chiefs,Panthers,4,0:41,4,1,CAR 22,0-34,Dantrell Savage right tackle for no gain (tackle by Nate Salley and Jon Beason),0,2.140,-0.410,-2.55
+2008-10-05,Bears,Lions,2,11:01,4,1,DET 15,3-0,Matt Forte up the middle for no gain (tackle by Dewayne White),0,2.590,0.220,-2.37
+2008-10-05,Chargers,Dolphins,4,15:00,4,1,MIA 1,10-17,LaDainian Tomlinson left guard for no gain (tackle by Vonnie Holliday and Channing Crowder),0,3.550,0.380,-3.17
+2008-10-12,Bears,Falcons,4,8:03,4,1,ATL 1,10-19,Matt Forte up the middle for no gain (tackle by Keith Brooking),0,3.550,0.380,-3.17
+2008-10-12,Broncos,Jaguars,2,1:13,4,1,JAX 30,7-10,Michael Pittman up the middle for no gain (tackle by John Henderson),0,1.520,-0.940,-2.46
+2008-10-19,Vikings,Bears,1,5:53,4,10,MIN 24,7-13,Chris Kluwe for no gain. Chris Kluwe fumbles recovered by Garrett Wolfe at MIN-17 and returned for 17 yards touchdown. Penalty on Chris Kluwe: Illegal Kick (Declined),0,-1.770,-7.000,-5.23
+2008-10-19,Bears,Vikings,4,15:00,4,1,MIN 1,41-31,Kyle Orton pass incomplete short right intended for Desmond Clark. Penalty on Vinny Ciurciu: Defensive Pass Interference (no play),0,3.550,6.970,3.42
+2008-10-19,Colts,Packers,4,7:40,4,4,GNB 37,7-27,Peyton Manning pass incomplete short middle intended for Reggie Wayne. Penalty on Brandon Chillar: Defensive Pass Interference 5 yards (no play),0,0.790,3.450,2.66
+2008-10-19,Chiefs,Titans,2,5:58,4,1,OTI 42,0-10,Damon Huard up the middle for no gain (tackle by Albert Haynesworth). Penalty on Herbert Taylor: False Start 5 yards (no play),0,0.460,0.130,-0.33
+2008-10-19,Buccaneers,Seahawks,4,0:10,4,5,SEA 34,20-10,Jeff Garcia for no gain. Jeff Garcia fumbles recovered by Jeff Garcia at SEA-35,0,1.070,-1.270,-2.34
+2008-10-26,Buccaneers,Cowboys,4,0:19,4,5,DAL 18,9-13,Jeff Garcia pass incomplete short left intended for Jerramy Stevens. Penalty on Jeremy Trueblood: Unsportsmanlike Conduct 15 yards,0,2.300,-1.140,-3.44
+2008-10-26,Jaguars,Browns,2,4:05,4,1,CLE 37,7-14,Greg Jones up the middle for no gain (tackle by Willie McGinest),0,0.790,-1.400,-2.19
+2008-10-26,Giants,Steelers,2,13:12,4,1,PIT 1,3-7,Brandon Jacobs right guard for no gain (tackle by Ryan Clark and Larry Foote),0,3.550,0.380,-3.17
+2008-10-26,Steelers,Giants,4,7:21,4,22,PIT 18,14-14,Mitch Berger for no gain. Mitch Berger fumbles safety,0,-2.240,-2.000,.24
+2008-11-02,Bills,Jets,2,8:07,4,1,NYJ 8,7-13,Fred Jackson up the middle for no gain (tackle by Kris Jenkins),0,2.990,0.380,-2.61
+2008-11-02,Cardinals,Rams,1,7:59,4,1,RAM 1,0-0,Kurt Warner up the middle for no gain (tackle by Eric Moore),0,3.550,0.380,-3.17
+2008-11-03,Washington,Steelers,4,9:50,4,9,PIT 37,6-23,Jason Campbell pass incomplete short right intended for Devin Thomas. Penalty on James Farrior: Roughing the Passer 16 yards (no play),0,0.790,4.170,3.38
+2008-11-09,Vikings,Packers,4,8:58,4,1,MIN 41,21-24,Adrian Peterson left tackle for no gain (tackle by Desmond Bishop). Adrian Peterson fumbles (forced by Desmond Bishop) recovered by Naufahu Tahi at MIN-41,0,-0.650,-2.850,-2.20
+2008-11-09,Eagles,Giants,4,1:55,4,1,PHI 45,31-36,Brian Westbrook right end for no gain (tackle by Chase Blackburn),0,-0.390,-2.590,-2.20
+2008-11-16,Bears,Packers,4,7:43,4,10,GNB 36,3-33,Kyle Orton for no gain. Kyle Orton fumbles recovered by Jason Hunter at GNB-46 and returned for 54 yards touchdown,0,0.880,-7.000,-7.88
+2008-11-16,Jaguars,Titans,4,2:33,4,11,OTI 43,14-24,David Garrard pass incomplete deep right intended for Mike Sims-Walker. Penalty on Khalif Barnes: Offensive Holding (Declined),0,0.400,-1.800,-2.20
+2008-11-23,Dolphins,Patriots,4,4:10,4,10,MIA 44,28-41,Chad Pennington pass incomplete deep right intended for Davone Bess. Penalty on Ricky Williams: Chop Block (Declined) Penalty on Justin Smiley: Chop Block (Declined),0,-0.460,-2.650,-2.19
+2008-11-23,Jets,Titans,4,3:49,4,4,OTI 30,27-13,Brett Favre pass incomplete deep right intended for Laveranues Coles. Penalty on Chris Carr: Defensive Pass Interference 24 yards (no play),0,1.460,5.830,4.37
+2008-11-30,Colts,Browns,2,1:09,4,1,CLE 1,3-6,Peyton Manning up the middle for no gain (tackle by Brodney Pool). Peyton Manning fumbles (forced by Brodney Pool) recovered by Dallas Clark at CLE-1,0,3.550,0.380,-3.17
+2008-11-30,Bears,Vikings,2,5:04,4,1,MIN 1,7-3,Matt Forte right guard for no gain (tackle by Pat Williams and Jared Allen),0,3.550,0.380,-3.17
+2008-11-30,Patriots,Steelers,4,1:31,4,6,PIT 44,10-33,Matt Cassel pass incomplete short left intended for Jabar Gaffney. Penalty on Deshea Townsend: Defensive Holding 5 yards (no play),0,0.330,2.980,2.65
+2008-11-30,Raiders,Chiefs,2,12:09,4,10,KAN 25,3-9,Shane Lechler for no gain. Shane Lechler fumbles recovered by Maurice Leggett at KAN-33 and returned for 67 yards touchdown,0,1.800,-7.000,-8.80
+2008-11-30,Falcons,Chargers,2,1:02,4,1,SDG 1,15-7,Michael Turner middle for no gain (tackle by Brandon Siler and Tim Dobbins),0,3.550,0.380,-3.17
+2008-11-30,Giants,Washington,2,0:26,4,1,WAS 38,13-7,Eli Manning up the middle for no gain (tackle by Lorenzo Alexander and Chris Wilson),0,0.720,-1.400,-2.12
+2008-11-30,Washington,Giants,4,9:32,4,1,WAS 39,7-20,Clinton Portis left guard for no gain (tackle by Justin Tuck),0,-0.780,-2.980,-2.20
+2008-12-01,Texans,Jaguars,2,0:33,4,3,JAX 3,10-0,Matt Turk pass incomplete short right intended for Owen Daniels. Matt Turk fumbles recovered by Matt Turk at JAX-12. Penalty on Bryan Pittman: Ineligible Downfield Pass (Declined),0,3.040,0.380,-2.66
+2008-12-07,Lions,Vikings,2,0:54,4,1,MIN 6,6-3,Daunte Culpepper up the middle for no gain (tackle by Kevin Williams),0,3.020,0.380,-2.64
+2008-12-07,Cowboys,Steelers,1,6:43,4,1,PIT 33,0-0,Deon Anderson up the middle for no gain (tackle by James Harrison and Troy Polamalu),0,1.210,-1.140,-2.35
+2008-12-14,Packers,Jaguars,4,15:00,4,1,JAX 44,13-7,John Kuhn up the middle for no gain (tackle by Paul Spicer),0,0.330,-1.860,-2.19
+2008-12-14,Jets,Bills,4,1:21,4,2,BUF 25,31-27,Thomas Jones right guard for no gain (tackle by Kyle Williams and Bryan Scott),0,1.930,-0.670,-2.60
+2008-12-21,Lions,Saints,2,9:54,4,3,NOR 3,0-14,Dan Orlovsky pass incomplete short left intended for Michael Gaines (defended by Roman Harper). Penalty on Roman Harper: Defensive Pass Interference 2 yards (no play),0,3.040,6.970,3.93
+2008-12-28,Chiefs,Bengals,4,3:11,4,10,CIN 10,0-16,Tyler Thigpen pass incomplete short middle intended for Tony Gonzalez. Penalty on Brandon Johnson: Defensive Pass Interference 8 yards (no play),0,2.760,6.740,3.98
+2009-01-10,Titans,Ravens,2,13:39,4,8,RAV 30,7-7,Kerry Collins for no gain. Kerry Collins fumbles recovered by Kerry Collins at BAL-38,0,1.410,-1.470,-2.88
+2009-01-11,Giants,Eagles,4,12:39,4,1,NYG 44,11-20,Eli Manning up the middle for no gain (tackle by Mike Patterson and Brodrick Bunkley),0,-0.460,-2.590,-2.13
+2009-01-11,Steelers,Chargers,4,15:00,4,1,SDG 1,21-10,Carey Davis up the middle for no gain (tackle by Tim Dobbins and Brandon Siler),0,3.550,0.380,-3.17
+2009-01-18,Ravens,Steelers,1,0:43,4,1,PIT 34,0-6,Joe Flacco up the middle for no gain (tackle by Casey Hampton and Troy Polamalu),0,1.100,-1.200,-2.30
+2008-09-07,Bengals,Ravens,4,7:19,4,1,RAV 25,10-17,Chris Perry right tackle for -1 yards (tackle by Haloti Ngata),-1,1.950,-0.670,-2.62
+2008-09-07,Cardinals,49ers,4,0:19,4,13,SFO 18,23-13,Kurt Warner kneels for -1 yards,-1,2.250,-0.150,-2.40
+2008-10-05,Cardinals,Bills,4,3:28,4,2,BUF 30,41-17,Edgerrin James up the middle for -1 yards (tackle by Bryan Scott),-1,1.500,-1.000,-2.50
+2008-11-09,Titans,Bears,1,0:48,4,1,CHI 1,0-7,Ahmard Hall right tackle for -1 yards. Ahmard Hall fumbles recovered by Corey Graham at CHI-2,-1,3.550,0.380,-3.17
+2008-11-16,Steelers,Chargers,1,0:16,4,1,SDG 1,0-7,Mewelde Moore left guard for -1 yards (tackle by Brandon Siler and Quentin Jammer),-1,3.550,0.380,-3.17
+2008-11-23,Bills,Chiefs,4,0:38,4,8,KAN 30,54-31,J.P. Losman kneels for -1 yards,-1,1.410,-1.000,-2.41
+2008-12-07,Titans,Browns,4,1:53,4,2,CLE 6,28-9,LenDale White left end for -1 yards (tackle by D'Qwell Jackson),-1,3.010,0.380,-2.63
+2008-12-07,Ravens,Washington,4,0:21,4,7,WAS 43,24-10,Le'Ron McClain right end for -1 yards (tackle by London Fletcher),-1,0.400,-1.860,-2.26
+2008-09-07,Colts,Bears,4,13:47,4,1,50,13-22,Dominic Rhodes up the middle for -2 yards (tackle by Adewale Ogunleye and Lance Briggs),-2,-0.060,-2.390,-2.33
+2008-09-21,Vikings,Panthers,4,1:18,4,11,CAR 12,20-10,Gus Frerotte kneels for -2 yards,-2,2.630,0.280,-2.35
+2008-09-28,Saints,49ers,4,6:35,4,1,SFO 1,28-9,Drew Brees pass complete short right to Olaniyi Sobomehin for -2 yards. Olaniyi Sobomehin fumbles (forced by Michael Lewis) recovered by Patrick Willis at SFO-3 (tackle by Drew Brees),-2,3.550,0.380,-3.17
+2008-11-16,Buccaneers,Vikings,1,11:43,4,1,MIN 37,0-0,Warrick Dunn right guard for -2 yards (tackle by Chad Greenway),-2,0.790,-1.530,-2.32
+2008-12-07,Steelers,Cowboys,4,12:26,4,1,DAL 1,3-13,Gary Russell left guard for -2 yards (tackle by Bradie James and Keith Davis),-2,3.550,0.380,-3.17
+2008-12-20,Cowboys,Ravens,4,0:57,4,2,RAV 36,24-33,Tony Romo pass complete short left to id_ for -2 yards (tackle by Corey Ivy),-2,0.890,-1.470,-2.36
+2008-12-21,Lions,Saints,4,6:25,4,4,NOR 16,7-42,Drew Stanton sacked by Sedrick Ellis for -2 yards,-2,2.450,-0.040,-2.49
+2008-11-30,Saints,Buccaneers,1,8:46,4,1,TAM 30,0-0,Devery Henderson right end for -3 yards (tackle by Barrett Ruud),-3,1.520,-1.140,-2.66
+2008-12-28,Bills,Patriots,4,3:02,4,2,BUF 49,0-13,Trent Edwards sacked by LeKevin Smith for -3 yards. Penalty on Jerod Mayo: Illegal Contact 5 yards (no play),-3,-0.130,2.520,2.65
+2008-09-08,Raiders,Broncos,4,8:11,4,1,RAI 22,7-34,Justin Fargas right end for -4 yards (tackle by John Engelberger),-4,-1.900,-4.370,-2.47
+2008-12-28,Vikings,Giants,2,0:31,4,1,NYG 39,10-6,Tarvaris Jackson up the middle for -4 yards (tackle by Justin Tuck and Renaldo Wynn),-4,0.660,-1.800,-2.46
+2009-01-11,Steelers,Chargers,2,5:11,4,1,PIT 48,7-7,Ryan Clark up the middle for -4 yards (tackle by Antwan Applewhite and Jacob Hester),-4,-0.190,-2.650,-2.46
+2008-09-14,Steelers,Browns,4,0:30,4,4,CLE 21,10-6,Willie Parker right tackle for -5 yards (tackle by Mike Adams),-5,2.130,-0.670,-2.80
+2008-12-11,Saints,Bears,4,5:35,4,1,CHI 38,17-21,Pierre Thomas right end for -5 yards (tackle by Nick Roach and Charles Tillman),-5,0.720,-1.800,-2.52
+2008-12-07,Jets,49ers,4,0:13,4,12,NYJ 28,14-24,Brett Favre sacked by Justin Smith for -6 yards. Penalty on SFO: Defensive 12 On-field (Declined),-6,-1.500,1.200,2.70
+2008-12-21,Chiefs,Dolphins,4,3:41,4,1,KAN 26,31-38,Tyler Thigpen sacked by Matt Roth for -6 yards,-6,-1.630,-4.240,-2.61
+2008-09-21,Panthers,Vikings,4,2:37,4,27,CAR 18,10-20,Jake Delhomme sacked by Kevin Williams for -7 yards,-7,-2.240,-4.840,-2.60
+2008-11-13,Patriots,Jets,2,2:40,4,3,NYJ 23,6-24,Matt Cassel sacked by C.J. Mosley for -7 yards,-7,2.030,-0.940,-2.97
+2008-11-16,Lions,Panthers,4,1:22,4,9,DET 37,22-31,Daunte Culpepper sacked by Julius Peppers for -7 yards. Daunte Culpepper fumbles (forced by Julius Peppers) recovered by Hilee Taylor at DET-30 (tackle by Jeff Backus),-7,-0.910,-3.580,-2.67
+2008-11-23,Vikings,Jaguars,4,3:05,4,7,MIN 7,30-12,Chris Kluwe for -7 yards safety,-7,-2.490,-2.000,.49
+2008-12-14,49ers,Dolphins,4,1:07,4,10,MIA 21,9-14,Shaun Hill sacked by Joey Porter for -7 yards. Penalty on Joey Porter: Unsportsmanlike Conduct 14 yards,-7,2.060,0.280,-1.78
+2008-11-02,Texans,Vikings,4,1:04,4,10,HTX 10,21-28,Sage Rosenfels sacked by Kevin Williams for -8 yards,-8,-2.490,-6.740,-4.25
+2008-10-05,Lions,Bears,4,3:04,4,7,CHI 44,7-34,Dan Orlovsky sacked by Adewale Ogunleye for -9 yards,-9,0.330,-2.460,-2.79
+2008-10-26,Raiders,Ravens,4,4:46,4,10,RAI 20,10-22,JaMarcus Russell sacked by Jarret Johnson for -10 yards,-10,-2.030,-4.910,-2.88
+2008-11-16,Ravens,Giants,4,5:30,4,11,NYG 42,10-30,Joe Flacco sacked by Mathias Kiwanuka for -10 yards,-10,0.460,-2.390,-2.85
+2008-12-28,Rams,Falcons,2,7:16,4,3,ATL 34,7-3,Marc Bulger sacked by Kroy Biermann for -10 yards,-10,1.090,-1.930,-3.02
+2008-12-21,Browns,Bengals,4,1:18,4,6,CLE 23,0-14,Bruce Gradkowski sacked by John Thornton for -12 yards,-12,-1.830,-4.840,-3.01
+2008-09-14,Falcons,Buccaneers,4,2:28,4,14,ATL 25,9-24,Matt Ryan sacked by Stylez G. White for -13 yards,-13,-1.700,-4.780,-3.08
+2008-11-03,Washington,Steelers,4,3:43,4,8,PIT 12,6-23,Jason Campbell sacked by Lawrence Timmons for -14 yards,-14,2.630,-0.670,-3.30
+2008-10-26,Saints,Chargers,4,0:14,4,2,NOR 26,37-32,Drew Brees up the middle for -26 yards. Drew Brees fumbles safety,-26,-1.630,-2.000,-0.37
+2008-09-07,Seahawks,Bills,4,4:07,4,3,BUF 3,10-34,Matt Hasselbeck pass incomplete short middle intended for Jordan Kent,,3.040,0.380,-2.66
+2008-09-07,Colts,Bears,4,4:25,4,7,CHI 33,13-29,Peyton Manning pass incomplete short right intended for Gijon Robinson,,1.150,-1.140,-2.29
+2008-09-07,Dolphins,Jets,4,9:07,4,2,NYJ 2,7-20,Chad Pennington pass incomplete short right intended for Greg Camarillo (defended by Dwight Lowery),,3.250,0.380,-2.87
+2008-09-07,Buccaneers,Saints,4,0:44,4,6,NOR 24,20-24,Jeff Garcia pass incomplete short middle intended for Antonio Bryant is intercepted by Scott Fujita at NOR-19 and returned for 2 yards (tackle by Ike Hilliard),,1.890,-0.340,-2.23
+2008-09-07,Chiefs,Patriots,4,0:40,4,5,NWE 5,10-17,Damon Huard pass incomplete short right intended for Dwayne Bowe,,3.010,0.380,-2.63
+2008-09-07,Panthers,Chargers,1,5:28,4,1,SDG 1,0-0,Jake Delhomme pass incomplete short right intended for Brad Hoover,,3.550,0.380,-3.17
+2008-09-21,Patriots,Dolphins,4,3:08,4,3,NWE 49,13-38,Kevin O'Connell pass incomplete short middle intended for David Thomas,,-0.130,-2.320,-2.19
+2008-09-21,Texans,Titans,4,4:26,4,10,OTI 48,12-24,Matt Schaub pass incomplete deep right intended for Andre Johnson is intercepted by Michael Griffin at TEN-24,,0.070,-0.540,-0.61
+2008-09-21,Texans,Titans,4,1:17,4,10,OTI 11,12-30,Matt Schaub pass incomplete short left intended for Andre Johnson is intercepted by Cortland Finnegan at TEN-1 and returned for 99 yards touchdown,,2.700,-7.000,-9.70
+2008-09-21,Steelers,Eagles,4,0:37,4,10,PHI 22,6-15,Byron Leftwich pass incomplete short left intended for Santonio Holmes,,1.990,-0.410,-2.40
+2008-09-28,Falcons,Panthers,4,3:17,4,5,CAR 15,9-24,Matt Ryan pass incomplete short left intended for Michael Jenkins (defended by Ken Lucas),,2.490,0.140,-2.35
+2008-09-28,Browns,Bengals,2,3:36,4,1,CIN 45,3-3,Derek Anderson pass incomplete short right intended for Steve Heiden,,0.270,-1.930,-2.20
+2008-09-28,Raiders,Chargers,4,1:22,4,5,RAI 44,18-21,JaMarcus Russell pass incomplete,,-0.460,-2.650,-2.19
+2008-09-28,Rams,Bills,2,1:46,4,3,BUF 42,14-6,Trent Green pass incomplete short left intended for Randy McMichael,,0.460,-1.730,-2.19
+2008-09-28,Rams,Bills,4,8:19,4,2,RAM 45,14-28,Trent Green pass incomplete short right intended for Donnie Avery,,-0.390,-2.590,-2.20
+2008-09-28,Rams,Bills,4,1:53,4,5,BUF 15,14-31,Trent Green pass incomplete short left intended for Joe Klopfenstein (defended by Ko Simpson),,2.490,0.220,-2.27
+2008-09-28,Packers,Buccaneers,2,0:10,4,1,TAM 46,7-13,Aaron Rodgers pass incomplete short left intended for Greg Jennings,,0.200,-1.990,-2.19
+2008-09-28,Packers,Buccaneers,4,0:53,4,4,GNB 34,21-30,Matt Flynn pass incomplete short middle intended for Donald Driver,,-1.110,-3.310,-2.20
+2008-10-05,Chiefs,Panthers,4,10:15,4,3,KAN 45,0-34,Tyler Thigpen pass incomplete short left intended for Jeff Webb,,-0.390,-2.590,-2.20
+2008-10-05,Bills,Cardinals,4,0:12,4,15,CRD 16,17-41,J.P. Losman pass incomplete deep right intended for James Hardy (defended by Dominique Rodgers-Cromartie),,2.380,0.060,-2.32
+2008-10-05,Bengals,Cowboys,4,0:25,4,9,CIN 49,22-31,Carson Palmer pass incomplete short right intended for T.J. Houshmandzadeh (defended by Pacman Jones),,-0.130,-2.320,-2.19
+2008-10-05,Jaguars,Steelers,4,0:30,4,14,JAX 33,21-26,David Garrard pass incomplete short middle intended for Marcedes Lewis (defended by Aaron Smith),,-1.180,-3.380,-2.20
+2008-10-05,49ers,Patriots,4,2:55,4,16,SFO 40,21-30,J.T. O'Sullivan pass incomplete deep left intended for Isaac Bruce is intercepted by Deltha O'Neal at NWE-38,,-0.720,-1.470,-0.75
+2008-10-05,49ers,Patriots,4,1:30,4,11,SFO 44,21-30,J.T. O'Sullivan pass incomplete short right intended for Isaac Bruce,,-0.460,-2.650,-2.19
+2008-10-12,Raiders,Saints,4,6:34,4,6,NOR 36,3-34,JaMarcus Russell pass incomplete deep left intended for Chaz Schilens,,0.880,-1.400,-2.28
+2008-10-12,Panthers,Buccaneers,4,5:26,4,10,TAM 44,3-27,Jake Delhomme pass incomplete short left intended for Steve Smith (defended by Elbert Mack),,0.330,-1.860,-2.19
+2008-10-12,Panthers,Buccaneers,4,0:43,4,7,TAM 34,3-27,Jake Delhomme pass incomplete short right intended for Dante Rosario,,1.060,-1.200,-2.26
+2008-10-13,Giants,Browns,4,4:05,4,2,CLE 6,14-35,Eli Manning pass incomplete short right intended for Steve Smith,,3.010,0.380,-2.63
+2008-10-19,Browns,Washington,4,5:53,4,3,WAS 3,3-14,Derek Anderson pass incomplete short middle intended for Braylon Edwards (defended by Demetric Evans),,3.040,0.380,-2.66
+2008-10-26,Chiefs,Jets,4,0:21,4,1,NYJ 31,24-28,Tyler Thigpen pass incomplete short left intended for Will Franklin (defended by Drew Coleman),,1.410,-1.070,-2.48
+2008-10-26,Falcons,Eagles,4,0:22,4,3,PHI 27,14-27,Matt Ryan pass incomplete short left intended for Michael Jenkins,,1.770,-0.740,-2.51
+2008-10-26,Steelers,Giants,4,14:10,4,5,NYG 34,14-9,Ben Roethlisberger pass incomplete short middle intended for Hines Ward is intercepted by Corey Webster at NYG-25 and returned for 7 yards (tackle by Hines Ward),,1.070,-1.070,-2.14
+2008-10-26,Steelers,Giants,4,2:12,4,4,PIT 37,14-21,Ben Roethlisberger pass incomplete short right intended for Hines Ward,,-0.910,-3.120,-2.21
+2008-10-26,Steelers,Giants,4,1:31,4,15,PIT 5,14-21,Ben Roethlisberger pass incomplete deep right intended for Limas Sweed is intercepted by Kenny Phillips at NYG-49,,-2.490,-2.190,.30
+2008-10-26,Raiders,Ravens,4,6:54,4,21,RAV 41,10-22,JaMarcus Russell pass incomplete deep left intended for Ashley Lelie,,0.530,-1.660,-2.19
+2008-10-26,Raiders,Ravens,4,1:16,4,4,RAV 14,10-29,JaMarcus Russell pass incomplete short middle intended for Ronald Curry,,2.580,0.220,-2.36
+2008-10-26,49ers,Seahawks,2,0:44,4,4,SEA 29,3-19,J.T. O'Sullivan pass incomplete short left intended for Arnaz Battle is intercepted by Josh Wilson at SEA-25 and returned for 75 yards touchdown,,1.560,-7.000,-8.56
+2008-10-26,49ers,Seahawks,4,2:50,4,10,50,13-34,Shaun Hill pass incomplete short middle intended for Frank Gore,,-0.060,-2.260,-2.20
+2008-10-27,Colts,Titans,4,11:32,4,2,OTI 34,14-17,Peyton Manning pass incomplete short right intended for Marvin Harrison (defended by Nick Harper),,1.100,-1.200,-2.30
+2008-11-02,Browns,Ravens,4,2:10,4,4,RAV 42,27-37,Derek Anderson pass incomplete short left intended for Jerome Harrison,,0.460,-1.730,-2.19
+2008-11-02,Patriots,Colts,4,4:40,4,15,CLT 45,15-18,Matt Cassel pass incomplete deep right intended for Ben Watson is intercepted by Bob Sanders at IND-25,,0.270,-0.610,-0.88
+2008-11-02,Broncos,Dolphins,4,0:58,4,10,MIA 41,17-26,Jay Cutler pass incomplete short right intended for Eddie Royal (defended by Jason Allen),,0.530,-1.660,-2.19
+2008-11-02,Packers,Titans,1,4:26,4,1,OTI 44,0-3,Aaron Rodgers pass incomplete short right intended for Jermichael Finley (defended by Chris Hope),,0.330,-1.930,-2.26
+2008-11-02,Packers,Titans,2,0:26,4,3,OTI 38,10-13,Aaron Rodgers pass incomplete short left intended for Greg Jennings (defended by Cortland Finnegan),,0.720,-1.530,-2.25
+2008-11-02,Raiders,Falcons,4,12:36,4,17,ATL 42,0-24,JaMarcus Russell pass incomplete,,0.460,-1.800,-2.26
+2008-11-03,Washington,Steelers,4,7:01,4,1,PIT 1,6-23,Jason Campbell pass incomplete short middle intended for Lorenzo Alexander (defended by James Farrior),,3.550,0.380,-3.17
+2008-11-06,Browns,Broncos,4,0:54,4,1,CLE 42,30-34,Brady Quinn pass incomplete short left intended for Kellen Winslow Jr.,,-0.590,-2.790,-2.20
+2008-11-09,Saints,Falcons,2,1:04,4,4,ATL 28,6-17,Drew Brees pass incomplete short left intended for Lance Moore (defended by Chris Houston),,1.650,-0.810,-2.46
+2008-11-09,Bears,Titans,4,2:29,4,4,OTI 35,14-21,Rex Grossman pass incomplete short left intended for Devin Hester (defended by Cortland Finnegan),,0.980,-1.270,-2.25
+2008-11-09,Texans,Ravens,4,0:44,4,7,RAV 33,13-41,Sage Rosenfels pass incomplete deep left intended for Jacoby Jones,,1.150,-1.140,-2.29
+2008-11-09,Seahawks,Dolphins,4,0:24,4,10,MIA 49,19-21,Seneca Wallace pass incomplete short right intended for John Carlson,,0.000,-2.260,-2.26
+2008-11-09,Steelers,Colts,4,0:01,4,5,CLT 27,20-24,Ben Roethlisberger pass incomplete deep right intended for Nate Washington is intercepted by Melvin Bullitt,,1.720,0.000,-1.72
+2008-11-16,Falcons,Broncos,4,1:06,4,18,DEN 45,20-24,Matt Ryan pass incomplete deep left intended for Michael Jenkins,,0.270,-1.930,-2.20
+2008-11-16,Bears,Packers,4,7:56,4,10,GNB 36,3-27,Kyle Orton pass incomplete short middle intended for Brandon Lloyd is intercepted by Nick Collins at GNB-21 and returned for 41 yards (tackle by Kyle Orton). Penalty on Mike Montgomery: Defensive Offside (Offsetting) Penalty on Kyle Orton: Tripping (Offsetting) (no play),,0.880,0.880,.00
+2008-11-16,Chiefs,Saints,4,2:18,4,10,KAN 33,20-30,Tyler Thigpen pass incomplete deep left intended for Dwayne Bowe is intercepted by Usama Young at NOR-42 and returned for 3 yards (tackle by Dwayne Bowe),,-1.180,-1.930,-0.75
+2008-11-16,Rams,49ers,4,0:23,4,1,RAM 34,16-35,Marc Bulger pass incomplete short left intended for Dane Looker,,-1.110,-3.310,-2.20
+2008-11-16,Vikings,Buccaneers,4,2:29,4,3,MIN 27,13-19,Gus Frerotte pass incomplete short right intended for Sidney Rice,,-1.570,-3.780,-2.21
+2008-11-16,Washington,Cowboys,4,6:46,4,4,DAL 37,10-14,Jason Campbell pass incomplete short right intended for Santana Moss (defended by Terence Newman),,0.790,-1.400,-2.19
+2008-11-20,Bengals,Steelers,2,0:32,4,5,PIT 34,7-10,Ryan Fitzpatrick pass incomplete short right intended for T.J. Houshmandzadeh (defended by William Gay),,1.070,-1.200,-2.27
+2008-11-23,49ers,Cowboys,2,12:08,4,21,SFO 5,6-9,id_ for no gain,,-2.490,0.000,2.49
+2008-11-23,Broncos,Raiders,4,6:52,4,11,RAI 38,10-31,Jay Cutler pass incomplete short right intended for Brandon Marshall,,0.720,-1.470,-2.19
+2008-11-23,Jaguars,Vikings,4,4:05,4,3,MIN 9,10-30,David Garrard pass incomplete short left intended for Mike Sims-Walker is intercepted by Benny Sapp at MIN-5 and returned for -1 yards (tackle by Mike Sims-Walker),,2.930,0.380,-2.55
+2008-11-23,Rams,Bears,2,10:09,4,15,CHI 49,0-14,Donnie Jones pass incomplete short left intended for Eric Bassey (defended by Corey Graham),,0.000,-2.190,-2.19
+2008-11-23,Eagles,Ravens,4,6:19,4,2,PHI 36,7-29,Kevin Kolb pass incomplete short right intended for Hank Baskett,,-0.980,-3.180,-2.20
+2008-11-23,Eagles,Ravens,4,1:57,4,12,PHI 39,7-36,Kevin Kolb pass incomplete short right intended for DeSean Jackson,,-0.780,-2.980,-2.20
+2008-11-24,Packers,Saints,4,6:08,4,16,NOR 30,29-51,Aaron Rodgers pass incomplete deep right intended for Jordy Nelson is intercepted by Kevin Kaesviharn at NOR-0,,1.410,-0.280,-1.69
+2008-11-27,Cardinals,Eagles,4,9:17,4,4,CRD 36,20-41,Kurt Warner pass incomplete short right intended for Jerheme Urban (defended by Trent Cole),,-0.980,-3.180,-2.20
+2008-11-27,Cardinals,Eagles,4,4:24,4,1,CRD 43,20-48,Kurt Warner pass incomplete deep right intended for Jerheme Urban is intercepted by Brian Dawkins at PHI-30 and returned for 25 yards (tackle by Tim Hightower),,-0.520,-2.590,-2.07
+2008-11-30,Bills,49ers,4,10:05,4,2,SFO 7,3-10,J.P. Losman pass incomplete short right intended for Lee Evans (defended by Ray McDonald),,3.000,0.380,-2.62
+2008-11-30,Bengals,Ravens,4,1:12,4,10,CIN 21,3-34,Jordan Palmer pass incomplete short middle intended for Jerome Simpson,,-1.960,-4.240,-2.28
+2008-11-30,Browns,Colts,4,0:56,4,20,CLE 35,6-10,Ken Dorsey pass incomplete deep right intended for Braylon Edwards is intercepted by Antoine Bethea at IND-36,,-1.040,-1.330,-0.29
+2008-11-30,Jets,Broncos,4,12:19,4,3,DEN 39,17-27,Brett Favre pass incomplete deep right intended for Jerricho Cotchery (defended by Karl Paymah),,0.660,-1.530,-2.19
+2008-11-30,Jets,Broncos,4,2:48,4,4,DEN 4,17-34,Brett Favre pass incomplete short middle intended for Laveranues Coles (defended by Josh Bell),,3.030,0.380,-2.65
+2008-11-30,Raiders,Chiefs,2,5:10,4,3,KAN 22,3-10,JaMarcus Russell pass incomplete deep right intended for Ronald Curry,,2.090,-0.410,-2.50
+2008-11-30,Chargers,Falcons,1,10:38,4,3,ATL 34,0-0,Philip Rivers pass incomplete short right intended for Antonio Gates (defended by Jonathan Babineaux),,1.090,-1.200,-2.29
+2008-11-30,Washington,Giants,4,3:30,4,6,NYG 34,7-23,Jason Campbell pass incomplete short middle intended for Antwaan Randle El,,1.070,-1.270,-2.34
+2008-12-01,Jaguars,Texans,4,12:21,4,5,HTX 5,3-16,David Garrard pass incomplete short right intended for Reggie Williams (defended by Fred Bennett),,3.010,0.380,-2.63
+2008-12-04,Raiders,Chargers,4,12:12,4,2,SDG 46,7-27,Andrew Walter pass incomplete short left intended for Darren McFadden,,0.200,-2.060,-2.26
+2008-12-07,Rams,Cardinals,4,15:00,4,3,CRD 36,7-27,Marc Bulger pass incomplete short right intended for Dane Looker (defended by Ralph Brown),,0.890,-1.330,-2.22
+2008-12-07,Rams,Cardinals,4,1:19,4,10,CRD 41,10-34,Marc Bulger pass incomplete short left intended for Dane Looker,,0.530,-1.660,-2.19
+2008-12-07,Lions,Vikings,2,3:04,4,1,MIN 30,6-3,Daunte Culpepper pass incomplete short right intended for John Standeford,,1.520,-0.940,-2.46
+2008-12-07,Giants,Eagles,1,10:44,4,4,PHI 31,0-0,Eli Manning pass incomplete short left intended for Domenik Hixon (defended by Sheldon Brown),,1.370,-1.000,-2.37
+2008-12-07,Giants,Eagles,2,1:08,4,3,PHI 42,0-10,Eli Manning pass incomplete short right intended for Steve Smith,,0.460,-1.730,-2.19
+2008-12-07,Giants,Eagles,4,9:35,4,1,PHI 38,7-17,Eli Manning pass incomplete short middle intended for Sinorice Moss,,0.720,-1.470,-2.19
+2008-12-07,Cowboys,Steelers,2,14:09,4,2,PIT 34,0-0,Tony Romo pass incomplete deep middle intended for Terrell Owens,,1.100,-1.200,-2.30
+2008-12-07,Cowboys,Steelers,4,0:55,4,10,DAL 28,13-20,Tony Romo pass incomplete deep right intended for Jason Witten,,-1.500,-3.710,-2.21
+2008-12-08,Buccaneers,Panthers,4,1:14,4,1,TAM 47,23-38,Jeff Garcia pass incomplete short left intended for Ike Hilliard (defended by Dante Wesley),,-0.260,-2.460,-2.20
+2008-12-11,Bears,Saints,4,7:44,4,4,CHI 47,21-17,Brad Maynard pass incomplete deep middle intended for Adrian Peterson,,-0.260,-2.460,-2.20
+2008-12-14,Cardinals,Vikings,4,7:49,4,15,MIN 15,14-35,Kurt Warner pass incomplete short left intended for Larry Fitzgerald (defended by Cedric Griffin),,2.440,0.220,-2.22
+2008-12-14,Titans,Texans,4,2:00,4,3,HTX 32,12-13,Kerry Collins pass incomplete deep left intended for Justin McCareins,,1.290,-1.070,-2.36
+2008-12-14,Chargers,Chiefs,4,9:22,4,5,KAN 36,10-21,Philip Rivers pass incomplete deep right intended for Malcom Floyd,,0.880,-1.330,-2.21
+2008-12-14,Raiders,Patriots,4,7:44,4,10,NWE 43,20-42,JaMarcus Russell pass incomplete short right intended for Michael Bush,,0.400,-1.800,-2.20
+2008-12-15,Browns,Eagles,4,0:55,4,19,CLE 20,10-30,Ken Dorsey pass incomplete short left intended for Syndric Steptoe (defended by Sheldon Brown),,-2.030,-4.240,-2.21
+2008-12-21,Broncos,Bills,4,0:39,4,5,BUF 15,23-30,Jay Cutler pass incomplete short middle intended for Brandon Stokley (defended by Reggie Corner),,2.490,0.220,-2.27
+2008-12-21,Dolphins,Chiefs,2,2:20,4,1,KAN 5,24-21,Chad Pennington pass incomplete short left intended for Joey Haynos,,3.030,0.380,-2.65
+2008-12-21,Chiefs,Dolphins,4,1:02,4,10,KAN 7,31-38,Tyler Thigpen pass incomplete short middle intended for Tony Gonzalez is intercepted by Renaldo Hill at KAN-19 and returned for 16 yards (tackle by Brian Waters),,-2.490,-6.510,-4.02
+2008-12-21,Vikings,Falcons,4,8:06,4,7,MIN 47,10-24,Tarvaris Jackson pass incomplete deep left intended for Bernard Berrian,,-0.260,-2.460,-2.20
+2008-12-21,Vikings,Falcons,4,0:56,4,16,MIN 41,17-24,Tarvaris Jackson pass incomplete deep right intended for Sidney Rice,,-0.650,-2.850,-2.20
+2008-12-21,Cardinals,Patriots,2,7:29,4,1,NWE 31,0-21,Kurt Warner pass incomplete short middle intended for Ben Patrick,,1.410,-1.000,-2.41
+2008-12-21,Texans,Raiders,4,8:13,4,1,RAI 5,16-27,Matt Schaub pass incomplete short middle intended for Kevin Walter (defended by Stanford Routt),,3.030,0.380,-2.65
+2008-12-21,Rams,49ers,1,4:31,4,3,SFO 36,0-0,Marc Bulger pass incomplete deep right intended for Donnie Avery (defended by Walt Harris),,0.890,-1.330,-2.22
+2008-12-21,Jets,Seahawks,4,2:21,4,2,NYJ 20,3-10,Brett Favre pass incomplete deep middle intended for Laveranues Coles (defended by Kelly Jennings),,-2.030,-4.240,-2.21
+2008-12-21,Buccaneers,Chargers,4,1:55,4,6,SDG 48,24-41,Luke McCown pass incomplete short middle intended for Jerramy Stevens,,0.070,-2.130,-2.20
+2008-12-28,Rams,Falcons,4,1:15,4,10,ATL 37,27-31,Marc Bulger pass incomplete deep right intended for Donnie Avery,,0.790,-1.400,-2.19
+2008-12-28,Bills,Patriots,4,6:41,4,1,NWE 39,0-13,Trent Edwards pass incomplete short right intended for Josh Reed,,0.660,-1.530,-2.19
+2008-12-28,Bengals,Chiefs,1,8:46,4,6,KAN 33,0-0,Ryan Fitzpatrick pass incomplete short middle intended for Glenn Holt (defended by Brandon Flowers),,1.160,-1.140,-2.30
+2008-12-28,Chiefs,Bengals,4,13:39,4,6,CIN 40,0-13,Tyler Thigpen pass incomplete short middle intended for Devard Darling (defended by Jamar Fletcher),,0.590,-1.600,-2.19
+2008-12-28,Lions,Packers,4,3:03,4,27,GNB 47,21-31,Dan Orlovsky pass incomplete deep right intended for Calvin Johnson is intercepted by Nick Collins at GNB-0 and returned for 61 yards (tackle by Stephen Peterman). Penalty on Brady Poppinga: Illegal Block Above the Waist 10 yards,,0.130,-0.740,-0.87
+2008-12-28,Browns,Steelers,4,1:11,4,13,CLE 28,0-31,Bruce Gradkowski pass incomplete short left intended for Syndric Steptoe,,-1.500,-3.780,-2.28
+2008-12-28,Broncos,Chargers,4,8:25,4,5,SDG 30,21-45,Jay Cutler pass incomplete deep middle intended for Brandon Marshall,,1.450,-0.940,-2.39
+2008-12-28,Buccaneers,Raiders,4,7:22,4,4,RAI 33,24-21,Jeff Garcia pass incomplete short left intended for Michael Clayton,,1.180,-1.140,-2.32
+2009-01-10,Titans,Ravens,4,0:17,4,5,OTI 40,10-13,Kerry Collins pass incomplete deep middle intended for Bo Scaife,,-0.720,-2.920,-2.20
+2009-01-18,Eagles,Cardinals,4,1:57,4,10,CRD 47,25-32,Donovan McNabb pass incomplete deep right intended for Kevin Curtis,,0.130,-2.060,-2.19
+2008-12-07,Ravens,Washington,3,6:15,4,1,WAS 43,14-0,Joe Flacco pass complete short left to Todd Heap for 24 yards (tackle by DeAngelo Hall),24,0.400,4.310,3.91
+2008-12-21,Titans,Steelers,3,5:12,4,1,PIT 21,16-14,Chris Johnson left guard for 21 yards touchdown,21,2.210,7.000,4.79
+2008-09-07,Bills,Seahawks,3,2:26,4,7,SEA 19,26-10,Brian Moorman pass complete short left to Ryan Denney for 19 yards touchdown,19,2.180,7.000,4.82
+2008-12-07,Texans,Packers,3,4:43,4,6,HTX 35,13-7,Matt Turk for 18 yards (tackle by Will Blackmon),18,-1.040,2.460,3.50
+2008-12-21,Titans,Steelers,3,2:00,4,3,PIT 30,17-14,Kerry Collins pass complete deep right to Justin Gage for 17 yards (tackle by Ryan Clark),17,1.480,4.710,3.23
+2008-10-05,Jaguars,Steelers,3,6:39,4,1,JAX 48,14-20,David Garrard pass complete short right to Greg Jones for 15 yards (tackle by Bryant McFadden),15,-0.190,3.120,3.31
+2008-12-28,Patriots,Bills,3,5:09,4,5,BUF 14,3-0,Matt Cassel pass complete short left to Wes Welker for 12 yards (tackle by Terrence McGee),12,2.560,6.740,4.18
+2008-09-28,Cardinals,Jets,3,7:37,4,8,NYJ 28,7-34,Kurt Warner pass complete short right to Larry Fitzgerald for 10 yards (tackle by Cody Spencer),10,1.590,4.370,2.78
+2008-10-26,Saints,Chargers,3,11:33,4,2,SDG 14,23-17,Drew Brees pass complete short right to Billy Miller for 10 yards (tackle by Stephen Cooper),10,2.630,6.280,3.65
+2008-12-07,Bills,Dolphins,3,12:00,4,2,MIA 39,3-13,J.P. Losman pass complete short right to Josh Reed for 10 yards (tackle by Yeremiah Bell),10,0.660,3.640,2.98
+2008-09-14,Jaguars,Bills,3,12:20,4,1,JAX 45,3-10,Maurice Jones-Drew up the middle for 9 yards (tackle by Ko Simpson). Penalty on Paul Posluszny: Face Mask (15 Yards) 15 yards,9,-0.390,3.510,3.90
+2008-09-14,Bengals,Titans,3,11:52,4,3,OTI 29,7-14,Carson Palmer pass complete short middle to T.J. Houshmandzadeh for 9 yards (tackle by Ryan Fowler). Penalty on Jevon Kearse: Defensive Offside (Declined),9,1.580,4.240,2.66
+2008-09-07,Chargers,Panthers,3,9:05,4,1,CAR 36,7-9,LaDainian Tomlinson left end for 9 yards (tackle by Chris Harris),9,0.890,3.780,2.89
+2008-12-20,Ravens,Cowboys,3,4:24,4,6,DAL 22,9-7,Sam Koch left end for 9 yards (tackle by Justin Rogers and Tra Battle),9,2.020,4.710,2.69
+2008-12-14,Chargers,Chiefs,3,6:28,4,3,KAN 42,10-21,Jacob Hester for 9 yards (tackle by Jon McGraw),9,0.460,3.380,2.92
+2008-12-07,Colts,Bengals,3,9:50,4,1,CIN 30,14-3,Dominic Rhodes right tackle for 8 yards (tackle by John Busing and Leon Hall),8,1.520,4.110,2.59
+2008-11-02,Cowboys,Giants,3,0:22,4,5,NYG 15,7-28,Brooks Bollinger pass complete short middle to Patrick Crayton for 7 yards (tackle by Michael Johnson),7,2.490,5.370,2.88
+2008-12-28,Broncos,Chargers,3,6:16,4,4,SDG 24,13-38,Jay Cutler pass complete short left to Brandon Stokley for 7 yards (tackle by Antoine Cason),7,1.940,4.440,2.50
+2008-10-12,Rams,Washington,3,12:03,4,4,WAS 36,10-7,Marc Bulger pass complete short middle to Torry Holt for 7 yards (tackle by London Fletcher),7,0.890,3.640,2.75
+2008-12-28,Patriots,Bills,3,7:37,4,2,BUF 25,3-0,Matt Cassel right tackle for 6 yards (tackle by Bryan Scott),6,1.930,4.310,2.38
+2008-11-23,Broncos,Raiders,3,9:24,4,1,RAI 6,9-10,Peyton Hillis left end for 6 yards touchdown,6,3.020,7.000,3.98
+2008-11-16,Bengals,Eagles,3,0:18,4,16,PHI 33,13-10,Ryan Fitzpatrick left end for 5 yards (tackle by Sheldon Brown),5,1.150,-0.870,-2.02
+2008-11-10,Cardinals,49ers,3,11:41,4,1,SFO 5,19-21,Kurt Warner pass complete short right to Larry Fitzgerald for 5 yards touchdown,5,3.030,7.000,3.97
+2008-12-21,49ers,Rams,3,5:37,4,2,RAM 40,3-13,Shaun Hill up the middle for 5 yards (tackle by Will Witherspoon),5,0.590,3.250,2.66
+2008-09-21,Patriots,Dolphins,3,3:24,4,3,MIA 5,12-28,Matt Cassel pass complete short middle to Jabar Gaffney for 5 yards touchdown,5,3.020,7.000,3.98
+2008-12-07,Rams,Cardinals,3,11:40,4,1,CRD 42,7-20,Steven Jackson up the middle for 4 yards (tackle by Antonio Smith),4,0.460,3.050,2.59
+2008-11-24,Saints,Packers,3,12:29,4,1,NOR 45,24-21,Pierre Thomas right tackle for 4 yards (tackle by Mike Montgomery),4,-0.390,2.190,2.58
+2008-11-02,Bills,Jets,3,14:03,4,4,BUF 24,7-13,Brian Moorman for 4 yards. Penalty on Bryan Scott: Offensive Holding 10 yards (no play),4,-1.770,-2.470,-0.70
+2008-11-23,Bills,Chiefs,3,4:52,4,1,KAN 36,40-24,Marshawn Lynch right end for 4 yards (tackle by Bernard Pollard),4,0.890,3.450,2.56
+2008-12-28,Rams,Falcons,3,10:48,4,3,RAM 27,14-24,Travis Minor up the middle for 4 yards (tackle by Jason Snelling),4,-1.570,1.000,2.57
+2008-12-08,Buccaneers,Panthers,3,5:05,4,1,50,10-17,B.J. Askew up the middle for 3 yards (tackle by Thomas Davis),3,-0.060,2.460,2.52
+2008-10-12,49ers,Eagles,3,4:57,4,1,PHI 18,23-17,Frank Gore right tackle for 3 yards (tackle by Brian Dawkins),3,2.400,4.580,2.18
+2008-11-23,Washington,Seahawks,3,9:24,4,1,SEA 16,7-10,Clinton Portis left tackle for 3 yards (tackle by Darryl Tapp),3,2.530,4.710,2.18
+2008-09-28,Rams,Bills,3,5:42,4,1,BUF 28,14-13,Dante Hall left end for 3 yards (tackle by Ko Simpson),3,1.720,3.910,2.19
+2008-09-07,Cardinals,49ers,3,4:06,4,1,SFO 2,19-10,Tim Hightower up the middle for 2 yards touchdown,2,3.250,7.000,3.75
+2008-11-23,Vikings,Jaguars,3,3:00,4,1,JAX 20,20-10,Gus Frerotte up the middle for 2 yards (tackle by Daryl Smith),2,2.270,4.370,2.10
+2008-09-14,Jaguars,Bills,3,1:43,4,1,BUF 27,13-10,David Garrard left guard for 2 yards (tackle by Aaron Schobel),2,1.820,3.910,2.09
+2008-11-06,Browns,Broncos,3,2:02,4,1,DEN 47,23-13,Jamal Lewis right guard for 2 yards (tackle by Marquand Manuel),2,0.130,2.590,2.46
+2008-10-05,Patriots,49ers,3,5:30,4,2,SFO 2,23-14,Kevin Faulk up the middle for 2 yards touchdown,2,3.250,7.000,3.75
+2008-10-12,Bears,Falcons,3,6:24,4,1,ATL 46,3-12,Matt Forte left tackle for 2 yards (tackle by Keith Brooking and Michael Boley),2,0.200,2.650,2.45
+2008-10-19,Bengals,Steelers,3,4:43,4,1,PIT 14,7-17,Ryan Fitzpatrick right guard for 2 yards (tackle by Chris Hoke),2,2.660,4.780,2.12
+2008-12-28,Cowboys,Eagles,3,12:50,4,1,DAL 42,3-27,Tony Romo up the middle for 2 yards (tackle by Quintin Mikell),2,-0.590,1.860,2.45
+2008-10-26,Jaguars,Browns,3,11:06,4,1,CLE 10,7-17,Maurice Jones-Drew left end for 2 yards (tackle by D'Qwell Jackson),2,2.910,5.370,2.46
+2008-10-26,Cowboys,Buccaneers,3,12:57,4,1,TAM 39,10-6,Marion Barber right tackle for 2 yards (tackle by Sabby Piscitelli),2,0.660,3.120,2.46
+2008-10-19,Texans,Lions,3,3:41,4,1,DET 3,21-10,Matt Schaub left guard for 1 yard (tackle by Ernie Sims and Langston Moore),1,3.060,6.740,3.68
+2008-09-21,Texans,Titans,3,5:20,4,4,OTI 10,12-24,Matt Schaub pass complete short left to Steve Slaton for 1 yard (tackle by Vincent Fuller),1,2.840,0.380,-2.46
+2008-12-11,Saints,Bears,3,9:14,4,1,CHI 10,7-21,Drew Brees up the middle for 1 yard (tackle by Tommie Harris),1,2.910,5.140,2.23
+2008-12-07,Browns,Titans,3,0:49,4,1,OTI 37,6-21,Lawrence Vickers up the middle for 1 yard (tackle by Jevon Kearse and Jacob Ford),1,0.790,3.180,2.39
+2008-12-07,Bears,Jaguars,3,13:21,4,1,JAX 31,20-3,Matt Forte right tackle for 1 yard (tackle by Reggie Hayward),1,1.410,3.580,2.17
+2008-11-23,Colts,Chargers,3,3:54,4,1,SDG 1,16-10,Peyton Manning pass complete short left to Dominic Rhodes for 1 yard touchdown,1,3.550,7.000,3.45
+2008-12-28,Packers,Lions,3,7:30,4,10,DET 33,14-14,Aaron Rodgers pass incomplete deep left intended for James Jones (defended by Ramzee Robinson). Penalty on Ramzee Robinson: Taunting 15 yards,0,1.150,-0.040,-1.19
+2008-09-14,Titans,Bengals,3,13:32,4,3,CIN 47,14-7,Craig Hentrich for no gain. Craig Hentrich fumbles recovered by Kyries Hebert at TEN-36 (tackle by Ken Amato),0,0.130,-3.180,-3.31
+2008-10-26,Patriots,Rams,3,1:26,4,1,RAM 36,13-13,BenJarvus Green-Ellis left tackle for no gain (tackle by Clifton Ryan),0,0.890,-1.330,-2.22
+2008-10-19,Saints,Panthers,3,2:24,4,1,CAR 37,7-27,Deuce McAllister up the middle for no gain (tackle by Thomas Davis),0,0.790,-1.330,-2.12
+2008-12-28,Dolphins,Jets,3,12:40,4,6,NYJ 47,14-9,Brandon Fields for no gain. Brandon Fields fumbles recovered by Brandon Fields at MIA-MIA,0,0.130,-3.710,-3.84
+2008-11-02,Falcons,Raiders,3,4:45,4,1,RAI 9,24-0,Michael Turner up the middle for no gain (tackle by Sam Williams),0,2.980,0.380,-2.60
+2008-11-02,Rams,Cardinals,3,12:55,4,1,RAM 33,7-24,Antonio Pittman up the middle for no gain (tackle by Adrian Wilson),0,-1.180,-3.380,-2.20
+2008-11-30,Jets,Broncos,3,10:37,4,1,DEN 46,14-27,Brett Favre sacked by Mario Haggan for -1 yards,-1,0.200,-2.060,-2.26
+2008-10-27,Colts,Titans,3,0:59,4,1,CLT 49,14-14,Dominic Rhodes up the middle for -1 yards (tackle by Stephen Tulloch),-1,-0.130,-2.460,-2.33
+2008-10-12,Patriots,Chargers,3,9:16,4,1,SDG 1,3-17,Matt Cassel sacked by Ryon Bingham for -1 yards,-1,3.550,0.380,-3.17
+2008-12-28,Jaguars,Ravens,3,7:30,4,4,RAV 20,7-24,David Garrard pass incomplete short left intended for Dennis Northcutt (defended by Corey Ivy),,2.200,-0.280,-2.48
+2009-01-03,Colts,Chargers,3,12:33,4,1,SDG 34,10-14,Peyton Manning pass incomplete short right intended for Gijon Robinson (defended by Eric Weddle),,1.100,-1.200,-2.30
+2008-12-28,Broncos,Chargers,3,4:17,4,5,SDG 12,13-38,Jay Cutler pass incomplete short left intended for Brandon Stokley,,2.680,0.350,-2.33
+2009-01-10,Panthers,Cardinals,3,3:29,4,5,CRD 42,7-30,Jake Delhomme pass incomplete short left intended for Muhsin Muhammad,,0.460,-1.800,-2.26
+2008-12-07,Jaguars,Bears,3,4:55,4,2,CHI 21,3-20,David Garrard pass incomplete short left intended for Montell Owens,,2.180,-0.410,-2.59
+2008-11-23,Chiefs,Bills,3,0:38,4,4,BUF 38,24-47,Tyler Thigpen pass incomplete short right intended for Tony Gonzalez,,0.720,-1.470,-2.19
+2008-11-16,Vikings,Buccaneers,3,5:58,4,1,MIN 49,13-13,Gus Frerotte pass incomplete deep right intended for Adrian Peterson (defended by Derrick Brooks),,-0.130,-2.320,-2.19
+2008-10-19,Vikings,Bears,3,4:12,4,1,CHI 36,31-34,Gus Frerotte pass incomplete short right intended for Bernard Berrian (defended by Corey Graham),,0.890,-1.400,-2.29
+2008-10-05,Jaguars,Steelers,3,4:26,4,7,PIT 34,14-20,David Garrard pass incomplete short middle intended for Matt Jones (defended by James Harrison),,1.060,-1.200,-2.26
+2008-09-22,Jets,Chargers,3,5:05,4,4,SDG 9,14-38,Brett Favre pass incomplete short middle intended for Dustin Keller (defended by Clinton Hart),,2.900,0.380,-2.52
+2008-09-07,Bengals,Ravens,3,2:53,4,2,RAV 36,3-10,Carson Palmer pass complete short middle to Kenny Watson for no gain,,0.890,-1.330,-2.22
+2008-09-07,Ravens,Bengals,3,5:26,4,3,CIN 34,10-3,Joe Flacco pass incomplete short left intended for Todd Heap (defended by Brandon Johnson),,1.090,-1.200,-2.29

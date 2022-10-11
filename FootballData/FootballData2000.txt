@@ -1,0 +1,492 @@
+Date,Tm,Opp,Quarter,Time,Down,ToGo,Location,Score,Detail,Yds,EPB,EPA,Diff
+2000-10-29,Seahawks,Chiefs,3,2:06,4,1,SEA 44,10-21,Shaun Alexander right tackle for 50 yards (tackle by Greg Wesley),50,-0.460,5.830,6.29
+2000-09-10,Packers,Bills,4,1:22,4,17,GNB 24,10-27,Brett Favre pass complete to Donald Driver for 49 yards (tackle by Keion Carpenter),49,-1.770,3.780,5.55
+2000-11-19,Bills,Chiefs,2,11:15,4,13,BUF 18,7-0,Chris Mohr pass complete to Daryl Porter for 44 yards (tackle by William Bartee),44,-2.240,3.050,5.29
+2000-11-19,Cardinals,Eagles,4,4:50,4,6,PHI 44,9-27,Dave M. Brown pass complete to David Boston for 44 yards touchdown,44,0.330,7.000,6.67
+2000-10-15,Saints,Panthers,4,8:15,4,1,NOR 35,10-6,Fred McAfee right end for 40 yards (tackle by Jimmy Hitchcock),40,-1.040,3.910,4.95
+2000-11-30,Lions,Vikings,4,0:20,4,11,MIN 40,16-24,Stoney Case pass complete to Larry Foster for 40 yards touchdown,40,0.590,7.000,6.41
+2000-10-29,Dolphins,Packers,3,8:28,4,2,MIA 45,14-17,Larry Izzo up the middle for 39 yards (tackle by Corey Bradford). Larry Izzo fumbles (forced by Corey Bradford) recovered by Robert Jones at GNB-16. Penalty on MIA: Low Block 15 yards,39,-0.390,3.510,3.90
+2000-11-05,Buccaneers,Falcons,1,2:33,4,10,TAM 26,7-0,Mark Royals pass complete to Damien Robinson for 36 yards (tackle by Jammi German and Tim Dwight),36,-1.630,3.050,4.68
+2000-10-15,Broncos,Browns,3,4:56,4,1,CLE 32,33-10,Brian Griese pass complete to Rod Smith for 32 yards touchdown,32,1.310,7.000,5.69
+2000-10-15,Raiders,Chiefs,4,11:20,4,1,KAN 35,10-17,Rich Gannon pass complete to Tim Brown for 32 yards (tackle by Greg Wesley),32,1.000,6.510,5.51
+2000-10-22,49ers,Panthers,2,15:00,4,2,CAR 32,6-7,Jeff Garcia pass complete to Terrell Owens for 32 yards touchdown,32,1.300,7.000,5.70
+2000-10-15,Rams,Falcons,2,0:11,4,15,ATL 30,27-21,Kurt Warner pass complete to Az-Zahir Hakim for 30 yards touchdown,30,1.410,7.000,5.59
+2000-12-16,Washington,Steelers,4,8:24,4,3,PIT 32,3-24,Brad Johnson pass complete to Stephen Alexander for 30 yards (tackle by Jason Simmons). Stephen Alexander fumbles (forced by Jason Simmons),30,1.290,-0.280,-1.57
+2000-09-17,Steelers,Browns,4,2:45,4,6,PIT 35,20-23,Kent Graham pass complete to Bobby Shaw for 29 yards (tackle by Daylon McCutcheon),29,-1.040,3.180,4.22
+2000-10-08,Saints,Bears,4,9:44,4,5,CHI 29,30-10,Jeff Blake pass complete to Andrew Glover for 29 yards touchdown,29,1.540,7.000,5.46
+2000-10-08,Packers,Lions,3,4:26,4,5,DET 43,9-31,Brett Favre pass complete to Antonio Freeman for 29 yards (tackle by Marquis Walker),29,0.400,4.650,4.25
+2000-11-12,Jets,Colts,4,5:49,4,10,CLT 38,7-23,Vinny Testaverde pass complete to Dedric Ward for 29 yards (tackle by Tony Blevins and Billy Austin),29,0.720,5.140,4.42
+2000-11-19,Falcons,49ers,2,13:42,4,1,SFO 34,0-3,Jamal Anderson up the middle for 29 yards (tackle by Zack Bronson),29,1.100,6.060,4.96
+2000-12-11,Bills,Colts,4,6:24,4,12,CLT 29,18-37,Doug Flutie pass complete to Peerless Price for 29 yards touchdown,29,1.500,7.000,5.50
+2000-09-24,Patriots,Dolphins,4,2:36,4,1,MIA 41,3-10,Drew Bledsoe pass complete to Terry Glenn for 28 yards (tackle by Brian Walker),28,0.530,4.710,4.18
+2000-11-12,Packers,Buccaneers,4,14:09,4,6,TAM 27,15-14,Matt Hasselbeck pass complete to Bubba Franks for 27 yards touchdown,27,1.700,7.000,5.30
+2000-09-24,Cowboys,49ers,2,14:16,4,5,DAL 45,0-3,Dexter Coakley right tackle for 26 yards (tackle by Terry Jackson),26,-0.390,3.640,4.03
+2000-09-03,Panthers,Washington,4,4:59,4,7,WAS 45,10-20,Steve Beuerlein pass complete to Donald Hayes for 25 yards (tackle by Mark A. Carrier and Shawn Barber),25,0.270,4.240,3.97
+2000-11-12,Patriots,Browns,2,0:01,4,3,50,3-13,Drew Bledsoe pass complete to Kevin Faulk for 25 yards,25,-0.060,0.610,.67
+2000-11-19,Titans,Browns,3,3:42,4,4,CLE 39,7-10,Steve McNair up the middle for 23 yards (tackle by Marty Moore),23,0.660,4.510,3.85
+2000-12-03,Saints,Broncos,3,6:36,4,12,DEN 40,13-31,Aaron Brooks pass complete to Robert Wilson for 23 yards (tackle by Billy Jenkins),23,0.590,4.440,3.85
+2000-09-10,Bengals,Browns,3,3:39,4,14,CIN 45,7-17,Daniel Pope for 22 yards (tackle by Dennis Northcutt),22,-0.390,3.380,3.77
+2000-09-17,49ers,Rams,4,1:16,4,2,SFO 44,24-41,Jeff Garcia pass complete to Terrell Owens for 22 yards (tackle by Rich Coady),22,-0.460,3.310,3.77
+2000-11-12,Seahawks,Jaguars,2,0:32,4,4,JAX 39,7-21,Jon Kitna pass complete to Derrick Mayes for 22 yards,22,0.660,4.440,3.78
+2000-11-19,Chiefs,Bills,4,0:25,4,19,KAN 36,17-21,Elvis Grbac pass complete to Derrick Alexander for 22 yards (tackle by Travares Tillman),22,-0.980,2.790,3.77
+2000-09-10,Bengals,Browns,3,2:49,4,10,CLE 33,7-17,Akili Smith up the middle for 21 yards (tackle by Earl Little),21,1.150,4.780,3.63
+2000-10-01,Falcons,Eagles,4,3:20,4,10,PHI 38,10-31,Chris Chandler pass complete to Tim Dwight for 20 yards (tackle by Tim Hauck and Troy Vincent),20,0.720,4.370,3.65
+2000-10-08,Chargers,Broncos,4,0:51,4,6,DEN 45,7-21,Jim Harbaugh pass complete to Freddie Jones for 20 yards (tackle by Eric Brown),20,0.270,3.910,3.64
+2000-11-05,Lions,Dolphins,2,6:49,4,4,MIA 39,0-17,Charlie Batch pass complete to Larry Foster for 20 yards (tackle by Brian Walker),20,0.660,4.310,3.65
+2000-12-03,Cardinals,Bengals,4,0:17,4,6,CRD 38,13-24,Jake Plummer pass complete to MarTay Jenkins for 20 yards (tackle by Tom Carter),20,-0.850,2.790,3.64
+2000-12-17,Vikings,Packers,4,4:25,4,9,MIN 29,21-33,Daunte Culpepper pass complete to Randy Moss for 20 yards (tackle by Darren Sharper),20,-1.440,2.190,3.63
+2000-11-19,Buccaneers,Bears,3,2:22,4,3,TAM 17,10-10,Rabih Abdullah left guard for 19 yards (tackle by R.W. McQuarters),19,-2.320,1.330,3.65
+2000-10-08,Patriots,Colts,4,7:45,4,2,CLT 22,17-13,Lee Johnson pass complete to Eric Bjornson for 18 yards (tackle by Jeff Burris),18,2.120,6.280,4.16
+2000-11-05,49ers,Saints,4,6:20,4,1,NOR 31,7-31,Jeff Garcia for 18 yards (tackle by Darren Perry),18,1.410,4.710,3.30
+2000-12-23,49ers,Broncos,4,10:44,4,10,SFO 47,0-38,Jeff Garcia pass complete to Jerry Rice for 18 yards (tackle by Terrell Buckley),18,-0.260,3.250,3.51
+2000-09-24,Bears,Lions,4,4:43,4,3,DET 42,14-21,Cade McNown right end for 17 yards (tackle by Ron Rice),17,0.460,3.910,3.45
+2000-10-08,Seahawks,Panthers,4,1:11,4,15,CAR 30,3-26,Brock Huard pass complete to Sean Dawkins for 17 yards (tackle by Eugene Robinson),17,1.410,4.710,3.30
+2000-10-15,Bengals,Steelers,4,1:34,4,8,CIN 11,0-15,Scott Mitchell pass complete to Ron Dugans for 17 yards (tackle by Dewayne Washington),17,-2.490,0.810,3.30
+2000-11-05,Titans,Steelers,4,2:12,4,8,PIT 42,6-7,Steve McNair pass complete to Derrick Mason for 17 yards (tackle by Dewayne Washington),17,0.460,3.910,3.45
+2000-11-26,Bills,Buccaneers,4,0:48,4,10,TAM 48,17-31,Doug Flutie pass complete to Peerless Price for 17 yards (tackle by Ronde Barber),17,0.070,3.510,3.44
+2000-12-17,Saints,Falcons,1,5:31,4,15,ATL 34,0-0,Aaron Brooks pass complete to Willie Jackson for 17 yards (tackle by Ashley Ambrose),17,1.060,4.440,3.38
+2000-12-23,Seahawks,Bills,2,12:07,4,1,BUF 20,7-21,Shaun Alexander left end for 17 yards (tackle by Marcellus Wiley),17,2.270,6.510,4.24
+2000-10-15,Rams,Falcons,2,4:38,4,2,ATL 27,15-14,Marshall Faulk up the middle for 16 yards (tackle by Ronnie Bradford),16,1.800,4.840,3.04
+2000-10-15,Falcons,Rams,4,4:32,4,9,RAM 16,27-37,Chris Chandler pass complete to Tim Dwight for 16 yards touchdown,16,2.380,7.000,4.62
+2000-11-05,Rams,Panthers,4,0:07,4,15,RAM 28,24-27,Trent Green pass complete to Isaac Bruce for 16 yards lateral to Az-Zahir Hakim for 3 yards (tackle by Eugene Robinson),16,-1.500,1.860,3.36
+2000-11-19,Giants,Lions,3,1:05,4,6,DET 18,7-28,Kerry Collins pass complete to Pete Mitchell for 16 yards (tackle by Lamar Campbell and Corwin Brown),16,2.270,6.740,4.47
+2000-10-15,Eagles,Cardinals,2,2:23,4,4,CRD 32,10-0,David Akers left end for 15 yards (tackle by Pat Tillman),15,1.270,4.440,3.17
+2000-10-15,Cardinals,Eagles,1,11:15,4,1,PHI 42,0-0,Michael Pittman right end for 14 yards (tackle by Brian Dawkins),14,0.460,3.710,3.25
+2000-11-12,Panthers,Saints,4,10:41,4,10,NOR 29,3-17,Steve Beuerlein pass complete to Karl Hankton for 14 yards (tackle by Sammy Knight),14,1.500,4.580,3.08
+2000-12-23,49ers,Broncos,2,6:29,4,4,DEN 43,0-10,Jeff Garcia pass complete to J.J. Stokes for 14 yards (tackle by Bill Romanowski),14,0.400,3.640,3.24
+2001-01-07,Eagles,Giants,4,5:39,4,15,NYG 50,3-20,Donovan McNabb pass complete to Chad Lewis for 14 yards (tackle by Brandon Short),14,-0.060,-1.330,-1.27
+2000-11-05,Bears,Colts,1,7:32,4,8,CLT 27,0-0,Louie Aguiar pass complete to Mike Wells for 13 yards (tackle by Dwight Hollier),13,1.670,4.650,2.98
+2000-12-03,Bengals,Cardinals,4,2:19,4,2,CRD 31,21-13,Corey Dillon left end for 13 yards (tackle by Aeneas Williams),13,1.400,4.370,2.97
+2000-12-11,Bills,Colts,4,8:31,4,7,CLT 40,12-37,Doug Flutie pass complete to Eric Moulds for 13 yards (tackle by Tony Blevins),13,0.590,3.780,3.19
+2000-12-23,Broncos,49ers,3,2:37,4,4,SFO 28,31-0,Gus Frerotte pass complete to Rod Smith for 13 yards (tackle by Jason Webster),13,1.650,4.580,2.93
+2000-12-24,Packers,Buccaneers,1,8:11,4,4,TAM 32,0-0,Brett Favre pass complete to Donald Driver for 13 yards (tackle by Damien Robinson),13,1.270,4.310,3.04
+2000-12-24,Jets,Ravens,4,3:02,4,8,RAV 41,20-34,Vinny Testaverde pass complete to Dedric Ward for 13 yards (tackle by Duane Starks),13,0.530,3.710,3.18
+2000-10-01,Rams,Chargers,4,3:19,4,2,SDG 12,56-24,Justin Watson right end for 12 yards touchdown,12,2.760,7.000,4.24
+2000-10-15,Patriots,Jets,4,1:35,4,10,NWE 44,17-34,Michael Bishop pass complete to Kevin Faulk for 12 yards (tackle by Mo Lewis),12,-0.460,2.650,3.11
+2000-11-19,Giants,Lions,4,3:35,4,10,DET 45,14-31,Kerry Collins right end for 12 yards (tackle by Bryant Westbrook),12,0.270,3.380,3.11
+2001-01-06,Dolphins,Raiders,4,13:42,4,4,RAI 36,0-27,Jay Fiedler pass complete to Tony Martin for 12 yards (tackle by Darrien Gordon),12,0.890,3.970,3.08
+2000-09-10,49ers,Panthers,4,6:35,4,6,CAR 41,14-38,Rick Mirer pass complete to Terrell Owens for 11 yards (tackle by Doug Evans),11,0.530,3.580,3.05
+2000-10-01,Jaguars,Steelers,4,0:15,4,10,PIT 11,12-24,Jamie Martin pass complete to Keenan McCardell for 11 yards touchdown,11,2.700,7.000,4.30
+2000-10-15,Bills,Chargers,4,15:00,4,1,SDG 32,14-24,Rob Johnson pass complete to Peerless Price for 11 yards (tackle by Tony Darden). Penalty on Tony Darden: Face Mask (15 Yards) 10 yards,11,1.310,4.840,3.53
+2000-10-30,Washington,Titans,2,3:37,4,27,WAS 31,7-10,Tommy Barnhardt left end for 11 yards (tackle by Aric Morris). Penalty on Tommy Barnhardt: Unnecessary Roughness 15 yards,11,-1.310,-3.840,-2.53
+2000-11-05,Colts,Bears,4,13:06,4,2,CLT 47,8-27,Edgerrin James right end for 11 yards (tackle by Phillip Daniels),11,-0.260,2.790,3.05
+2000-11-12,Colts,Jets,2,1:46,4,9,NYJ 20,14-0,Hunter Smith right end for 11 yards (tackle by Scott Frost),11,2.120,5.140,3.02
+2000-11-12,Falcons,Lions,4,1:09,4,10,ATL 20,10-13,Danny Kanell pass complete to Tim Dwight for 11 yards (tackle by Tracy Scroggins),11,-2.030,1.000,3.03
+2000-12-03,Seahawks,Falcons,1,4:16,4,1,ATL 35,14-0,Jon Kitna pass complete to Ricky Watters for 11 yards (tackle by Mark Simoneau),11,1.000,3.970,2.97
+2000-12-16,Steelers,Washington,4,0:35,4,10,WAS 14,24-3,Amos Zereoue left tackle for 11 yards (tackle by Sam Shade),11,2.510,6.510,4.00
+2000-12-24,Buccaneers,Packers,3,4:56,4,9,GNB 32,0-14,Shaun King pass complete to Jacquez Green for 11 yards (tackle by Nate Wayne),11,1.240,4.170,2.93
+2000-09-18,Washington,Cowboys,4,0:20,4,9,WAS 38,21-27,Brad Johnson pass complete to James Thrash for 10 yards (tackle by Darren Woodson),10,-0.850,2.130,2.98
+2000-10-01,Broncos,Patriots,4,7:46,4,2,NWE 31,11-28,Brian Griese pass complete to Ed McCaffrey for 10 yards (tackle by Ty Law),10,1.400,4.170,2.77
+2000-11-05,Panthers,Rams,4,2:00,4,2,RAM 42,24-24,Tim Biakabutuka right end for 10 yards (tackle by Jacoby Shepherd),10,0.460,3.450,2.99
+2000-11-12,Dolphins,Chargers,1,1:09,4,6,SDG 31,7-0,Jay Fiedler pass complete to O.J. McDuffie for 10 yards (tackle by Rodney Harrison),10,1.340,4.170,2.83
+2000-11-19,Colts,Packers,3,10:11,4,2,GNB 25,0-19,Peyton Manning pass complete to Ken Dilger for 10 yards (tackle by Darren Sharper and LeRoy Butler),10,1.930,4.580,2.65
+2000-11-19,Giants,Lions,4,4:40,4,7,NYG 23,14-31,Kerry Collins pass complete to Joe Jurevicius for 10 yards (tackle by Terry Fair),10,-1.830,1.140,2.97
+2000-11-19,Falcons,49ers,4,8:20,4,6,ATL 49,6-16,Chris Chandler pass complete to Tim Dwight for 10 yards (tackle by Ahmed Plummer),10,-0.130,2.850,2.98
+2000-11-26,Chiefs,Chargers,4,1:51,4,9,KAN 26,16-17,Warren Moon pass complete to Derrick Alexander for 10 yards,10,-1.630,1.330,2.96
+2000-11-26,Bills,Buccaneers,4,1:16,4,2,BUF 42,17-31,Doug Flutie for 10 yards,10,-0.590,2.390,2.98
+2000-12-03,Colts,Jets,4,0:33,4,1,NYJ 48,17-27,Edgerrin James right tackle for 10 yards (tackle by Mo Lewis and Nick Ferguson),10,0.070,3.050,2.98
+2000-12-10,Lions,Packers,4,1:21,4,20,DET 29,13-26,Charlie Batch left end for 10 yards (tackle by David Bowens). Penalty on Tony Semple: Chop Block (Declined) Penalty on Stockar McDougle: Offensive Holding (Declined),10,-1.440,-3.050,-1.61
+2000-12-10,Saints,49ers,4,3:02,4,4,NOR 38,24-27,Aaron Brooks middle for 10 yards (tackle by Ahmed Plummer),10,-0.850,2.130,2.98
+2000-12-17,49ers,Bears,2,1:59,4,1,CHI 39,7-0,Jeff Garcia pass complete to Charlie Garner for 10 yards (tackle by Sean Harris),10,0.660,3.640,2.98
+2000-12-24,Bears,Lions,4,0:12,4,1,DET 46,20-20,Cade McNown pass complete to James Allen for 10 yards,10,0.200,3.180,2.98
+2000-12-24,Bengals,Eagles,4,0:25,4,4,CIN 15,7-16,Scott Mitchell pass complete to Danny Farmer for 10 yards (tackle by Carlos Emmons),10,-2.440,0.610,3.05
+2000-09-10,Panthers,49ers,1,10:57,4,1,SFO 11,0-0,Steve Beuerlein pass complete to Wesley Walls for 9 yards (tackle by Ahmed Plummer and Pierson Prioleau),9,2.850,6.740,3.89
+2000-09-10,49ers,Panthers,4,13:35,4,10,CAR 38,7-38,Rick Mirer pass complete to Jerry Rice for 9 yards (tackle by Jimmy Hitchcock). Penalty on Eric Swann: Illegal Contact 5 yards (no play),9,0.720,3.380,2.66
+2000-09-11,Jets,Patriots,4,7:24,4,7,NWE 35,7-19,Vinny Testaverde pass complete to Richie Anderson for 9 yards (tackle by Tebucky Jones),9,0.970,3.840,2.87
+2000-09-24,Giants,Washington,4,3:11,4,3,WAS 32,0-16,Kerry Collins pass complete to Amani Toomer for 9 yards (tackle by Darrell Green and Shawn Barber),9,1.290,4.040,2.75
+2000-10-29,Giants,Eagles,4,4:44,4,1,PHI 29,24-7,Ron Dayne right end for 9 yards (tackle by Mike Caldwell),9,1.620,4.240,2.62
+2000-11-05,49ers,Saints,3,9:51,4,1,NOR 17,0-31,Jeff Garcia pass complete to Terry Jackson for 9 yards (tackle by Sammy Knight),9,2.460,5.370,2.91
+2000-11-12,Eagles,Steelers,2,13:11,4,1,PIT 37,3-0,Donovan McNabb pass complete to Cecil Martin for 9 yards (tackle by Joey Porter),9,0.790,3.710,2.92
+2000-11-19,49ers,Falcons,4,1:18,4,5,ATL 28,16-6,Jeff Garcia pass complete to Jerry Rice for 9 yards (tackle by Ray Buchanan),9,1.630,4.310,2.68
+2000-12-03,Colts,Jets,4,1:04,4,6,CLT 13,17-27,Peyton Manning pass complete to Marvin Harrison for 9 yards (tackle by Ray Mickens),9,-2.490,0.410,2.90
+2000-12-10,Browns,Eagles,4,2:34,4,8,CLE 22,24-35,Doug Pederson pass complete to Travis Prentice for 9 yards (tackle by Jeremiah Trotter),9,-1.900,1.000,2.90
+2000-09-10,Seahawks,Rams,3,4:41,4,1,RAM 41,17-20,Shaun Alexander up the middle for 8 yards (tackle by Keith Lyle and Todd Lyght),8,0.530,3.380,2.85
+2000-09-10,Bears,Buccaneers,4,0:31,4,6,CHI 42,0-41,Cade McNown pass complete to James Allen for 8 yards (tackle by James Cannida and Jeff Gooch),8,-0.590,2.260,2.85
+2000-10-01,Bengals,Dolphins,4,4:11,4,3,CIN 47,16-31,Akili Smith pass complete to Marco Battaglia for 8 yards (tackle by Terrance Shaw),8,-0.260,2.590,2.85
+2000-10-01,Browns,Ravens,4,11:26,4,4,RAV 41,0-12,Tim Couch pass complete to Dennis Northcutt for 8 yards (tackle by Corey Harris),8,0.530,3.380,2.85
+2000-10-08,Saints,Bears,1,1:16,4,3,CHI 33,0-7,Jeff Blake right end for 8 yards (tackle by Brian Urlacher),8,1.190,3.910,2.72
+2000-10-08,Broncos,Chargers,4,13:04,4,1,SDG 36,14-7,KaRon Coleman left tackle for 8 yards (tackle by Mike Dumas),8,0.890,3.710,2.82
+2000-10-09,Vikings,Buccaneers,1,10:25,4,1,TAM 46,7-0,Robert Smith up the middle for 8 yards (tackle by John Lynch),8,0.200,3.050,2.85
+2000-10-29,Vikings,Buccaneers,2,13:26,4,3,TAM 33,3-14,Daunte Culpepper pass complete to Cris Carter for 8 yards (tackle by Brian Kelly),8,1.190,3.910,2.72
+2000-11-05,Chiefs,Raiders,3,2:42,4,7,RAI 37,10-35,Elvis Grbac pass complete to Kevin Lockett for 8 yards (tackle by Tory James). Penalty on Darrell Russell: Roughing the Passer 15 yards,8,0.790,4.650,3.86
+2000-11-19,Steelers,Jaguars,4,9:05,4,2,JAX 48,16-34,Kordell Stewart pass complete to Bobby Shaw for 8 yards (tackle by Mike Logan),8,0.070,2.920,2.85
+2000-11-19,49ers,Falcons,2,7:25,4,3,ATL 31,3-3,Jeff Garcia pass complete to Jerry Rice for 8 yards,8,1.380,4.040,2.66
+2000-12-10,Bears,Patriots,3,2:51,4,2,NWE 27,17-10,Shane Matthews pass complete to Scott Dragos for 8 yards (tackle by Otis Smith),8,1.800,4.310,2.51
+2000-12-17,Dolphins,Colts,3,2:49,4,1,CLT 8,9-20,Lamar Smith up the middle for 8 yards touchdown,8,2.990,7.000,4.01
+2000-09-18,Washington,Cowboys,1,11:13,4,1,DAL 7,6-0,Stephen Davis up the middle for 7 yards touchdown,7,3.010,7.000,3.99
+2000-09-18,Washington,Cowboys,4,9:19,4,1,WAS 40,14-24,Stephen Davis left end for 7 yards (tackle by Darren Woodson),7,-0.720,2.060,2.78
+2000-10-22,Eagles,Bears,2,1:11,4,7,CHI 35,3-0,Donovan McNabb pass complete to Darnell Autry for 7 yards (tackle by Thomas Smith),7,0.970,3.710,2.74
+2000-10-29,Panthers,Falcons,2,12:30,4,5,ATL 34,3-3,Steve Beuerlein pass complete to Muhsin Muhammad for 7 yards (tackle by Marty Carter and Mark Simoneau),7,1.070,3.780,2.71
+2000-10-29,Seahawks,Chiefs,4,1:57,4,2,SEA 21,19-21,Jon Kitna pass complete to Sean Dawkins for 7 yards (tackle by William Bartee),7,-1.960,0.810,2.77
+2000-11-05,Falcons,Buccaneers,2,0:47,4,3,TAM 38,0-14,Danny Kanell pass complete to Terance Mathis for 7 yards (tackle by Jamie Duncan and Alshermond Singleton),7,0.720,3.510,2.79
+2000-11-19,Eagles,Cardinals,3,10:28,4,3,CRD 32,10-3,Donovan McNabb pass complete to Stanley Pritchett for 7 yards (tackle by Justin Lucas),7,1.290,3.910,2.62
+2000-12-10,Patriots,Bears,4,10:59,4,7,CHI 7,16-24,Drew Bledsoe pass complete to Troy Brown for 7 yards touchdown,7,2.970,7.000,4.03
+2000-12-10,Bengals,Titans,3,3:48,4,8,OTI 8,3-28,Scott Mitchell up the middle for 7 yards (tackle by Joe Salave'a and Bobby Myers),7,2.950,0.380,-2.57
+2000-09-10,Cowboys,Cardinals,4,1:02,4,5,DAL 30,31-32,Randall Cunningham pass complete to Jackie Harris for 6 yards (tackle by Pat Tillman),6,-1.370,1.330,2.70
+2000-10-15,Colts,Seahawks,3,10:32,4,3,SEA 34,20-17,Peyton Manning pass complete to Terrence Wilkins for 6 yards (tackle by Willie J. Williams),6,1.090,3.710,2.62
+2000-10-22,Bears,Eagles,4,0:12,4,1,CHI 41,9-13,Jim Miller pass complete to Macey Brooks for 6 yards (tackle by Jeremiah Trotter),6,-0.650,2.060,2.71
+2000-11-05,Saints,49ers,1,9:29,4,4,SFO 33,0-0,Jeff Blake pass complete to Joe Horn for 6 yards (tackle by Ahmed Plummer),6,1.180,3.780,2.60
+2000-11-12,Bengals,Cowboys,4,5:01,4,14,CIN 49,6-23,Akili Smith up the middle for 6 yards (tackle by Dat Nguyen),6,-0.130,-1.930,-1.80
+2000-12-03,Raiders,Steelers,4,0:31,4,1,RAI 44,20-21,Rich Gannon pass complete to Tim Brown for 6 yards (tackle by Chad Scott),6,-0.460,2.260,2.72
+2000-12-10,Washington,Cowboys,4,0:50,4,14,WAS 32,13-32,Larry Centers right tackle for 6 yards (tackle by Dat Nguyen),6,-1.240,-3.050,-1.81
+2000-12-18,Buccaneers,Rams,4,1:16,4,4,RAM 29,31-35,Shaun King for 6 yards (tackle by London Fletcher),6,1.560,4.040,2.48
+2001-01-06,Saints,Vikings,4,9:57,4,1,NOR 38,10-34,Aaron Brooks pass complete to Chad Morton for 6 yards (tackle by Dwayne Rudd),6,-0.850,1.860,2.71
+2000-09-17,Jets,Bills,2,12:30,4,1,BUF 5,13-7,Curtis Martin right guard for 5 yards touchdown,5,3.030,7.000,3.97
+2000-09-18,Washington,Cowboys,4,4:33,4,2,WAS 32,21-24,Brad Johnson pass complete to Irving Fryar for 5 yards (tackle by Izell Reese),5,-1.240,1.400,2.64
+2000-10-01,Jaguars,Steelers,2,1:52,4,3,PIT 46,3-17,Mark Brunell pass complete to Keenan McCardell for 5 yards (tackle by Earl Holmes),5,0.200,2.850,2.65
+2000-10-01,Titans,Giants,2,1:07,4,7,NYG 34,21-0,Rodney Thomas up the middle for 5 yards (tackle by Reggie Stephens),5,1.060,-0.870,-1.93
+2000-10-01,Cardinals,49ers,4,10:13,4,3,SFO 30,10-27,Jake Plummer pass complete to Frank Sanders for 5 yards (tackle by Jason Webster and Ahmed Plummer),5,1.480,3.910,2.43
+2000-10-08,Bills,Dolphins,4,2:34,4,1,MIA 36,13-22,Sammy Morris left tackle for 5 yards (tackle by Sam Madison and Brock Marion),5,0.890,3.510,2.62
+2000-10-29,Jets,Bills,2,1:27,4,1,BUF 23,7-17,Curtis Martin left tackle for 5 yards (tackle by Sam Cowart and John Holecek),5,2.080,4.370,2.29
+2000-11-12,Saints,Panthers,1,3:09,4,4,CAR 31,0-0,Jeff Blake right end for 5 yards (tackle by Eric Davis),5,1.370,3.840,2.47
+2000-12-03,Rams,Panthers,4,3:07,4,6,RAM 19,3-13,Kurt Warner pass complete to Az-Zahir Hakim for 5 yards (tackle by Mike Minter),5,-2.140,-3.970,-1.83
+2000-12-03,Bears,Packers,1,10:43,4,4,GNB 34,0-0,Shane Matthews right tackle for 5 yards (tackle by Mike McKenzie),5,1.080,3.640,2.56
+2000-12-10,Jets,Raiders,4,0:28,4,5,RAI 5,6-31,Chad Pennington pass complete to Wayne Chrebet for 5 yards touchdown,5,3.010,7.000,3.99
+2000-12-17,Saints,Falcons,1,13:32,4,1,NOR 36,0-0,Toby Gowin left end for 5 yards (tackle by Winslow Oliver),5,-0.980,1.660,2.64
+2000-12-23,49ers,Broncos,2,6:35,4,4,DEN 43,0-10,Jeff Garcia pass complete to Fred Beasley for 5 yards (tackle by John Mobley). Penalty on Tyrone Hopson: Offensive Holding (Offsetting) Penalty on Ray Crockett: Illegal Use of Hands (Offsetting) (no play),5,0.400,0.400,.00
+2000-12-23,Giants,Jaguars,2,0:39,4,8,JAX 28,7-7,Kerry Collins pass complete to Ike Hilliard for 5 yards (tackle by Brant Boyer and Tony Brackens),5,1.590,-0.540,-2.13
+2000-12-31,Broncos,Ravens,4,9:04,4,2,DEN 32,3-21,Gus Frerotte pass complete to Ed McCaffrey for 5 yards (tackle by Ray Lewis),5,-1.240,1.400,2.64
+2001-01-06,Saints,Vikings,2,0:35,4,1,MIN 46,3-17,Aaron Brooks for 5 yards,5,0.200,2.850,2.65
+2000-09-10,Packers,Bills,4,4:26,4,2,GNB 28,10-27,Brett Favre pass complete to Ahman Green for 4 yards (tackle by Marcellus Wiley),4,-1.500,1.070,2.57
+2000-09-17,Chiefs,Chargers,4,6:24,4,1,SDG 41,35-10,Frank Moreau left tackle for 4 yards (tackle by Junior Seau),4,0.530,3.120,2.59
+2000-10-01,Cardinals,49ers,3,4:09,4,1,CRD 47,10-24,Michael Pittman right tackle for 4 yards (tackle by Winfred Tubbs),4,-0.260,2.320,2.58
+2000-10-08,Titans,Bengals,2,8:52,4,1,CIN 29,3-7,Steve McNair pass complete to Eddie George for 4 yards (tackle by Steve Foley),4,1.620,3.910,2.29
+2000-10-22,Broncos,Bengals,3,4:41,4,1,CIN 18,14-17,KaRon Coleman up the middle for 4 yards (tackle by Michael Bankston),4,2.400,4.650,2.25
+2000-10-22,Rams,Chiefs,4,2:58,4,4,KAN 4,34-54,Trent Green pass complete to Isaac Bruce for 4 yards touchdown,4,3.030,7.000,3.97
+2000-11-05,Colts,Bears,3,8:08,4,1,CHI 45,0-27,Edgerrin James left end for 4 yards (tackle by Warrick Holdman),4,0.270,2.850,2.58
+2000-11-12,Rams,Giants,2,7:49,4,2,NYG 20,14-7,Keith Lyle left end for 4 yards (tackle by Jason Sehorn),4,2.250,4.510,2.26
+2000-11-13,Raiders,Broncos,4,1:16,4,2,DEN 26,17-24,Rich Gannon pass complete to Tim Brown for 4 yards (tackle by Jimmy Spencer),4,1.860,4.110,2.25
+2000-11-19,Chargers,Broncos,1,6:43,4,2,DEN 34,0-0,Ryan Leaf pass complete to Terrell Fletcher for 4 yards (tackle by Bill Romanowski),4,1.100,3.580,2.48
+2000-11-19,Jaguars,Steelers,4,1:08,4,10,PIT 28,34-24,Fred Taylor up the middle for 4 yards (tackle by Joey Porter),4,1.590,-0.540,-2.13
+2000-11-26,Colts,Dolphins,4,0:29,4,1,MIA 46,14-17,Edgerrin James up the middle for 4 yards (tackle by Daryl Gardener),4,0.200,2.790,2.59
+2000-12-03,Cowboys,Buccaneers,3,8:41,4,3,TAM 35,0-20,Troy Aikman pass complete to Michael Wiley for 4 yards (tackle by Chidi Ahanotu),4,0.990,3.510,2.52
+2000-12-10,Jaguars,Cardinals,4,2:15,4,1,CRD 20,44-10,Jermaine Williams up the middle for 4 yards (tackle by Mao Tosi),4,2.270,4.510,2.24
+2000-09-03,Patriots,Buccaneers,4,0:29,4,1,TAM 26,16-21,Drew Bledsoe pass complete to Troy Brown for 4 yards (tackle by Derrick Brooks),4,1.890,4.110,2.22
+2000-09-18,Cowboys,Washington,2,14:54,4,1,WAS 3,13-7,Emmitt Smith left end for 3 yards touchdown,3,3.060,7.000,3.94
+2000-09-24,Ravens,Bengals,3,11:36,4,1,CIN 38,24-0,Tony Banks up the middle for 3 yards. Penalty on Obafemi Ayanbadejo: Illegal Motion (Offsetting) Penalty on Steve Foley: Defensive Offside (Offsetting) (no play),3,0.720,0.720,.00
+2000-09-24,Bengals,Ravens,4,13:16,4,2,RAV 38,0-27,Scott Mitchell left end for 3 yards (tackle by Chris McAlister),3,0.720,3.250,2.53
+2000-10-01,Lions,Vikings,2,14:47,4,1,MIN 46,7-7,James Stewart right tackle for 3 yards (tackle by Kailee Wong),3,0.200,2.720,2.52
+2000-10-09,Vikings,Buccaneers,2,15:00,4,1,TAM 17,7-7,Daunte Culpepper up the middle for 3 yards (tackle by Steve White and Anthony McFarland),3,2.460,4.650,2.19
+2000-10-15,Jets,Patriots,2,5:05,4,2,NWE 22,14-10,Mo Lewis right end for 3 yards (tackle by Chris Slade and Larry Whigham),3,2.120,4.310,2.19
+2000-10-29,Packers,Dolphins,1,11:52,4,1,MIA 41,0-0,Dorsey Levens up the middle for 3 yards (tackle by Daryl Gardener),3,0.530,3.050,2.52
+2000-11-26,Jets,Bears,2,0:48,4,1,CHI 18,10-0,Bernie Parmalee right end for 3 yards (tackle by Tony Parrish and Sean Harris),3,2.400,4.580,2.18
+2000-11-26,Rams,Saints,4,2:56,4,4,RAM 30,24-31,Trent Green pass complete to Az-Zahir Hakim for 3 yards (tackle by Fred Thomas),3,-1.370,-3.380,-2.01
+2000-12-03,Jaguars,Browns,4,6:15,4,3,CLE 3,47-0,Shyrone Stith left tackle for 3 yards touchdown,3,3.040,7.000,3.96
+2000-12-10,Browns,Eagles,1,11:34,4,1,PHI 45,0-0,Travis Prentice up the middle for 3 yards (tackle by Corey Simon),3,0.270,2.790,2.52
+2000-12-17,Patriots,Bills,5,13:18,4,5,BUF 31,10-10,Troy Brown right end for 3 yards (tackle by Jay Foreman),3,1.350,-0.810,-2.16
+2000-12-17,Titans,Browns,4,0:34,4,1,CLE 41,24-0,Rodney Thomas right guard for 3 yards (tackle by Wali Rainer),3,0.530,2.650,2.12
+2000-12-17,Chiefs,Broncos,2,14:56,4,8,DEN 22,3-0,Elvis Grbac pass complete to Sylvester Morris for 3 yards (tackle by John Mobley). Sylvester Morris fumbles (forced by John Mobley) recovered by Deltha O'Neal at DEN-19 and returned for 6 yards (tackle by Derrick Alexander),3,1.990,-0.610,-2.60
+2000-12-17,Vikings,Packers,4,5:59,4,1,MIN 25,21-33,Robert Smith up the middle for 3 yards (tackle by Russell Maryland and Cletidus Hunt),3,-1.700,0.810,2.51
+2000-12-30,Dolphins,Colts,2,4:37,4,1,CLT 42,0-14,Jay Fiedler right end for 3 yards (tackle by Dwight Hollier),3,0.460,2.980,2.52
+2001-01-14,Giants,Vikings,4,2:31,4,2,MIN 27,41-0,Joe Montgomery right guard for 3 yards (tackle by Kailee Wong),3,1.800,3.970,2.17
+2001-01-28,Giants,Ravens,4,0:10,4,3,NYG 46,7-34,Tiki Barber up the middle for 3 yards (tackle by Keith Washington),3,-0.320,2.190,2.51
+2000-09-10,Cowboys,Cardinals,3,10:34,4,1,CRD 34,21-13,Randall Cunningham up the middle for 2 yards (tackle by Ronald McKinnon and Mark Smith),2,1.100,3.450,2.35
+2000-09-10,Cowboys,Cardinals,4,11:08,4,1,CRD 22,24-23,Randall Cunningham up the middle for 2 yards (tackle by Mao Tosi and Corey Sears),2,2.140,4.240,2.10
+2000-09-10,Broncos,Falcons,4,0:36,4,2,ATL 33,42-14,KaRon Coleman left guard for 2 yards (tackle by Chuck Wiley),2,1.200,3.250,2.05
+2000-09-11,Patriots,Jets,4,4:10,4,1,NYJ 44,19-14,Drew Bledsoe up the middle for 2 yards (tackle by Marvin Jones),2,0.330,2.790,2.46
+2000-09-17,Steelers,Browns,2,3:11,4,2,CLE 29,7-14,Jerome Bettis left tackle for 2 yards (tackle by Jamir Miller),2,1.600,3.780,2.18
+2000-09-17,Bengals,Jaguars,4,4:15,4,1,CIN 47,0-10,Akili Smith up the middle for 2 yards (tackle by Renaldo Wynn),2,-0.260,2.190,2.45
+2000-09-17,Vikings,Patriots,1,8:01,4,1,NWE 7,0-0,Daunte Culpepper right guard for 2 yards (tackle by Chris Slade),2,3.010,6.060,3.05
+2000-09-24,Dolphins,Patriots,3,7:02,4,1,NWE 36,10-3,Jay Fiedler up the middle for 2 yards (tackle by Ted Johnson),2,0.890,3.310,2.42
+2000-09-24,Browns,Raiders,3,13:00,4,1,CLE 43,7-28,Tim Couch up the middle for 2 yards (tackle by Grady Jackson and Tony Bryant),2,-0.520,1.930,2.45
+2000-10-01,Bills,Colts,1,10:40,4,1,CLT 49,0-0,Sammy Morris up the middle for 2 yards (tackle by Bernard Whittington),2,0.000,2.460,2.46
+2000-10-01,Panthers,Cowboys,1,4:09,4,1,DAL 22,0-0,Tim Biakabutuka left guard for 2 yards (tackle by Chad Hennings),2,2.140,4.240,2.10
+2000-10-01,Browns,Ravens,4,8:21,4,6,RAV 6,0-12,Tim Couch pass complete to Travis Prentice for 2 yards (tackle by James Trapp),2,2.990,0.380,-2.61
+2000-10-01,Jaguars,Steelers,4,8:56,4,3,PIT 6,6-24,Mark Brunell left end for 2 yards (tackle by Earl Holmes),2,3.010,0.380,-2.63
+2000-10-08,Cardinals,Browns,2,4:21,4,1,CLE 34,13-14,Jake Plummer pass complete to Joel Makovicka for 2 yards (tackle by Jamir Miller),2,1.100,3.450,2.35
+2000-10-15,Bears,Vikings,1,12:25,4,1,MIN 48,0-0,Cade McNown left guard for 2 yards (tackle by Ed McDaniel),2,0.070,2.520,2.45
+2000-10-15,Eagles,Cardinals,2,14:22,4,1,CRD 30,7-0,Donovan McNabb pass complete to Charles Johnson for 2 yards (tackle by Tom Knight),2,1.520,3.710,2.19
+2000-10-15,Jets,Patriots,3,4:21,4,1,NWE 2,30-10,Curtis Martin up the middle for 2 yards touchdown,2,3.250,7.000,3.75
+2000-10-22,Patriots,Colts,1,9:22,4,1,CLT 43,0-0,Michael Bishop up the middle for 2 yards (tackle by Dwight Hollier and Rob Morris),2,0.400,2.850,2.45
+2000-10-22,Cardinals,Cowboys,4,9:03,4,3,DAL 3,0-48,Jake Plummer right end for 2 yards (tackle by Barron Wortham),2,3.040,0.380,-2.66
+2000-10-22,Eagles,Bears,2,6:41,4,1,CHI 37,3-0,Brian Mitchell left tackle for 2 yards (tackle by Phillip Daniels),2,0.790,3.250,2.46
+2000-10-22,Bears,Eagles,4,6:37,4,1,PHI 17,3-13,James Allen right tackle for 2 yards (tackle by Jeremiah Trotter),2,2.460,4.580,2.12
+2000-10-23,Jets,Dolphins,4,2:00,4,1,MIA 4,30-37,Vinny Testaverde pass complete to Richie Anderson for 2 yards (tackle by Zach Thomas and Jerry Wilson),2,3.040,6.740,3.70
+2000-10-29,Bills,Jets,4,11:50,4,1,NYJ 37,17-17,Sammy Morris up the middle for 2 yards (tackle by Marvin Jones and Bryan Cox),2,0.790,3.250,2.46
+2000-10-29,Cardinals,Saints,4,2:59,4,1,NOR 6,10-21,Michael Pittman left end for 2 yards (tackle by Mark Fields and Sammy Knight),2,3.020,6.280,3.26
+2000-11-05,Buccaneers,Falcons,4,9:36,4,1,ATL 35,17-7,Mike Alstott up the middle for 2 yards (tackle by Ronnie Bradford),2,1.000,3.380,2.38
+2000-11-05,Bengals,Ravens,2,0:32,4,4,RAV 41,0-24,Akili Smith pass complete to Tony McGee for 2 yards (tackle by Corey Harris),2,0.530,-1.530,-2.06
+2000-11-05,Saints,49ers,2,9:25,4,1,NOR 29,14-0,Jeff Blake up the middle for 2 yards (tackle by Anthony Pleasant),2,-1.440,1.000,2.44
+2000-11-05,Cowboys,Eagles,2,8:58,4,1,PHI 31,0-0,Randall Cunningham up the middle for 2 yards (tackle by Carlos Emmons),2,1.410,3.640,2.23
+2000-11-13,Broncos,Raiders,1,12:10,4,1,RAI 7,0-0,Terrell Davis up the middle for 2 yards (tackle by William Thomas),2,3.010,6.060,3.05
+2000-11-26,Bengals,Steelers,2,14:35,4,1,PIT 22,7-14,Akili Smith for 2 yards. Akili Smith fumbles recovered by Akili Smith at PIT-22,2,2.140,4.240,2.10
+2000-11-26,Bears,Jets,2,7:24,4,1,NYJ 41,0-10,James Allen right guard for 2 yards (tackle by Victor Green),2,0.530,2.980,2.45
+2000-11-30,Lions,Vikings,2,11:02,4,1,MIN 43,0-14,Stoney Case up the middle for 2 yards,2,0.400,2.850,2.45
+2000-12-03,Panthers,Rams,1,2:53,4,1,RAM 29,0-3,Steve Beuerlein left guard for 2 yards (tackle by Todd F. Collins),2,1.620,3.780,2.16
+2000-12-10,Washington,Cowboys,4,1:03,4,1,WAS 45,13-32,Jeff George up the middle for 2 yards (tackle by Ebenezer Ekuban). Penalty on Jeff George: Unsportsmanlike Conduct 15 yards,2,-0.390,-1.240,-0.85
+2000-12-10,Chargers,Ravens,3,3:12,4,1,SDG 37,3-24,Ryan Leaf left guard for 2 yards (tackle by Tony Siragusa and Larry Webster),2,-0.910,1.530,2.44
+2000-12-17,Jets,Lions,4,2:00,4,1,NYJ 40,7-10,Curtis Martin left tackle for 2 yards (tackle by Darnell Walker),2,-0.720,1.660,2.38
+2000-12-18,Rams,Buccaneers,2,11:48,4,1,TAM 18,7-10,Marshall Faulk up the middle for 2 yards (tackle by Nate Webster),2,2.400,4.510,2.11
+2000-12-31,Eagles,Buccaneers,3,10:44,4,1,TAM 42,14-3,Donovan McNabb up the middle for 2 yards (tackle by Shelton Quarles),2,0.460,2.920,2.46
+2001-01-07,Eagles,Giants,4,7:57,4,2,PHI 34,3-20,Chris Warren left tackle for 2 yards (tackle by Micheal Barrow and Sam Garnes),2,-1.110,1.330,2.44
+2000-09-03,Browns,Jaguars,1,7:50,4,1,CLE 44,0-0,Errict Rhett right tackle for 2 yards (tackle by Hardy Nickerson),2,-0.460,1.990,2.45
+2000-09-03,Browns,Jaguars,4,1:59,4,8,JAX 30,7-27,Tim Couch pass complete to Errict Rhett for 2 yards (tackle by Aaron Beasley),2,1.410,-0.810,-2.22
+2000-09-03,Ravens,Steelers,2,5:27,4,1,PIT 41,10-0,Priest Holmes left tackle for 1 yard (tackle by Chris Combs and Earl Holmes),1,0.530,2.920,2.39
+2000-09-10,Browns,Bengals,1,12:23,4,2,CIN 3,0-0,Errict Rhett right tackle for 1 yard (tackle by Adrian Ross),1,3.050,0.380,-2.67
+2000-09-17,Buccaneers,Lions,3,7:02,4,1,DET 1,21-10,Shaun King pass complete to Dave Moore for 1 yard. Penalty on TAM: Illegal Substitution 5 yards (no play),1,3.550,2.990,-0.56
+2000-09-24,Patriots,Dolphins,4,12:30,4,1,MIA 40,3-10,Drew Bledsoe up the middle for 1 yard (tackle by Jason Taylor),1,0.590,2.980,2.39
+2000-10-01,Panthers,Cowboys,1,15:00,4,1,DAL 1,6-0,Tim Biakabutuka left guard for 1 yard touchdown,1,3.550,7.000,3.45
+2000-10-01,Giants,Titans,4,9:32,4,1,OTI 1,13-28,Kerry Collins pass complete to Daniel Campbell for 1 yard touchdown,1,3.550,7.000,3.45
+2000-10-08,Colts,Patriots,3,8:36,4,1,NWE 22,10-10,Edgerrin James left guard for 1 yard (tackle by Bobby Hamilton and Tedy Bruschi),1,2.140,4.170,2.03
+2000-10-15,Vikings,Bears,3,6:11,4,1,MIN 40,21-9,Robert Smith right guard for 1 yard (tackle by Bryan Robinson),1,-0.720,1.660,2.38
+2000-10-15,Giants,Cowboys,2,6:48,4,1,DAL 1,6-0,Kerry Collins pass complete to Pete Mitchell for 1 yard touchdown,1,3.550,7.000,3.45
+2000-10-22,Patriots,Colts,3,2:30,4,1,CLT 1,22-14,Drew Bledsoe up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2000-10-22,Cardinals,Cowboys,4,1:16,4,2,DAL 3,7-48,Thomas Jones left tackle for 1 yard (tackle by Barron Wortham),1,3.050,0.380,-2.67
+2000-10-22,Rams,Chiefs,2,9:46,4,1,KAN 1,6-20,Marshall Faulk up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2000-10-22,Bears,Eagles,4,15:00,4,1,PHI 32,0-13,Jim Miller up the middle for 1 yard (tackle by Hugh Douglas),1,1.310,3.510,2.20
+2000-10-22,Steelers,Browns,2,8:30,4,1,CLE 1,9-0,Jerome Bettis up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2000-11-05,Patriots,Bills,4,9:03,4,1,BUF 1,9-10,J.R. Redmond right guard for 1 yard touchdown,1,3.550,7.000,3.45
+2000-11-05,Cowboys,Eagles,2,12:35,4,1,PHI 12,0-0,Randall Cunningham up the middle for 1 yard (tackle by Jeremiah Trotter),1,2.780,4.840,2.06
+2000-11-12,Bills,Bears,3,7:02,4,1,CHI 1,12-3,Doug Flutie left end for 1 yard touchdown,1,3.550,7.000,3.45
+2000-11-12,Bengals,Cowboys,1,0:52,4,1,DAL 50,0-0,Akili Smith up the middle for 1 yard (tackle by Barron Wortham),1,-0.060,2.320,2.38
+2000-11-19,Packers,Colts,1,9:13,4,1,CLT 24,2-0,Ahman Green left guard for 1 yard (tackle by Mike Peterson),1,2.020,4.040,2.02
+2000-11-19,Cardinals,Eagles,3,1:08,4,1,PHI 47,3-17,Jake Plummer up the middle for 1 yard,1,0.130,2.520,2.39
+2000-11-19,Eagles,Cardinals,4,2:00,4,1,CRD 1,33-9,Darnell Autry right end for 1 yard touchdown,1,3.550,7.000,3.45
+2000-11-23,Lions,Patriots,3,3:50,4,1,NWE 1,12-9,Charlie Batch pass complete to David Sloan for 1 yard touchdown. Penalty on Ty Law: Defensive Holding (Declined),1,3.550,7.000,3.45
+2000-11-26,Giants,Cardinals,4,4:42,4,2,CRD 32,31-7,Tiki Barber right end for 1 yard (tackle by Barron Tanner),1,1.300,-0.940,-2.24
+2000-11-30,Vikings,Lions,1,7:43,4,1,DET 1,6-0,Robert Smith up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2000-12-04,Patriots,Chiefs,1,1:32,4,1,KAN 1,9-3,Kevin Faulk up the middle for 1 yard touchdown,1,3.550,7.000,3.45
+2000-12-04,Patriots,Chiefs,3,7:15,4,1,KAN 1,26-10,Drew Bledsoe pass complete to Jermaine Wiggins for 1 yard touchdown,1,3.550,7.000,3.45
+2000-12-10,Browns,Eagles,4,14:20,4,1,PHI 20,14-35,Travis Prentice right guard for 1 yard (tackle by Corey Simon),1,2.270,4.310,2.04
+2000-12-10,Lions,Packers,4,7:08,4,1,GNB 1,9-12,James Stewart left guard for 1 yard touchdown,1,3.550,7.000,3.45
+2000-12-10,Jaguars,Cardinals,4,5:24,4,1,CRD 30,44-10,Anthony Johnson left guard for 1 yard (tackle by Mao Tosi),1,1.520,3.640,2.12
+2000-12-17,Cowboys,Giants,3,0:16,4,1,NYG 37,13-7,Emmitt Smith right tackle for 1 yard (tackle by Michael Strahan),1,0.790,3.180,2.39
+2000-12-23,Broncos,49ers,2,0:45,4,1,SFO 1,16-0,Mike Anderson right tackle for 1 yard touchdown,1,3.550,7.000,3.45
+2000-12-23,Broncos,49ers,3,4:02,4,1,SFO 35,31-0,Gus Frerotte up the middle for 1 yard (tackle by John Engelberger),1,1.000,3.310,2.31
+2000-12-24,Raiders,Panthers,4,3:19,4,3,CAR 13,45-9,Terry Kirby left end for 1 yard (tackle by Lee Woodall and Doug Evans),1,2.670,0.350,-2.32
+2000-09-04,Broncos,Rams,4,1:32,4,33,DEN 15,36-41,Brian Griese pass incomplete intended for Rod Smith. Penalty on DEN: Ineligible Downfield Pass (Declined),0,-2.440,-4.580,-2.14
+2000-09-10,Chiefs,Titans,1,15:00,4,1,OTI 1,0-0,Mike Cloud right end for no gain (tackle by Greg Favors),0,3.550,0.380,-3.17
+2000-09-10,49ers,Panthers,2,11:19,4,1,CAR 29,0-14,Jeff Garcia right end for no gain (tackle by Dean Wells and Doug Evans),0,1.620,-0.870,-2.49
+2000-09-17,Panthers,Falcons,3,5:52,4,3,ATL 16,10-10,Ken Walter pass incomplete. Ken Walter fumbles recovered by Ken Walter at ATL-24. Penalty on Ken Walter: Intentional Grounding 13 yards,0,2.480,-0.870,-3.35
+2000-09-17,Jaguars,Bengals,2,3:09,4,1,CIN 2,10-0,Chad Dukes right tackle for no gain (tackle by Oliver Gibson). Penalty on John Wade: Offensive Holding (Declined),0,3.250,0.380,-2.87
+2000-09-24,Ravens,Bengals,3,10:57,4,1,CIN 38,24-0,Jamal Lewis right tackle for no gain (tackle by Takeo Spikes and Tom Barndt),0,0.720,-1.470,-2.19
+2000-10-01,Cowboys,Panthers,1,12:02,4,2,CAR 29,0-0,Rocket Ismail right end for no gain (tackle by Eugene Robinson),0,1.600,-0.870,-2.47
+2000-10-01,Panthers,Cowboys,2,8:38,4,2,CAR 11,7-2,Ken Walter for no gain. Ken Walter fumbles recovered by Ken Walter at CAR-0 safety,0,-2.490,-2.000,.49
+2000-10-01,Vikings,Lions,4,1:42,4,1,DET 25,31-17,Daunte Culpepper right guard for no gain (tackle by Stephen Boyd),0,1.950,-0.610,-2.56
+2000-10-08,Seahawks,Panthers,3,10:59,4,1,CAR 34,0-20,Shaun Alexander up the middle for no gain (tackle by Lee Woodall),0,1.100,-1.270,-2.37
+2000-10-08,Cardinals,Browns,4,0:06,4,18,CLE 30,29-21,Jake Plummer right end for no gain (tackle by Orpheus Roye),0,1.410,0.940,-0.47
+2000-10-08,Broncos,Chargers,3,11:43,4,1,SDG 49,7-7,Mike Anderson up the middle for no gain (tackle by Rodney Harrison),0,0.000,-2.130,-2.13
+2000-10-08,49ers,Raiders,4,1:36,4,1,RAI 29,28-28,Charlie Garner up the middle for no gain (tackle by William Thomas),0,1.620,-0.870,-2.49
+2000-10-16,Jaguars,Titans,3,8:48,4,1,JAX 49,3-24,Fred Taylor up the middle for no gain (tackle by Blaine Bishop and Marcus Robertson),0,-0.130,-2.320,-2.19
+2000-10-22,Titans,Ravens,1,11:38,4,1,RAV 40,0-0,Rodney Thomas left tackle for no gain (tackle by Ray Lewis and Peter Boulware),0,0.590,-1.600,-2.19
+2000-10-23,Jets,Dolphins,3,3:21,4,1,NYJ 35,7-23,Richie Anderson right guard for no gain (tackle by Jermaine Haley and Tim Bowens),0,-1.040,-3.250,-2.21
+2000-10-29,Rams,49ers,4,13:47,4,5,SFO 35,24-24,Trent Green pass incomplete intended for Torry Holt (defended by John Engelberger). Penalty on STL: Delay of Game 5 yards (no play),0,0.980,0.590,-0.39
+2000-10-29,Buccaneers,Vikings,4,11:58,4,1,MIN 29,34-13,Mike Alstott up the middle for no gain (tackle by Ed McDaniel),0,1.620,-0.870,-2.49
+2000-11-05,Saints,49ers,2,1:24,4,7,SFO 34,21-0,Jeff Blake pass incomplete intended for Joe Horn (defended by Jason Webster). Penalty on Jason Webster: Defensive Pass Interference 10 yards (no play),0,1.060,3.970,2.91
+2000-11-12,Bengals,Cowboys,3,5:01,4,1,CIN 45,6-17,Daniel Pope for no gain. Daniel Pope fumbles recovered by Daniel Pope at CIN-26,0,-0.390,-3.840,-3.45
+2000-11-12,Jaguars,Seahawks,4,13:45,4,1,SEA 1,21-21,Fred Taylor right tackle for no gain (tackle by Anthony Simmons),0,3.550,0.380,-3.17
+2000-11-12,Giants,Rams,2,1:42,4,1,RAM 40,7-28,Ron Dayne left tackle for no gain (tackle by Keith Lyle and Grant Wistrom),0,0.590,-1.600,-2.19
+2000-11-12,Ravens,Titans,4,0:53,4,2,OTI 21,17-23,Trent Dilfer pass incomplete intended for Qadry Ismail. Penalty on Dainon Sidney: Defensive Pass Interference 19 yards (no play),0,2.180,6.740,4.56
+2000-11-26,Giants,Cardinals,3,6:36,4,6,CRD 33,14-0,Kerry Collins pass incomplete intended for Joe Jurevicius. Penalty on Corey Chavous: Defensive Holding 5 yards (no play),0,1.160,3.710,2.55
+2000-11-26,Seahawks,Broncos,4,14:18,4,1,DEN 28,24-17,Shaun Alexander left guard for no gain (tackle by Keith Traylor and Billy Jenkins),0,1.720,-0.810,-2.53
+2000-12-03,Cardinals,Bengals,1,1:13,4,1,CIN 34,0-7,Michael Pittman right guard for no gain (tackle by Vaughn Booker and Chris Carter),0,1.100,-1.270,-2.37
+2000-12-03,Giants,Washington,2,8:55,4,1,WAS 34,0-0,Ron Dayne right end for no gain (tackle by Marco Coleman),0,1.100,-1.200,-2.30
+2000-12-10,Giants,Steelers,1,3:13,4,1,PIT 1,3-0,Ron Dayne right tackle for no gain (tackle by Levon Kirkland and Lee Flowers),0,3.550,0.380,-3.17
+2000-12-10,Bengals,Titans,3,13:47,4,1,CIN 45,3-21,Corey Dillon left guard for no gain (tackle by Bobby Myers),0,-0.390,-2.590,-2.20
+2000-12-10,Vikings,Rams,3,11:31,4,2,RAM 22,7-20,Daunte Culpepper pass incomplete intended for Johnny McWilliams. Penalty on Devin Bush: Defensive Pass Interference 14 yards (no play),0,2.120,5.370,3.25
+2000-12-16,Steelers,Washington,3,13:14,4,7,PIT 37,17-3,Josh Miller for no gain. Josh Miller fumbles recovered by Josh Miller at PIT-19,0,-0.910,-4.310,-3.40
+2000-12-16,Raiders,Seahawks,3,11:24,4,1,SEA 38,10-13,Tyrone Wheatley right tackle for no gain (tackle by Anthony Simmons and Kerry Joseph),0,0.720,-1.470,-2.19
+2000-12-16,Seahawks,Raiders,4,13:16,4,9,SEA 15,13-17,Jeff Feagles pass incomplete. Penalty on SEA: Ineligible Downfield Pass (Declined),0,-2.440,-4.580,-2.14
+2000-12-17,Patriots,Bills,2,9:59,4,1,BUF 45,3-0,Lee Johnson for no gain. Lee Johnson fumbles (forced by Corey Moore) recovered by Tony George at NWE-30,0,0.270,-3.580,-3.85
+2000-12-17,Patriots,Bills,5,3:38,4,5,BUF 30,10-10,Drew Bledsoe pass incomplete intended for Terry Glenn. Penalty on Chris Watson: Defensive Pass Interference 9 yards (no play),0,1.450,4.170,2.72
+2000-12-17,Browns,Titans,3,6:37,4,1,CLE 37,0-17,Travis Prentice left tackle for no gain (tackle by Randall Godfrey),0,-0.910,-3.120,-2.21
+2000-12-17,Cardinals,Ravens,2,0:59,4,1,RAV 29,0-3,Jake Plummer up the middle for no gain (tackle by Sam Adams),0,1.620,-0.870,-2.49
+2000-12-17,Cowboys,Giants,4,1:20,4,2,DAL 40,13-17,Michael Wiley left tackle for no gain (tackle by Micheal Barrow),0,-0.720,-2.980,-2.26
+2000-12-17,Lions,Jets,2,11:51,4,1,NYJ 1,0-7,James Stewart left tackle for no gain (tackle by Dwayne Gordon),0,3.550,0.380,-3.17
+2000-12-24,Jets,Ravens,4,2:08,4,1,RAV 19,20-34,Vinny Testaverde up the middle for no gain (tackle by James Trapp). Vinny Testaverde fumbles (forced by James Trapp) recovered by Rob Burnett at BAL-19 (tackle by Kerry Jenkins),0,2.340,-0.150,-2.49
+2000-09-03,Dolphins,Seahawks,2,11:05,4,1,SEA 7,13-0,Damon Huard up the middle for no gain (tackle by Cortez Kennedy). Penalty on Todd Wade: False Start 5 yards (no play),0,3.010,2.660,-0.35
+2000-09-03,Lions,Saints,4,3:01,4,11,NOR 11,14-10,John Jett for no gain. John Jett fumbles recovered by John Jett at NOR-21,0,2.700,-0.340,-3.04
+2000-09-03,Cardinals,Giants,2,3:58,4,1,NYG 13,0-14,Jake Plummer for no gain. Jake Plummer fumbles recovered by Micheal Barrow at NYG-12 (tackle by Lester Holmes),0,2.720,0.350,-2.37
+2000-09-03,Cardinals,Giants,4,6:22,4,4,NYG 33,3-21,Jake Plummer pass incomplete intended for MarTay Jenkins. Penalty on Anthony Clement: Offensive Holding (Declined),0,1.180,-1.200,-2.38
+2000-09-03,Washington,Panthers,2,9:01,4,4,CAR 35,7-10,Brad Johnson pass complete to Larry Centers for -1 yards (tackle by Dean Wells). Penalty on Jay Leeuwenburg: Illegal Crackback (Declined),-1,0.980,-1.330,-2.31
+2000-09-10,Bengals,Browns,4,2:10,4,10,CLE 23,7-24,Akili Smith sacked by Jamir Miller for -1 yards,-1,1.930,-0.540,-2.47
+2000-09-10,Falcons,Broncos,4,2:53,4,18,DEN 20,14-42,Doug Johnson sacked by Harald Hasselbach for -1 yards. Doug Johnson fumbles (forced by Harald Hasselbach) recovered by Maa Tanuvasa at DEN-21 and returned for 38 yards (tackle by Bob Christian),-1,2.120,-2.850,-4.97
+2000-09-24,Bengals,Ravens,3,9:43,4,1,CIN 47,0-24,Clif Groce left guard for -1 yards (tackle by Cornell Brown and Keith Washington),-1,-0.260,-2.520,-2.26
+2000-10-01,Patriots,Broncos,3,5:17,4,19,NWE 1,21-5,Lee Johnson for -1 yards safety,-1,-2.490,-2.000,.49
+2000-10-08,Bears,Saints,2,0:21,4,1,NOR 29,7-17,Cade McNown sacked by La'Roi Glover for -1 yards,-1,1.620,-1.000,-2.62
+2000-10-29,Jaguars,Cowboys,2,15:00,4,1,DAL 36,0-7,Mark Brunell pass complete to R. Jay Soward for -1 yards (tackle by Barron Wortham),-1,0.890,-1.400,-2.29
+2000-10-29,Chargers,Raiders,2,12:32,4,1,SDG 49,0-9,Fred McCrary up the middle for -1 yards (tackle by Tony Bryant). Fred McCrary fumbles (forced by Tony Bryant) recovered by Marquez Pope at SDG-48,-1,-0.130,-2.390,-2.26
+2000-11-05,Bengals,Ravens,4,12:25,4,1,CIN 38,7-24,Corey Dillon up the middle for -1 yards (tackle by Tony Siragusa),-1,-0.850,-3.120,-2.27
+2000-11-05,Cowboys,Eagles,2,0:01,4,8,DAL 35,7-0,Randall Cunningham up the middle for -1 yards (tackle by Carlos Emmons),-1,-1.040,1.330,2.37
+2000-12-17,Patriots,Bills,3,0:13,4,1,NWE 47,3-3,Tony Carter up the middle for -1 yards (tackle by Keith Newman),-1,-0.260,-2.520,-2.26
+2000-12-24,Packers,Buccaneers,2,0:00,4,10,GNB 8,7-0,Brett Favre for -1 yards,-1,-2.490,-0.380,2.11
+2000-11-05,Buccaneers,Falcons,4,2:00,4,8,ATL 19,27-7,Joe Hamilton sacked for -2 yards. Joe Hamilton fumbles recovered by Ray Buchanan at ATL-20 and returned for 1 yards,-2,2.180,-0.340,-2.52
+2000-11-05,Browns,Giants,2,5:43,4,1,NYG 18,3-3,Travis Prentice right tackle for -2 yards (tackle by Michael Strahan),-2,2.400,-0.280,-2.68
+2000-12-03,Broncos,Saints,4,15:00,4,4,NOR 34,31-16,KaRon Coleman right end for -2 yards (tackle by Darrin Smith and Sammy Knight),-2,1.080,-1.330,-2.41
+2000-09-24,Patriots,Dolphins,2,1:12,4,2,MIA 35,3-7,Kevin Faulk up the middle for -3 yards (tackle by Tim Bowens),-3,0.990,-1.470,-2.46
+2000-10-22,Cardinals,Cowboys,2,6:55,4,2,DAL 49,0-21,Michael Pittman up the middle for -3 yards (tackle by Joe Bowden),-3,0.000,-2.390,-2.39
+2000-11-26,Saints,Rams,3,3:16,4,1,RAM 41,24-17,Fred McAfee left end for -3 yards (tackle by Todd F. Collins). Penalty on NOR: Illegal Shift (Declined),-3,0.530,-1.860,-2.39
+2000-11-26,Cardinals,Giants,3,9:20,4,4,NYG 28,0-14,Dave M. Brown sacked by Keith Hamilton for -4 yards,-4,1.650,-1.070,-2.72
+2000-12-17,Titans,Browns,4,4:40,4,2,CLE 31,24-0,Rodney Thomas left end for -4 yards (tackle by Earl Little),-4,1.400,-1.270,-2.67
+2000-10-15,Bengals,Steelers,2,12:40,4,3,PIT 16,0-7,Neil Rackers left end for -5 yards (tackle by Jason Gildon),-5,2.480,-0.340,-2.82
+2000-10-15,Rams,Falcons,3,3:29,4,10,ATL 28,37-21,Kurt Warner sacked by Travis Hall for -5 yards,-5,1.590,-1.140,-2.73
+2000-10-22,Broncos,Bengals,4,0:31,4,10,CIN 20,21-31,Brian Griese sacked by Canute Curtis for -5 yards,-5,2.120,-0.610,-2.73
+2000-12-30,Colts,Dolphins,2,12:14,4,2,MIA 28,3-0,Hunter Smith left end for -6 yards (tackle by Jason Taylor),-6,1.700,-1.200,-2.90
+2000-09-03,49ers,Falcons,4,14:07,4,3,ATL 4,21-36,Jeff Garcia sacked by Henri Crockett for -6 yards,-6,3.030,0.380,-2.65
+2000-09-17,Patriots,Vikings,4,1:00,4,7,MIN 14,13-21,Drew Bledsoe sacked by Bryce Paup for -7 yards,-7,2.510,-0.340,-2.85
+2000-09-24,Bears,Lions,4,0:24,4,3,DET 33,14-21,Cade McNown sacked by Tracy Scroggins for -7 yards,-7,1.190,-1.600,-2.79
+2000-10-01,Jaguars,Steelers,3,0:45,4,3,PIT 14,6-24,Mark Brunell sacked by Jason Gildon for -7 yards,-7,2.610,-0.340,-2.95
+2000-11-19,Buccaneers,Bears,2,0:11,4,10,TAM 48,3-10,Shaun King sacked by Frankie Smith for -7 yards,-7,-0.190,-2.850,-2.66
+2000-11-26,Bengals,Steelers,4,0:53,4,21,CIN 31,28-48,Akili Smith sacked by Jason Gildon for -7 yards. Akili Smith fumbles (forced by Jason Gildon) recovered by Willie Anderson at CIN-24,-7,-1.310,-3.970,-2.66
+2000-11-26,Eagles,Washington,2,1:14,4,3,WAS 31,10-14,Donovan McNabb sacked by Marco Coleman for -7 yards. Donovan McNabb fumbles (forced by Marco Coleman) recovered by Shawn Barber at WAS-38,-7,1.380,-1.470,-2.85
+2000-11-30,Lions,Vikings,4,3:20,4,10,MIN 50,10-17,Stoney Case sacked by Talance Sawyer for -7 yards,-7,-0.060,-2.720,-2.66
+2000-12-03,49ers,Chargers,1,10:28,4,3,SDG 42,0-0,Jeff Garcia sacked by Gerald Dixon for -7 yards,-7,0.460,-2.190,-2.65
+2000-12-17,Browns,Titans,3,0:48,4,8,OTI 30,0-17,Doug Pederson sacked by Joe Salave'a for -7 yards,-7,1.410,-1.400,-2.81
+2000-09-11,Patriots,Jets,4,1:28,4,16,NWE 26,19-20,Drew Bledsoe sacked by John Abraham for -8 yards,-8,-1.630,-4.370,-2.74
+2000-11-05,Cowboys,Eagles,3,8:21,4,1,PHI 36,7-0,Randall Cunningham sacked by Brandon Whiting for -8 yards. Randall Cunningham fumbles (forced by Brandon Whiting) ball out of bounds at DAL-42,-8,0.890,-2.790,-3.68
+2000-09-10,Titans,Chiefs,4,3:21,4,5,KAN 17,7-14,Neil O'Donnell sacked by Dan Williams for -9 yards,-9,2.360,-0.670,-3.03
+2000-10-15,Panthers,Saints,4,2:00,4,11,CAR 42,6-24,Jeff Lewis sacked by Keith Mitchell for -11 yards,-11,-0.590,-3.510,-2.92
+2000-11-12,Cardinals,Vikings,2,2:24,4,2,MIN 10,7-7,Scott Player sacked by Dwayne Rudd for -11 yards,-11,2.890,-0.340,-3.23
+2000-12-10,Broncos,Seahawks,4,3:25,4,7,DEN 34,31-17,Tom Rouen up the middle for -11 yards (tackle by Marcus U. Bell),-11,-1.110,-4.040,-2.93
+2000-09-17,Patriots,Vikings,4,15:00,4,3,MIN 3,7-21,Drew Bledsoe sacked by Orlando Thomas for -12 yards,-12,3.040,0.220,-2.82
+2000-09-10,Eagles,Giants,4,6:52,4,6,PHI 49,12-30,Donovan McNabb sacked by Jessie Armstead for -13 yards,-13,-0.130,-3.180,-3.05
+2000-09-03,Steelers,Ravens,4,7:43,4,2,RAV 2,0-16,Kent Graham pass incomplete intended for Plaxico Burress,,3.250,0.380,-2.87
+2000-09-03,Steelers,Ravens,4,1:55,4,4,PIT 49,0-16,Kent Graham pass incomplete intended for Malcolm Johnson (defended by Rob Burnett),,-0.130,-2.320,-2.19
+2000-09-03,Chargers,Raiders,4,1:31,4,1,SDG 29,6-9,Ryan Leaf pass incomplete intended for Freddie Jones is intercepted by William Thomas at SDG-37 and returned for 3 yards,,-1.440,-3.310,-1.87
+2000-09-10,Browns,Bengals,2,0:02,4,12,CIN 44,14-7,Tim Couch pass incomplete is intercepted by Takeo Spikes at CIN-26 and returned for 5 yards (tackle by JaJuan Dawson),,0.330,0.000,-0.33
+2000-09-10,Colts,Raiders,4,1:11,4,25,RAI 34,31-38,Peyton Manning pass incomplete intended for Marvin Harrison is intercepted by Tory James at OAK-0,,1.060,-0.280,-1.34
+2000-09-10,Cowboys,Cardinals,4,0:14,4,10,CRD 43,31-32,Randall Cunningham pass incomplete intended for Michael Wiley,,0.400,-1.800,-2.20
+2000-09-10,Falcons,Broncos,4,6:55,4,5,DEN 6,14-42,Doug Johnson pass incomplete intended for Brian Finneran,,2.990,0.380,-2.61
+2000-09-10,Jaguars,Ravens,4,0:04,4,14,JAX 24,36-39,Mark Brunell pass incomplete is intercepted by Corey Harris at BAL-16 and returned for 2 yards,,-1.770,0.000,1.77
+2000-09-10,Chargers,Saints,4,9:11,4,1,NOR 15,24-22,Robert Chancey pass incomplete intended for Freddie Jones,,2.590,0.220,-2.37
+2000-09-10,Chargers,Saints,4,0:15,4,22,SDG 14,27-28,Ryan Leaf pass incomplete is intercepted by Alex Molden at SDG-41 and returned for 24 yards,,-2.470,-4.440,-1.97
+2000-09-10,49ers,Panthers,4,4:31,4,2,CAR 2,14-38,Rick Mirer pass incomplete intended for Greg Clark (defended by Reggie White),,3.250,0.380,-2.87
+2000-09-17,Bears,Giants,4,0:25,4,2,CHI 29,7-14,Cade McNown pass incomplete intended for Alonzo Mayes,,-1.440,-3.640,-2.20
+2000-09-17,Lions,Buccaneers,4,0:53,4,2,TAM 42,10-31,Charlie Batch pass incomplete intended for Germane Crowell is intercepted by Donnie Abraham at TAM-39 and returned for 13 yards (tackle by Jeff Hartings),,0.460,-2.390,-2.85
+2000-09-17,Bengals,Jaguars,4,0:27,4,10,JAX 41,0-13,Akili Smith pass incomplete intended for Peter Warrick,,0.530,-1.660,-2.19
+2000-09-17,Chargers,Chiefs,4,9:54,4,11,KAN 40,10-35,Ryan Leaf pass incomplete intended for Curtis Conway,,0.590,-1.600,-2.19
+2000-09-17,Ravens,Dolphins,4,2:20,4,2,MIA 13,6-19,Tony Banks pass incomplete intended for Travis Taylor (defended by Brock Marion),,2.690,0.320,-2.37
+2000-09-17,Broncos,Raiders,2,3:12,4,2,RAI 29,24-24,Brian Griese pass incomplete intended for Rod Smith (defended by Eric Allen),,1.600,-0.940,-2.54
+2000-09-17,Saints,Seahawks,4,1:43,4,3,SEA 19,10-20,Jeff Blake pass incomplete intended for Joe Horn,,2.280,-0.150,-2.43
+2000-09-24,Falcons,Rams,4,1:52,4,8,ATL 22,20-41,Danny Kanell pass incomplete intended for Terance Mathis (defended by Dexter McCleon),,-1.900,-4.110,-2.21
+2000-09-24,Bears,Lions,3,8:07,4,9,DET 28,7-14,Cade McNown pass incomplete intended for Marty Booker is intercepted by Kurt Schulz at DET-28 and returned for 5 yards (tackle by Todd Perry),,1.590,-1.140,-2.73
+2000-09-24,Bears,Lions,4,1:56,4,9,DET 24,14-21,Cade McNown pass incomplete intended for Marcus Robinson,,1.870,-0.540,-2.41
+2000-09-24,Cardinals,Packers,4,0:23,4,11,GNB 43,3-29,Jake Plummer pass incomplete is intercepted by LeRoy Butler at GNB-43 and returned for 3 yards (tackle by Thomas Jones),,0.400,-1.990,-2.39
+2000-09-24,Patriots,Dolphins,4,1:08,4,2,MIA 5,3-10,Drew Bledsoe pass incomplete intended for Eric Bjornson,,3.030,0.380,-2.65
+2000-09-24,Saints,Eagles,2,2:00,4,2,PHI 42,7-14,Jeff Blake pass incomplete is intercepted by Troy Vincent at PHI-22,,0.460,-0.410,-0.87
+2000-09-24,Saints,Eagles,4,7:08,4,4,PHI 49,7-21,Jeff Blake pass incomplete intended for Willie Jackson,,0.000,-2.260,-2.26
+2000-09-24,Eagles,Saints,4,3:17,4,2,NOR 31,21-7,Donovan McNabb pass incomplete intended for Cecil Martin (defended by Kevin Mathis),,1.400,-1.000,-2.40
+2000-09-24,Saints,Eagles,4,1:06,4,5,PHI 25,7-21,Jeff Blake pass incomplete intended for Willie Jackson is intercepted by Troy Vincent at PHI-8 and returned for 17 yards (tackle by Ricky Williams),,1.850,-0.610,-2.46
+2000-09-24,Browns,Raiders,4,1:10,4,5,CLE 18,10-36,Spergon Wynn pass incomplete intended for Travis Prentice,,-2.240,-4.440,-2.20
+2000-09-24,Bengals,Ravens,4,11:38,4,9,RAV 34,0-27,Scott Mitchell pass incomplete intended for Danny Farmer,,1.060,-1.200,-2.26
+2000-09-24,Chargers,Seahawks,4,2:00,4,4,SEA 16,12-20,Jim Harbaugh pass incomplete intended for Freddie Jones,,2.450,0.140,-2.31
+2000-10-01,Panthers,Cowboys,4,10:43,4,1,DAL 30,13-13,Steve Beuerlein pass incomplete intended for Isaac Byrd (defended by Darren Woodson),,1.520,-0.940,-2.46
+2000-10-01,Bengals,Dolphins,4,2:14,4,26,MIA 26,16-31,Akili Smith pass incomplete intended for Ron Dugans,,1.740,-0.670,-2.41
+2000-10-01,Broncos,Patriots,3,11:06,4,1,NWE 1,3-21,Brian Griese pass incomplete (defended by Ted Johnson),,3.550,0.380,-3.17
+2000-10-01,Lions,Vikings,4,8:37,4,8,MIN 35,17-24,Charlie Batch pass incomplete intended for Germane Crowell (defended by Kenny Wright),,0.970,-1.270,-2.24
+2000-10-01,Packers,Bears,4,0:07,4,6,CHI 44,24-27,Brett Favre pass incomplete (defended by Phillip Daniels),,0.330,-1.860,-2.19
+2000-10-01,Falcons,Eagles,4,2:06,4,7,PHI 15,10-31,Chris Chandler pass incomplete intended for Tim Dwight,,2.440,0.220,-2.22
+2000-10-01,Cardinals,49ers,3,2:47,4,7,SFO 46,10-24,Jake Plummer pass incomplete intended for Michael Pittman,,0.200,-1.990,-2.19
+2000-10-08,Falcons,Giants,4,1:41,4,17,NYG 17,6-13,Danny Kanell pass incomplete intended for Terance Mathis (defended by Jason Sehorn),,2.310,0.060,-2.25
+2000-10-08,Seahawks,Panthers,4,0:40,4,26,CAR 29,3-26,Brock Huard pass incomplete intended for Sean Dawkins,,1.500,-0.870,-2.37
+2000-10-08,Bears,Saints,4,4:05,4,5,CHI 40,10-31,Cade McNown pass incomplete intended for James Allen,,-0.720,-2.920,-2.20
+2000-10-08,Browns,Cardinals,4,1:56,4,8,CLE 34,21-29,Tim Couch pass incomplete intended for Dennis Northcutt (defended by Pat Tillman),,-1.110,-3.380,-2.27
+2000-10-08,Chargers,Broncos,4,6:32,4,5,DEN 5,7-14,Jim Harbaugh pass incomplete intended for Reggie Jones is intercepted by Terrell Buckley and returned for 33 yards (tackle by Reggie Jones),,3.010,-0.940,-3.95
+2000-10-09,Buccaneers,Vikings,4,5:10,4,1,MIN 47,23-27,Mike Alstott pass incomplete intended for Todd Yoder,,0.130,-2.130,-2.26
+2000-10-09,Buccaneers,Vikings,4,0:03,4,17,MIN 43,23-30,Shaun King pass incomplete intended for Jacquez Green,,0.400,1.800,1.40
+2000-10-15,Vikings,Bears,2,0:03,4,10,CHI 46,14-9,Daunte Culpepper pass incomplete intended for Matthew Hatchette,,0.200,1.990,1.79
+2000-10-15,Bears,Vikings,4,4:55,4,14,MIN 24,16-28,Cade McNown pass incomplete intended for Marty Booker,,1.870,-0.540,-2.41
+2000-10-15,Cardinals,Eagles,4,4:10,4,2,CRD 20,14-30,Jake Plummer pass incomplete intended for Mac Cody,,-2.030,-4.310,-2.28
+2000-10-15,Chiefs,Raiders,4,0:07,4,10,KAN 22,17-20,Elvis Grbac pass incomplete intended for Derrick Alexander,,-1.900,-4.110,-2.21
+2000-10-15,Patriots,Jets,4,13:45,4,20,NYJ 36,10-31,Drew Bledsoe pass incomplete intended for Tony Simmons is intercepted by Victor Green at NYJ-10 and returned for 36 yards (tackle by Tony Simmons),,0.880,-1.990,-2.87
+2000-10-15,Cowboys,Giants,1,5:20,4,6,NYG 34,0-0,Troy Aikman pass incomplete intended for Wane McGarity (defended by Emmanuel McDaniel),,1.070,-1.200,-2.27
+2000-10-19,Buccaneers,Lions,4,3:18,4,2,TAM 38,14-21,Shaun King pass incomplete intended for Jacquez Green (defended by Bryant Westbrook),,-0.850,-3.050,-2.20
+2000-10-22,Saints,Falcons,2,15:00,4,3,ATL 33,7-3,Jeff Blake pass incomplete intended for Andrew Glover,,1.190,-1.140,-2.33
+2000-10-22,49ers,Panthers,4,13:00,4,12,CAR 33,16-31,Jeff Garcia pass incomplete intended for Jerry Rice,,1.150,-1.140,-2.29
+2000-10-22,49ers,Panthers,4,5:14,4,21,CAR 25,16-34,Jeff Garcia pass incomplete intended for Tai Streets,,1.800,-0.610,-2.41
+2000-10-22,Patriots,Colts,4,1:51,4,6,NWE 24,23-27,Drew Bledsoe pass incomplete intended for Shockmain Davis,,-1.770,-3.970,-2.20
+2000-10-22,Seahawks,Raiders,2,14:57,4,11,RAI 30,3-7,Brock Huard pass incomplete intended for Darrell Jackson,,1.410,-0.940,-2.35
+2000-10-22,Ravens,Titans,4,1:28,4,22,OTI 33,6-14,Trent Dilfer pass incomplete intended for Qadry Ismail (defended by Michael Booker),,1.150,-1.140,-2.29
+2000-10-29,Panthers,Falcons,4,0:03,4,16,CAR 40,12-13,Steve Beuerlein pass incomplete intended for Isaac Byrd is intercepted by Ray Buchanan at ATL-3,,-0.720,0.000,.72
+2000-10-29,Bills,Jets,3,11:25,4,3,NYJ 32,17-7,Doug Flutie pass incomplete (defended by Bryan Cox),,1.290,-1.070,-2.36
+2000-10-29,Bengals,Browns,2,2:07,4,8,CLE 34,7-0,Akili Smith pass incomplete intended for Peter Warrick,,1.060,-1.200,-2.26
+2000-10-29,Browns,Bengals,2,1:09,4,10,CIN 37,0-7,Doug Pederson pass incomplete intended for Kevin Johnson,,0.790,-1.400,-2.19
+2000-10-29,Browns,Bengals,4,1:11,4,20,CLE 34,3-12,Spergon Wynn pass incomplete intended for Dennis Northcutt,,-1.110,-3.310,-2.20
+2000-10-29,Giants,Eagles,1,10:35,4,7,PHI 29,0-0,Kerry Collins pass incomplete intended for Amani Toomer (defended by Al Harris),,1.500,-0.870,-2.37
+2000-10-29,Giants,Eagles,4,2:00,4,6,PHI 16,24-7,Kerry Collins pass incomplete intended for Amani Toomer,,2.400,0.140,-2.26
+2000-10-29,Eagles,Giants,4,1:08,4,2,PHI 24,7-24,Donovan McNabb pass incomplete intended for Stanley Pritchett,,-1.770,-3.970,-2.20
+2000-10-29,Ravens,Steelers,4,1:59,4,10,RAV 29,6-9,Trent Dilfer pass incomplete intended for Qadry Ismail (defended by Ainsley Battles),,-1.440,-3.640,-2.20
+2000-10-29,Chiefs,Seahawks,2,11:33,4,4,SEA 33,7-3,Elvis Grbac pass incomplete intended for Kevin Lockett is intercepted by Jay Bellamy at SEA-28 and returned for 32 yards (tackle by John Tait),,1.180,-2.920,-4.10
+2000-10-29,49ers,Rams,4,2:21,4,20,SFO 34,24-34,Jeff Garcia pass incomplete intended for Terrell Owens (defended by Mike Jones),,-1.110,-3.380,-2.27
+2000-10-29,Vikings,Buccaneers,2,5:37,4,2,TAM 43,10-28,Daunte Culpepper pass incomplete intended for Cris Carter,,0.400,-1.800,-2.20
+2000-10-29,Vikings,Buccaneers,4,1:54,4,20,TAM 20,13-41,Daunte Culpepper pass incomplete intended for Cris Carter,,2.120,-0.340,-2.46
+2000-11-05,Falcons,Buccaneers,4,3:12,4,9,ATL 21,7-27,Danny Kanell pass incomplete intended for Jamal Anderson,,-1.960,-4.170,-2.21
+2000-11-05,Bears,Colts,4,15:00,4,2,CLT 27,27-8,Jim Miller pass incomplete intended for James Allen,,1.800,-0.740,-2.54
+2000-11-05,Ravens,Bengals,2,0:03,4,2,RAV 47,24-0,Trent Dilfer pass incomplete intended for Qadry Ismail (defended by Tremain Mack),,-0.260,2.060,2.32
+2000-11-05,Washington,Cardinals,4,1:24,4,10,WAS 24,15-16,Jeff George pass incomplete intended for Albert Connell (defended by Rob Fredrickson),,-1.770,-3.970,-2.20
+2000-11-05,Jets,Broncos,4,0:36,4,2,DEN 2,23-30,Vinny Testaverde pass incomplete intended for Richie Anderson,,3.250,0.380,-2.87
+2000-11-12,Bills,Bears,1,8:12,4,4,CHI 30,0-0,Doug Flutie pass incomplete intended for Jay Riemersma (defended by Warrick Holdman),,1.460,-0.940,-2.40
+2000-11-12,Jets,Colts,4,0:56,4,10,CLT 28,15-23,Vinny Testaverde pass incomplete intended for Laveranues Coles,,1.590,-0.810,-2.40
+2000-11-12,Vikings,Cardinals,4,2:27,4,1,CRD 30,31-14,Bubby Brister pass incomplete intended for Randy Moss,,1.520,-0.940,-2.46
+2000-11-12,Dolphins,Chargers,2,1:12,4,3,SDG 33,14-0,Jay Fiedler pass incomplete intended for O.J. McDuffie,,1.190,-1.140,-2.33
+2000-11-12,Chiefs,49ers,2,4:00,4,2,SFO 34,0-14,Elvis Grbac pass incomplete intended for Tony Gonzalez,,1.100,-1.270,-2.37
+2000-11-12,Chiefs,49ers,4,2:34,4,8,KAN 28,7-21,Elvis Grbac pass incomplete intended for Kevin Lockett (defended by Bryant Young),,-1.500,-3.710,-2.21
+2000-11-12,Packers,Buccaneers,4,1:55,4,1,GNB 29,15-20,Matt Hasselbeck pass incomplete intended for Bubba Franks,,-1.440,-3.640,-2.20
+2000-11-13,Raiders,Broncos,2,0:01,4,8,DEN 44,10-7,Rich Gannon pass incomplete,,0.330,1.860,1.53
+2000-11-13,Raiders,Broncos,4,11:44,4,10,DEN 11,10-24,Rich Gannon pass incomplete intended for Tim Brown (defended by Keith Traylor),,2.700,0.370,-2.33
+2000-11-19,Bears,Buccaneers,3,4:34,4,9,TAM 29,10-10,Shane Matthews pass incomplete intended for Marcus Robinson is intercepted by Damien Robinson at TAM-10,,1.500,0.380,-1.12
+2000-11-19,Chargers,Broncos,4,0:45,4,4,SDG 22,37-38,Ryan Leaf pass incomplete intended for Jeff Graham,,-1.900,-4.170,-2.27
+2000-11-19,Dolphins,Jets,4,2:00,4,6,MIA 44,3-20,Damon Huard pass incomplete intended for Leslie Shepherd,,-0.460,-2.650,-2.19
+2000-11-19,Panthers,Vikings,4,0:02,4,2,CAR 39,17-31,Steve Beuerlein pass incomplete intended for Isaac Byrd,,-0.780,1.530,2.31
+2000-11-19,Browns,Titans,4,1:28,4,6,OTI 42,10-24,Doug Pederson pass incomplete intended for Dennis Northcutt,,0.460,-1.730,-2.19
+2000-11-19,Cowboys,Ravens,2,4:40,4,8,RAV 33,0-10,Troy Aikman pass incomplete intended for Wane McGarity is intercepted by Rod Woodson at BAL-29,,1.150,-0.870,-2.02
+2000-11-19,Falcons,49ers,4,6:20,4,10,SFO 41,6-16,Chris Chandler pass incomplete intended for Terance Mathis (defended by Jason Webster),,0.530,-1.660,-2.19
+2000-11-20,Rams,Washington,4,0:58,4,8,WAS 8,20-33,Trent Green pass incomplete intended for Ricky Proehl (defended by Dana Stubblefield),,2.950,0.380,-2.57
+2000-11-26,Cardinals,Giants,4,5:48,4,2,CRD 40,7-31,Dave M. Brown pass incomplete intended for Frank Sanders (defended by Jessie Armstead),,-0.720,-2.920,-2.20
+2000-11-26,Cardinals,Giants,4,3:29,4,7,NYG 49,7-31,Dave M. Brown pass incomplete intended for Frank Sanders is intercepted by Reggie Stephens at NYG-30 and returned for 4 yards (tackle by Frank Sanders),,0.000,-1.200,-1.20
+2000-11-26,Bears,Jets,2,5:23,4,6,NYJ 35,0-10,Shane Matthews pass incomplete intended for Eddie Kennison (defended by Shane Burton),,0.970,-1.270,-2.24
+2000-11-26,Bears,Jets,4,1:46,4,3,CHI 32,10-17,Shane Matthews pass incomplete (defended by Shane Burton),,-1.240,-3.450,-2.21
+2000-11-26,Chiefs,Chargers,4,1:16,4,20,KAN 26,16-17,Warren Moon pass incomplete intended for Tony Gonzalez,,-1.630,-3.840,-2.21
+2000-11-26,Seahawks,Broncos,4,0:44,4,10,DEN 40,31-38,Jon Kitna pass incomplete intended for Derrick Mayes (defended by Deltha O'Neal),,0.590,-1.600,-2.19
+2000-11-27,Packers,Panthers,4,4:23,4,4,CAR 4,14-31,Brett Favre pass incomplete intended for Antonio Freeman,,3.030,0.380,-2.65
+2000-12-03,Bills,Dolphins,3,7:02,4,3,MIA 41,0-27,Rob Johnson pass incomplete intended for Jay Riemersma,,0.530,-1.730,-2.26
+2000-12-03,Rams,Panthers,4,1:20,4,29,RAM 21,3-16,Kurt Warner pass incomplete intended for Torry Holt (defended by Eric Davis),,-1.960,-4.170,-2.21
+2000-12-03,Bears,Packers,4,7:13,4,17,GNB 47,6-28,Shane Matthews pass incomplete intended for Macey Brooks,,0.130,-2.060,-2.19
+2000-12-03,Bears,Packers,4,1:32,4,1,GNB 30,6-28,Shane Matthews pass incomplete intended for Dez White,,1.520,-0.940,-2.46
+2000-12-03,Cardinals,Bengals,2,5:56,4,6,CIN 30,0-7,Jake Plummer pass incomplete intended for David Boston,,1.430,-0.940,-2.37
+2000-12-03,Raiders,Steelers,4,0:07,4,1,PIT 41,20-21,Rich Gannon pass incomplete intended for Jon Ritchie (defended by Jason Simmons),,0.530,-1.730,-2.26
+2000-12-03,Chargers,49ers,4,7:19,4,10,SDG 47,17-38,Ryan Leaf pass incomplete intended for Jeff Graham is intercepted by Zack Bronson at SFO-29 and returned for 9 yards (tackle by Fred McCrary),,-0.260,-1.470,-1.21
+2000-12-10,Patriots,Bears,4,3:12,4,3,NWE 47,17-24,Drew Bledsoe pass incomplete intended for Terry Glenn,,-0.260,-2.460,-2.20
+2000-12-10,Washington,Cowboys,4,9:14,4,11,DAL 47,7-22,Jeff George pass incomplete intended for Irving Fryar,,0.130,-2.130,-2.26
+2000-12-10,Packers,Lions,2,8:20,4,5,DET 34,6-0,Brett Favre pass incomplete intended for Ahman Green (defended by Stephen Boyd),,1.070,-1.200,-2.27
+2000-12-10,Steelers,Giants,2,5:11,4,4,NYG 40,0-13,Kordell Stewart pass incomplete intended for Troy Edwards (defended by Dave Thomas),,0.590,-1.600,-2.19
+2000-12-10,Steelers,Giants,4,9:27,4,9,NYG 9,3-23,Kordell Stewart pass incomplete intended for Bobby Shaw is intercepted by Reggie Stephens,,2.830,-0.280,-3.11
+2000-12-10,Jets,Raiders,4,11:48,4,10,RAI 32,0-28,Ray Lucas pass incomplete intended for Wayne Chrebet,,1.240,-1.070,-2.31
+2000-12-10,Chargers,Ravens,4,10:39,4,7,RAV 7,3-24,Ryan Leaf pass incomplete intended for Jermaine Fazande (defended by Chris McAlister),,2.970,0.380,-2.59
+2000-12-10,49ers,Saints,4,0:23,4,10,SFO 24,27-31,Jeff Garcia pass incomplete intended for J.J. Stokes is intercepted by Darren Perry at NOR-17 and returned for 3 yards,,-1.770,-0.280,1.49
+2000-12-17,Chargers,Panthers,4,1:15,4,15,CAR 15,22-30,Ryan Leaf pass incomplete intended for Curtis Conway (defended by Eric Davis),,2.440,0.220,-2.22
+2000-12-17,Titans,Browns,2,1:00,4,5,CLE 26,17-0,Steve McNair pass incomplete intended for Derrick Mason,,1.790,-0.670,-2.46
+2000-12-17,Titans,Browns,3,4:18,4,3,CLE 30,17-0,Steve McNair pass complete to Lorenzo Neal for no gain,,1.480,-0.940,-2.42
+2000-12-17,Browns,Titans,4,2:47,4,5,CLE 50,0-24,Doug Pederson pass incomplete intended for Aaron Shea,,-0.060,-2.260,-2.20
+2000-12-17,Cardinals,Ravens,4,2:00,4,5,RAV 12,7-13,Jake Plummer pass incomplete (defended by Ray Lewis),,2.680,0.350,-2.33
+2000-12-17,Broncos,Chiefs,4,5:37,4,2,KAN 48,7-20,Gus Frerotte pass incomplete intended for Rod Smith,,0.070,-2.130,-2.20
+2000-12-17,Lions,Jets,4,11:19,4,2,NYJ 34,3-7,Charlie Batch pass incomplete intended for Johnnie Morton (defended by Aaron Glenn),,1.100,-1.200,-2.30
+2000-12-17,Bears,49ers,4,1:12,4,15,CHI 34,0-17,Cade McNown pass incomplete intended for Eddie Kennison,,-1.110,-3.310,-2.20
+2000-12-18,Buccaneers,Rams,4,3:40,4,10,TAM 41,31-35,Shaun King pass incomplete intended for Keyshawn Johnson (defended by Mike Jones),,-0.650,-2.850,-2.20
+2000-12-23,49ers,Broncos,3,6:43,4,3,DEN 43,0-31,Jeff Garcia pass incomplete intended for Terrell Owens (defended by Billy Jenkins),,0.400,-1.860,-2.26
+2000-12-23,Giants,Jaguars,3,1:48,4,6,JAX 29,7-10,Kerry Collins pass incomplete intended for Ike Hilliard,,1.520,-0.870,-2.39
+2000-12-23,Jaguars,Giants,4,3:29,4,5,NYG 45,10-14,Mark Brunell pass incomplete intended for Kyle Brady (defended by Cornelius Griffin),,0.270,-1.930,-2.20
+2000-12-24,Chiefs,Falcons,4,4:46,4,8,KAN 41,7-26,Elvis Grbac pass incomplete intended for Tony Gonzalez (defended by Gerald McBurrows),,-0.650,-2.850,-2.20
+2000-12-24,Bengals,Eagles,2,11:35,4,9,PHI 32,0-10,Scott Mitchell pass incomplete intended for Danny Farmer (defended by Troy Vincent),,1.240,-1.070,-2.31
+2000-12-24,Ravens,Jets,2,6:38,4,1,NYJ 1,10-14,Trent Dilfer pass incomplete intended for Shannon Sharpe,,3.550,0.380,-3.17
+2000-12-24,Jets,Ravens,3,1:49,4,1,RAV 5,17-27,Vinny Testaverde pass incomplete intended for Anthony Becht,,3.030,0.380,-2.65
+2000-12-24,Cardinals,Washington,4,3:57,4,4,WAS 35,3-20,Jake Plummer pass incomplete intended for Frank Sanders (defended by Mark A. Carrier),,0.980,-1.270,-2.25
+2000-12-24,Cardinals,Washington,4,0:43,4,11,CRD 49,3-20,Jake Plummer pass incomplete intended for David Boston,,-0.130,-2.320,-2.19
+2000-12-25,Cowboys,Titans,4,2:00,4,1,OTI 35,0-31,Anthony Wright pass incomplete intended for James McKnight (defended by Samari Rolle),,1.000,-1.270,-2.27
+2000-12-30,Dolphins,Colts,1,10:58,4,6,CLT 39,0-0,Jay Fiedler pass incomplete intended for O.J. McDuffie (defended by Mike Peterson),,0.660,-1.530,-2.19
+2000-12-31,Buccaneers,Eagles,4,10:30,4,5,PHI 42,3-21,Shaun King pass incomplete intended for Keyshawn Johnson (defended by Troy Vincent),,0.460,-1.730,-2.19
+2000-12-31,Buccaneers,Eagles,4,3:50,4,14,PHI 21,3-21,Shaun King pass incomplete intended for Keyshawn Johnson (defended by Bobby Taylor),,2.060,-0.340,-2.40
+2000-12-31,Broncos,Ravens,4,3:16,4,2,DEN 41,3-21,Jarious Jackson pass incomplete intended for Ed McCaffrey,,-0.650,-2.850,-2.20
+2000-12-31,Broncos,Ravens,4,0:15,4,4,DEN 38,3-21,Jarious Jackson pass incomplete intended for Ed McCaffrey (defended by Chris McAlister),,-0.850,-3.050,-2.20
+2001-01-06,Saints,Vikings,2,0:03,4,10,MIN 41,3-17,Aaron Brooks pass incomplete intended for Willie Jackson,,0.530,1.660,1.13
+2001-01-06,Dolphins,Raiders,3,0:37,4,8,RAI 37,0-27,Jay Fiedler pass incomplete intended for Leslie Shepherd (defended by Tory James),,0.790,-1.400,-2.19
+2001-01-06,Dolphins,Raiders,4,12:37,4,13,RAI 27,0-27,Jay Fiedler pass incomplete intended for Tony Martin,,1.670,-0.740,-2.41
+2001-01-06,Dolphins,Raiders,4,1:09,4,19,MIA 11,0-27,Jay Fiedler pass incomplete intended for Oronde Gadsden is intercepted by Eric Allen at OAK-46,,-2.490,-1.990,.50
+2001-01-07,Titans,Ravens,4,3:23,4,10,RAV 40,10-24,Steve McNair pass incomplete intended for Yancey Thigpen,,0.590,-1.600,-2.19
+2001-01-07,Titans,Ravens,4,1:23,4,14,OTI 36,10-24,Steve McNair pass incomplete intended for Derrick Mason,,-0.980,-3.250,-2.27
+2000-09-03,Titans,Bills,4,11:06,4,1,BUF 9,6-13,Steve McNair pass incomplete intended for Erron Kinney (defended by Henry Jones),,2.980,0.380,-2.60
+2000-09-03,Chiefs,Colts,4,2:52,4,10,CLT 11,14-27,Elvis Grbac pass incomplete intended for Kevin Lockett,,2.700,0.370,-2.33
+2000-09-03,Seahawks,Dolphins,4,0:59,4,7,SEA 31,0-23,Brock Huard pass incomplete intended for Shaun Alexander,,-1.310,-3.510,-2.20
+2000-09-03,Saints,Lions,4,0:48,4,2,DET 21,10-14,Jeff Blake pass incomplete intended for Ricky Williams (defended by Stephen Boyd),,2.180,-0.340,-2.52
+2000-09-03,Patriots,Buccaneers,4,0:01,4,10,TAM 22,16-21,Drew Bledsoe pass incomplete intended for Terry Glenn,,1.990,0.410,-1.58
+2000-09-03,Giants,Cardinals,3,13:05,4,3,NYG 18,14-0,id_ for no gain,,-2.240,-2.240,.00

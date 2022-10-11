@@ -1,0 +1,605 @@
+Date,Tm,Opp,Quarter,Time,Down,ToGo,Location,Score,Detail,Yds,EPB,EPA,Diff
+2009-11-15,Chiefs,Raiders,2,12:37,4,1,RAI 44,9-10,Jamaal Charles left end for 44 yards touchdown,44,0.330,7.000,6.67
+2009-10-18,Seahawks,Cardinals,2,6:23,4,3,SEA 38,0-17,Jon Ryan pass complete deep middle to John Carlson for 42 yards (tackle by Michael Adams),42,-0.850,4.240,5.09
+2009-11-01,Rams,Lions,2,1:03,4,8,DET 36,9-2,Josh Brown pass complete short left to Daniel Fells for 36 yards touchdown,36,0.880,7.000,6.12
+2009-11-15,Washington,Broncos,2,6:39,4,20,DEN 35,13-14,Hunter Smith pass complete deep left to Mike Sellers for 35 yards touchdown,35,0.970,7.000,6.03
+2009-12-06,49ers,Seahawks,1,6:25,4,1,SEA 33,6-0,Alex Smith pass complete short left to Vernon Davis for 33 yards touchdown,33,1.210,7.000,5.79
+2009-11-29,49ers,Jaguars,2,1:58,4,1,JAX 37,10-0,Alex Smith pass complete deep left to Vernon Davis for 30 yards (tackle by Clint Ingram),30,0.790,5.600,4.81
+2009-12-13,Jets,Buccaneers,1,9:22,4,7,NYJ 39,3-0,Brad Smith pass complete short right to Eric Smith for 27 yards (tackle by Elbert Mack),27,-0.780,3.310,4.09
+2009-10-12,Jets,Dolphins,1,5:40,4,6,NYJ 34,0-7,Steve Weatherford for 26 yards,26,-1.110,2.920,4.03
+2009-09-13,Jets,Texans,2,0:02,4,2,HTX 43,10-0,Mark Sanchez pass complete deep left to Dustin Keller for 25 yards (tackle by DeMeco Ryans). Penalty on DeMeco Ryans: Taunting (Declined),25,0.400,1.070,.67
+2009-09-27,Bills,Saints,2,14:56,4,6,NOR 25,6-7,Brian Moorman pass complete deep left to Ryan Denney for 25 yards touchdown,25,1.830,7.000,5.17
+2009-09-27,49ers,Vikings,2,9:50,4,1,MIN 36,0-10,Shaun Hill pass complete short right to Josh Morgan for 25 yards (tackle by Antoine Winfield). Penalty on E.J. Henderson: Roughing the Passer 6 yards Penalty on Ray Edwards: Defensive Offside (Declined),25,0.890,6.060,5.17
+2009-11-29,Titans,Cardinals,2,0:23,4,8,CRD 35,6-3,Vince Young pass complete deep right to Kenny Britt for 24 yards (tackle by Matt Ware),24,0.970,4.840,3.87
+2009-11-26,Broncos,Giants,2,13:05,4,5,NYG 29,3-0,Kyle Orton pass complete short middle to Tony Scheffler for 22 yards (tackle by Corey Webster),22,1.540,5.600,4.06
+2009-12-13,Colts,Broncos,2,10:50,4,4,DEN 34,14-0,Peyton Manning pass complete deep right to Dallas Clark for 22 yards (tackle by Brian Dawkins),22,1.080,4.780,3.70
+2009-09-13,Chiefs,Ravens,2,0:01,4,9,RAV 48,7-10,Brodie Croyle pass complete short left to Jamaal Charles for 20 yards (tackle by Ray Lewis),20,0.070,1.070,1.00
+2009-10-04,Raiders,Texans,2,3:51,4,9,HTX 35,3-20,JaMarcus Russell pass complete deep right to Louis Murphy for 19 yards (tackle by Dominique Barber),19,0.970,4.510,3.54
+2009-12-13,Cowboys,Chargers,1,10:59,4,4,SDG 35,0-0,Tony Romo pass complete deep right to Roy Williams for 19 yards (tackle by Steve Gregory),19,0.980,4.510,3.53
+2009-10-11,49ers,Falcons,2,12:46,4,1,ATL 41,7-14,Shaun Hill pass complete short right to Vernon Davis for 18 yards (tackle by Thomas DeCoud),18,0.530,4.040,3.51
+2009-12-13,Titans,Rams,2,0:12,4,4,RAM 35,20-0,Chris Johnson left end for 17 yards (tackle by Quincy Butler and Chris Long),17,0.980,4.370,3.39
+2009-10-25,Jets,Raiders,1,0:34,4,7,NYJ 23,14-0,Steve Weatherford middle for 16 yards (tackle by Isaiah Ekejiuba),16,-1.830,1.530,3.36
+2009-12-20,Rams,Texans,1,6:45,4,1,RAM 45,0-0,Keith Null pass complete short right to Steven Jackson for 16 yards (tackle by Dominique Barber),16,-0.390,2.980,3.37
+2009-11-01,Cardinals,Panthers,1,2:45,4,1,CAR 36,0-7,Beanie Wells left end for 14 yards (tackle by Sherrod Martin),14,0.890,4.110,3.22
+2009-10-12,Jets,Dolphins,2,4:58,4,3,MIA 40,7-10,Brad Smith right end for 12 yards (tackle by Yeremiah Bell),12,0.590,3.710,3.12
+2009-09-27,Texans,Jaguars,2,1:07,4,1,JAX 16,14-17,Kevin Walter left end for 11 yards (tackle by Daryl Smith and Brian Russell),11,2.530,6.060,3.53
+2009-10-04,Bengals,Browns,1,3:59,4,3,CLE 35,0-0,Bernard Scott right tackle for 10 yards (tackle by D'Qwell Jackson),10,0.990,3.910,2.92
+2009-11-08,Texans,Colts,2,3:47,4,1,CLT 31,0-13,Matt Schaub pass complete short left to Andre Johnson for 10 yards (tackle by Jerraud Powers and Philip Wheeler),10,1.410,4.170,2.76
+2009-11-22,Browns,Lions,2,0:13,4,9,DET 21,24-24,Phil Dawson pass complete short right to Mike Furrey for 10 yards (tackle by Louis Delmas),10,2.060,4.840,2.78
+2009-12-06,Raiders,Steelers,1,11:28,4,1,PIT 49,0-3,Bruce Gradkowski pass complete short right to Justin Fargas for 10 yards (tackle by Tyrone Carter and Lawrence Timmons),10,0.000,2.980,2.98
+2009-12-27,Texans,Dolphins,1,2:10,4,1,MIA 10,9-0,Matt Schaub pass complete short middle to Andre Johnson for 10 yards touchdown,10,2.910,7.000,4.09
+2009-09-20,Chargers,Ravens,2,0:38,4,2,RAV 34,13-21,Philip Rivers pass complete short middle to Antonio Gates for 9 yards (tackle by Tavares Gooden and Dawan Landry),9,1.100,3.910,2.81
+2009-12-13,Packers,Bears,1,2:05,4,3,CHI 32,10-0,Aaron Rodgers right end for 9 yards (tackle by Hunter Hillenmeyer),9,1.290,4.040,2.75
+2009-09-13,Washington,Giants,2,0:33,4,8,NYG 8,6-17,Hunter Smith right end for 8 yards touchdown,8,2.950,7.000,4.05
+2009-11-09,Broncos,Steelers,2,7:40,4,5,PIT 39,3-7,Kyle Orton pass complete short right to Brandon Stokley for 8 yards (tackle by LaMarr Woodley). Penalty on Ben Hamilton: Offensive Holding 10 yards (no play),8,0.660,0.000,-0.66
+2009-09-27,Falcons,Patriots,2,10:26,4,3,NWE 34,3-10,Matt Ryan pass complete short right to Roddy White for 7 yards (tackle by Terrence Wheatley),7,1.090,3.780,2.69
+2009-11-15,Jaguars,Jets,2,4:14,4,4,NYJ 34,14-10,David Garrard pass complete short left to Mike Thomas for 7 yards (tackle by Darrelle Revis and Lito Sheppard),7,1.080,3.780,2.70
+2009-11-22,Browns,Lions,2,1:02,4,4,DET 29,24-24,Brady Quinn pass complete short right to Chansi Stuckey for 7 yards (tackle by Will Peterson),7,1.560,4.110,2.55
+2009-12-06,Falcons,Eagles,2,4:01,4,4,PHI 39,0-13,Chris Redman pass complete short right to Tony Gonzalez for 6 yards (tackle by Dimitri Patterson),6,0.660,3.380,2.72
+2009-12-25,Titans,Chargers,2,13:43,4,2,SDG 35,3-7,Chris Johnson right tackle for 6 yards (tackle by Brandon Siler and Eric Weddle),6,0.990,3.640,2.65
+2010-01-03,Chargers,Washington,1,8:09,4,1,WAS 19,3-0,Philip Rivers pass complete short left to Malcom Floyd for 6 yards (tackle by London Fletcher),6,2.340,4.710,2.37
+2010-01-03,Titans,Seahawks,1,8:02,4,1,SEA 6,6-0,Chris Johnson left end for 6 yards touchdown,6,3.020,7.000,3.98
+2009-09-13,Bengals,Broncos,1,5:16,4,2,DEN 42,0-0,Brian Leonard right end for 5 yards (tackle by LaMont Jordan),5,0.460,3.120,2.66
+2009-11-29,Panthers,Jets,2,12:47,4,1,NYJ 32,0-7,DeAngelo Williams right tackle for 5 yards (tackle by Jim Leonhard). Penalty on Howard Green: Defensive Holding 5 yards,5,1.310,4.110,2.80
+2010-01-03,Panthers,Saints,2,0:28,4,4,NOR 35,7-3,Matt Moore pass complete short left to Dwayne Jarrett for 5 yards (tackle by Randall Gay),5,0.980,3.580,2.60
+2010-01-03,Falcons,Buccaneers,2,8:23,4,15,TAM 35,0-3,Matt Ryan pass complete short right to Jason Snelling for 5 yards (tackle by Aqib Talib),5,0.970,-0.940,-1.91
+2009-09-13,Lions,Saints,2,14:11,4,1,NOR 4,9-14,Kevin Smith left end for 4 yards touchdown,4,3.040,7.000,3.96
+2009-09-20,Lions,Vikings,1,7:06,4,1,MIN 21,0-0,Kevin Smith left tackle for 4 yards (tackle by E.J. Henderson),4,2.210,4.440,2.23
+2009-10-04,Jets,Saints,2,3:23,4,1,NOR 30,0-17,Mark Sanchez left end for 4 yards (tackle by Roman Harper),4,1.520,3.840,2.32
+2009-10-05,Packers,Vikings,2,13:08,4,3,MIN 36,7-7,Aaron Rodgers pass complete short middle to Greg Jennings for 4 yards,4,0.890,3.450,2.56
+2009-11-22,Steelers,Chiefs,1,1:02,4,1,KAN 26,0-7,Rashard Mendenhall left tackle for 4 yards (tackle by Jon McGraw),4,1.890,4.110,2.22
+2009-11-30,Patriots,Saints,1,3:39,4,1,NOR 4,6-3,Laurence Maroney right guard for 4 yards touchdown,4,3.040,7.000,3.96
+2009-12-13,Dolphins,Jaguars,1,4:46,4,1,JAX 18,0-0,Lousaka Polite middle for 4 yards (tackle by Montavious Stanley),4,2.400,4.650,2.25
+2010-01-16,Colts,Ravens,2,4:58,4,4,RAV 35,3-3,Peyton Manning pass complete short right to Joseph Addai for 4 yards (tackle by Dannell Ellerbe),4,0.980,3.510,2.53
+2009-09-20,Cardinals,Jaguars,2,5:09,4,1,JAX 44,17-3,Kurt Warner pass complete short right to Tim Hightower for 3 yards (tackle by Daryl Smith),3,0.330,2.850,2.52
+2009-09-20,Chiefs,Raiders,1,6:21,4,2,RAI 39,0-0,Jackie Battle middle for 3 yards (tackle by Kirk Morrison),3,0.660,3.180,2.52
+2009-09-20,Chiefs,Raiders,2,0:44,4,1,RAI 27,3-3,Larry Johnson left end for 3 yards (tackle by Thomas Howard),3,1.820,3.970,2.15
+2009-10-04,Steelers,Chargers,2,6:23,4,1,PIT 30,14-0,Ben Roethlisberger middle for 3 yards (tackle by Luis Castillo and Alfonso Boone),3,-1.370,1.140,2.51
+2009-10-11,Raiders,Giants,2,5:41,4,2,RAI 48,0-28,JaMarcus Russell right tackle for 3 yards (tackle by Chase Blackburn),3,-0.190,2.320,2.51
+2009-10-11,Colts,Titans,1,7:33,4,1,OTI 3,6-0,Peyton Manning pass complete short right to Reggie Wayne for 3 yards touchdown,3,3.060,7.000,3.94
+2009-11-08,Lions,Seahawks,1,9:02,4,2,SEA 29,0-0,Kevin Smith right tackle for 3 yards (tackle by LeRoy Hill). Penalty on SEA: Defensive 12 On-field 5 yards (no play),3,1.600,3.970,2.37
+2009-11-22,Colts,Ravens,1,0:47,4,1,RAV 38,7-6,Joseph Addai left tackle for 3 yards (tackle by Jarret Johnson and Dannell Ellerbe). Penalty on Jeff Saturday: Offensive Holding 10 yards (no play),3,0.720,0.070,-0.65
+2009-11-29,Dolphins,Bills,2,0:21,4,1,BUF 40,7-7,Lousaka Polite middle for 3 yards (tackle by Aaron Schobel). Penalty on Nate Garner: Offensive Holding 10 yards (no play),3,0.590,-0.060,-0.65
+2009-11-30,Patriots,Saints,1,7:35,4,1,NOR 36,0-3,Sammy Morris left guard for 3 yards (tackle by Anthony Hargrove),3,0.890,3.380,2.49
+2009-11-30,Saints,Patriots,2,13:38,4,2,NWE 21,3-7,Pierre Thomas right guard for 3 yards (tackle by Jerod Mayo),3,2.180,4.370,2.19
+2009-09-20,Bills,Buccaneers,2,11:15,4,1,BUF 36,17-7,Trent Edwards middle for 2 yards (tackle by Jimmy Wilkerson). Penalty on Gaines Adams: Face Mask (15 Yards) 15 yards,2,-0.980,2.460,3.44
+2009-09-27,Ravens,Browns,1,10:45,4,1,CLE 9,0-0,Joe Flacco middle for 2 yards (tackle by D'Qwell Jackson),2,2.980,5.600,2.62
+2009-10-04,Patriots,Ravens,1,0:27,4,1,RAV 3,3-7,Sammy Morris middle for 2 yards (tackle by Ray Lewis and Dannell Ellerbe),2,3.060,6.970,3.91
+2009-10-05,Vikings,Packers,1,4:45,4,1,GNB 10,0-0,Adrian Peterson left guard for 2 yards (tackle by Ryan Pickett and A.J. Hawk),2,2.910,5.370,2.46
+2009-10-18,Saints,Giants,1,7:23,4,1,NYG 2,6-0,Mike Bell left guard for 2 yards touchdown,2,3.250,7.000,3.75
+2009-10-18,Jets,Bills,1,5:12,4,1,NYJ 42,0-3,Thomas Jones right guard for 2 yards (tackle by Donte Whitner and Paul Posluszny),2,-0.590,1.860,2.45
+2009-10-18,Eagles,Raiders,2,6:35,4,1,PHI 29,3-10,Donovan McNabb middle for 2 yards,2,-1.440,1.000,2.44
+2009-10-18,Chiefs,Washington,1,10:49,4,1,WAS 44,0-0,Mike Cox middle for 2 yards (tackle by London Fletcher and Cornelius Griffin),2,0.330,2.790,2.46
+2009-11-22,Bears,Eagles,2,1:24,4,1,PHI 22,6-10,Jay Cutler middle for 2 yards (tackle by Brodrick Bunkley),2,2.140,4.240,2.10
+2009-11-22,Patriots,Jets,1,8:20,4,1,NYJ 38,0-0,Laurence Maroney left tackle for 2 yards (tackle by Bart Scott),2,0.720,3.180,2.46
+2009-11-22,Falcons,Giants,2,4:19,4,1,NYG 19,7-10,Matt Ryan middle for 2 yards (tackle by Fred Robbins and Mathias Kiwanuka),2,2.340,4.440,2.10
+2009-11-29,Eagles,Washington,1,4:28,4,1,WAS 42,3-7,Leonard Weaver middle for 2 yards (tackle by Rocky McIntosh),2,0.460,2.920,2.46
+2009-12-06,Jaguars,Texans,1,8:36,4,1,HTX 9,3-0,David Garrard middle for 2 yards (tackle by Antonio Smith),2,2.980,5.600,2.62
+2009-12-10,Steelers,Browns,1,2:52,4,1,PIT 32,0-3,Ben Roethlisberger middle for 2 yards (tackle by Corey Williams and Robaire Smith),2,-1.240,1.200,2.44
+2009-12-13,Chiefs,Bills,2,7:31,4,1,BUF 40,3-7,Jamaal Charles right guard for 2 yards (tackle by Nate Harris),2,0.590,3.050,2.46
+2009-12-13,Giants,Eagles,1,4:52,4,1,PHI 29,0-14,Brandon Jacobs right tackle for 2 yards (tackle by Chris Gocong and Jason Babin),2,1.620,3.780,2.16
+2009-12-13,Jets,Buccaneers,1,7:29,4,1,TAM 25,3-0,Kellen Clemens middle for 2 yards (tackle by Barrett Ruud),2,1.950,4.040,2.09
+2009-12-20,Bears,Ravens,1,6:13,4,1,RAV 16,0-7,Matt Forte left guard for 2 yards (tackle by Terrell Suggs),2,2.530,4.650,2.12
+2009-12-27,Broncos,Eagles,2,10:47,4,1,PHI 16,0-10,Knowshon Moreno right end for 2 yards (tackle by Mike Patterson),2,2.530,4.650,2.12
+2010-01-03,Browns,Jaguars,1,13:17,4,1,JAX 45,0-0,Derek Anderson middle for 2 yards (tackle by John Henderson),2,0.270,2.720,2.45
+2010-01-03,Steelers,Dolphins,1,2:06,4,1,PIT 42,7-7,Ben Roethlisberger middle for 2 yards (tackle by Kendall Langford),2,-0.590,1.860,2.45
+2010-01-03,Vikings,Giants,2,0:46,4,1,NYG 31,24-0,Naufahu Tahi middle for 2 yards (tackle by Barry Cofield and Fred Robbins),2,1.410,3.640,2.23
+2010-01-03,Rams,49ers,1,12:45,4,1,RAM 42,0-0,Steven Jackson right tackle for 2 yards (tackle by Michael Lewis),2,-0.590,1.860,2.45
+2010-01-03,Titans,Seahawks,1,10:02,4,1,SEA 17,0-0,Chris Johnson left guard for 2 yards (tackle by Colin Cole),2,2.460,4.580,2.12
+2009-09-13,Panthers,Eagles,1,8:15,4,1,PHI 2,0-0,Jonathan Stewart right tackle for 1 yard (tackle by Victor Abiamiri),1,3.250,6.970,3.72
+2009-09-20,Steelers,Bears,1,5:02,4,1,CHI 1,6-0,Ben Roethlisberger pass complete short right to Matt Spaeth for 1 yard touchdown,1,3.550,7.000,3.45
+2009-09-27,Bears,Seahawks,2,2:00,4,1,SEA 1,6-13,Jay Cutler pass complete short right to Greg Olsen for 1 yard touchdown,1,3.550,7.000,3.45
+2009-10-04,Bears,Lions,2,10:59,4,1,DET 1,20-14,Jay Cutler pass complete short middle to Greg Olsen for 1 yard touchdown,1,3.550,7.000,3.45
+2009-10-04,Dolphins,Bills,2,4:29,4,1,BUF 1,16-3,Ronnie Brown right tackle for 1 yard touchdown,1,3.550,7.000,3.45
+2009-10-11,Giants,Raiders,1,7:06,4,1,RAI 1,6-0,Ahmad Bradshaw right guard for 1 yard touchdown,1,3.550,7.000,3.45
+2009-10-11,Rams,Vikings,2,13:08,4,1,MIN 15,0-14,Kyle Boller middle for 1 yard (tackle by Pat Williams),1,2.590,4.650,2.06
+2009-10-18,Texans,Bengals,1,1:28,4,1,CIN 13,0-0,Matt Schaub middle for 1 yard (tackle by Dhani Jones),1,2.720,4.780,2.06
+2009-10-18,Steelers,Browns,2,0:35,4,1,CLE 14,14-7,Ben Roethlisberger middle for 1 yard (tackle by Shaun Rogers),1,2.660,4.710,2.05
+2009-10-25,Jets,Raiders,1,13:06,4,1,RAI 1,6-0,Thomas Jones middle for 1 yard touchdown,1,3.550,7.000,3.45
+2009-11-01,Vikings,Packers,1,1:21,4,1,GNB 1,6-3,Adrian Peterson right guard for 1 yard touchdown,1,3.550,7.000,3.45
+2009-11-29,Eagles,Washington,1,9:03,4,1,WAS 1,0-7,Donovan McNabb pass complete short middle to DeSean Jackson for 1 yard. Penalty on Brent Celek: Offensive Pass Interfere 10 yards (no play),1,3.550,2.700,-0.85
+2009-12-06,Falcons,Eagles,2,0:21,4,2,PHI 2,0-13,Jason Snelling right tackle for 1 yard (tackle by Will Witherspoon),1,3.250,0.380,-2.87
+2009-12-13,Chargers,Cowboys,2,14:14,4,1,DAL 31,7-3,Philip Rivers middle for 1 yard (tackle by Keith Brooking and Bradie James),1,1.410,3.580,2.17
+2009-12-13,Raiders,Washington,2,11:15,4,1,WAS 1,9-7,Justin Fargas middle for 1 yard touchdown,1,3.550,7.000,3.45
+2009-12-20,Texans,Rams,1,11:50,4,1,RAM 33,0-0,Ryan Moats left tackle for 1 yard (tackle by Victor Adeyanju and Quincy Butler),1,1.210,3.450,2.24
+2009-12-27,Packers,Seahawks,2,0:08,4,1,SEA 1,21-3,Aaron Rodgers pass complete short right to Spencer Havner for 1 yard. Penalty on Spencer Havner: Offensive Pass Interfere 10 yards (no play),1,3.550,2.700,-0.85
+2009-12-27,Dolphins,Texans,2,2:00,4,1,50,0-27,Lousaka Polite middle for 1 yard (tackle by DeMeco Ryans),1,-0.060,2.320,2.38
+2010-01-03,Browns,Jaguars,2,10:08,4,1,CLE 49,3-3,Derek Anderson left guard for 1 yard (tackle by Quentin Groves). Penalty on Terrance Knighton: Defensive Offside 5 yards (no play),1,-0.130,2.520,2.65
+2010-01-03,Packers,Cardinals,1,11:50,4,1,CRD 46,0-0,Aaron Rodgers middle for 1 yard (tackle by Chike Okeafor),1,0.200,2.590,2.39
+2009-09-13,Bengals,Broncos,1,1:51,4,2,DEN 10,0-0,Kevin Huber for no gain. Kevin Huber fumbles recovered by Kevin Huber at DEN-44,0,2.890,-1.860,-4.75
+2009-09-13,Giants,Washington,2,15:00,4,1,WAS 3,3-0,Brandon Jacobs middle for no gain (tackle by Albert Haynesworth and Chris Horton),0,3.060,0.380,-2.68
+2009-09-14,Patriots,Bills,1,13:39,4,1,BUF 40,0-0,Laurence Maroney left tackle for no gain (tackle by Keith Ellison and Kyle Williams),0,0.590,-1.600,-2.19
+2009-09-27,Steelers,Bengals,2,1:15,4,4,CIN 35,13-0,Ben Roethlisberger pass incomplete short left intended for Santonio Holmes. Penalty on Max Starks: Offensive Holding (Declined),0,0.980,-1.270,-2.25
+2009-09-27,Washington,Lions,1,7:14,4,1,DET 1,0-0,Clinton Portis left end for no gain (tackle by DeAndre Levy and Larry Foote),0,3.550,0.380,-3.17
+2009-09-27,Broncos,Raiders,1,5:16,4,1,RAI 1,0-0,LaMont Jordan middle for no gain,0,3.550,0.380,-3.17
+2009-10-11,Panthers,Washington,2,9:12,4,1,WAS 1,0-7,Brad Hoover middle for no gain (tackle by LaRon Landry). Brad Hoover fumbles (forced by LaRon Landry) recovered by Jeff King at WAS-1,0,3.550,0.380,-3.17
+2009-10-11,Buccaneers,Eagles,2,7:36,4,1,PHI 23,0-7,Josh Johnson for no gain. Josh Johnson fumbles recovered by Josh Johnson at PHI-24,0,2.080,-0.540,-2.62
+2009-10-18,Rams,Jaguars,2,2:00,4,1,JAX 35,7-6,Steven Jackson middle for no gain. Penalty on Clint Ingram: Defensive Offside 5 yards (no play),0,1.000,3.580,2.58
+2009-10-18,Saints,Giants,2,1:00,4,1,NYG 1,27-17,Pierre Thomas left tackle for no gain (tackle by Bryan Kehl and Osi Umenyiora). Penalty on NOR: Unsportsmanlike Conduct 15 yards,0,3.550,0.140,-3.41
+2009-10-18,Chiefs,Washington,1,1:59,4,2,WAS 24,0-0,Matt Cassel sacked by Andre Carter and Cornelius Griffin for 0 yards. Matt Cassel fumbles (forced by Andre Carter) recovered by Mike Goff at WAS-29,0,1.990,-0.870,-2.86
+2009-10-25,Packers,Browns,1,6:24,4,1,CLE 32,0-0,Aaron Rodgers middle for no gain (tackle by Robaire Smith and David Bowens),0,1.310,-1.000,-2.31
+2009-10-25,Chiefs,Chargers,1,5:02,4,1,KAN 41,0-7,Matt Cassel middle for no gain (tackle by Jacques Cesaire),0,-0.650,-2.850,-2.20
+2009-10-25,Patriots,Buccaneers,2,3:24,4,2,NWE 46,21-0,Brian Hoyer middle for no gain (tackle by Roy Miller). Penalty on Logan Mankins: False Start 5 yards (no play),0,-0.320,-0.650,-0.33
+2009-11-08,Bengals,Ravens,1,4:31,4,2,RAV 39,7-0,Carson Palmer pass incomplete deep right intended for Chad Johnson. Penalty on Fabian Washington: Defensive Pass Interfere 24 yards (no play),0,0.660,4.580,3.92
+2009-11-08,Seahawks,Lions,1,3:40,4,1,SEA 38,0-14,Julius Jones right guard for no gain (tackle by Larry Foote),0,-0.850,-3.050,-2.20
+2009-11-15,Falcons,Panthers,2,9:49,4,8,CAR 37,3-14,Matt Ryan pass incomplete short right intended for Roddy White. Penalty on Chris Gamble: Defensive Pass Interfere 8 yards (no play),0,0.790,3.640,2.85
+2009-11-15,Cardinals,Seahawks,1,2:52,4,1,SEA 1,0-0,Tim Hightower right tackle for no gain (tackle by LeRoy Hill and Marcus Trufant),0,3.550,0.380,-3.17
+2009-11-15,Vikings,Lions,2,4:26,4,1,DET 8,10-0,Jeff Dugan middle for no gain (tackle by Grady Jackson),0,2.990,0.380,-2.61
+2009-11-22,Rams,Cardinals,2,7:19,4,1,CRD 22,3-14,Steven Jackson right tackle for no gain (tackle by Gerald Hayes),0,2.140,-0.410,-2.55
+2009-12-06,Jaguars,Texans,1,6:03,4,1,HTX 1,3-0,Maurice Jones-Drew middle for no gain (tackle by Xavier Adibi and DeMeco Ryans),0,3.550,0.380,-3.17
+2009-12-06,Patriots,Dolphins,2,2:00,4,1,MIA 6,14-7,Sammy Morris left guard for no gain (tackle by Joey Porter),0,3.020,0.380,-2.64
+2009-12-06,Steelers,Raiders,1,1:28,4,1,RAI 5,3-3,Ben Roethlisberger middle for no gain (tackle by Sam Williams and Richard Seymour),0,3.030,0.380,-2.65
+2009-12-13,Broncos,Colts,1,1:50,4,1,CLT 41,0-14,Knowshon Moreno right tackle for no gain (tackle by Gary Brackett),0,0.530,-1.660,-2.19
+2009-12-13,Broncos,Colts,2,0:43,4,1,CLT 45,7-21,Knowshon Moreno middle for no gain (tackle by Jerraud Powers),0,0.270,-1.990,-2.26
+2009-12-13,Cowboys,Chargers,2,2:23,4,1,SDG 1,3-10,Marion Barber right guard for no gain (tackle by Tim Dobbins and Brandon Siler),0,3.550,0.380,-3.17
+2009-12-19,Cowboys,Saints,2,14:12,4,4,NOR 37,14-0,Tony Romo pass incomplete short right intended for Roy Williams. Penalty on Mike McKenzie: Illegal Contact 5 yards (no play),0,0.790,3.450,2.66
+2009-12-20,Browns,Chiefs,2,2:49,4,2,CLE 20,13-23,Reggie Hodges for no gain. Reggie Hodges fumbles recovered by Andy Studebaker at CLE--1 touchdown. Penalty on CLE: Illegal Motion (Declined),0,-2.030,-7.000,-4.97
+2009-12-20,Jets,Falcons,2,6:40,4,1,ATL 1,7-3,Kellen Clemens for no gain. Kellen Clemens fumbles recovered by Kellen Clemens at ATL-13,0,3.550,0.320,-3.23
+2009-12-20,Eagles,49ers,1,1:22,4,1,PHI 29,7-3,Leonard Weaver middle for no gain (tackle by Takeo Spikes),0,-1.440,-3.640,-2.20
+2009-12-20,Seahawks,Buccaneers,1,3:06,4,4,TAM 4,0-0,Jon Ryan for no gain. Jon Ryan fumbles recovered by Olindo Mare at TAM-13,0,3.030,0.140,-2.89
+2009-12-27,Chiefs,Bengals,2,2:31,4,7,KAN 45,0-0,Dustin Colquitt for no gain. Dustin Colquitt fumbles ball out of bounds at KAN-7. Penalty on Dustin Colquitt: Illegal Kick (Declined),0,-0.390,-5.600,-5.21
+2009-12-27,Browns,Raiders,2,7:51,4,12,RAI 49,10-6,Reggie Hodges pass incomplete short right intended for Brandon McDonald. Penalty on Hiram Eugene: Defensive Offside 5 yards (no play),0,0.000,0.330,.33
+2009-12-27,Colts,Jets,1,7:35,4,1,NYJ 31,0-0,Donald Brown right tackle for no gain (tackle by Bart Scott). Penalty on Bart Scott: Tripping 10 yards (no play),0,1.410,4.170,2.76
+2009-12-27,Jaguars,Patriots,1,4:53,4,1,JAX 35,0-0,Maurice Jones-Drew right guard for no gain (tackle by James Sanders),0,-1.040,-3.250,-2.21
+2009-12-27,49ers,Lions,2,10:50,4,1,DET 24,3-3,Frank Gore right guard for no gain (tackle by DeAndre Levy),0,2.020,-0.540,-2.56
+2010-02-07,Saints,Colts,2,1:55,4,1,CLT 1,3-10,Pierre Thomas right end for no gain (tackle by Gary Brackett and Clint Session),0,3.550,0.380,-3.17
+2009-10-18,Lions,Packers,1,0:15,4,1,GNB 21,0-14,Kevin Smith left end for -1 yards (tackle by B.J. Raji and Clay Matthews),-1,2.210,-0.410,-2.62
+2009-10-18,Lions,Packers,2,1:04,4,3,DET 45,0-20,Aaron Brown right end for -1 yards (tackle by Spencer Havner),-1,-0.390,-2.720,-2.33
+2009-11-01,Vikings,Packers,2,6:58,4,1,GNB 7,14-3,Adrian Peterson right guard for -1 yards (tackle by A.J. Hawk and Ryan Pickett),-1,3.010,0.380,-2.63
+2009-12-13,Patriots,Panthers,1,11:57,4,1,CAR 40,0-0,Sammy Morris middle for -1 yards (tackle by Jon Beason and Dan Connor),-1,0.590,-1.660,-2.25
+2009-11-22,Chiefs,Steelers,2,0:01,4,9,KAN 41,7-17,Matt Cassel sacked by LaMarr Woodley for -7 yards. Penalty on Chris Chambers: Illegal Shift (Declined),-7,-0.650,2.130,2.78
+2010-01-03,Panthers,Saints,2,7:03,4,10,NOR 33,7-3,Matt Moore sacked by Randall Gay for -7 yards,-7,1.150,-1.600,-2.75
+2009-11-08,Giants,Chargers,1,7:53,4,1,SDG 21,0-0,Jeff Feagles middle for -8 yards (tackle by Shaun Phillips). Jeff Feagles fumbles (forced by Shaun Phillips) recovered by Shawne Merriman at SDG-29 (tackle by Jeff Feagles),-8,2.210,-0.870,-3.08
+2009-11-26,Lions,Packers,2,0:04,4,11,GNB 44,7-13,Matthew Stafford sacked by Clay Matthews for -8 yards,-8,0.330,1.330,1.00
+2009-09-13,Colts,Jaguars,2,0:08,4,1,CLT 46,7-6,Peyton Manning pass incomplete deep left intended for Dallas Clark,,-0.320,-2.590,-2.27
+2009-09-13,Bears,Packers,2,0:04,4,14,GNB 49,2-10,Jay Cutler pass incomplete deep right intended for Greg Olsen,,0.000,2.190,2.19
+2009-09-27,Saints,Bills,1,3:22,4,2,BUF 28,7-0,Drew Brees pass complete short right to Reggie Bush for no gain,,1.700,-0.810,-2.51
+2009-09-27,Titans,Jets,2,4:51,4,7,NYJ 33,7-14,Kerry Collins pass incomplete short right intended for Nate Washington,,1.150,-1.200,-2.35
+2009-09-27,Eagles,Chiefs,2,11:58,4,1,KAN 44,14-0,Kevin Kolb pass incomplete short right intended for DeSean Jackson (defended by Mike Vrabel),,0.330,-1.860,-2.19
+2009-10-04,Saints,Jets,2,9:52,4,1,NYJ 1,10-0,Drew Brees pass incomplete short right intended for Jamar Nesbit (defended by Bryan Thomas),,3.550,0.380,-3.17
+2009-10-04,Washington,Buccaneers,1,1:07,4,4,TAM 37,0-7,Jason Campbell pass incomplete short middle intended for Malcolm Kelly is intercepted by Aqib Talib at TAM-30 and returned for 16 yards,,0.790,-1.990,-2.78
+2009-10-11,Bills,Browns,1,0:26,4,6,CLE 38,0-0,Trent Edwards pass incomplete short right intended for Shawn Nelson,,0.720,-1.530,-2.25
+2009-10-11,Bills,Browns,2,1:42,4,24,CLE 31,0-3,Trent Edwards pass incomplete deep right intended for Terrell Owens (defended by Brodney Pool),,1.320,-1.000,-2.32
+2009-10-11,Buccaneers,Eagles,1,5:58,4,2,PHI 26,0-7,Josh Johnson pass incomplete short left intended for Michael Clayton (defended by Sheldon Brown),,1.860,-0.670,-2.53
+2009-10-11,Ravens,Bengals,2,0:06,4,2,CIN 49,7-3,Joe Flacco pass incomplete deep middle intended for Mark Clayton,,0.000,2.190,2.19
+2009-10-11,Jaguars,Seahawks,1,2:38,4,1,SEA 2,0-3,David Garrard pass incomplete short right intended for Greg Jones,,3.250,0.380,-2.87
+2009-10-18,Washington,Chiefs,2,0:06,4,2,KAN 36,0-3,Jason Campbell pass incomplete deep right intended for Malcolm Kelly is intercepted by Brandon Flowers at KAN-3 and returned for 33 yards,,0.890,0.000,-0.89
+2009-10-25,49ers,Texans,2,1:36,4,2,HTX 38,0-21,Shaun Hill pass incomplete short middle intended for Isaac Bruce (defended by Brian Cushing),,0.720,-1.470,-2.19
+2009-11-01,Lions,Rams,2,0:04,4,2,DET 43,2-10,Matthew Stafford pass incomplete deep left intended for Derrick Williams,,-0.520,1.800,2.32
+2009-11-01,Dolphins,Jets,2,0:04,4,10,MIA 42,3-3,Chad Henne pass incomplete deep right intended for Greg Camarillo,,-0.590,1.730,2.32
+2009-11-08,Colts,Texans,1,12:57,4,1,HTX 32,0-0,Peyton Manning pass incomplete deep right intended for Joseph Addai,,1.310,-1.070,-2.38
+2009-11-29,Rams,Seahawks,2,1:50,4,4,SEA 34,7-13,Kyle Boller pass incomplete short right intended for Donnie Avery is intercepted by Josh Wilson at SEA-35 and returned for 65 yards touchdown,,1.080,-7.000,-8.08
+2009-12-06,Bears,Rams,2,7:35,4,4,RAM 10,10-0,Brad Maynard pass complete short middle to Greg Olsen for no gain,,2.840,0.380,-2.46
+2009-12-06,49ers,Seahawks,1,10:09,4,1,SEA 1,0-0,Alex Smith pass incomplete short left intended for Delanie Walker,,3.550,0.380,-3.17
+2009-12-13,Chiefs,Bills,2,0:04,4,15,KAN 47,3-10,Matt Cassel pass incomplete short right intended for Bobby Wade,,-0.260,2.060,2.32
+2009-12-20,Panthers,Vikings,2,0:04,4,7,MIN 34,6-7,Matt Moore pass incomplete deep right intended for Muhsin Muhammad (defended by Tyrell Johnson),,1.060,1.200,.14
+2009-12-20,Bears,Ravens,2,8:09,4,1,RAV 1,0-14,Jay Cutler pass incomplete short right intended for Greg Olsen,,3.550,0.380,-3.17
+2009-12-21,Washington,Giants,2,0:02,4,4,NYG 20,0-24,Hunter Smith pass incomplete is intercepted by Bruce Johnson at NYG-6 and returned for 49 yards,,2.200,0.000,-2.20
+2010-01-03,Texans,Patriots,2,4:49,4,1,NWE 1,7-10,Matt Schaub pass incomplete short right intended for Andre Johnson,,3.550,0.380,-3.17
+2010-01-03,49ers,Rams,2,6:18,4,2,RAM 35,0-0,Alex Smith pass incomplete deep right intended for Michael Crabtree (defended by Craig Dahl),,0.990,-1.270,-2.26
+2009-09-14,Raiders,Chargers,4,2:41,4,14,RAI 43,19-17,JaMarcus Russell pass complete deep middle to Louis Murphy for 57 yards touchdown,57,-0.520,7.000,7.52
+2009-10-04,Cowboys,Broncos,4,1:16,4,3,DAL 27,10-17,Tony Romo pass complete short middle to Sam Hurd for 53 yards (tackle by Brian Dawkins),53,-1.570,4.240,5.81
+2009-12-13,Rams,Titans,3,0:03,4,6,RAM 36,0-33,Kenneth Darby middle for 51 yards (tackle by Donnie Nickey and Michael Griffin),51,-0.980,4.710,5.69
+2009-10-25,Panthers,Bills,4,8:40,4,4,CAR 28,2-17,Jake Delhomme pass complete deep left to Steve Smith for 48 yards (tackle by Jairus Byrd),48,-1.500,3.970,5.47
+2009-12-27,49ers,Lions,3,3:23,4,1,SFO 46,13-3,Alex Smith pass complete short right to Frank Gore for 48 yards (tackle by Turk McBride),48,-0.320,5.830,6.15
+2009-11-29,Ravens,Steelers,4,3:31,4,5,RAV 46,14-17,Joe Flacco pass complete short middle to Ray Rice for 44 yards (tackle by William Gay),44,-0.320,4.910,5.23
+2009-12-20,Broncos,Raiders,4,0:13,4,17,DEN 15,19-20,Kyle Orton pass complete deep middle to Tony Scheffler for 39 yards (tackle by Tyvon Branch),39,-2.440,2.520,4.96
+2009-09-20,Buccaneers,Bills,4,6:51,4,10,BUF 43,14-30,Byron Leftwich pass complete deep left to Maurice Stovall for 38 yards (tackle by Reggie Corner). Penalty on Ashton Youboty: Defensive Holding (Declined),38,0.400,6.060,5.66
+2009-10-25,Vikings,Steelers,3,6:47,4,1,PIT 35,7-13,Brett Favre pass complete short middle to Sidney Rice for 34 yards (tackle by Troy Polamalu),34,1.000,6.970,5.97
+2009-12-20,Steelers,Packers,4,1:14,4,7,PIT 22,30-36,Ben Roethlisberger pass complete deep left to Santonio Holmes for 32 yards (tackle by Josh Bell),32,-1.900,2.520,4.42
+2009-10-25,Falcons,Cowboys,4,5:13,4,10,DAL 30,20-34,Matt Ryan pass complete short left to Eric Weems for 30 yards touchdown,30,1.410,7.000,5.59
+2010-01-10,Packers,Cardinals,4,14:16,4,5,CRD 30,30-38,Aaron Rodgers pass complete short right to James Jones for 30 yards touchdown,30,1.450,7.000,5.55
+2009-12-20,Bills,Patriots,4,5:48,4,8,NWE 41,3-17,Ryan Fitzpatrick pass complete short middle to Josh Reed for 29 yards (tackle by Mike Wright),29,0.530,4.780,4.25
+2009-11-22,Rams,Cardinals,4,7:56,4,11,CRD 26,6-21,Marc Bulger pass complete deep middle to Danny Amendola for 25 yards (tackle by Ralph Brown and Antrel Rolle),25,1.740,6.970,5.23
+2009-11-29,Panthers,Jets,4,2:25,4,14,CAR 29,6-17,Jake Delhomme pass complete deep left to Dwayne Jarrett for 24 yards (tackle by Lito Sheppard and Jim Leonhard),24,-1.440,2.460,3.90
+2010-01-10,Patriots,Ravens,4,8:37,4,17,RAV 49,14-33,Tom Brady pass complete deep left to Julian Edelman for 24 yards (tackle by Tom Zbikowski and Ed Reed),24,0.000,3.910,3.91
+2009-09-14,Bills,Patriots,4,0:01,4,20,BUF 30,24-25,Trent Edwards pass complete deep right to Derek Schouman for 23 yards lateral to Roscoe Parrish for 4 yards lateral to Fred Jackson for 3 yards. Fred Jackson fumbles recovered by Roscoe Parrish at NWE-40,23,-1.370,2.460,3.83
+2009-09-20,Seahawks,49ers,4,3:37,4,13,SEA 38,10-23,Seneca Wallace pass complete deep left to T.J. Houshmandzadeh for 22 yards,22,-0.850,2.920,3.77
+2009-12-20,49ers,Eagles,3,12:26,4,3,PHI 36,3-20,Alex Smith pass complete short right to Josh Morgan for 22 yards (tackle by Quintin Demps),22,0.890,4.650,3.76
+2010-01-03,Bengals,Jets,3,7:32,4,2,NYJ 34,0-30,Larry Johnson left end for 22 yards (tackle by Kerry Rhodes),22,1.100,4.780,3.68
+2009-09-27,Bengals,Steelers,3,1:32,4,3,CIN 38,9-20,Chris Crocker left end for 21 yards (tackle by Limas Sweed and Joe Burnett),21,-0.850,2.850,3.70
+2009-09-27,Patriots,Falcons,3,0:55,4,3,ATL 37,16-10,Tom Brady pass complete deep right to Randy Moss for 21 yards,21,0.790,4.510,3.72
+2009-12-27,Giants,Panthers,4,6:49,4,19,CAR 25,9-41,Eli Manning pass complete deep right to Derek Hagan for 21 yards,21,1.800,6.280,4.48
+2009-09-20,Jaguars,Cardinals,4,7:19,4,10,CRD 19,16-31,David Garrard pass complete short right to Mike Sims-Walker for 19 yards touchdown,19,2.180,7.000,4.82
+2009-12-06,Broncos,Chiefs,4,12:11,4,1,KAN 18,40-13,Knowshon Moreno left end for 18 yards touchdown,18,2.400,7.000,4.60
+2009-09-27,Colts,Cardinals,4,3:19,4,8,CRD 32,31-10,Peyton Manning pass complete deep left to Reggie Wayne for 17 yards (tackle by Bryant McFadden),17,1.240,4.580,3.34
+2009-09-27,Broncos,Raiders,4,1:52,4,1,RAI 35,23-3,Kyle Orton pass complete short middle to Brandon Marshall for 17 yards (tackle by Nnamdi Asomugha),17,1.000,4.370,3.37
+2009-11-15,Eagles,Chargers,4,8:34,4,4,SDG 28,16-28,Donovan McNabb pass complete deep middle to Brent Celek for 17 yards (tackle by Eric Weddle),17,1.650,4.840,3.19
+2009-12-20,Seahawks,Buccaneers,4,2:00,4,7,SEA 23,7-24,Matt Hasselbeck pass complete short middle to Deon Butler for 17 yards (tackle by Barrett Ruud),17,-1.830,1.600,3.43
+2010-01-03,Broncos,Chiefs,4,3:17,4,2,KAN 40,24-44,Kyle Orton pass complete short middle to Brandon Stokley for 17 yards (tackle by Jovan Belcher),17,0.590,4.040,3.45
+2009-10-11,Chiefs,Cowboys,4,0:29,4,7,DAL 16,19-20,Matt Cassel pass complete deep middle to Dwayne Bowe for 16 yards touchdown,16,2.380,7.000,4.62
+2009-11-01,Jets,Dolphins,4,2:05,4,10,MIA 28,25-30,Mark Sanchez pass complete deep left to Dustin Keller for 16 yards (tackle by Reggie Torbor). Penalty on Reggie Torbor: Defensive Pass Interfere (Declined),16,1.590,4.780,3.19
+2009-11-22,Raiders,Bengals,4,0:59,4,10,CIN 45,10-17,Bruce Gradkowski pass complete short middle to Chaz Schilens for 16 yards (tackle by Morgan Trent),16,0.270,3.640,3.37
+2009-10-04,Bengals,Browns,5,1:04,4,11,CLE 41,20-20,Carson Palmer middle for 15 yards (tackle by Brandon McDonald),15,0.530,3.840,3.31
+2009-10-25,Panthers,Bills,4,6:41,4,1,BUF 15,8-17,DeAngelo Williams middle for 15 yards touchdown,15,2.590,7.000,4.41
+2009-12-06,Buccaneers,Panthers,4,0:51,4,6,CAR 39,6-16,Josh Freeman pass complete short right to Maurice Stovall for 15 yards (tackle by Chris Gamble),15,0.660,3.970,3.31
+2009-12-20,49ers,Eagles,3,7:44,4,5,PHI 30,6-20,Alex Smith pass complete short left to Vernon Davis for 15 yards (tackle by Quintin Mikell),15,1.450,4.580,3.13
+2010-01-03,Jaguars,Browns,4,0:02,4,10,CLE 15,16-23,David Garrard pass complete short middle to Zach Miller for 15 yards touchdown,15,2.440,7.000,4.56
+2009-09-13,Lions,Saints,4,6:18,4,1,DET 36,27-45,Matthew Stafford pass complete short right to Bryant Johnson for 14 yards (tackle by Tracy Porter),14,-0.980,2.260,3.24
+2009-09-20,Vikings,Lions,4,2:18,4,2,DET 25,27-13,Tarvaris Jackson pass complete short right to Chester Taylor for 14 yards (tackle by Ernie Sims),14,1.930,4.840,2.91
+2009-10-18,Patriots,Titans,3,2:53,4,6,OTI 31,52-0,Brian Hoyer pass complete short left to Wes Welker for 14 yards (tackle by Keith Bulluck and William Hayes),14,1.340,4.440,3.10
+2009-11-15,Cowboys,Packers,4,7:58,4,10,GNB 43,0-17,Tony Romo pass complete short left to Patrick Crayton for 14 yards (tackle by Jarrett Bush),14,0.400,3.640,3.24
+2009-11-15,Jets,Jaguars,4,5:16,4,1,JAX 15,16-21,Shonn Greene left end for 14 yards (tackle by Justin Durant),14,2.590,6.970,4.38
+2009-12-19,Saints,Cowboys,4,1:27,4,10,NOR 20,17-24,Drew Brees pass complete short middle to Marques Colston for 14 yards (tackle by Keith Brooking),14,-2.030,1.200,3.23
+2009-12-27,Falcons,Bills,3,9:26,4,12,BUF 29,10-0,Matt Ryan pass complete short right to Roddy White for 14 yards (tackle by Ashton Youboty),14,1.500,4.580,3.08
+2010-02-07,Colts,Saints,4,12:56,4,2,NOR 46,17-16,Peyton Manning pass complete short left to Reggie Wayne for 14 yards (tackle by Tracy Porter),14,0.200,3.450,3.25
+2009-11-26,Lions,Packers,4,8:03,4,5,GNB 43,7-33,Matthew Stafford pass complete short middle to Will Heller for 13 yards (tackle by Nick Barnett),13,0.400,3.580,3.18
+2009-11-29,Titans,Cardinals,4,0:43,4,4,CRD 44,13-17,Vince Young pass complete short left to Lavelle Hawkins for 13 yards (tackle by Michael Adams),13,0.330,3.510,3.18
+2009-11-29,Jaguars,49ers,4,11:34,4,3,JAX 29,3-20,David Garrard pass complete short right to Maurice Jones-Drew for 13 yards (tackle by Shawntae Spencer),13,-1.440,1.730,3.17
+2009-12-06,Browns,Chargers,4,1:07,4,10,SDG 46,20-30,Brady Quinn pass complete short middle to Evan Moore for 13 yards (tackle by Stephen Cooper),13,0.200,3.380,3.18
+2009-12-06,Patriots,Dolphins,3,0:41,4,3,MIA 39,21-19,Tom Brady pass complete short left to Wes Welker for 13 yards (tackle by Sean Smith). Penalty on Sam Aiken: Offensive Pass Interfere 10 yards (no play),13,0.660,0.000,-0.66
+2009-12-06,Dolphins,Patriots,4,2:09,4,6,NWE 41,19-21,Chad Henne pass complete short right to Greg Camarillo for 13 yards (tackle by Darius Butler),13,0.530,3.710,3.18
+2009-12-13,Jaguars,Dolphins,4,10:04,4,1,JAX 35,10-14,Maurice Jones-Drew right end for 13 yards (tackle by Gibril Wilson),13,-1.040,2.130,3.17
+2009-12-20,Browns,Chiefs,4,12:58,4,1,KAN 21,27-24,Brady Quinn middle for 13 yards (tackle by Brandon Flowers),13,2.210,5.370,3.16
+2009-12-27,Falcons,Bills,4,6:36,4,1,BUF 23,24-3,Matt Ryan pass complete short right to Michael Jenkins for 13 yards (tackle by Donte Whitner),13,2.080,4.910,2.83
+2009-09-20,Lions,Vikings,4,4:27,4,7,DET 42,10-27,Matthew Stafford pass complete short right to Dennis Northcutt for 12 yards (tackle by Tyrell Johnson),12,-0.590,2.520,3.11
+2009-09-21,Dolphins,Colts,4,0:22,4,10,CLT 42,23-27,Chad Pennington pass complete short middle to Ted Ginn for 12 yards (tackle by Jacob Lacey),12,0.460,3.580,3.12
+2009-09-27,Bills,Saints,4,2:25,4,23,BUF 14,7-20,Trent Edwards pass complete short left to Fred Jackson for 12 yards (tackle by Will Smith and Scott Fujita),12,-2.470,-3.910,-1.44
+2009-09-27,Dolphins,Chargers,4,4:04,4,4,MIA 41,6-23,Chad Henne pass complete short middle to Davone Bess for 12 yards (tackle by Steve Gregory),12,-0.650,2.460,3.11
+2009-10-04,Seahawks,Colts,4,3:46,4,2,CLT 26,3-34,Seneca Wallace pass complete short left to John Carlson for 12 yards (tackle by Jerraud Powers),12,1.860,4.650,2.79
+2009-10-04,Chiefs,Giants,4,12:02,4,11,NYG 30,3-27,Matt Cassel pass complete short right to Bobby Engram for 12 yards (tackle by Corey Webster),12,1.410,4.370,2.96
+2009-10-04,Washington,Buccaneers,3,6:10,4,2,TAM 36,3-10,Jason Campbell pass complete short middle to Chris Cooley for 12 yards (tackle by Aqib Talib),12,0.890,3.970,3.08
+2009-12-20,Chiefs,Browns,4,2:26,4,6,CLE 12,33-34,Matt Cassel pass complete short middle to Mark Bradley for 12 yards touchdown,12,2.660,7.000,4.34
+2010-01-03,Saints,Panthers,3,2:46,4,1,CAR 39,3-23,Lynell Hamilton right tackle for 12 yards (tackle by Richard Marshall),12,0.660,3.780,3.12
+2010-01-03,Lions,Bears,4,11:48,4,3,CHI 33,13-20,Daunte Culpepper pass complete short middle to Calvin Johnson for 12 yards (tackle by Zackary Bowman and Josh Bullocks),12,1.190,4.170,2.98
+2009-09-20,Buccaneers,Bills,4,1:06,4,6,TAM 47,20-33,Byron Leftwich pass complete short left to Kellen Winslow for 11 yards (tackle by Ashton Youboty),11,-0.260,2.790,3.05
+2009-09-27,Bengals,Steelers,4,0:36,4,10,PIT 15,15-20,Carson Palmer pass complete short right to Brian Leonard for 11 yards (tackle by James Farrior),11,2.440,6.280,3.84
+2009-10-04,Chiefs,Giants,4,10:48,4,11,NYG 19,3-27,Matt Cassel pass complete short right to Dwayne Bowe for 11 yards (tackle by Corey Webster),11,2.180,5.370,3.19
+2009-11-02,Falcons,Saints,4,14:06,4,4,NOR 23,21-28,Matt Ryan pass complete short left to Tony Gonzalez for 11 yards (tackle by Darren Sharper),11,2.000,4.780,2.78
+2009-11-29,Seahawks,Rams,4,15:00,4,1,RAM 18,17-10,Justin Forsett right guard for 11 yards (tackle by Quincy Butler),11,2.400,5.600,3.20
+2009-12-13,Seahawks,Texans,4,3:55,4,5,SEA 46,7-34,Matt Hasselbeck pass complete short right to Deon Butler for 11 yards (tackle by Bernard Pollard and Brian Cushing),11,-0.320,2.720,3.04
+2009-12-13,Rams,Titans,4,13:08,4,8,OTI 11,6-33,Keith Null pass complete short right to Randy McMichael for 11 yards touchdown,11,2.700,7.000,4.30
+2009-12-20,Raiders,Broncos,4,2:22,4,10,DEN 43,13-19,JaMarcus Russell pass complete short middle to Tony Stewart for 11 yards (tackle by Wesley Woodyard),11,0.400,3.450,3.05
+2010-01-17,Vikings,Cowboys,4,2:00,4,3,DAL 11,33-3,Brett Favre pass complete short left to Visanthe Shiancoe for 11 yards touchdown,11,2.800,7.000,4.20
+2009-09-27,Cardinals,Colts,4,7:08,4,1,CLT 27,10-31,Kurt Warner pass complete short left to Larry Fitzgerald for 10 yards (tackle by Jacob Lacey),10,1.820,4.440,2.62
+2009-10-04,Titans,Jaguars,4,5:37,4,5,JAX 10,15-30,Kerry Collins left end for 10 yards touchdown,10,2.810,7.000,4.19
+2009-10-04,Chiefs,Giants,4,2:36,4,27,KAN 15,16-27,Matt Cassel pass complete short middle to Sean Ryan for 10 yards (tackle by Antonio Pierce),10,-2.440,-3.910,-1.47
+2009-10-18,Giants,Saints,4,13:18,4,8,NOR 20,17-41,Eli Manning pass complete short left to Domenik Hixon for 10 yards (tackle by Tracy Porter),10,2.120,4.910,2.79
+2009-10-18,Giants,Saints,4,12:26,4,10,NOR 10,17-41,Eli Manning pass complete short left to Domenik Hixon for 10 yards. Penalty on Shaun O'Hara: Offensive Holding 10 yards (no play),10,2.760,2.120,-0.64
+2009-11-01,Raiders,Chargers,4,2:28,4,7,RAI 46,16-24,JaMarcus Russell pass complete short right to Zach Miller for 10 yards (tackle by Stephen Cooper),10,-0.320,2.650,2.97
+2009-11-15,Cardinals,Seahawks,3,8:18,4,1,SEA 10,16-17,Beanie Wells right tackle for 10 yards touchdown,10,2.910,7.000,4.09
+2009-11-22,49ers,Packers,4,6:02,4,5,GNB 10,23-30,Alex Smith pass complete short right to Frank Gore for 10 yards touchdown,10,2.810,7.000,4.19
+2009-11-29,Titans,Cardinals,4,1:56,4,4,OTI 7,13-17,Vince Young pass complete short left to Kenny Britt for 10 yards (tackle by Bryant McFadden),10,-2.490,-0.060,2.43
+2009-11-29,Titans,Cardinals,4,0:06,4,10,CRD 10,19-17,Vince Young pass complete short middle to Kenny Britt for 10 yards touchdown,10,2.760,7.000,4.24
+2009-12-06,Texans,Jaguars,4,6:19,4,6,JAX 42,12-23,Matt Schaub pass complete short left to David Anderson for 10 yards (tackle by Derek Cox),10,0.460,3.450,2.99
+2009-12-20,Dolphins,Titans,4,9:22,4,2,OTI 29,9-24,Chad Henne pass complete short right to Joey Haynos for 10 yards (tackle by Nick Harper),10,1.600,4.310,2.71
+2009-09-13,Panthers,Eagles,4,2:00,4,1,PHI 27,10-38,Matt Moore pass complete short left to Steve Smith for 9 yards (tackle by Ellis Hobbs),9,1.820,4.370,2.55
+2009-09-20,Washington,Rams,4,3:47,4,1,RAM 20,9-7,Clinton Portis left tackle for 9 yards (tackle by Jonathan Wade and O.J. Atogwe),9,2.270,4.840,2.57
+2009-10-04,Giants,Chiefs,3,13:31,4,3,KAN 35,17-3,Ahmad Bradshaw right end for 9 yards (tackle by Jarrad Page and Glenn Dorsey),9,0.990,3.840,2.85
+2009-10-11,Buccaneers,Eagles,4,7:22,4,9,PHI 9,13-31,Josh Johnson pass complete short middle to Kellen Winslow for 9 yards touchdown,9,2.830,7.000,4.17
+2009-11-01,Broncos,Ravens,4,0:33,4,7,DEN 40,7-30,Kyle Orton pass complete short left to Brandon Marshall for 9 yards (tackle by Ray Lewis),9,-0.720,2.190,2.91
+2009-11-15,Rams,Saints,4,1:21,4,4,RAM 39,23-28,Marc Bulger pass complete short left to Brandon Gibson for 9 yards (tackle by Leigh Torrence),9,-0.780,2.130,2.91
+2009-11-29,Falcons,Buccaneers,4,7:21,4,4,TAM 34,13-17,Chris Redman pass complete short middle to Tony Gonzalez for 9 yards (tackle by Tanard Jackson),9,1.080,3.910,2.83
+2009-12-13,Panthers,Patriots,4,2:40,4,20,CAR 15,10-20,Matt Moore pass complete short right to DeAngelo Williams for 9 yards (tackle by Derrick Burgess and Brandon McGowan),9,-2.440,-3.970,-1.53
+2009-09-27,Patriots,Falcons,4,2:00,4,1,ATL 33,26-10,Tom Brady pass complete short left to Randy Moss for 8 yards (tackle by Chris Houston),8,1.210,3.910,2.70
+2009-09-27,Chiefs,Eagles,4,2:27,4,7,PHI 17,7-34,Matt Cassel pass complete short middle to Terrance Copper for 8 yards (tackle by Victor Harris),8,2.310,5.140,2.83
+2009-09-27,Buccaneers,Giants,4,7:25,4,3,NYG 28,0-24,Josh Johnson pass complete short left to Sammie Stroughter for 8 yards (tackle by C.C. Brown),8,1.680,4.240,2.56
+2009-10-26,Washington,Eagles,4,6:18,4,1,PHI 17,10-27,Jason Campbell pass complete short right to Fred Davis for 8 yards (tackle by Sean Jones and Joselio Hanson),8,2.460,5.140,2.68
+2009-11-08,49ers,Titans,4,1:44,4,1,OTI 34,20-34,Alex Smith pass complete short left to Vernon Davis for 8 yards (tackle by Michael Griffin). Penalty on Jacob Ford: Defensive Offside (Declined) Penalty on Michael Griffin: Face Mask (15 Yards) 13 yards,8,1.100,4.710,3.61
+2009-11-15,Falcons,Panthers,4,1:42,4,10,ATL 31,19-28,Matt Ryan pass complete short right to Roddy White for 8 yards (tackle by Landon Johnson),8,-1.310,-2.980,-1.67
+2009-11-22,Chargers,Broncos,4,0:39,4,1,DEN 8,32-3,Mike Tolbert middle for 8 yards touchdown,8,2.990,7.000,4.01
+2009-11-29,Bills,Dolphins,3,1:03,4,1,MIA 36,7-14,Ryan Fitzpatrick left end for 8 yards (tackle by Gibril Wilson and Yeremiah Bell),8,0.890,3.710,2.82
+2009-12-06,Vikings,Cardinals,4,3:07,4,2,MIN 24,10-30,Brett Favre pass complete short right to Sidney Rice for 8 yards (tackle by Matt Ware),8,-1.770,1.070,2.84
+2009-12-06,Chiefs,Broncos,4,6:13,4,10,DEN 13,13-44,Brodie Croyle pass complete short middle to Tim Castille for 8 yards (tackle by Darcel McBath),8,2.570,0.380,-2.19
+2009-09-13,Jaguars,Colts,4,11:12,4,2,CLT 7,12-14,Maurice Jones-Drew left end for 7 yards touchdown,7,3.000,7.000,4.00
+2009-09-28,Panthers,Cowboys,4,2:00,4,6,DAL 40,7-21,Jake Delhomme pass complete short left to Muhsin Muhammad for 7 yards (tackle by Mike Jenkins),7,0.590,3.380,2.79
+2009-10-25,Chiefs,Chargers,3,9:54,4,1,SDG 7,6-20,Matt Cassel pass complete short left to Dwayne Bowe for 7 yards touchdown,7,3.010,7.000,3.99
+2009-10-25,Giants,Cardinals,4,11:16,4,1,CRD 35,14-24,Brandon Jacobs left guard for 7 yards (tackle by Clark Haggans and Antrel Rolle),7,1.000,3.710,2.71
+2009-11-08,Buccaneers,Packers,4,4:20,4,4,GNB 7,29-28,Josh Freeman pass complete short right to Sammie Stroughter for 7 yards touchdown,7,2.990,7.000,4.01
+2009-11-22,Bears,Eagles,4,1:07,4,1,CHI 30,20-24,Jay Cutler pass complete short right to Johnny Knox for 7 yards (tackle by Quintin Mikell and Dimitri Patterson),7,-1.370,1.400,2.77
+2009-12-06,Bengals,Lions,4,9:43,4,1,DET 15,20-7,Cedric Benson right tackle for 7 yards (tackle by Jordon Dizon and Marvin White),7,2.590,5.370,2.78
+2009-12-13,Broncos,Colts,4,2:00,4,18,DEN 12,16-28,Kyle Orton pass complete short middle to Brandon Marshall for 7 yards lateral to Chris Kuper for 7 yards (tackle by T.J. Rushing),7,-2.490,-3.840,-1.35
+2009-12-13,Giants,Eagles,4,3:04,4,4,PHI 25,31-45,Eli Manning pass complete short middle to Mario Manningham for 7 yards (tackle by Sheldon Brown),7,1.880,4.370,2.49
+2009-12-13,Titans,Rams,3,4:05,4,3,RAM 16,26-0,Kerry Collins pass complete short right to Bo Scaife for 7 yards (tackle by James Laurinaitis),7,2.480,5.140,2.66
+2010-01-10,Patriots,Ravens,4,9:00,4,7,RAV 39,14-33,Tom Brady pass complete short left to Julian Edelman for 7 yards (tackle by Tom Zbikowski and Corey Ivy). Penalty on Matt Slater: Illegal Block Above the  10 yards (no play),7,0.660,0.000,-0.66
+2009-09-13,Dolphins,Falcons,4,4:10,4,4,ATL 15,0-19,Chad Pennington pass complete short right to Brian Hartline for 6 yards (tackle by Erik Coleman),6,2.520,5.140,2.62
+2009-09-13,Eagles,Panthers,4,10:44,4,3,CAR 35,38-10,Kevin Kolb pass complete short right to Brent Celek for 6 yards,6,0.990,3.640,2.65
+2009-09-20,Buccaneers,Bills,4,5:32,4,6,BUF 6,20-30,Byron Leftwich pass complete short middle to Jerramy Stevens for 6 yards touchdown,6,2.990,7.000,4.01
+2009-09-27,Washington,Lions,4,0:08,4,10,DET 36,14-19,Jason Campbell pass complete short middle to Santana Moss for 6 yards lateral to Antwaan Randle El for -2 yards lateral to Ladell Betts for 9 yards (tackle by Larry Foote),6,0.880,1.730,.85
+2009-09-27,Seahawks,Bears,4,0:52,4,1,CHI 43,19-25,Seneca Wallace pass complete short right to John Owens for 6 yards (tackle by Adewale Ogunleye),6,0.400,3.120,2.72
+2009-10-11,Bengals,Ravens,4,1:47,4,1,CIN 34,10-14,Carson Palmer middle for 6 yards (tackle by Ray Lewis),6,-1.110,1.600,2.71
+2009-11-08,49ers,Titans,4,1:26,4,6,OTI 9,20-34,Alex Smith pass complete short right to Frank Gore for 6 yards (tackle by Cortland Finnegan),6,2.850,6.510,3.66
+2009-12-06,Browns,Chargers,4,11:33,4,3,SDG 31,7-27,Brady Quinn pass complete short left to Josh Cribbs for 6 yards (tackle by Kevin Burnett),6,1.380,3.910,2.53
+2009-12-13,Seahawks,Texans,4,5:57,4,16,HTX 22,7-34,Matt Hasselbeck pass complete short right to Justin Forsett for 6 yards (tackle by Connor Barwin),6,1.990,0.140,-1.85
+2009-12-13,Patriots,Panthers,4,1:55,4,1,CAR 15,20-10,Laurence Maroney middle for 6 yards (tackle by Charles Johnson and Charles Godfrey),6,2.590,5.140,2.55
+2009-12-20,Falcons,Jets,4,1:42,4,6,NYJ 6,9-7,Matt Ryan pass complete short right to Tony Gonzalez for 6 yards touchdown,6,2.990,7.000,4.01
+2009-12-28,Vikings,Bears,4,0:22,4,6,CHI 6,29-30,Brett Favre pass complete short left to Sidney Rice for 6 yards touchdown,6,2.990,7.000,4.01
+2010-01-03,Browns,Jaguars,3,4:08,4,1,JAX 6,19-3,Jerome Harrison left tackle for 6 yards touchdown,6,3.020,7.000,3.98
+2009-09-27,Bengals,Steelers,4,1:00,4,2,PIT 20,15-20,Carson Palmer pass complete short right to Laveranues Coles for 5 yards (tackle by Ike Taylor),5,2.250,4.580,2.33
+2009-10-18,Patriots,Titans,4,11:40,4,7,OTI 11,59-0,Brian Hoyer pass complete short left to Julian Edelman for 5 yards (tackle by Michael Griffin and Kyle Vanden Bosch),5,2.700,0.380,-2.32
+2009-10-18,Titans,Patriots,4,7:02,4,1,NWE 41,0-59,Ahmard Hall left guard for 5 yards (tackle by Brandon McGowan). Ahmard Hall fumbles (forced by Brandon McGowan) recovered by Junior Seau at NWE-30 (tackle by Justin Gage),5,0.530,-0.940,-1.47
+2009-11-08,49ers,Titans,4,13:07,4,1,OTI 15,17-17,Frank Gore left end for 5 yards (tackle by William Hayes),5,2.590,4.910,2.32
+2009-11-29,Falcons,Buccaneers,4,0:26,4,5,TAM 5,19-17,Chris Redman pass complete short left to Roddy White for 5 yards touchdown,5,3.010,7.000,3.99
+2009-12-06,Falcons,Eagles,3,5:59,4,2,PHI 32,0-20,Chris Redman pass complete short left to Tony Gonzalez for 5 yards,5,1.300,3.780,2.48
+2009-09-13,Bears,Packers,4,12:43,4,11,CHI 26,12-10,Garrett Wolfe middle for 4 yards (tackle by Brett Swain and Desmond Bishop),4,-1.630,-3.580,-1.95
+2009-09-20,Texans,Titans,3,4:12,4,2,OTI 37,24-31,Matt Schaub pass complete short left to Joel Dreessen for 4 yards (tackle by Vincent Fuller),4,0.790,3.380,2.59
+2009-09-27,Jaguars,Texans,4,15:00,4,1,HTX 12,24-24,Maurice Jones-Drew left end for 4 yards (tackle by Dominique Barber and Brian Cushing),4,2.780,5.370,2.59
+2009-09-27,Chiefs,Eagles,3,6:43,4,2,KAN 40,7-27,Jon McGraw left end for 4 yards (tackle by Eldra Buckley),4,-0.720,1.860,2.58
+2009-10-04,Patriots,Ravens,4,7:18,4,4,RAV 9,24-21,Chris Hanson pass complete short left to Chris Baker for 4 yards. Penalty on Chris Baker: Illegal Motion 6 yards (no play),4,2.900,2.440,-0.46
+2009-10-11,Jaguars,Seahawks,3,12:15,4,1,SEA 46,0-20,Maurice Jones-Drew left end for 4 yards (tackle by Jordan Babineaux),4,0.200,2.790,2.59
+2009-11-22,Falcons,Giants,4,9:24,4,1,NYG 35,17-31,Jason Snelling left end for 4 yards (tackle by Michael Johnson and Aaron Rouse),4,1.000,3.510,2.51
+2009-11-22,Saints,Buccaneers,4,4:59,4,1,NOR 36,38-7,Lynell Hamilton right guard for 4 yards (tackle by Tanard Jackson),4,-0.980,1.600,2.58
+2009-12-13,Seahawks,Texans,3,0:09,4,7,HTX 30,7-34,Matt Hasselbeck pass complete short middle to T.J. Houshmandzadeh for 4 yards (tackle by Glover Quin),4,1.410,-0.670,-2.08
+2009-12-13,Ravens,Lions,4,1:20,4,1,DET 23,48-3,Le'Ron McClain left guard for 4 yards (tackle by Marvin White),4,2.080,4.310,2.23
+2009-12-27,Rams,Cardinals,4,1:39,4,5,CRD 29,10-31,Keith Null pass complete short middle to Danny Amendola for 4 yards (tackle by Rashad Johnson),4,1.540,-0.610,-2.15
+2010-01-10,Packers,Cardinals,3,6:43,4,1,CRD 48,17-31,Ahman Green right tackle for 4 yards (tackle by Gabe Watson and Antrel Rolle),4,0.070,2.650,2.58
+2009-09-20,Eagles,Saints,3,0:34,4,3,NOR 3,19-34,Kevin Kolb pass complete short right to Jason Avant for 3 yards touchdown,3,3.040,7.000,3.96
+2009-10-04,Giants,Chiefs,4,0:22,4,6,KAN 21,27-16,Brandon Jacobs right end for 3 yards (tackle by Demorrio Williams),3,2.080,-0.040,-2.12
+2009-10-04,Bills,Dolphins,4,14:55,4,2,MIA 3,9-31,Trent Edwards pass complete short right to Josh Reed for 3 yards touchdown,3,3.050,7.000,3.95
+2009-11-15,Falcons,Panthers,4,13:50,4,1,CAR 3,19-21,Matt Ryan pass complete short right to Justin Peelle for 3 yards touchdown. Penalty on Chris Gamble: Defensive Holding (Declined) Penalty on Sherrod Martin: Defensive Holding (Declined),3,3.060,7.000,3.94
+2009-11-22,Rams,Cardinals,4,0:28,4,17,RAM 19,13-21,Marc Bulger left guard for 3 yards (tackle by Calais Campbell). Marc Bulger fumbles (forced by Calais Campbell) recovered by Brandon Gibson at STL-22. Penalty on Alex Barron: Offensive Holding (Declined),3,-2.140,-4.110,-1.97
+2009-11-26,Giants,Broncos,4,3:49,4,1,NYG 40,6-26,Eli Manning middle for 3 yards (tackle by Vonnie Holliday),3,-0.720,1.800,2.52
+2009-11-29,Panthers,Jets,4,0:16,4,12,CAR 17,6-17,Jake Delhomme pass complete short middle to DeAngelo Williams for 3 yards. Penalty on DeAngelo Williams: Illegal Forward Pass,3,-2.320,-0.280,2.04
+2009-12-27,Patriots,Jaguars,4,3:16,4,1,JAX 16,35-7,Fred Taylor left end for 3 yards (tackle by Chris Harrington and Derek Cox),3,2.530,4.710,2.18
+2009-12-27,Lions,49ers,4,2:00,4,1,DET 41,6-20,Daunte Culpepper pass complete short right to Calvin Johnson for 3 yards (tackle by Dre' Bly). Calvin Johnson fumbles (forced by Dre' Bly) recovered by Dre' Bly at DET-44 and returned for 2 yards (tackle by Calvin Johnson),3,-0.650,-2.790,-2.14
+2009-09-13,Jets,Texans,4,2:00,4,1,HTX 29,24-7,Tony Richardson middle for 2 yards (tackle by Brice McCain),2,1.620,3.780,2.16
+2009-09-13,Buccaneers,Cowboys,4,1:31,4,2,DAL 2,20-34,Byron Leftwich pass complete short right to Kellen Winslow for 2 yards touchdown,2,3.250,7.000,3.75
+2009-09-20,Falcons,Panthers,3,8:56,4,1,CAR 15,21-13,Matt Ryan middle for 2 yards (tackle by Julius Peppers),2,2.590,4.710,2.12
+2009-09-20,Texans,Titans,4,5:16,4,1,OTI 15,31-31,Matt Schaub middle for 2 yards (tackle by Jovan Haye and Keith Bulluck),2,2.590,4.710,2.12
+2009-09-27,Saints,Bills,3,9:19,4,1,NOR 45,10-7,Drew Brees right end for 2 yards (tackle by Terrence McGee),2,-0.390,2.060,2.45
+2009-09-27,Patriots,Falcons,3,5:19,4,1,NWE 24,16-10,Sammy Morris middle for 2 yards (tackle by Curtis Lofton and Jamaal Anderson),2,-1.770,0.670,2.44
+2009-09-27,Rams,Packers,3,10:25,4,1,GNB 44,14-23,Kyle Boller middle for 2 yards (tackle by Ryan Pickett),2,0.330,2.790,2.46
+2009-09-27,Chargers,Dolphins,4,0:35,4,4,MIA 4,23-13,Darren Sproles right end for 2 yards (tackle by Will Allen),2,3.030,0.380,-2.65
+2009-10-04,Bengals,Browns,4,2:02,4,2,CLE 2,20-20,Carson Palmer pass complete short middle to Chad Johnson for 2 yards touchdown,2,3.250,7.000,3.75
+2009-10-04,Chiefs,Giants,4,5:01,4,2,NYG 2,15-27,Matt Cassel pass complete short right to Bobby Wade for 2 yards touchdown,2,3.250,7.000,3.75
+2009-10-11,Seahawks,Jaguars,4,4:17,4,1,JAX 33,41-0,Edgerrin James right guard for 2 yards (tackle by Brian Iwuh),2,1.210,3.510,2.30
+2009-10-18,Panthers,Buccaneers,3,12:50,4,1,TAM 3,7-7,DeAngelo Williams left guard for 2 yards (tackle by Tim Crowder and Aqib Talib),2,3.060,6.970,3.91
+2009-10-25,Bears,Bengals,3,12:44,4,1,CHI 36,3-31,Jay Cutler middle for 2 yards (tackle by Dhani Jones),2,-0.980,1.470,2.45
+2009-11-01,Colts,49ers,4,0:09,4,1,SFO 18,18-14,Joseph Addai right tackle for 2 yards (tackle by Patrick Willis and Justin Smith),2,2.400,4.240,1.84
+2009-11-01,Vikings,Packers,4,0:33,4,7,GNB 24,38-26,Chester Taylor left end for 2 yards (tackle by Atari Bigby and A.J. Hawk),2,1.870,-0.480,-2.35
+2009-11-01,Broncos,Ravens,3,10:44,4,1,RAV 6,0-13,Kyle Orton pass complete short right to Brandon Marshall for 2 yards (tackle by Dawan Landry). Penalty on Ed Reed: Defensive Offside 3 yards (no play),2,3.020,6.510,3.49
+2009-11-08,Dolphins,Patriots,3,11:25,4,1,NWE 44,10-16,Lousaka Polite middle for 2 yards (tackle by Myron Pryor and Jerod Mayo),2,0.330,2.790,2.46
+2009-11-08,Titans,49ers,4,7:18,4,1,SFO 2,23-20,Chris Johnson left end for 2 yards touchdown,2,3.250,7.000,3.75
+2009-11-15,Cowboys,Packers,4,1:37,4,1,GNB 24,0-17,Tony Romo middle for 2 yards (tackle by Nick Barnett),2,2.020,4.110,2.09
+2009-11-16,Browns,Ravens,3,3:24,4,1,CLE 47,0-16,Brady Quinn for 2 yards (tackle by Kelly Gregg),2,-0.260,2.190,2.45
+2009-11-16,Ravens,Browns,4,0:26,4,8,CLE 37,16-0,Willis McGahee left guard for 2 yards (tackle by Brodney Pool),2,0.790,-1.270,-2.06
+2009-11-22,Jets,Patriots,3,12:19,4,1,NYJ 44,7-24,Mark Sanchez middle for 2 yards (tackle by Ron Brace and Mike Wright),2,-0.460,1.990,2.45
+2009-11-22,Rams,Cardinals,4,9:15,4,1,CRD 27,6-21,Steven Jackson middle for 2 yards (tackle by Gabe Watson),2,1.820,3.910,2.09
+2009-11-29,Colts,Texans,3,3:09,4,1,CLT 44,14-20,Joseph Addai right end for 2 yards (tackle by Brian Cushing),2,-0.460,1.990,2.45
+2009-12-06,Dolphins,Patriots,3,4:56,4,1,NWE 9,13-21,Lousaka Polite middle for 2 yards (tackle by Adalius Thomas),2,2.980,5.600,2.62
+2009-12-06,Raiders,Steelers,4,12:51,4,1,PIT 48,6-10,Bruce Gradkowski middle for 2 yards (tackle by Nick Eason),2,0.070,2.520,2.45
+2009-12-13,Ravens,Lions,3,10:01,4,1,DET 39,20-3,Joe Flacco middle for 2 yards (tackle by Kalvin Pearson),2,0.660,3.120,2.46
+2009-12-13,Buccaneers,Jets,3,7:03,4,1,NYJ 32,0-19,Earnest Graham right guard for 2 yards (tackle by Howard Green),2,1.310,3.580,2.27
+2009-12-20,Bills,Patriots,4,7:53,4,1,NWE 45,3-17,Marshawn Lynch left guard for 2 yards (tackle by Jerod Mayo and Tully Banta-Cain),2,0.270,2.720,2.45
+2009-12-20,Raiders,Broncos,4,15:00,4,3,DEN 3,13-16,Darren McFadden right end for 2 yards (tackle by Mario Haggan and Andra Davis),2,3.040,0.380,-2.66
+2009-12-20,Jets,Falcons,3,13:39,4,1,ATL 43,7-3,Mark Sanchez middle for 2 yards (tackle by Kroy Biermann),2,0.400,2.850,2.45
+2009-12-20,Dolphins,Titans,4,1:38,4,1,OTI 2,22-24,Chad Henne pass complete short right to Anthony Fasano for 2 yards touchdown,2,3.250,7.000,3.75
+2009-12-20,Ravens,Bears,4,2:15,4,1,CHI 28,31-7,Troy Smith middle for 2 yards (tackle by Anthony Adams and Hunter Hillenmeyer),2,1.720,3.840,2.12
+2009-12-25,Chargers,Titans,4,4:13,4,1,OTI 31,42-17,Mike Tolbert right guard for 2 yards (tackle by Jovan Haye and Colin Allred),2,1.410,3.640,2.23
+2009-12-27,Falcons,Bills,4,1:13,4,1,BUF 15,31-3,Chris Redman middle for 2 yards (tackle by Paul Posluszny),2,2.590,4.710,2.12
+2009-12-27,Jaguars,Patriots,3,13:03,4,1,JAX 35,0-28,David Garrard middle for 2 yards (tackle by Jerod Mayo and Myron Pryor),2,-1.040,1.400,2.44
+2009-12-27,Patriots,Jaguars,4,6:05,4,1,JAX 27,35-7,Tom Brady middle for 2 yards (tackle by Daryl Smith),2,1.820,3.910,2.09
+2010-01-03,Jaguars,Browns,3,11:24,4,1,CLE 31,3-13,David Garrard middle for 2 yards (tackle by Brian Schaefering),2,1.410,3.640,2.23
+2010-01-03,Jets,Bengals,4,13:16,4,1,CIN 17,30-0,Thomas Jones right tackle for 2 yards (tackle by Abdul Hodge),2,2.460,4.580,2.12
+2010-01-17,Jets,Chargers,4,1:09,4,1,SDG 29,17-14,Thomas Jones middle for 2 yards (tackle by Luis Castillo),2,1.620,3.780,2.16
+2010-01-24,Saints,Vikings,5,12:40,4,1,MIN 43,28-28,Pierre Thomas left guard for 2 yards (tackle by Chad Greenway),2,0.400,2.850,2.45
+2009-09-13,Bears,Packers,3,11:00,4,1,GNB 37,2-10,Jay Cutler middle for 1 yard (tackle by Johnny Jolly and Ryan Pickett),1,0.790,3.180,2.39
+2009-09-13,Ravens,Chiefs,4,0:36,4,1,KAN 1,37-24,Willis McGahee right guard for 1 yard touchdown,1,3.550,7.000,3.45
+2009-09-20,Falcons,Panthers,3,1:13,4,1,CAR 21,21-13,Matt Ryan middle for 1 yard (tackle by Damione Lewis),1,2.210,4.240,2.03
+2009-09-27,Raiders,Broncos,3,8:22,4,1,RAI 49,3-20,JaMarcus Russell middle for 1 yard. Penalty on Kenny Peterson: Defensive Offside 5 yards,1,-0.130,2.590,2.72
+2009-10-04,Browns,Bengals,3,1:44,4,1,CIN 1,13-14,Derek Anderson right end for 1 yard touchdown,1,3.550,7.000,3.45
+2009-10-04,Dolphins,Bills,3,4:43,4,1,BUF 8,24-3,Ronnie Brown middle for 1 yard (tackle by Kawika Mitchell),1,2.990,5.600,2.61
+2009-11-08,Washington,Falcons,3,7:14,4,1,ATL 1,9-24,Ladell Betts left guard for 1 yard touchdown,1,3.550,7.000,3.45
+2009-11-15,Patriots,Colts,4,2:08,4,2,NWE 28,34-28,Tom Brady pass complete short right to Kevin Faulk for 1 yard (tackle by Melvin Bullitt),1,-1.500,-3.640,-2.14
+2009-11-15,Steelers,Bengals,4,13:35,4,1,CIN 12,9-12,Ben Roethlisberger middle for 1 yard (tackle by Domata Peko and Robert Geathers),1,2.780,4.840,2.06
+2009-11-19,Dolphins,Panthers,4,0:44,4,3,CAR 28,24-17,Lex Hilliard middle for 1 yard (tackle by Jon Beason),1,1.680,-0.810,-2.49
+2009-11-22,Lions,Browns,4,4:21,4,1,DET 49,31-37,Matthew Stafford middle for 1 yard (tackle by C.J. Mosley),1,-0.130,2.260,2.39
+2009-11-29,Dolphins,Bills,3,9:07,4,1,BUF 28,7-7,Lousaka Polite middle for 1 yard (tackle by Kyle Williams and Drayton Florence),1,1.720,3.780,2.06
+2009-11-29,Browns,Bengals,4,15:00,4,1,CLE 49,7-16,Brady Quinn middle for 1 yard (tackle by Brandon Johnson),1,-0.130,2.260,2.39
+2009-11-29,Bengals,Browns,4,7:02,4,1,CLE 39,16-7,Carson Palmer middle for 1 yard. Penalty on John Paul Foschi: False Start 5 yards (no play),1,0.660,0.330,-0.33
+2009-12-06,Eagles,Falcons,3,12:30,4,1,ATL 46,13-0,Eldra Buckley left guard for 1 yard (tackle by Thomas Johnson),1,0.200,2.590,2.39
+2009-12-13,Falcons,Saints,4,1:18,4,2,NOR 46,23-26,Chris Redman pass complete short middle to Jason Snelling for 1 yard (tackle by Jonathan Vilma),1,0.200,-1.930,-2.13
+2009-12-13,Seahawks,Texans,4,2:36,4,2,HTX 35,7-34,Justin Forsett left guard for 1 yard (tackle by DeMeco Ryans),1,0.990,-1.200,-2.19
+2009-12-13,Giants,Eagles,3,9:26,4,1,PHI 1,23-30,Brandon Jacobs right guard for 1 yard touchdown,1,3.550,7.000,3.45
+2009-12-13,Titans,Rams,4,7:39,4,1,RAM 1,39-7,Kerry Collins pass complete short right to Alge Crumpler for 1 yard touchdown. Penalty on James Butler: Defensive Holding (Declined),1,3.550,7.000,3.45
+2009-12-14,Cardinals,49ers,4,14:11,4,1,SFO 1,9-17,Beanie Wells right guard for 1 yard touchdown,1,3.550,7.000,3.45
+2009-12-17,Jaguars,Colts,3,10:58,4,1,CLT 30,17-21,David Garrard middle for 1 yard (tackle by Antonio Johnson),1,1.520,3.640,2.12
+2009-12-20,49ers,Eagles,4,5:12,4,1,PHI 26,13-27,Alex Smith middle for 1 yard (tackle by Mike Patterson),1,1.890,3.910,2.02
+2009-12-27,Jets,Colts,4,1:10,4,2,CLT 34,29-15,Thomas Jones middle for 1 yard (tackle by Jamie Silva and John Gill),1,1.100,-1.140,-2.24
+2010-01-03,Lions,Bears,3,13:08,4,8,DET 38,10-13,id_ for 1 yard (tackle by Gaines Adams). (forced by Gaines Adams) recovered by DeAndre Levy at DET-39,1,-0.850,-2.980,-2.13
+2010-01-03,Vikings,Giants,3,6:18,4,1,NYG 1,40-0,Brett Favre pass complete short left to Naufahu Tahi for 1 yard touchdown,1,3.550,7.000,3.45
+2009-09-13,Colts,Jaguars,4,2:06,4,1,JAX 35,14-12,Donald Brown right end for no gain (tackle by Terrance Knighton and Daryl Smith),0,1.000,-1.270,-2.27
+2009-09-20,Broncos,Browns,4,1:53,4,3,CLE 32,27-6,LaMont Jordan left end for no gain (tackle by Brandon McDonald),0,1.290,-1.070,-2.36
+2009-09-20,Eagles,Saints,4,5:17,4,5,NOR 5,20-41,Kevin Kolb pass complete short right to Jason Avant for no gain. Penalty on Winston Justice: False Start (Declined) Penalty on Ellis Hobbs: Illegal Formation (Declined),0,3.010,0.380,-2.63
+2009-10-04,Broncos,Cowboys,3,0:03,4,1,DAL 30,7-10,Knowshon Moreno left guard for no gain (tackle by Keith Brooking),0,1.520,-0.940,-2.46
+2009-10-04,Chiefs,Giants,4,5:56,4,11,NYG 11,9-27,Matt Cassel pass incomplete short left intended for Dwayne Bowe (defended by Corey Webster). Penalty on Corey Webster: Defensive Pass Interfere 10 yards (no play),0,2.700,6.970,4.27
+2009-10-04,Saints,Jets,3,3:52,4,1,NYJ 28,17-10,Pierre Thomas left tackle for no gain (tackle by Sione Pouha),0,1.720,-0.810,-2.53
+2009-10-04,Ravens,Patriots,4,5:17,4,1,RAV 45,21-27,Willis McGahee right guard for no gain (tackle by Gary Guyton and Brandon McGowan),0,-0.390,-2.590,-2.20
+2009-10-11,Texans,Cardinals,4,0:47,4,1,CRD 1,21-28,Chris Brown middle for no gain (tackle by Ali Highsmith),0,3.550,0.380,-3.17
+2009-10-25,Bengals,Bears,4,3:48,4,4,CHI 28,45-10,Cedric Benson right end for no gain (tackle by Nick Roach and Alex Brown),0,1.650,-0.810,-2.46
+2009-10-25,Chiefs,Chargers,3,10:53,4,1,SDG 25,0-20,Matt Cassel pass incomplete short left intended for Dwayne Bowe. Penalty on Quentin Jammer: Defensive Pass Interfere 9 yards (no play),0,1.950,4.510,2.56
+2009-10-25,Chargers,Chiefs,3,0:44,4,1,KAN 1,27-7,LaDainian Tomlinson left tackle for no gain (tackle by Demorrio Williams),0,3.550,0.380,-3.17
+2009-10-26,Washington,Eagles,4,4:42,4,4,PHI 4,10-27,Jason Campbell for no gain. Jason Campbell fumbles recovered by Brodrick Bunkley at PHI-9 (tackle by Derrick Dockery),0,3.030,0.380,-2.65
+2009-11-01,Raiders,Chargers,4,1:00,4,20,RAI 46,16-24,JaMarcus Russell pass incomplete short middle intended for Johnnie Lee Higgins. Penalty on Mario Henderson: Offensive Holding (Declined),0,-0.320,-2.520,-2.20
+2009-11-08,Bears,Cardinals,3,6:29,4,4,CRD 35,7-34,Jay Cutler pass incomplete short right intended for Greg Olsen. Penalty on Jay Cutler: Unsportsmanlike Conduct 15 yards,0,0.980,-2.260,-3.24
+2009-11-08,Bengals,Ravens,4,0:14,4,4,RAV 25,17-7,Brian Leonard middle for no gain (tackle by Dwan Edwards),0,1.880,-0.610,-2.49
+2009-11-08,Eagles,Cowboys,4,11:01,4,1,DAL 45,13-13,Donovan McNabb middle for no gain (tackle by Marcus Spears),0,0.270,-1.930,-2.20
+2009-11-12,49ers,Bears,3,9:34,4,1,CHI 46,7-3,Alex Smith middle for no gain (tackle by Lance Briggs and Adewale Ogunleye),0,0.200,-1.990,-2.19
+2009-11-12,Bears,49ers,4,2:31,4,10,CHI 20,6-10,Jay Cutler pass incomplete short right intended for Greg Olsen. Penalty on Dre' Bly: Illegal Contact 5 yards (no play),0,-2.030,0.610,2.64
+2009-11-15,Rams,Saints,4,0:01,4,1,NOR 32,23-28,Marc Bulger pass incomplete deep right intended for Danny Amendola. Penalty on Alex Barron: Offensive Holding (Declined),0,1.310,1.070,-0.24
+2009-11-22,Rams,Cardinals,4,11:14,4,7,CRD 41,6-21,Marc Bulger pass incomplete short middle intended for Brandon Gibson. Penalty on Michael Adams: Defensive Holding 5 yards (no play),0,0.530,3.180,2.65
+2009-11-29,Buccaneers,Falcons,4,12:59,4,8,ATL 39,17-13,Dirk Johnson pass incomplete short middle intended for John Gilmore (defended by Erik Coleman). Penalty on Adam Hayward: Ineligible Downfield Pas (Declined),0,0.660,-1.530,-2.19
+2009-11-29,Chiefs,Chargers,3,1:51,4,7,50,14-38,Matt Cassel for no gain. Matt Cassel fumbles recovered by Matt Cassel at KAN-39,0,-0.060,-2.980,-2.92
+2009-12-06,Chargers,Browns,4,13:54,4,1,CLE 32,27-7,Jacob Hester right guard for no gain (tackle by Matt Roth),0,1.310,-1.070,-2.38
+2009-12-06,Saints,Washington,3,9:26,4,1,WAS 43,17-20,Mike Bell right tackle for no gain (tackle by Albert Haynesworth and Rocky McIntosh),0,0.400,-1.860,-2.26
+2009-12-13,Seahawks,Texans,3,1:25,4,2,SEA 48,7-34,Matt Hasselbeck pass incomplete deep right intended for Deion Branch. Penalty on Brice McCain: Defensive Holding 5 yards (no play),0,-0.190,2.460,2.65
+2009-12-13,Lions,Ravens,4,6:31,4,1,DET 23,3-41,Daunte Culpepper middle for no gain (tackle by Kelly Gregg and Dwan Edwards),0,-1.830,-4.040,-2.21
+2009-12-13,Buccaneers,Jets,4,7:04,4,6,NYJ 40,3-26,Josh Freeman pass incomplete short right intended for Antonio Bryant (defended by Darrelle Revis). Penalty on TAM: Illegal Substitution (Declined),0,0.590,-1.600,-2.19
+2009-12-20,Lions,Cardinals,4,9:41,4,1,CRD 8,17-24,Jerome Felton left tackle for no gain (tackle by Darnell Dockett),0,2.990,0.380,-2.61
+2009-12-27,Raiders,Browns,4,4:27,4,2,CLE 2,9-23,Charlie Frye pass incomplete short right intended for Louis Murphy (defended by Mike Adams). Penalty on Chaz Schilens: Offensive Pass Interfere (Declined),0,3.250,0.380,-2.87
+2009-12-27,Lions,49ers,4,14:06,4,8,SFO 38,3-20,Drew Stanton pass incomplete short middle intended for Calvin Johnson. Penalty on Dashon Goldson: Defensive Pass Interfere 9 yards (no play),0,0.720,3.640,2.92
+2009-12-27,Cowboys,Washington,3,10:50,4,1,WAS 35,14-0,Marion Barber middle for no gain (tackle by Albert Haynesworth and H.B. Blades),0,1.000,-1.270,-2.27
+2009-12-27,Cowboys,Washington,3,0:55,4,1,WAS 30,14-0,Marion Barber right guard for no gain (tackle by H.B. Blades),0,1.520,-0.940,-2.46
+2010-01-16,Saints,Cardinals,4,8:33,4,1,CRD 25,45-14,David Thomas left end for no gain (tackle by Greg Toler),0,1.950,-0.610,-2.56
+2009-09-13,Panthers,Eagles,4,0:39,4,1,PHI 1,10-38,DeAngelo Williams right end for -1 yards (tackle by Juqua Parker and Brodrick Bunkley),-1,3.550,0.380,-3.17
+2009-09-20,Buccaneers,Bills,3,5:01,4,1,BUF 43,14-20,Derrick Ward left tackle for -1 yards (tackle by Marcus Buggs and Donte Whitner),-1,0.400,-1.860,-2.26
+2009-09-20,Saints,Eagles,4,3:41,4,14,NOR 1,41-22,Drew Brees right end for -1 yards. Drew Brees fumbles safety,-1,-2.490,-2.000,.49
+2009-10-18,Patriots,Titans,4,0:39,4,12,OTI 39,59-0,Brian Hoyer kneels for -1 yards,-1,0.660,-1.600,-2.26
+2009-10-25,Chiefs,Chargers,4,7:12,4,1,SDG 39,7-37,Larry Johnson left end for -1 yards (tackle by Shawne Merriman),-1,0.660,-1.600,-2.26
+2009-10-26,Eagles,Washington,4,0:45,4,20,WAS 42,27-17,Donovan McNabb kneels for -1 yards,-1,0.460,1.660,1.20
+2009-11-15,Saints,Rams,4,7:17,4,2,RAM 31,28-17,Kyle Eckel right tackle for -1 yards (tackle by LaJuan Ramsey),-1,1.400,-1.070,-2.47
+2009-11-15,Rams,Saints,4,6:30,4,1,RAM 41,17-28,Steven Jackson middle for -1 yards (tackle by DeMario Pressley),-1,-0.650,-2.920,-2.27
+2009-09-20,Washington,Rams,4,2:00,4,1,RAM 2,9-7,Clinton Portis left end for -2 yards (tackle by David Vobora),-2,3.250,0.380,-2.87
+2009-10-25,Panthers,Bills,3,6:08,4,1,BUF 13,2-7,Jonathan Stewart left tackle for -2 yards (tackle by Chris Draft and Paul Posluszny),-2,2.720,0.220,-2.50
+2009-11-08,Washington,Falcons,4,6:12,4,1,ATL 44,17-31,Todd Collins pass complete short right to Mike Sellers for -2 yards (tackle by Mike Peterson and Curtis Lofton),-2,0.330,-1.990,-2.32
+2009-11-15,Washington,Broncos,3,4:37,4,1,DEN 28,14-17,Rock Cartwright right end for -2 yards (tackle by Brian Dawkins). Penalty on Mike Sellers: Offensive Holding (Declined),-2,1.720,-1.000,-2.72
+2009-12-13,Raiders,Washington,4,6:53,4,14,RAI 46,13-31,JaMarcus Russell sacked by Andre Carter for -2 yards,-2,-0.320,-2.650,-2.33
+2009-12-27,Patriots,Jaguars,4,0:33,4,2,JAX 5,35-7,Sammy Morris middle for -2 yards (tackle by Jeremy Navarre and Daryl Smith),-2,3.030,0.380,-2.65
+2009-11-01,Bills,Texans,4,12:27,4,2,BUF 40,10-17,Justin Jenkins left tackle for -3 yards (tackle by James Casey),-3,-0.720,-3.120,-2.40
+2009-09-13,Chiefs,Ravens,4,1:39,4,18,KAN 13,24-31,Brodie Croyle sacked by Trevor Pryce for -4 yards. Brodie Croyle fumbles (forced by Trevor Pryce) recovered by Branden Albert at KAN-9,-4,-2.490,-5.140,-2.65
+2009-09-27,Colts,Cardinals,4,0:31,4,13,CRD 18,31-10,Donald Brown right tackle for -4 yards (tackle by Clark Haggans),-4,2.250,-0.410,-2.66
+2009-12-13,Jaguars,Dolphins,4,1:26,4,3,MIA 46,10-14,David Garrard middle for -4 yards (tackle by Randy Starks),-4,0.200,-2.260,-2.46
+2009-12-27,Colts,Jets,4,0:46,4,10,CLT 33,15-29,Curtis Painter sacked by Donald Strickland for -4 yards,-4,-1.180,-3.640,-2.46
+2009-09-20,Chargers,Ravens,4,0:37,4,2,RAV 15,26-31,Darren Sproles middle for -5 yards (tackle by Ray Lewis),-5,2.570,-0.280,-2.85
+2009-11-08,Panthers,Saints,4,2:51,4,8,NOR 43,20-23,Jake Delhomme sacked by Will Smith for -5 yards. Jake Delhomme fumbles (forced by Will Smith) recovered by Anthony Hargrove at NOR-48 (tackle by Keydrick Vincent),-5,0.400,-2.130,-2.53
+2009-11-22,Saints,Buccaneers,4,2:04,4,2,NOR 48,38-7,Lynell Hamilton middle for -5 yards (tackle by Geno Hayes),-5,-0.190,-2.720,-2.53
+2009-12-20,49ers,Eagles,4,3:50,4,7,PHI 22,13-27,Alex Smith sacked by Trent Cole for -5 yards,-5,1.990,-0.740,-2.73
+2009-12-27,Ravens,Steelers,4,2:34,4,10,PIT 38,20-23,Joe Flacco sacked by LaMarr Woodley for -5 yards. Joe Flacco fumbles (forced by LaMarr Woodley) recovered by Evander Hood at PIT-43 (tackle by Marshal Yanda),-5,0.720,-1.730,-2.45
+2009-09-20,Buccaneers,Bills,4,0:24,4,1,BUF 33,20-33,Byron Leftwich sacked by Keith Ellison for -6 yards. Penalty on Spencer Johnson: Defensive Offside 5 yards (no play),-6,1.210,3.710,2.50
+2009-11-26,Packers,Lions,3,12:41,4,3,DET 31,13-7,Aaron Rodgers sacked by Julian Peterson for -6 yards. Aaron Rodgers fumbles (forced by Julian Peterson) recovered by Jason Hunter at DET-37 (tackle by Josh Sitton),-6,1.380,-1.400,-2.78
+2010-01-10,Patriots,Ravens,4,1:15,4,10,NWE 39,14-33,Tom Brady sacked by Dwan Edwards for -6 yards,-6,-0.780,-3.380,-2.60
+2009-11-29,Jaguars,49ers,4,2:52,4,11,JAX 46,3-20,David Garrard sacked by Justin Smith for -7 yards,-7,-0.320,-2.980,-2.66
+2009-12-13,Lions,Ravens,4,15:00,4,1,DET 38,3-41,Kevin Smith left end for -7 yards (tackle by Dawan Landry). Penalty on Dawan Landry: Face Mask (15 Yards) 15 yards,-7,-0.850,1.990,2.84
+2009-12-27,Seahawks,Packers,3,0:32,4,10,GNB 22,3-38,Matt Hasselbeck sacked by Brandon Chillar for -7 yards,-7,1.990,-0.870,-2.86
+2009-12-07,Ravens,Packers,4,0:36,4,3,GNB 38,14-27,Joe Flacco sacked by Clay Matthews for -8 yards,-8,0.720,-2.060,-2.78
+2009-09-13,Eagles,Panthers,4,4:24,4,1,CAR 38,38-10,Kevin Kolb sacked by Louis Leonard for -9 yards,-9,0.720,-2.060,-2.78
+2009-11-08,Ravens,Bengals,4,2:00,4,29,RAV 25,7-17,Joe Flacco sacked by Michael Johnson for -9 yards. Penalty on Jonathan Fanene: Unsportsmanlike Conduct 15 yards,-9,-1.700,-3.510,-1.81
+2009-12-27,Raiders,Browns,4,0:50,4,3,CLE 42,9-23,Charlie Frye sacked by Marcus Benard for -10 yards,-10,0.460,-2.390,-2.85
+2010-01-09,Bengals,Jets,4,2:02,4,22,NYJ 47,14-24,Carson Palmer sacked by Shaun Ellis for -10 yards,-10,0.130,-2.720,-2.85
+2009-10-25,Buccaneers,Patriots,4,1:12,4,7,TAM 23,7-35,Josh Freeman sacked by Derrick Burgess for -11 yards. Josh Freeman fumbles (forced by Derrick Burgess) recovered by Donald Penn at TAM-14,-11,-1.830,-4.650,-2.82
+2009-11-29,Jaguars,49ers,4,15:00,4,2,SFO 14,3-20,David Garrard sacked by Justin Smith and Parys Haralson for -12 yards. David Garrard fumbles (forced by Justin Smith) recovered by Ray McDonald at SFO-34 (tackle by Maurice Jones-Drew),-12,2.630,-1.200,-3.83
+2010-01-03,Cowboys,Eagles,4,2:26,4,2,PHI 35,24-0,Tony Romo sacked by Juqua Parker for -12 yards,-12,0.990,-2.060,-3.05
+2009-10-18,Titans,Patriots,3,8:02,4,10,NWE 17,0-52,Kerry Collins pass complete short right to Nate Washington for -22 yards (tackle by Myron Pryor). Nate Washington fumbles (forced by Myron Pryor) recovered by Nate Washington at NWE-39,-22,2.310,-1.530,-3.84
+2009-09-27,Cardinals,Colts,4,6:30,4,15,CLT 22,10-31,Kurt Warner sacked by Raheem Brock for -28 yards,-28,1.990,-2.260,-4.25
+2009-09-13,Browns,Vikings,4,4:52,4,10,CLE 36,13-34,Brady Quinn pass incomplete short middle intended for Robert Royal (defended by Chad Greenway),,-0.980,-3.180,-2.20
+2009-09-13,Jaguars,Colts,4,1:23,4,8,JAX 37,12-14,David Garrard pass incomplete short middle intended for Maurice Jones-Drew (defended by Dwight Freeney),,-0.910,-3.120,-2.21
+2009-09-13,Cardinals,49ers,4,1:55,4,5,SFO 33,16-20,Kurt Warner pass incomplete short left intended for Tim Hightower,,1.170,-1.140,-2.31
+2009-09-13,Texans,Jets,3,3:37,4,2,HTX 49,0-17,Matt Schaub pass incomplete short middle intended for Owen Daniels (defended by Eric Smith),,-0.130,-2.320,-2.19
+2009-09-13,Rams,Seahawks,4,2:10,4,7,SEA 7,0-28,Marc Bulger pass incomplete short middle intended for Randy McMichael,,2.970,0.380,-2.59
+2009-09-13,Buccaneers,Cowboys,4,7:44,4,7,DAL 26,14-27,Byron Leftwich pass incomplete short middle intended for Kellen Winslow,,1.740,-0.670,-2.41
+2009-09-14,Patriots,Bills,3,6:00,4,2,BUF 36,10-14,Tom Brady pass incomplete short right intended for Wes Welker,,0.890,-1.330,-2.22
+2009-09-20,Panthers,Falcons,4,2:44,4,10,ATL 17,20-28,Jake Delhomme pass incomplete short left intended for Steve Smith is intercepted by Chris Houston at ATL-4 and returned for 4 yards,,2.310,0.380,-1.93
+2009-09-20,Jaguars,Cardinals,4,4:29,4,13,CRD 31,17-31,David Garrard pass incomplete deep left intended for Nate Hughes,,1.320,-1.000,-2.32
+2009-09-20,Chiefs,Raiders,4,0:36,4,4,KAN 26,10-13,Matt Cassel pass incomplete short middle intended for Jake O'Connell (defended by Michael Huff),,-1.630,-3.840,-2.21
+2009-09-20,Patriots,Jets,4,1:06,4,10,NWE 28,9-16,Tom Brady pass incomplete short left intended for Joey Galloway (defended by Dwight Lowery),,-1.500,-3.710,-2.21
+2009-09-20,Titans,Texans,4,10:29,4,6,HTX 33,31-31,Kerry Collins pass incomplete deep left intended for Justin Gage,,1.160,-1.140,-2.30
+2009-09-20,Seahawks,49ers,4,2:17,4,15,SFO 18,10-23,Seneca Wallace pass incomplete deep right intended for T.J. Houshmandzadeh (defended by Nate Clements),,2.250,-0.040,-2.29
+2009-09-20,Rams,Washington,4,1:40,4,10,RAM 4,7-9,Marc Bulger pass incomplete deep right intended for Donnie Avery (defended by Chris Horton),,-2.490,-6.280,-3.79
+2009-09-27,Vikings,49ers,4,1:55,4,5,SFO 47,20-24,Brett Favre pass incomplete short right intended for Percy Harvin (defended by Dre' Bly),,0.130,-2.060,-2.19
+2009-09-27,Titans,Jets,4,1:54,4,23,OTI 33,17-24,Kerry Collins pass incomplete deep right intended for Justin Gage,,-1.180,-3.380,-2.20
+2009-09-27,Raiders,Broncos,4,3:29,4,5,RAI 44,3-23,JaMarcus Russell pass complete short left to Justin Fargas for no gain,,-0.460,-2.650,-2.19
+2009-09-27,Rams,Packers,4,2:33,4,5,GNB 31,17-36,Kyle Boller pass incomplete short left intended for Daniel Fells,,1.350,-1.000,-2.35
+2009-09-27,Seahawks,Bears,4,0:30,4,2,CHI 29,19-25,Seneca Wallace pass incomplete short right intended for Julius Jones,,1.600,-0.870,-2.47
+2009-09-27,Buccaneers,Giants,4,6:00,4,5,NYG 5,0-24,Josh Johnson pass incomplete short left intended for Sammie Stroughter,,3.010,0.380,-2.63
+2009-10-04,Lions,Bears,4,5:17,4,6,DET 48,24-41,Daunte Culpepper pass incomplete short right intended for Brandon Pettigrew,,-0.190,-2.390,-2.20
+2009-10-04,Cowboys,Broncos,4,0:05,4,2,DEN 2,10-17,Tony Romo pass incomplete short middle intended for Sam Hurd (defended by Champ Bailey),,3.250,0.380,-2.87
+2009-10-04,Raiders,Texans,4,12:46,4,7,HTX 35,6-29,JaMarcus Russell pass incomplete deep right intended for Darrius Heyward-Bey,,0.970,-1.270,-2.24
+2009-10-04,Titans,Jaguars,4,3:51,4,3,OTI 42,17-37,Kerry Collins pass incomplete deep right intended for Mark Jones,,-0.590,-2.790,-2.20
+2009-10-04,Bills,Dolphins,4,2:03,4,12,MIA 20,10-38,Trent Edwards pass incomplete deep right intended for Lee Evans is intercepted by Will Allen and returned for 6 yards,,2.120,0.380,-1.74
+2009-10-04,Ravens,Patriots,4,0:32,4,4,NWE 14,21-27,Joe Flacco pass incomplete short right intended for Mark Clayton,,2.580,0.280,-2.30
+2009-10-04,Rams,49ers,4,8:32,4,4,SFO 22,0-35,Kyle Boller pass incomplete deep right intended for Donnie Avery,,2.070,-0.480,-2.55
+2009-10-05,Packers,Vikings,3,2:18,4,1,MIN 1,14-28,Aaron Rodgers pass incomplete short middle intended for Donald Lee,,3.550,0.380,-3.17
+2009-10-11,Washington,Panthers,3,2:32,4,3,CAR 37,17-9,Jason Campbell pass incomplete short left intended for Santana Moss (defended by Thomas Davis),,0.790,-1.400,-2.19
+2009-10-11,Texans,Cardinals,3,11:01,4,1,CRD 22,0-21,Matt Schaub pass incomplete deep right intended for Andre Johnson,,2.140,-0.410,-2.55
+2009-10-11,Lions,Steelers,4,1:18,4,34,PIT 45,20-28,Daunte Culpepper pass incomplete deep middle intended for Dennis Northcutt (defended by Ike Taylor),,0.270,-1.930,-2.20
+2009-10-11,Titans,Colts,3,5:46,4,5,CLT 32,9-28,Kerry Collins pass incomplete deep right intended for Nate Washington,,1.260,-1.070,-2.33
+2009-10-11,Rams,Vikings,4,14:56,4,6,MIN 9,3-24,Kyle Boller pass incomplete short right intended for Keenan Burton is intercepted by Tyrell Johnson,,2.850,-0.280,-3.13
+2009-10-11,49ers,Falcons,4,2:00,4,17,ATL 18,10-45,Shaun Hill pass incomplete deep left intended for Josh Morgan,,2.250,-0.040,-2.29
+2009-10-18,Bears,Falcons,4,0:34,4,6,ATL 10,14-21,Jay Cutler pass incomplete short middle intended for Desmond Clark,,2.790,0.380,-2.41
+2009-10-18,Jets,Bills,4,14:11,4,3,BUF 35,13-13,Mark Sanchez pass incomplete short right intended for Braylon Edwards is intercepted by Reggie Corner at BUF-22,,0.990,-0.410,-1.40
+2009-10-18,Jets,Bills,5,11:09,4,13,BUF 32,13-13,Steve Weatherford pass incomplete short middle intended for Ben Hartsock is intercepted by John Wendling at BUF-35,,1.240,-1.270,-2.51
+2009-10-18,Raiders,Eagles,3,9:32,4,1,PHI 40,10-6,JaMarcus Russell pass incomplete deep right intended for Louis Murphy,,0.590,-1.600,-2.19
+2009-10-18,Eagles,Raiders,4,2:21,4,4,RAI 43,9-13,Donovan McNabb pass incomplete deep left intended for DeSean Jackson,,0.400,-1.860,-2.26
+2009-10-19,Chargers,Broncos,4,5:44,4,8,DEN 38,23-27,Philip Rivers pass incomplete short left intended for Malcom Floyd,,0.720,-1.470,-2.19
+2009-10-25,Bears,Bengals,3,9:33,4,5,CIN 40,3-31,Jay Cutler pass incomplete deep left intended for Earl Bennett is intercepted by Leon Hall at CIN-13 and returned for 26 yards,,0.590,-1.530,-2.12
+2009-10-25,Browns,Packers,4,14:19,4,1,GNB 1,3-24,Derek Anderson pass incomplete short left intended for Mohamed Massaquoi,,3.550,0.380,-3.17
+2009-10-25,49ers,Texans,4,0:36,4,10,SFO 38,21-24,Alex Smith pass incomplete deep middle intended for Isaac Bruce is intercepted by Eugene Wilson at HOU-38 and returned for 16 yards. Penalty on Bernard Pollard: Unnecessary Roughness 15 yards,,-0.850,-1.530,-0.68
+2009-10-25,Dolphins,Saints,4,2:06,4,13,MIA 41,34-46,Chad Henne pass incomplete short left intended for Greg Camarillo is intercepted by Tracy Porter at NOR-46 and returned for 54 yards touchdown. Penalty on Ted Ginn: Illegal Shift (Declined),,-0.650,-7.000,-6.35
+2009-10-25,Raiders,Jets,4,2:26,4,2,NYJ 2,0-38,Bruce Gradkowski pass incomplete short middle intended for Louis Murphy (defended by Dwight Lowery),,3.250,0.380,-2.87
+2009-10-25,Rams,Colts,4,10:36,4,7,CLT 11,6-28,Marc Bulger pass incomplete short right intended for Keenan Burton is intercepted by Kelvin Hayden at IND-1 and returned for 6 yards,,2.700,0.380,-2.32
+2009-10-25,Rams,Colts,4,2:41,4,1,RAM 31,6-35,Marc Bulger pass incomplete short right intended for Donnie Avery,,-1.310,-3.510,-2.20
+2009-11-01,Browns,Bears,4,13:04,4,1,CHI 27,6-23,Derek Anderson pass incomplete short left intended for Steve Heiden (defended by Al Afalava),,1.820,-0.810,-2.63
+2009-11-01,Bears,Browns,4,4:56,4,1,CLE 1,23-6,Jay Cutler pass incomplete short left intended for Desmond Clark (defended by Kamerion Wimbley),,3.550,0.380,-3.17
+2009-11-01,Cardinals,Panthers,4,0:13,4,10,CAR 32,21-34,Kurt Warner pass incomplete deep left intended for Larry Fitzgerald is intercepted by Richard Marshall at CAR-13 and returned for 6 yards,,1.240,-0.150,-1.39
+2009-11-01,Lions,Rams,4,1:03,4,20,DET 10,10-17,Matthew Stafford pass incomplete deep right intended for Bryant Johnson,,-2.490,-4.910,-2.42
+2009-11-01,Packers,Vikings,4,2:46,4,20,GNB 27,26-38,Aaron Rodgers pass incomplete deep right intended for Donald Lee,,-1.570,-3.780,-2.21
+2009-11-01,Jets,Dolphins,4,1:16,4,13,MIA 15,25-30,Mark Sanchez pass incomplete short left intended for Dustin Keller,,2.440,0.220,-2.22
+2009-11-01,Giants,Eagles,3,9:44,4,4,PHI 29,7-33,Eli Manning pass incomplete deep left intended for Steve Smith (defended by Joselio Hanson),,1.560,-0.870,-2.43
+2009-11-01,Giants,Eagles,4,1:56,4,10,PHI 16,17-40,Eli Manning pass incomplete short middle intended for Kevin Boss,,2.380,0.140,-2.24
+2009-11-02,Falcons,Saints,4,1:49,4,10,ATL 47,24-35,Matt Ryan pass incomplete deep right intended for Roddy White,,-0.260,-2.520,-2.26
+2009-11-08,Washington,Falcons,4,2:34,4,2,WAS 43,17-31,Jason Campbell pass incomplete deep left intended for Malcolm Kelly,,-0.520,-2.790,-2.27
+2009-11-08,Bears,Cardinals,4,2:00,4,3,CRD 32,21-41,Jay Cutler pass incomplete short middle intended for Devin Hester,,1.290,-1.070,-2.36
+2009-11-08,Bengals,Ravens,3,0:44,4,3,RAV 35,17-0,Carson Palmer pass incomplete short right intended for Chad Johnson,,0.990,-1.270,-2.26
+2009-11-08,Panthers,Saints,4,0:22,4,2,NOR 2,20-30,Jake Delhomme pass incomplete short middle intended for DeAngelo Williams (defended by Scott Shanle),,3.250,0.380,-2.87
+2009-11-08,Dolphins,Patriots,4,2:54,4,15,MIA 27,17-24,Chad Henne pass incomplete deep middle intended for Ted Ginn,,-1.570,-3.780,-2.21
+2009-11-08,Packers,Buccaneers,4,0:52,4,12,GNB 11,28-37,Aaron Rodgers pass incomplete deep left intended for Donald Driver is intercepted by Tanard Jackson at GNB-35 and returned for 35 yards touchdown,,-2.490,-7.000,-4.51
+2009-11-08,Packers,Buccaneers,4,0:05,4,1,TAM 35,28-38,Aaron Rodgers pass incomplete deep left intended for James Jones,,1.000,1.270,.27
+2009-11-15,Panthers,Falcons,4,0:02,4,4,ATL 33,28-19,Jake Delhomme pass incomplete deep right intended for Muhsin Muhammad,,1.180,1.140,-0.04
+2009-11-15,Buccaneers,Dolphins,4,2:10,4,6,MIA 22,16-22,Josh Freeman pass incomplete short left intended for Kellen Winslow,,2.020,-0.410,-2.43
+2009-11-15,Lions,Vikings,4,5:42,4,3,DET 44,10-27,Matthew Stafford pass incomplete short right intended for Maurice Morris,,-0.460,-2.720,-2.26
+2009-11-15,Lions,Vikings,4,2:29,4,1,MIN 48,10-27,Matthew Stafford pass incomplete short left intended for Kevin Smith,,0.070,-2.190,-2.26
+2009-11-15,Bills,Titans,4,2:21,4,14,BUF 45,17-34,Ryan Fitzpatrick pass incomplete deep middle intended for Lee Evans,,-0.390,-2.590,-2.20
+2009-11-15,Steelers,Bengals,4,1:31,4,10,PIT 33,12-18,Ben Roethlisberger pass incomplete short left intended for Hines Ward,,-1.180,-3.380,-2.20
+2009-11-15,Chiefs,Raiders,3,3:22,4,1,RAI 14,13-10,Matt Cassel pass incomplete short right intended for Brad Cottam,,2.660,0.320,-2.34
+2009-11-15,Broncos,Washington,4,2:20,4,10,DEN 27,17-24,Chris Simms pass incomplete short left intended for Brandon Marshall,,-1.570,-3.780,-2.21
+2009-11-15,Broncos,Washington,4,0:03,4,17,DEN 19,17-27,Chris Simms pass incomplete deep middle intended for Daniel Graham,,-2.140,0.150,2.29
+2009-11-22,Cowboys,Washington,4,12:08,4,2,WAS 39,0-6,Tony Romo pass incomplete short middle intended for Miles Austin is intercepted by London Fletcher at WAS-33 and returned for 2 yards,,0.660,-1.270,-1.93
+2009-11-22,Broncos,Chargers,3,3:54,4,5,SDG 40,3-20,Kyle Orton pass incomplete short middle intended for Jabar Gaffney,,0.590,-1.600,-2.19
+2009-11-22,Broncos,Chargers,4,7:42,4,15,SDG 19,3-26,Kyle Orton pass incomplete deep middle intended for Brandon Marshall (defended by Paul Oliver),,2.180,-0.150,-2.33
+2009-11-22,Broncos,Chargers,4,3:33,4,2,DEN 28,3-26,Kyle Orton pass incomplete short right intended for Jabar Gaffney (defended by Steve Gregory),,-1.500,-3.710,-2.21
+2009-11-22,49ers,Packers,3,11:28,4,2,GNB 28,3-23,Alex Smith pass incomplete short right intended for Frank Gore,,1.700,-0.810,-2.51
+2009-11-22,Bills,Jaguars,4,0:26,4,10,JAX 46,15-18,Ryan Fitzpatrick pass incomplete deep middle intended for Terrell Owens is intercepted by Anthony Smith at JAX-26 and returned for 4 yards,,0.200,-0.940,-1.14
+2009-11-22,Rams,Cardinals,4,3:46,4,4,CRD 7,13-21,Marc Bulger pass incomplete short left intended for Donnie Avery,,2.990,0.380,-2.61
+2009-11-22,Buccaneers,Saints,4,6:55,4,2,NOR 27,7-38,Josh Freeman pass incomplete short right intended for Kellen Winslow,,1.800,-0.740,-2.54
+2009-11-26,Raiders,Cowboys,4,1:54,4,6,DAL 18,7-24,Bruce Gradkowski pass incomplete short left intended for Louis Murphy,,2.270,-0.040,-2.31
+2009-11-26,Lions,Packers,4,10:09,4,1,GNB 1,7-27,Matthew Stafford pass incomplete short right intended for Calvin Johnson,,3.550,0.380,-3.17
+2009-11-29,Browns,Bengals,4,1:59,4,5,CLE 46,7-16,Brady Quinn pass incomplete short right intended for Mohamed Massaquoi,,-0.320,-2.520,-2.20
+2009-11-29,Washington,Eagles,4,1:09,4,1,WAS 25,24-27,Jason Campbell pass incomplete short right intended for Santana Moss,,-1.700,-3.910,-2.21
+2009-11-29,Rams,Seahawks,4,5:56,4,3,SEA 17,10-27,Kyle Boller pass incomplete deep middle intended for Daniel Fells,,2.410,0.060,-2.35
+2009-11-30,Patriots,Saints,3,4:12,4,4,NOR 10,17-31,Tom Brady pass incomplete short left intended for Randy Moss (defended by Mike McKenzie),,2.840,0.380,-2.46
+2009-12-06,Falcons,Eagles,3,3:53,4,5,PHI 22,0-26,Chris Redman pass incomplete short left intended for Marty Booker is intercepted by Sheldon Brown at PHI-17 and returned for 83 yards touchdown,,2.040,-7.000,-9.04
+2009-12-06,Buccaneers,Panthers,4,10:10,4,3,CAR 3,6-13,Josh Freeman pass incomplete short middle intended for Maurice Stovall is intercepted by Chris Harris at CAR-0,,3.040,-0.280,-3.32
+2009-12-06,Rams,Bears,4,0:22,4,10,CHI 41,9-17,Kyle Boller pass incomplete deep left intended for Brandon Gibson,,0.530,-1.660,-2.19
+2009-12-06,Lions,Bengals,4,3:41,4,3,CIN 28,7-23,Matthew Stafford pass incomplete short left intended for Dennis Northcutt,,1.680,-0.810,-2.49
+2009-12-06,Titans,Colts,3,1:05,4,2,CLT 2,10-24,Vince Young pass incomplete short left intended for Kenny Britt (defended by Jerraud Powers),,3.250,0.380,-2.87
+2009-12-06,Titans,Colts,4,10:41,4,5,CLT 14,10-24,Vince Young pass incomplete short right intended for Lavelle Hawkins,,2.560,0.280,-2.28
+2009-12-06,Titans,Colts,4,1:05,4,10,OTI 34,17-27,Vince Young pass incomplete deep right intended for Nate Washington,,-1.110,-3.310,-2.20
+2009-12-06,Chiefs,Broncos,3,14:08,4,8,KAN 28,6-14,Brodie Croyle pass incomplete short left intended for Thomas Gafford,,-1.500,-3.780,-2.28
+2009-12-06,Dolphins,Patriots,4,4:50,4,2,NWE 39,19-21,Chad Henne pass incomplete short middle intended for Davone Bess (defended by Darius Butler),,0.660,-1.600,-2.26
+2009-12-06,Cowboys,Giants,4,3:38,4,2,NYG 35,17-31,Tony Romo pass complete short right to Marion Barber for no gain,,0.990,-1.270,-2.26
+2009-12-10,Steelers,Browns,4,1:48,4,6,CLE 39,6-13,Ben Roethlisberger pass incomplete short right intended for Santonio Holmes (defended by David Bowens),,0.660,-1.530,-2.19
+2009-12-13,Saints,Falcons,4,2:11,4,7,ATL 15,26-23,Mark Brunell pass incomplete short left intended for Darnell Dinkins,,2.440,0.220,-2.22
+2009-12-13,Bears,Packers,4,1:13,4,9,CHI 10,14-21,Jay Cutler pass incomplete deep right intended for Earl Bennett (defended by Charles Woodson),,-2.490,-4.910,-2.42
+2009-12-13,Seahawks,Texans,4,9:58,4,8,HTX 8,7-34,Matt Hasselbeck pass incomplete short right intended for T.J. Houshmandzadeh (defended by Brice McCain),,2.950,0.380,-2.57
+2009-12-13,Jaguars,Dolphins,4,8:01,4,3,MIA 45,10-14,David Garrard pass incomplete short middle intended for Mike Sims-Walker (defended by Yeremiah Bell),,0.270,-1.930,-2.20
+2009-12-13,Chiefs,Bills,4,2:20,4,10,BUF 21,10-16,Matt Cassel pass incomplete deep middle intended for Chris Chambers is intercepted by Jairus Byrd at BUF-5 and returned for 18 yards,,2.060,-0.480,-2.54
+2009-12-13,Rams,Titans,4,0:36,4,16,OTI 18,7-47,Keith Null pass incomplete deep left intended for Brandon Gibson is intercepted by Cortland Finnegan and returned for 41 yards,,2.250,-1.070,-3.32
+2009-12-13,Raiders,Washington,4,0:55,4,9,RAI 36,13-34,JaMarcus Russell pass incomplete deep right intended for Brandon Myers,,-0.980,-3.180,-2.20
+2009-12-13,Lions,Ravens,4,13:34,4,16,RAV 45,3-41,Daunte Culpepper pass incomplete deep middle intended for Dennis Northcutt is intercepted by Tom Zbikowski at BAL-23 and returned for 21 yards,,0.270,-1.860,-2.13
+2009-12-13,Lions,Ravens,4,3:34,4,1,DET 32,3-48,Daunte Culpepper pass incomplete short left intended for Dan Gronkowski (defended by Lardarius Webb),,-1.240,-3.450,-2.21
+2009-12-13,Buccaneers,Jets,4,0:42,4,6,NYJ 34,3-26,Josh Freeman pass incomplete short left intended for Brian Clark,,1.070,-1.200,-2.27
+2009-12-20,Bills,Patriots,4,4:24,4,9,NWE 11,3-17,Ryan Fitzpatrick pass incomplete short left intended for Josh Reed,,2.700,0.370,-2.33
+2009-12-20,Lions,Cardinals,4,1:12,4,3,DET 38,24-31,Drew Stanton pass incomplete short middle intended for Bryant Johnson (defended by Rashad Johnson),,-0.850,-3.050,-2.20
+2009-12-20,Bears,Ravens,4,0:17,4,4,CHI 47,7-31,Caleb Hanie pass incomplete deep left intended for Rashied Davis (defended by Domonique Foxworth),,-0.260,-2.460,-2.20
+2009-12-21,Washington,Giants,4,9:02,4,20,NYG 35,12-45,Jason Campbell pass incomplete short middle intended for Fred Davis is intercepted by Chase Blackburn at NYG-25 and returned for 24 yards,,0.970,-2.190,-3.16
+2009-12-21,Washington,Giants,4,3:27,4,12,WAS 44,12-45,Jason Campbell pass incomplete short right intended for Rock Cartwright,,-0.460,-2.650,-2.19
+2009-12-27,Falcons,Bills,4,13:54,4,4,BUF 31,24-3,Matt Ryan pass incomplete short left intended for Roddy White (defended by Ashton Youboty),,1.370,-1.000,-2.37
+2009-12-27,Seahawks,Packers,4,0:54,4,6,GNB 27,10-48,Matt Hasselbeck pass incomplete short left intended for Deon Butler,,1.700,-0.740,-2.44
+2009-12-27,Buccaneers,Saints,4,5:01,4,1,NOR 19,10-17,Josh Freeman pass incomplete short right intended for Earnest Graham (defended by Charles Grant),,2.340,-0.150,-2.49
+2009-12-27,Giants,Panthers,4,5:19,4,1,CAR 1,9-41,Eli Manning pass incomplete short left intended for Madison Hedgecock,,3.550,0.380,-3.17
+2009-12-27,Washington,Cowboys,4,0:32,4,11,DAL 31,0-17,Jason Campbell pass incomplete short left intended for Marko Mitchell,,1.320,-1.070,-2.39
+2010-01-03,Colts,Bills,3,12:11,4,3,BUF 42,7-24,Curtis Painter pass incomplete short left intended for Sam Giguere,,0.460,-1.730,-2.19
+2010-01-03,Eagles,Cowboys,4,1:43,4,11,DAL 43,0-24,Donovan McNabb pass incomplete deep left intended for DeSean Jackson (defended by Mike Jenkins),,0.400,-1.860,-2.26
+2010-01-03,Patriots,Texans,4,0:18,4,3,HTX 34,27-34,Brian Hoyer pass incomplete short middle intended for Julian Edelman (defended by Brice McCain),,1.090,-1.270,-2.36
+2010-01-03,Rams,49ers,4,2:47,4,18,RAM 27,6-21,Kyle Boller pass incomplete short middle intended for Steven Jackson (defended by Parys Haralson),,-1.570,-3.780,-2.21
+2010-01-03,Washington,Chargers,4,0:12,4,10,WAS 22,20-23,Jason Campbell pass incomplete deep right intended for Marko Mitchell,,-1.900,-4.170,-2.27
+2010-01-03,Seahawks,Titans,4,1:19,4,9,OTI 27,13-17,Matt Hasselbeck pass incomplete short right intended for Justin Forsett is intercepted by Gerald McRath at TEN-21 and returned for 1 yard,,1.670,-0.410,-2.08
+2010-01-09,Eagles,Cowboys,3,3:47,4,3,DAL 40,7-34,Donovan McNabb pass incomplete short right intended for Jeremy Maclin,,0.590,-1.660,-2.25
+2010-01-09,Eagles,Cowboys,4,0:41,4,10,DAL 29,14-34,Donovan McNabb pass incomplete short left intended for Jeremy Maclin (defended by Mike Jenkins),,1.500,-0.940,-2.44
+2010-01-16,Ravens,Colts,3,6:06,4,3,CLT 45,3-17,Joe Flacco pass incomplete short right intended for Demetrius Williams,,0.270,-1.930,-2.20
+2010-01-16,Ravens,Colts,4,1:14,4,2,CLT 19,3-20,Joe Flacco pass incomplete short left intended for Ray Rice is intercepted by Jerraud Powers at IND-14,,2.310,0.280,-2.03
+2010-01-16,Cardinals,Saints,3,2:51,4,2,NOR 9,14-45,Kurt Warner pass incomplete short middle intended for Steve Breaston,,2.950,0.380,-2.57
+2010-01-17,Cowboys,Vikings,4,6:31,4,3,DAL 33,3-27,Tony Romo pass complete short left to Jason Witten for no gain,,-1.180,-3.380,-2.20
+2010-01-17,Vikings,Cowboys,4,6:12,4,7,DAL 30,27-3,Brett Favre pass incomplete deep middle intended for Sidney Rice,,1.410,-0.940,-2.35
+2010-01-17,Cowboys,Vikings,4,5:30,4,3,DAL 37,3-27,Tony Romo pass incomplete short left intended for Miles Austin,,-0.910,-3.120,-2.21
+2010-02-07,Colts,Saints,4,0:50,4,5,NOR 5,17-31,Peyton Manning pass incomplete short middle intended for Reggie Wayne,,3.010,0.380,-2.63

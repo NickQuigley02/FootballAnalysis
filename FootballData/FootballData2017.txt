@@ -1,0 +1,538 @@
+Date,Tm,Opp,Quarter,Time,Down,ToGo,Location,Score,Detail,Yds,EPB,EPA,Diff
+2017-11-12,Jaguars,Chargers,1,0:34,4,7,JAX 44,6-0,Corey Grant middle for 56 yards touchdown,56,-0.460,7.000,7.46
+2018-01-14,Steelers,Jaguars,2,0:32,4,11,JAX 36,13-28,Ben Roethlisberger pass complete deep right to Martavis Bryant for 36 yards touchdown,36,0.880,7.000,6.12
+2017-10-01,Jets,Jaguars,2,0:22,4,21,NYJ 47,10-10,Lac Edwards pass complete short right to Marcus Williams for 31 yards,31,-0.260,4.110,4.37
+2017-11-27,Ravens,Texans,2,7:39,4,1,HTX 37,7-7,Alex Collins right end for 29 yards (tackle by Kevin Johnson),29,0.790,5.370,4.58
+2017-12-03,Jaguars,Colts,1,9:05,4,7,JAX 49,0-0,Brad Nortman pass complete short middle to James O'Shaughnessy for 29 yards (tackle by Christopher Milton),29,-0.130,4.110,4.24
+2017-11-12,Washington,Vikings,1,1:14,4,2,MIN 35,7-7,Kirk Cousins pass complete deep right to Chris Thompson for 27 yards,27,0.990,5.370,4.38
+2017-11-19,Washington,Saints,2,13:03,4,6,NOR 39,10-10,Kirk Cousins pass complete deep left to Vernon Davis for 26 yards (tackle by Marcus Williams),26,0.660,4.710,4.05
+2017-11-12,Saints,Bills,1,7:46,4,1,BUF 30,0-3,Mark Ingram middle for 25 yards (tackle by Jordan Poyer),25,1.520,6.060,4.54
+2017-11-27,Ravens,Texans,2,12:26,4,6,HTX 41,0-7,Sam Koch pass complete deep left to Chris Moore for 22 yards (tackle by Marcus Williams),22,0.530,4.310,3.78
+2017-09-10,Lions,Cardinals,1,6:21,4,21,DET 3,0-7,Kasey Redfern for 21 yards. Kasey Redfern fumbles recovered by Kasey Redfern at DET--8,21,-2.490,-4.710,-2.22
+2017-12-16,Chiefs,Chargers,1,1:28,4,3,SDG 35,0-0,Alex Smith pass complete short left to Kareem Hunt for 21 yards (tackle by Desmond King),21,0.990,4.650,3.66
+2017-10-15,Buccaneers,Cardinals,2,1:23,4,4,CRD 39,0-24,Ryan Fitzpatrick pass complete deep right to Cameron Brate for 21 yards (tackle by Tyvon Branch),21,0.660,4.370,3.71
+2018-01-21,Patriots,Jaguars,1,11:49,4,1,JAX 30,0-0,Tom Brady pass complete deep left to Danny Amendola for 20 yards,20,1.520,4.910,3.39
+2017-12-10,Eagles,Rams,2,12:45,4,1,RAM 31,14-7,Carson Wentz pass complete short right to Nelson Agholor for 18 yards (tackle by Alec Ogletree),18,1.410,4.710,3.30
+2017-11-05,Ravens,Titans,1,8:13,4,7,OTI 43,0-3,Sam Koch pass complete short left to Chris Moore for 16 yards (tackle by Brice McCain). Penalty on Brice McCain: Face Mask (15 Yards) 14 yards,16,0.400,4.710,4.31
+2017-11-12,Cowboys,Falcons,2,11:33,4,8,ATL 37,7-3,Chris Jones pass complete short left to Brice Butler for 16 yards (tackle by Robert Alford). Penalty on Brice Butler: Offensive Pass Interference 10 yards (no play),16,0.790,0.130,-0.66
+2017-12-10,Bears,Bengals,2,3:01,4,3,CIN 34,9-7,Mitch Trubisky pass complete short right to Adam Shaheen for 16 yards (tackle by George Iloka),16,1.090,4.370,3.28
+2017-12-03,Falcons,Vikings,1,7:25,4,2,MIN 39,0-0,Matt Ryan pass complete short right to Tevin Coleman for 15 yards (tackle by Anthony Barr),15,0.660,3.970,3.31
+2017-12-10,Washington,Chargers,2,12:25,4,2,SDG 37,0-13,Kirk Cousins pass complete short right to Niles Paul for 15 yards (tackle by Desmond King and Jahleel Addae),15,0.790,4.110,3.32
+2017-12-11,Dolphins,Patriots,1,11:01,4,1,NWE 36,0-0,Jay Cutler pass complete short right to DeVante Parker for 15 yards (tackle by Stephon Gilmore),15,0.890,4.170,3.28
+2017-12-24,Giants,Cardinals,2,11:53,4,2,CRD 39,0-3,Eli Manning pass complete short right to Rhett Ellison for 15 yards (tackle by Budda Baker),15,0.660,3.970,3.31
+2017-11-26,Patriots,Dolphins,1,14:12,4,8,NWE 27,0-0,Nate Ebner right end for 14 yards (tackle by Alterraun Verner). Nate Ebner fumbles (forced by Alterraun Verner) ball out of bounds at NWE-41,14,-1.570,1.660,3.23
+2017-11-23,Chargers,Cowboys,2,13:36,4,13,DAL 16,0-0,Philip Rivers pass complete short left to Austin Ekeler for 12 yards (tackle by Jourdan Lewis),12,2.380,0.380,-2.00
+2017-12-03,Raiders,Giants,2,5:16,4,1,NYG 30,7-7,Marshawn Lynch left guard for 10 yards (tackle by Landon Collins),10,1.520,4.240,2.72
+2017-11-26,Panthers,Jets,1,11:54,4,3,NYJ 39,0-0,Cam Newton pass complete short right to Christian McCaffrey for 9 yards (tackle by Darron Lee),9,0.660,3.580,2.92
+2017-09-17,Seahawks,49ers,1,10:53,4,1,SFO 41,0-0,Russell Wilson for 9 yards (tackle by Jaquiski Tartt),9,0.530,3.450,2.92
+2017-10-15,Jaguars,Rams,2,0:09,4,6,RAM 45,14-24,Blake Bortles pass complete short middle to James O'Shaughnessy for 9 yards (tackle by Nickell Robey-Coleman),9,0.270,0.000,-0.27
+2017-10-22,Falcons,Patriots,1,3:56,4,7,NWE 48,0-0,Matt Ryan for 9 yards,9,0.070,2.980,2.91
+2017-12-10,Packers,Browns,1,10:15,4,1,CLE 38,0-0,Brett Hundley pass complete short left to Randall Cobb for 8 yards (tackle by Jason McCourty),8,0.720,3.580,2.86
+2017-10-29,Patriots,Chargers,2,7:13,4,1,SDG 36,9-7,Mike Gillislee right guard for 8 yards (tackle by Tre Boston),8,0.890,3.710,2.82
+2017-12-10,Packers,Browns,1,12:14,4,2,GNB 46,0-0,Jermaine Whitehead left end for 7 yards (tackle by Jamar Taylor),7,-0.320,2.460,2.78
+2017-12-31,Dolphins,Bills,1,7:27,4,7,BUF 29,0-7,David Fales pass complete short left to DeVante Parker for 7 yards (tackle by Micah Hyde),7,1.500,4.110,2.61
+2017-12-31,Patriots,Jets,1,11:13,4,2,NYJ 21,0-0,Tom Brady pass complete short middle to Danny Amendola for 7 yards (tackle by Juston Burris),7,2.180,4.650,2.47
+2017-11-12,Rams,Texans,2,3:39,4,7,RAM 32,6-7,Johnny Hekker pass complete short right to Pharoh Cooper for 6 yards (tackle by Kurtis Drummond),6,-1.240,-3.050,-1.81
+2017-11-19,Chiefs,Giants,2,7:36,4,5,NYG 32,0-6,Alex Smith right guard for 6 yards (tackle by Jason Pierre-Paul and Dominique Rodgers-Cromartie),6,1.260,3.840,2.58
+2017-09-24,Jaguars,Ravens,2,14:21,4,1,RAV 39,10-0,Leonard Fournette right end for 6 yards (tackle by Jimmy Smith),6,0.660,3.380,2.72
+2017-12-17,Saints,Jets,1,3:19,4,2,NYJ 7,3-0,Drew Brees pass complete short left to Michael Thomas for 6 yards (tackle by Morris Claiborne),6,3.000,6.970,3.97
+2017-10-15,Saints,Lions,2,3:33,4,1,DET 41,24-10,Alvin Kamara right end for 6 yards (tackle by Tahir Whitehead),6,0.530,3.250,2.72
+2017-11-19,Ravens,Packers,1,9:40,4,1,GNB 41,0-0,Alex Collins right guard for 5 yards (tackle by Blake Martinez),5,0.530,3.180,2.65
+2017-10-02,Washington,Chiefs,1,6:52,4,1,KAN 29,7-0,Kirk Cousins middle for 5 yards (tackle by Terrance Mitchell),5,1.620,3.970,2.35
+2017-12-10,Colts,Bills,1,5:53,4,3,BUF 43,0-0,Frank Gore right guard for 5 yards (tackle by Matt Milano),5,0.400,3.050,2.65
+2017-12-10,Broncos,Jets,2,3:02,4,1,NYJ 45,10-0,Trevor Siemian pass complete short right to Demaryius Thomas for 5 yards,5,0.270,2.920,2.65
+2017-10-22,Saints,Packers,1,7:50,4,2,GNB 29,0-7,Drew Brees pass complete short middle to Michael Thomas for 5 yards (tackle by Blake Martinez),5,1.600,3.970,2.37
+2017-11-12,Washington,Vikings,2,6:25,4,1,MIN 5,10-14,Samaje Perine right end for 4 yards (tackle by Harrison Smith),4,3.030,0.000,-3.03
+2017-10-01,Cowboys,Rams,1,1:44,4,1,RAM 29,3-3,Ezekiel Elliott middle for 4 yards (tackle by Mark Barron),4,1.620,3.910,2.29
+2017-10-15,Lions,Saints,2,0:16,4,5,NOR 5,10-31,Matthew Stafford pass complete short left to Darren Fells for 4 yards (tackle by Marshon Lattimore and Kenny Vaccaro),4,3.010,0.380,-2.63
+2017-12-25,Eagles,Raiders,2,0:41,4,3,RAI 37,7-7,Nick Foles pass complete short right to Zach Ertz for 4 yards (tackle by Antonio Hamilton),4,0.790,3.380,2.59
+2017-10-22,Cardinals,Rams,2,3:39,4,1,CRD 34,0-13,Drew Stanton middle for 4 yards (tackle by Blake Countess),4,-1.110,1.470,2.58
+2017-12-31,Saints,Buccaneers,2,2:39,4,5,TAM 30,14-13,Wil Lutz right end for 4 yards (tackle by Kwon Alexander),4,1.450,-0.670,-2.12
+2017-10-29,Cowboys,Washington,1,4:02,4,1,DAL 48,7-10,Ezekiel Elliott middle for 4 yards (tackle by Martrell Spaight),4,-0.190,2.390,2.58
+2017-11-12,Patriots,Broncos,1,1:32,4,1,DEN 23,14-6,Rex Burkhead left tackle for 3 yards (tackle by Todd Davis),3,2.080,4.240,2.16
+2017-11-19,Broncos,Bengals,1,4:08,4,1,CIN 22,0-6,C.J. Anderson right tackle for 3 yards (tackle by Nick Vigil),3,2.140,4.310,2.17
+2017-10-01,49ers,Cardinals,1,3:33,4,1,CRD 38,0-0,Brian Hoyer middle for 3 yards (tackle by Frostee Rucker),3,0.720,3.250,2.53
+2017-12-14,Broncos,Colts,2,4:02,4,2,CLT 33,0-10,Brock Osweiler pass complete short right to Emmanuel Sanders for 3 yards (tackle by D.J. White),3,1.200,3.580,2.38
+2017-12-24,Falcons,Saints,1,4:54,4,1,ATL 40,0-3,Devonta Freeman left tackle for 3 yards (tackle by David Onyemata). Penalty on Derrick Coleman: False Start 4 yards (no play),3,-0.720,-0.980,-0.26
+2017-11-05,Ravens,Titans,2,11:05,4,2,OTI 35,3-10,Javorius Allen right end for 2 yards (tackle by Jurrell Casey and Wesley Woodyard),2,0.990,3.380,2.39
+2017-11-16,Titans,Steelers,2,14:33,4,1,PIT 34,7-10,Marcus Mariota middle for 2 yards (tackle by Javon Hargrave and Stephon Tuitt),2,1.100,3.450,2.35
+2017-11-19,Jaguars,Browns,2,3:11,4,1,CLE 49,10-7,Blake Bortles middle for 2 yards (tackle by Larry Ogunjobi),2,0.000,2.460,2.46
+2017-11-19,Packers,Ravens,2,12:01,4,1,GNB 45,0-3,Jamaal Williams middle for 2 yards (tackle by Patrick Onwuasor),2,-0.390,2.060,2.45
+2017-11-19,Vikings,Rams,1,6:28,4,1,RAM 44,0-7,C.J. Ham middle for 2 yards (tackle by Alec Ogletree),2,0.330,2.790,2.46
+2017-11-19,Giants,Chiefs,1,7:59,4,1,NYG 41,0-0,Nat Berhe middle for 2 yards (tackle by Kevin Pierre-Louis),2,-0.650,1.800,2.45
+2017-11-23,Giants,Washington,2,6:05,4,1,WAS 21,0-0,Orleans Darkwa left guard for 2 yards (tackle by Stacy McGee),2,2.210,4.310,2.10
+2017-11-26,Dolphins,Patriots,1,1:27,4,1,MIA 46,0-14,Damien Williams middle for 2 yards (tackle by Malcom Brown and Lawrence Guy),2,-0.320,2.130,2.45
+2017-11-26,Eagles,Bears,1,8:12,4,1,CHI 35,0-0,Jay Ajayi left end for 2 yards (tackle by Adrian Amos),2,1.000,3.380,2.38
+2017-09-24,Eagles,Giants,1,0:56,4,1,PHI 47,0-0,Carson Wentz middle for 2 yards (tackle by Dalvin Tomlinson),2,-0.260,2.190,2.45
+2017-12-03,Saints,Panthers,1,10:21,4,2,CAR 2,6-0,Alvin Kamara right end for 2 yards touchdown,2,3.250,7.000,3.75
+2017-12-03,Jets,Chiefs,1,2:21,4,1,KAN 10,7-14,Josh McCown middle for 2 yards (tackle by Bennie Logan and Kevin Pierre-Louis),2,2.910,5.370,2.46
+2017-10-08,Browns,Jets,1,4:25,4,1,NYJ 33,0-0,Duke Johnson left guard for 2 yards (tackle by Leonard Williams),2,1.210,3.510,2.30
+2017-10-08,Cowboys,Packers,1,11:04,4,1,GNB 20,0-0,Ezekiel Elliott middle for 2 yards (tackle by Jake Ryan),2,2.270,4.370,2.10
+2017-10-08,Cowboys,Packers,2,9:13,4,1,GNB 22,14-6,Dak Prescott middle for 2 yards (tackle by Kenny Clark and Blake Martinez),2,2.140,4.240,2.10
+2017-12-17,Cardinals,Washington,2,0:52,4,1,WAS 24,6-14,Blaine Gabbert middle for 2 yards (tackle by Stacy McGee),2,2.020,4.110,2.09
+2017-10-12,Eagles,Panthers,2,4:26,4,1,CAR 3,3-10,Carson Wentz middle for 2 yards (tackle by Charles Johnson and Star Lotulelei),2,3.060,6.970,3.91
+2017-12-23,Ravens,Colts,1,10:07,4,1,CLT 19,0-0,Javorius Allen right guard for 2 yards (tackle by T.J. Green and Anthony Walker),2,2.340,4.440,2.10
+2017-12-25,Eagles,Raiders,1,4:41,4,1,RAI 21,0-0,Corey Clement middle for 2 yards (tackle by Khalil Mack),2,2.210,4.310,2.10
+2017-12-31,Washington,Giants,1,1:23,4,1,NYG 42,7-15,Kapri Bibbs left guard for 2 yards (tackle by Brandon Dixon),2,0.460,2.920,2.46
+2017-10-29,Raiders,Bills,1,10:59,4,1,BUF 45,0-0,Jamize Olawale middle for 2 yards (tackle by Lorenzo Alexander). Jamize Olawale fumbles (forced by Lorenzo Alexander) recovered by Jamize Olawale at BUF-44,2,0.270,2.720,2.45
+2017-10-29,Texans,Seahawks,2,11:34,4,1,SEA 48,14-14,Lamar Miller middle for 2 yards (tackle by Frank Clark and Kam Chancellor),2,0.070,2.520,2.45
+2017-11-12,Browns,Lions,1,3:49,4,1,CLE 44,10-3,Duke Johnson middle for 1 yard (tackle by Anthony Zettel),1,-0.460,1.930,2.39
+2017-09-10,Jaguars,Texans,2,2:14,4,1,HTX 1,12-0,Leonard Fournette middle for 1 yard touchdown,1,3.550,7.000,3.45
+2017-09-10,Raiders,Titans,1,0:45,4,1,OTI 3,7-7,Marshawn Lynch right guard for 1 yard (tackle by Wesley Woodyard),1,3.060,6.740,3.68
+2017-11-20,Seahawks,Falcons,2,5:25,4,1,ATL 1,16-21,Russell Wilson right end for 1 yard touchdown,1,3.550,7.000,3.45
+2017-11-26,Eagles,Bears,2,2:38,4,1,CHI 48,17-0,Carson Wentz middle for 1 yard (tackle by Mitch Unrein),1,0.070,2.460,2.39
+2017-11-26,Steelers,Packers,1,8:19,4,1,GNB 1,6-0,Ben Roethlisberger pass complete short middle to Xavier Grimble for 1 yard touchdown,1,3.550,7.000,3.45
+2017-12-03,Rams,Cardinals,1,7:57,4,1,CRD 1,9-0,Jared Goff pass complete short right to Gerald Everett for 1 yard touchdown,1,3.550,7.000,3.45
+2017-12-17,Cardinals,Washington,2,9:57,4,1,WAS 44,3-14,Blaine Gabbert left guard for 1 yard (tackle by Evander Hood and A.J. Francis),1,0.330,2.720,2.39
+2017-10-15,Chargers,Raiders,2,1:47,4,1,RAI 1,6-7,Melvin Gordon left tackle for 1 yard touchdown,1,3.550,7.000,3.45
+2017-10-15,49ers,Washington,2,0:03,4,1,WAS 1,6-17,Carlos Hyde left tackle for 1 yard touchdown,1,3.550,7.000,3.45
+2017-12-24,Saints,Falcons,2,3:30,4,1,ATL 12,3-0,Mark Ingram right guard for 1 yard (tackle by Deion Jones),1,2.780,4.840,2.06
+2017-12-31,Panthers,Falcons,2,2:00,4,1,ATL 19,0-7,Cam Newton left guard for 1 yard (tackle by Duke Riley),1,2.340,4.370,2.03
+2017-10-22,Bengals,Steelers,2,7:16,4,1,PIT 1,13-14,Andy Dalton pass complete short left to Tyler Kroft for 1 yard touchdown,1,3.550,7.000,3.45
+2018-01-07,Panthers,Saints,2,6:31,4,1,NOR 49,3-14,Cam Newton middle for 1 yard (tackle by Jonathan Freeny and Manti Te'o),1,0.000,2.390,2.39
+2018-01-13,Eagles,Falcons,2,10:32,4,1,ATL 1,6-3,LeGarrette Blount right end for 1 yard touchdown,1,3.550,7.000,3.45
+2018-01-14,Jaguars,Steelers,1,10:44,4,1,PIT 1,6-0,Leonard Fournette middle for 1 yard touchdown,1,3.550,7.000,3.45
+2018-02-04,Eagles,Patriots,2,0:38,4,1,NWE 1,21-12,Trey Burton pass complete short right to Nick Foles for 1 yard touchdown,1,3.550,7.000,3.45
+2017-11-12,49ers,Giants,1,3:43,4,1,NYG 36,3-3,Kyle Juszczyk right guard for no gain (tackle by Kelvin Sheppard),0,0.890,-1.330,-2.22
+2017-09-07,Patriots,Chiefs,1,9:34,4,1,KAN 10,7-0,Mike Gillislee middle for no gain (tackle by Allen Bailey and Bennie Logan),0,2.910,0.380,-2.53
+2017-09-10,49ers,Panthers,2,0:46,4,1,CAR 45,0-10,Kyle Juszczyk middle for no gain (tackle by Star Lotulelei and Wes Horton),0,0.270,-1.930,-2.20
+2017-11-23,Chargers,Cowboys,2,4:58,4,1,DAL 39,0-0,Philip Rivers pass incomplete short right intended for Keenan Allen (defended by Anthony Brown). Penalty on Anthony Brown: Defensive Pass Interference 4 yards (no play),0,0.660,3.250,2.59
+2017-11-26,Rams,Saints,1,4:43,4,1,NOR 34,7-0,Jared Goff pass incomplete deep left intended for Josh Reynolds (defended by Kenny Vaccaro). Penalty on Kenny Vaccaro: Defensive Holding 5 yards (no play),0,1.100,3.640,2.54
+2017-09-25,Cardinals,Cowboys,1,2:45,4,1,DAL 39,7-0,Chris Johnson middle for no gain (tackle by Orlando Scandrick). Penalty on Benson Mayowa: Defensive Offside 6 yards (no play),0,0.660,3.380,2.72
+2017-12-03,Panthers,Saints,2,10:45,4,4,CAR 31,7-14,Michael Palardy pass incomplete short right intended for Shaq Thompson. Michael Palardy fumbles recovered by Michael Palardy at CAR-22. Michael Palardy fumbles recovered by Michael Palardy at CAR-22. Michael Palardy fumbles recovered by Michael Palardy at CAR-22,0,-1.310,-3.510,-2.20
+2017-10-01,Raiders,Broncos,2,9:05,4,1,DEN 31,0-10,Marshawn Lynch middle for no gain (tackle by Will Parks),0,1.410,-1.000,-2.41
+2017-12-17,Bengals,Vikings,1,3:46,4,1,CIN 38,0-14,Giovani Bernard right guard for no gain (tackle by Ben Gedeon and Eric Kendricks),0,-0.850,-3.050,-2.20
+2017-12-17,Eagles,Giants,2,7:09,4,1,NYG 44,7-20,LeGarrette Blount middle for no gain (tackle by Andrew Adams),0,0.330,-1.930,-2.26
+2017-10-22,Titans,Browns,1,11:03,4,1,CLE 32,0-0,Derrick Henry right guard for no gain (tackle by Joe Schobert). Penalty on Danny Shelton: Defensive Offside 5 yards (no play),0,1.310,3.780,2.47
+2017-10-22,Chargers,Broncos,1,10:54,4,1,DEN 1,0-0,Melvin Gordon middle for no gain (tackle by Todd Davis and Will Parks). Penalty on DEN: Unsportsmanlike Conduct,0,3.550,0.380,-3.17
+2017-11-05,Falcons,Panthers,2,4:35,4,1,CAR 35,10-0,Devonta Freeman right guard for no gain (tackle by Kurt Coleman and Thomas Davis). Penalty on Austin Hooper: Illegal Crackback 15 yards,0,1.000,-2.260,-3.26
+2017-09-24,Giants,Eagles,2,0:24,4,1,PHI 1,0-7,Orleans Darkwa middle for -1 yards (tackle by Joe Walker and Vinny Curry),-1,3.550,0.380,-3.17
+2017-12-03,Raiders,Giants,2,11:52,4,1,NYG 45,7-7,Marshawn Lynch middle for -1 yards (tackle by Olivier Vernon),-1,0.270,-1.990,-2.26
+2017-12-31,Cowboys,Eagles,1,9:07,4,1,PHI 41,0-0,Ezekiel Elliott middle for -1 yards (tackle by Dannell Ellerbe),-1,0.530,-1.730,-2.26
+2017-12-31,Steelers,Browns,1,0:50,4,1,CLE 1,7-0,Roosevelt Nix right guard for -1 yards (tackle by Carl Nassib and Joe Schobert),-1,3.550,0.380,-3.17
+2017-12-03,Browns,Chargers,2,13:31,4,1,SDG 35,0-0,Duke Johnson middle for -2 yards (tackle by Melvin Ingram),-2,1.000,-1.400,-2.40
+2017-12-10,Texans,49ers,1,2:52,4,1,SFO 40,3-0,Lamar Miller middle for -2 yards (tackle by Earl Mitchell and Eric Reid),-2,0.590,-1.730,-2.32
+2017-12-17,Ravens,Browns,2,11:16,4,1,CLE 1,3-0,Alex Collins right end for -3 yards (tackle by James Burgess),-3,3.550,0.380,-3.17
+2017-11-20,Seahawks,Falcons,2,0:07,4,1,ATL 17,17-24,Jon Ryan pass complete short middle to Luke Willson for -4 yards (tackle by Grady Jarrett),-4,2.460,-0.340,-2.80
+2017-12-14,Broncos,Colts,2,0:02,4,11,DEN 30,7-10,Brock Osweiler kneels for -4 yards,-4,-1.370,1.200,2.57
+2018-01-14,Steelers,Jaguars,1,1:12,4,1,JAX 21,0-14,Le'Veon Bell right tackle for -4 yards (tackle by Jalen Ramsey and Malik Jackson),-4,2.210,-0.610,-2.82
+2018-01-13,Titans,Patriots,2,0:25,4,1,NWE 46,7-21,Derrick Henry left end for -5 yards (tackle by Malcolm Butler and Stephon Gilmore),-5,0.200,-2.320,-2.52
+2017-09-24,Eagles,Giants,2,2:36,4,8,NYG 43,7-0,Carson Wentz sacked by Devon Kennard for -6 yards,-6,0.400,-2.190,-2.59
+2017-12-24,Bills,Patriots,2,11:30,4,2,NWE 6,3-3,Tyrod Taylor sacked by Marquis Flowers for -6 yards,-6,3.010,0.350,-2.66
+2017-09-10,49ers,Panthers,2,6:32,4,4,CAR 44,0-7,Brian Hoyer sacked by Thomas Davis for -8 yards,-8,0.330,-2.390,-2.72
+2017-12-03,Raiders,Giants,2,0:49,4,5,RAI 20,10-7,Marquette King middle for -11 yards (tackle by Shane Smith),-11,-2.030,-5.140,-3.11
+2017-11-05,Eagles,Broncos,2,0:04,4,5,PHI 49,31-9,Carson Wentz pass incomplete deep right intended for Alshon Jeffery,,-0.130,2.190,2.32
+2017-11-09,Cardinals,Seahawks,2,0:52,4,9,SEA 38,7-12,Drew Stanton pass incomplete deep left intended for JJ Nelson,,0.720,-1.470,-2.19
+2017-09-10,Colts,Rams,2,3:14,4,7,RAM 40,3-24,Scott Tolzien pass incomplete short middle intended for Jack Doyle,,0.590,-1.600,-2.19
+2017-09-17,Cardinals,Colts,2,13:05,4,1,CLT 1,0-10,Carson Palmer pass incomplete short right intended for Larry Fitzgerald,,3.550,0.380,-3.17
+2017-11-23,Washington,Giants,1,2:05,4,1,NYG 41,0-0,Kirk Cousins pass incomplete short right intended for Josh Doctson (defended by Darian Thompson),,0.530,-1.660,-2.19
+2017-09-17,Saints,Patriots,2,2:27,4,3,NWE 25,13-27,Drew Brees pass incomplete deep right intended for Ted Ginn,,1.900,-0.610,-2.51
+2017-09-17,Dolphins,Chargers,2,0:02,4,6,MIA 48,3-10,Jay Cutler pass incomplete deep right intended for Kenny Stills,,-0.190,2.130,2.32
+2017-11-30,Cowboys,Washington,2,0:03,4,2,DAL 49,17-7,Dak Prescott pass incomplete deep right intended for Terrance Williams,,-0.130,2.190,2.32
+2017-12-03,Broncos,Dolphins,2,0:03,4,11,DEN 43,3-16,Trevor Siemian pass incomplete,,-0.520,1.800,2.32
+2017-10-01,Raiders,Broncos,2,0:04,4,3,RAI 18,7-10,Derek Carr pass incomplete deep right intended for Amari Cooper,,-2.240,0.040,2.28
+2017-10-01,Giants,Buccaneers,1,3:51,4,4,TAM 30,0-7,Eli Manning pass incomplete short right intended for Brandon Marshall (defended by Robert McClain),,1.460,-0.940,-2.40
+2017-12-10,Bills,Colts,1,9:49,4,3,CLT 38,0-0,Joe Webb pass incomplete short right intended for Charles Clay (defended by T.J. Green),,0.720,-1.470,-2.19
+2017-12-10,Bills,Colts,2,8:21,4,7,CLT 38,0-0,Nathan Peterman pass incomplete short right intended for Kelvin Benjamin,,0.720,-1.470,-2.19
+2017-12-10,Washington,Chargers,2,6:31,4,4,SDG 37,6-20,Kirk Cousins pass incomplete deep right intended for Vernon Davis,,0.790,-1.400,-2.19
+2017-12-17,Rams,Seahawks,2,11:45,4,1,SEA 24,13-0,Jared Goff pass incomplete short right intended for Gerald Everett is intercepted by Michael Wilhoite at SEA-13,,2.020,0.320,-1.70
+2017-10-12,Panthers,Eagles,2,0:05,4,12,PHI 40,10-10,Cam Newton pass incomplete deep middle intended for Ed Dickson (defended by Corey Graham),,0.590,1.600,1.01
+2017-10-15,Dolphins,Falcons,2,7:57,4,3,ATL 39,0-10,Jay Cutler pass incomplete short right intended for Jarvis Landry (defended by Dontari Poe),,0.660,-1.530,-2.19
+2017-10-15,Buccaneers,Cardinals,2,0:11,4,5,CRD 5,0-24,Ryan Fitzpatrick pass incomplete short middle intended for Mike Evans (defended by Patrick Peterson),,3.010,0.380,-2.63
+2017-10-15,Vikings,Packers,2,0:04,4,30,50,14-10,Case Keenum pass incomplete deep right intended for Adam Thielen (defended by Josh Jones),,-0.060,2.260,2.32
+2017-10-15,Chargers,Raiders,1,1:00,4,3,RAI 34,0-7,Philip Rivers pass incomplete short right intended for Keenan Allen (defended by T.J. Carrie),,1.090,-1.270,-2.36
+2017-12-24,Rams,Titans,1,11:47,4,10,OTI 32,0-0,Johnny Hekker pass incomplete deep right intended for Mike Thomas (defended by Curtis Riley),,1.240,-1.140,-2.38
+2017-12-25,Texans,Steelers,2,10:28,4,1,PIT 1,0-10,T.J. Yates pass incomplete short middle intended for Will Fuller is intercepted by Artie Burns at PIT-0,,3.550,-0.280,-3.83
+2017-12-25,Raiders,Eagles,1,9:12,4,2,PHI 42,0-0,Derek Carr pass incomplete short right intended for Michael Crabtree,,0.460,-1.730,-2.19
+2017-12-31,Dolphins,Bills,1,4:41,4,3,BUF 15,0-7,David Fales pass incomplete short right intended for A.J. Derby (defended by Leonard Johnson),,2.540,0.220,-2.32
+2017-10-22,Falcons,Patriots,2,2:00,4,6,NWE 47,0-10,Matt Ryan pass incomplete deep left intended for Mohamed Sanu,,0.130,-2.060,-2.19
+2017-10-22,Seahawks,Giants,2,15:00,4,1,NYG 1,0-0,Russell Wilson pass incomplete short right intended for Jimmy Graham (defended by Eli Apple),,3.550,0.380,-3.17
+2017-12-31,Eagles,Cowboys,1,11:50,4,7,DAL 39,0-0,Nick Foles pass incomplete deep middle intended for Torrey Smith,,0.660,-1.530,-2.19
+2018-02-04,Patriots,Eagles,2,11:58,4,5,PHI 35,3-9,Tom Brady pass incomplete deep right intended for Rob Gronkowski (defended by Jalen Mills),,0.980,-1.270,-2.25
+2017-09-24,Jaguars,Ravens,3,0:23,4,1,JAX 35,37-0,Corey Grant right end for 58 yards (tackle by Chuck Clark). Penalty on Alex Collins: Unnecessary Roughness 4 yards,58,-1.040,6.510,7.55
+2017-12-31,Bengals,Ravens,4,0:53,4,12,RAV 49,30-27,Andy Dalton pass complete deep middle to Tyler Boyd for 49 yards touchdown,49,0.000,7.000,7.00
+2017-10-22,Steelers,Bengals,4,6:53,4,7,PIT 40,26-14,Robert Golden pass complete deep right to Darrius Heyward-Bey for 44 yards (tackle by Alex Erickson),44,-0.720,0.000,.72
+2018-01-14,Steelers,Jaguars,4,9:14,4,5,JAX 43,27-35,Ben Roethlisberger pass complete deep left to Antonio Brown for 43 yards touchdown. Penalty on A.J. Bouye: Defensive Pass Interference (Declined),43,0.400,7.000,6.60
+2017-12-03,Colts,Jaguars,3,6:49,4,2,JAX 40,9-24,Jacoby Brissett pass complete short middle to T.Y. Hilton for 40 yards touchdown. Penalty on Aaron Colvin: Defensive Holding (Declined),40,0.590,7.000,6.41
+2017-10-09,Bears,Vikings,3,5:33,4,6,MIN 38,8-10,Pat O'Donnell pass complete short middle to Benny Cunningham for 38 yards touchdown,38,0.720,7.000,6.28
+2017-12-24,Falcons,Saints,4,3:04,4,3,ATL 32,6-23,Matt Ryan pass complete short left to Julio Jones for 37 yards (tackle by Marcus Williams),37,-1.240,3.510,4.75
+2017-11-05,Eagles,Broncos,4,5:34,4,1,DEN 39,44-23,Nick Foles pass complete deep right to Nelson Agholor for 35 yards (tackle by Chris Harris),35,0.660,6.280,5.62
+2017-11-19,Giants,Chiefs,5,2:12,4,5,KAN 36,9-9,Eli Manning pass complete deep left to Roger Lewis for 34 yards (tackle by Phillip Gaines). Penalty on Phillip Gaines: Defensive Pass Interference (Declined),34,0.880,6.740,5.86
+2017-09-17,Packers,Falcons,4,12:50,4,7,ATL 33,16-34,Aaron Rodgers pass complete deep left to Davante Adams for 33 yards touchdown,33,1.150,7.000,5.85
+2017-11-26,Saints,Rams,4,12:37,4,5,RAM 38,10-23,Drew Brees pass complete short middle to Alvin Kamara for 33 yards (tackle by John Johnson). Penalty on Trumaine Johnson: Illegal Use of Hands (Declined),33,0.720,6.060,5.34
+2017-10-15,Jets,Patriots,4,1:12,4,12,NYJ 25,17-24,Josh McCown pass complete deep middle to Robby Anderson for 32 yards (tackle by Duron Harmon),32,-1.700,2.720,4.42
+2017-12-10,Raiders,Chiefs,4,7:17,4,7,KAN 29,13-26,Derek Carr pass complete deep middle to Jared Cook for 29 yards touchdown,29,1.500,7.000,5.50
+2017-11-12,Jets,Buccaneers,4,3:45,4,16,NYJ 26,3-15,Josh McCown pass complete deep middle to Austin Seferian-Jenkins for 28 yards (tackle by Ryan Smith),28,-1.630,2.520,4.15
+2017-09-17,Rams,Washington,4,10:05,4,6,WAS 45,17-20,Johnny Hekker pass complete short left to Josh Reynolds for 28 yards (tackle by Jamison Crowder),28,0.270,4.440,4.17
+2017-11-26,Dolphins,Patriots,4,13:33,4,2,MIA 35,10-28,Matt Moore pass complete deep left to Kenny Stills for 28 yards,28,-1.040,3.120,4.16
+2017-10-01,Seahawks,Colts,4,2:28,4,3,CLT 27,45-18,Russell Wilson pass complete deep right to J.D. McKissic for 27 yards touchdown,27,1.770,7.000,5.23
+2017-12-03,Chargers,Browns,3,12:11,4,4,CLE 35,9-7,Philip Rivers pass complete deep right to Keenan Allen for 26 yards (tackle by Jason McCourty). Penalty on Jason McCourty: Illegal Contact (Declined),26,0.980,5.140,4.16
+2017-11-26,Broncos,Raiders,4,10:26,4,7,RAI 25,6-21,Trevor Siemian pass complete deep right to Cody Latimer for 25 yards touchdown,25,1.800,7.000,5.20
+2017-12-10,Texans,49ers,4,2:24,4,22,HTX 27,16-26,T.J. Yates pass complete deep right to DeAndrew White for 24 yards,24,-1.570,2.320,3.89
+2017-12-17,Cowboys,Raiders,3,4:45,4,11,DAL 24,10-10,Chris Jones for 24 yards (tackle by Jalen Richard),24,-1.770,2.130,3.90
+2017-12-03,Eagles,Seahawks,4,2:16,4,6,PHI 25,10-24,Carson Wentz pass complete short left to Corey Clement for 23 yards (tackle by Bradley McDougald),23,-1.700,2.130,3.83
+2017-09-10,49ers,Panthers,3,1:19,4,3,SFO 48,0-23,Brian Hoyer pass complete short left to Pierre Garcon for 22 yards (tackle by Luke Kuechly). Penalty on Daryl Worley: Defensive Holding (Declined),22,-0.190,3.580,3.77
+2017-12-03,Texans,Titans,4,1:54,4,19,HTX 49,13-17,Tom Savage pass complete deep right to Stephen Anderson for 22 yards (tackle by LeShaun Sims),22,-0.130,3.640,3.77
+2017-12-31,Seahawks,Cardinals,3,10:23,4,6,CRD 35,7-20,Russell Wilson pass complete short middle to Jimmy Graham for 20 yards (tackle by Justin Bethel and Budda Baker),20,0.970,4.580,3.61
+2018-01-13,Falcons,Eagles,4,3:30,4,6,ATL 42,10-15,Matt Ryan pass complete deep right to Julio Jones for 20 yards (tackle by Rodney McLeod),20,-0.590,3.050,3.64
+2017-11-12,Browns,Lions,4,2:10,4,5,DET 45,24-38,DeShone Kizer pass complete short left to Kenny Britt for 19 yards (tackle by Tavon Wilson),19,0.270,3.840,3.57
+2017-11-19,Bears,Lions,4,0:28,4,13,CHI 38,24-27,Mitch Trubisky left end for 19 yards (tackle by Tavon Wilson),19,-0.850,0.000,.85
+2017-09-24,Washington,Raiders,4,1:53,4,1,RAI 28,27-10,Mack Brown right end for 19 yards (tackle by Marquel Lee). Penalty on Vernon Davis: Offensive Holding 10 yards (no play),19,1.720,0.720,-1.00
+2017-10-08,49ers,Colts,4,2:47,4,1,CLT 40,16-23,Brian Hoyer pass complete deep right to George Kittle for 19 yards (tackle by Vontae Davis),19,0.590,4.170,3.58
+2017-12-24,Jaguars,49ers,4,0:32,4,1,JAX 27,33-44,Blake Bortles pass complete deep right to Dede Westbrook for 19 yards (tackle by Adrian Colbert),19,-1.570,0.000,1.57
+2017-09-17,Packers,Falcons,4,0:48,4,10,GNB 12,23-34,Aaron Rodgers pass complete short middle to Martellus Bennett for 18 yards (tackle by De'Vondre Campbell),18,-2.490,0.940,3.43
+2017-12-24,Broncos,Washington,4,3:21,4,5,DEN 30,3-27,Brock Osweiler right end for 18 yards (tackle by Josh Norman),18,-1.370,2.130,3.50
+2017-11-12,Browns,Lions,4,1:39,4,10,DET 26,24-38,DeShone Kizer pass complete short right to Seth Devalve for 17 yards (tackle by Jarrad Davis and Tavon Wilson),17,1.740,0.000,-1.74
+2017-11-19,Eagles,Cowboys,4,12:10,4,5,DAL 17,29-9,Carson Wentz pass complete deep middle to Alshon Jeffery for 17 yards touchdown,17,2.360,7.000,4.64
+2017-12-17,Dolphins,Bills,4,2:00,4,14,MIA 44,13-24,Jay Cutler pass complete deep middle to Jarvis Landry for 17 yards (tackle by Leonard Johnson),17,-0.460,0.000,.46
+2017-12-31,Packers,Lions,4,11:35,4,5,DET 17,9-27,Brett Hundley pass complete short middle to Randall Cobb for 17 yards touchdown,17,2.360,7.000,4.64
+2017-10-22,Broncos,Chargers,4,2:27,4,26,SDG 27,0-21,Trevor Siemian pass complete short right to C.J. Anderson for 17 yards (tackle by Jahleel Addae and Adrian Phillips),17,1.670,0.380,-1.29
+2017-12-31,Ravens,Bengals,3,6:28,4,3,CIN 17,16-24,Alex Collins left tackle for 17 yards touchdown,17,2.410,7.000,4.59
+2018-01-13,Titans,Patriots,4,3:19,4,11,NWE 29,7-35,Marcus Mariota pass complete deep left to Corey Davis for 17 yards,17,1.500,4.780,3.28
+2017-11-12,Bengals,Titans,4,0:15,4,13,CIN 22,20-24,Andy Dalton pass complete short left to Giovani Bernard for 15 yards (tackle by Jayon Brown),15,-1.900,1.400,3.30
+2017-11-12,Washington,Vikings,4,2:48,4,10,WAS 35,27-38,Kirk Cousins pass complete short left to Vernon Davis for 15 yards (tackle by Tramaine Brock),15,-1.040,2.260,3.30
+2017-11-19,Raiders,Patriots,4,14:51,4,6,50,0-30,Derek Carr pass complete short left to Michael Crabtree for 15 yards (tackle by Duron Harmon),15,-0.060,3.250,3.31
+2017-11-09,Cardinals,Seahawks,4,6:43,4,4,SEA 45,10-22,Drew Stanton pass complete short right to Larry Fitzgerald for 14 yards (tackle by Jeremy Lane),14,0.270,3.510,3.24
+2017-11-12,Giants,49ers,4,3:49,4,2,NYG 18,13-31,Eli Manning pass complete short middle to Sterling Shepard for 14 yards (tackle by Reuben Foster),14,-2.240,1.070,3.31
+2017-09-10,Bears,Falcons,4,0:46,4,3,ATL 42,17-23,Mike Glennon pass complete short middle to Josh Bellamy for 14 yards (tackle by Desmond Trufant),14,0.460,0.000,-0.46
+2017-09-24,Seahawks,Titans,4,3:20,4,6,OTI 46,20-33,Russell Wilson pass complete short right to Tyler Lockett for 14 yards (tackle by Adoree' Jackson),14,0.200,3.450,3.25
+2017-10-08,Cardinals,Eagles,4,12:39,4,2,CRD 46,7-31,Carson Palmer pass complete short right to Jermaine Gresham for 14 yards (tackle by Rodney McLeod),14,-0.320,2.920,3.24
+2017-10-22,Browns,Titans,4,1:54,4,7,CLE 48,6-9,Cody Kessler pass complete short middle to Duke Johnson for 14 yards (tackle by Wesley Woodyard),14,-0.190,3.050,3.24
+2017-11-05,Dolphins,Raiders,4,3:06,4,9,RAI 38,16-27,Jay Cutler pass complete short left to Julius Thomas for 14 yards (tackle by Cory James). Penalty on Jermon Bushrod: Offensive Holding 10 yards (no play),14,0.720,0.070,-0.65
+2017-10-01,Patriots,Panthers,4,9:59,4,3,CAR 38,16-30,Tom Brady pass complete short right to Rob Gronkowski for 13 yards (tackle by Shaq Thompson),13,0.720,3.910,3.19
+2017-10-19,Raiders,Chiefs,4,0:41,4,11,KAN 42,24-30,Derek Carr pass complete short middle to Jared Cook for 13 yards (tackle by Eric Murray),13,0.460,0.000,-0.46
+2017-10-22,Ravens,Vikings,4,0:03,4,11,MIN 13,15-24,Joe Flacco pass complete short right to Chris Moore for 13 yards touchdown,13,2.570,7.000,4.43
+2017-12-31,Ravens,Bengals,4,0:24,4,14,RAV 23,27-31,Joe Flacco pass complete short middle to Ben Watson for 13 yards (tackle by Vincent Rey),13,-1.830,-3.180,-1.35
+2017-10-29,Chargers,Patriots,4,0:14,4,2,NWE 36,13-21,Philip Rivers pass complete short middle to Austin Ekeler for 13 yards,13,0.890,4.040,3.15
+2018-01-14,Saints,Vikings,4,0:45,4,10,MIN 46,21-23,Drew Brees pass complete short left to Willie Snead for 13 yards (tackle by Mackensie Alexander),13,0.200,3.380,3.18
+2018-02-04,Patriots,Eagles,4,0:42,4,10,NWE 9,33-41,Tom Brady pass complete short middle to Danny Amendola for 13 yards (tackle by Nigel Bradham),13,-2.490,0.410,2.90
+2017-11-19,Bills,Chargers,4,13:57,4,12,SDG 12,16-47,Tyrod Taylor pass complete short left to LeSean McCoy for 12 yards touchdown,12,2.630,7.000,4.37
+2017-09-17,Browns,Ravens,4,1:35,4,11,RAV 38,10-24,DeShone Kizer pass complete short middle to Seth Devalve for 12 yards (tackle by C.J. Mosley),12,0.720,3.840,3.12
+2017-12-17,Packers,Panthers,4,8:39,4,5,CAR 38,17-31,Aaron Rodgers pass complete short right to Randall Cobb for 12 yards (tackle by Mike Adams),12,0.720,3.840,3.12
+2017-12-24,Lions,Bengals,4,11:17,4,1,CIN 46,10-16,Tion Green left guard for 12 yards (tackle by Brandon Bell and Clayton Fejedelem),12,0.200,3.310,3.11
+2017-12-31,Jets,Patriots,4,1:40,4,10,NYJ 34,6-26,Bryce Petty pass complete short left to Neal Sterling for 12 yards (tackle by Eric Rowe),12,-1.110,1.990,3.10
+2017-12-31,Buccaneers,Saints,4,1:41,4,10,TAM 5,23-24,Jameis Winston pass complete short middle to Cameron Brate for 12 yards (tackle by Rafael Bush),12,-2.490,-0.060,2.43
+2018-01-14,Steelers,Jaguars,4,1:27,4,10,PIT 25,35-45,Ben Roethlisberger pass complete short right to Vance McDonald for 12 yards (tackle by Jalen Ramsey),12,-1.700,1.400,3.10
+2017-11-05,49ers,Cardinals,4,1:07,4,14,SFO 9,10-20,C.J. Beathard pass complete short right to Aldrick Robinson for 11 yards (tackle by Deone Bucannon),11,-2.490,-4.240,-1.75
+2017-12-17,Bengals,Vikings,4,7:54,4,7,MIN 20,0-34,A.J. McCarron pass complete short middle to Alex Erickson for 11 yards (tackle by Ben Gedeon),11,2.120,5.140,3.02
+2018-01-13,Titans,Patriots,4,2:00,4,9,NWE 11,13-35,Marcus Mariota pass complete short left to Corey Davis for 11 yards touchdown,11,2.700,7.000,4.30
+2017-10-29,Jets,Falcons,4,0:16,4,4,NYJ 27,20-25,Josh McCown pass complete short middle to Austin Seferian-Jenkins for 11 yards (tackle by Keanu Neal),11,-1.570,1.470,3.04
+2017-10-29,Washington,Cowboys,4,6:03,4,5,WAS 47,13-26,Kirk Cousins pass complete short right to Chris Thompson for 11 yards (tackle by Sean Lee and Demarcus Lawrence),11,-0.260,2.790,3.05
+2017-11-19,Raiders,Patriots,4,4:09,4,10,NWE 38,8-33,Derek Carr pass complete short left to Jared Cook for 10 yards (tackle by Patrick Chung),10,0.720,3.710,2.99
+2017-11-26,Buccaneers,Falcons,4,0:21,4,10,ATL 35,20-34,Ryan Fitzpatrick pass complete short left to Adam Humphries for 10 yards (tackle by Robert Alford),10,0.970,2.590,1.62
+2017-12-10,Colts,Bills,4,5:44,4,4,50,0-7,Jacoby Brissett pass complete short right to T.Y. Hilton for 10 yards (tackle by TreDavious White),10,-0.060,2.920,2.98
+2017-10-08,Packers,Cowboys,3,4:43,4,1,GNB 48,15-21,Aaron Jones left end for 10 yards (tackle by Jeff Heath),10,-0.190,2.790,2.98
+2017-12-16,Bears,Lions,4,2:51,4,6,DET 19,3-20,Mitch Trubisky for 10 yards. Mitch Trubisky fumbles recovered by Mitch Trubisky at DET-27. Penalty on Nevin Lawson: Defensive Holding 5 yards,10,2.210,5.140,2.93
+2017-12-17,Patriots,Steelers,3,9:54,4,1,PIT 16,10-17,Tom Brady pass complete short middle to Rob Gronkowski for 10 yards (tackle by Artie Burns and Mike Mitchell),10,2.530,5.830,3.30
+2017-12-24,Rams,Titans,3,7:14,4,1,OTI 13,13-13,Todd Gurley left tackle for 10 yards (tackle by Kevin Byard),10,2.720,6.510,3.79
+2017-11-05,Broncos,Eagles,4,11:14,4,6,PHI 11,9-44,Brock Osweiler pass complete short left to Demaryius Thomas for 9 yards (tackle by Corey Graham),9,2.720,6.740,4.02
+2017-11-12,Browns,Lions,4,3:36,4,6,CLE 29,24-38,DeShone Kizer pass complete short middle to Seth Devalve for 9 yards (tackle by Miles Killebrew),9,-1.440,1.470,2.91
+2017-11-12,Giants,49ers,4,2:08,4,5,NYG 37,13-31,Eli Manning pass complete short left to Roger Lewis for 9 yards (tackle by Dontae Johnson). Penalty on Dontae Johnson: Defensive Pass Interference (Declined),9,-0.910,1.990,2.90
+2017-09-17,Cowboys,Broncos,3,4:02,4,4,DAL 43,10-35,Dak Prescott pass complete short middle to Dez Bryant for 9 yards (tackle by Chris Harris),9,-0.520,2.390,2.91
+2017-12-03,Bills,Patriots,4,3:41,4,15,BUF 36,3-23,Nathan Peterman pass complete short middle to Travaris Cadet for 9 yards (tackle by Patrick Chung and Jonathan Jones),9,-0.980,-2.590,-1.61
+2017-09-24,Raiders,Washington,4,3:25,4,23,RAI 25,10-27,Derek Carr pass complete short left to Seth Roberts for 9 yards (tackle by Kendall Fuller). Seth Roberts fumbles (forced by Kendall Fuller) recovered by Martrell Spaight at OAK-37 (tackle by Lee Smith),9,-1.700,-3.120,-1.42
+2017-09-28,Bears,Packers,4,7:34,4,7,GNB 18,7-35,Mike Glennon pass complete short right to Deonte Thompson for 9 yards (tackle by Josh Hawkins),9,2.250,5.140,2.89
+2017-10-01,Cowboys,Rams,4,0:36,4,10,RAM 48,30-35,Dak Prescott pass complete short right to Ezekiel Elliott for 9 yards (tackle by John Johnson),9,0.070,-1.530,-1.60
+2017-12-04,Steelers,Bengals,4,12:17,4,1,PIT 36,10-20,Le'Veon Bell right tackle for 9 yards (tackle by Josh Shaw),9,-0.980,1.930,2.91
+2017-10-08,Texans,Chiefs,3,3:28,4,1,KAN 9,13-23,Deshaun Watson pass complete short right to Will Fuller for 9 yards touchdown,9,2.980,7.000,4.02
+2017-10-15,Dolphins,Falcons,4,10:09,4,2,ATL 44,14-17,Jay Cutler pass complete short middle to Jarvis Landry for 9 yards (tackle by Ricardo Allen),9,0.330,3.250,2.92
+2017-11-26,Packers,Steelers,4,2:50,4,6,PIT 12,21-28,Brett Hundley pass complete short left to Davante Adams for 8 yards (tackle by William Gay),8,2.660,6.280,3.62
+2017-11-26,49ers,Seahawks,4,0:19,4,5,SEA 18,6-24,Jimmy Garoppolo pass complete short right to Aldrick Robinson for 8 yards (tackle by Bradley McDougald),8,2.300,4.910,2.61
+2017-12-03,Colts,Jaguars,4,0:37,4,7,JAX 32,10-30,Jacoby Brissett pass complete short left to Jack Doyle for 8 yards (tackle by Myles Jack),8,1.240,3.970,2.73
+2017-10-01,Falcons,Bills,4,2:53,4,4,ATL 31,17-23,Matt Ryan pass complete short left to Nick Williams for 8 yards (tackle by Shareece Wright),8,-1.310,1.530,2.84
+2017-10-01,Browns,Bengals,4,4:24,4,7,CIN 48,0-31,Kevin Hogan pass complete short right to Ricardo Louis for 8 yards (tackle by KeiVarae Russell),8,0.070,2.920,2.85
+2017-12-10,Colts,Bills,4,3:57,4,6,BUF 36,0-7,Jacoby Brissett right end for 8 yards (tackle by E.J. Gaines),8,0.880,3.710,2.83
+2017-12-24,Bears,Browns,3,4:47,4,1,CLE 15,13-3,Jordan Howard right guard for 8 yards (tackle by Christian Kirksey). Penalty on Jabrill Peppers: Defensive Offside (Declined),8,2.590,5.600,3.01
+2017-12-24,Jaguars,49ers,4,3:07,4,4,SFO 9,19-37,Blake Bortles pass complete short middle to James O'Shaughnessy for 8 yards (tackle by Adrian Colbert),8,2.900,6.970,4.07
+2017-09-17,Packers,Falcons,3,1:25,4,5,GNB 46,10-34,Aaron Rodgers pass complete short middle to Davante Adams for 7 yards (tackle by Ricardo Allen),7,-0.320,2.460,2.78
+2017-12-17,Packers,Panthers,3,2:57,4,1,CAR 35,14-24,Aaron Rodgers right tackle for 7 yards (tackle by Mike Adams),7,1.000,3.710,2.71
+2017-12-23,Colts,Ravens,4,7:51,4,1,CLT 34,13-23,Jacoby Brissett left guard for 7 yards (tackle by Matt Judon),7,-1.110,1.660,2.77
+2017-11-05,Ravens,Titans,4,2:16,4,3,OTI 40,13-23,Joe Flacco pass complete short right to Ben Watson for 6 yards (tackle by Jayon Brown),6,0.590,3.310,2.72
+2017-09-17,Vikings,Steelers,4,1:00,4,7,MIN 28,9-26,Case Keenum pass complete short middle to Adam Thielen for 6 yards (tackle by William Gay). Adam Thielen fumbles (forced by William Gay) recovered by Artie Burns at MIN-39 (tackle by Laquon Treadwell),6,,,
+2017-09-10,Browns,Steelers,3,2:03,4,2,PIT 42,10-21,DeShone Kizer pass complete short left to Seth Devalve for 6 yards (tackle by William Gay),6,0.460,3.180,2.72
+2017-09-10,Giants,Cowboys,4,0:32,4,5,NYG 45,3-19,Eli Manning pass complete short right to Shane Vereen for 6 yards (tackle by Jeff Heath),6,-0.390,0.000,.39
+2017-09-24,Raiders,Washington,4,5:18,4,3,RAI 32,10-27,Derek Carr left guard for 6 yards,6,-1.240,1.470,2.71
+2017-12-03,Colts,Jaguars,4,1:05,4,2,JAX 41,10-30,Jacoby Brissett pass complete short left to Donte Moncrief for 6 yards (tackle by A.J. Bouye),6,0.530,3.250,2.72
+2017-10-08,Cardinals,Eagles,4,11:20,4,8,PHI 38,7-31,Carson Palmer pass complete short left to Jaron Brown for 6 yards (tackle by Patrick Robinson),6,0.720,-1.070,-1.79
+2017-10-15,Broncos,Giants,4,15:00,4,5,NYG 45,3-20,Trevor Siemian pass complete short right to Demaryius Thomas for 6 yards (tackle by Janoris Jenkins). Demaryius Thomas fumbles (forced by Janoris Jenkins),6,0.270,-1.530,-1.80
+2017-12-24,Cowboys,Seahawks,4,2:21,4,1,DAL 48,12-21,Dak Prescott pass complete short middle to Cole Beasley for 6 yards (tackle by Justin Coleman),6,-0.190,2.520,2.71
+2017-12-31,Broncos,Chiefs,4,2:58,4,4,KAN 6,23-24,Paxton Lynch pass complete short left to Demaryius Thomas for 6 yards touchdown,6,3.000,7.000,4.00
+2018-01-06,Rams,Falcons,4,2:33,4,3,ATL 13,13-26,Jared Goff pass complete short right to Robert Woods for 6 yards (tackle by Desmond Trufant),6,2.670,5.600,2.93
+2017-11-12,Falcons,Cowboys,4,1:07,4,14,DAL 31,27-7,Derrick Coleman right guard for 5 yards (tackle by Jaylon Smith),5,1.320,-0.670,-1.99
+2017-11-12,Saints,Bills,4,7:29,4,3,BUF 38,37-3,Drew Brees pass complete short left to Michael Thomas for 5 yards (tackle by Shareece Wright),5,0.720,3.380,2.66
+2017-11-12,Bears,Packers,4,0:42,4,10,CHI 36,16-23,Mitch Trubisky pass complete short right to Benny Cunningham for 5 yards lateral to Hroniss Grasu for 2 yards (tackle by Mike Daniels),5,-0.980,-2.720,-1.74
+2017-11-19,Washington,Saints,3,5:40,4,1,WAS 15,17-13,Niles Paul middle for 5 yards (tackle by Michael Mauti),5,-2.440,0.280,2.72
+2017-09-17,Cowboys,Broncos,3,0:42,4,1,DEN 30,10-35,Ezekiel Elliott middle for 5 yards (tackle by Kasim Edebali and Justin Simmons),5,1.520,3.910,2.39
+2017-09-28,Packers,Bears,3,8:47,4,1,CHI 33,21-7,Aaron Rodgers pass complete short right to Jordy Nelson for 5 yards (tackle by Kyle Fuller),5,1.210,3.710,2.50
+2017-12-03,Panthers,Saints,4,11:22,4,6,NOR 12,14-28,Cam Newton pass complete short right to Devin Funchess for 5 yards (tackle by Ken Crawley),5,2.660,0.380,-2.28
+2017-10-08,49ers,Colts,4,0:24,4,5,CLT 5,22-23,Brian Hoyer pass complete short middle to George Kittle for 5 yards touchdown,5,3.010,7.000,3.99
+2017-10-15,Packers,Vikings,4,1:18,4,4,GNB 37,10-23,Brett Hundley pass complete short right to Davante Adams for 5 yards (tackle by Xavier Rhodes),5,-0.910,1.730,2.64
+2017-12-24,Giants,Cardinals,4,9:18,4,25,CRD 41,0-23,Eli Manning middle for 5 yards (tackle by Chandler Jones),5,0.530,-1.330,-1.86
+2017-10-22,Colts,Jaguars,4,6:30,4,14,JAX 38,0-27,Jacoby Brissett pass complete short right to Jack Doyle for 5 yards (tackle by Jalen Ramsey),5,0.720,-1.140,-1.86
+2017-12-31,Chiefs,Broncos,3,7:34,4,1,DEN 29,14-10,Anthony Sherman middle for 5 yards (tackle by Zaire Anderson and Will Parks),5,1.620,3.970,2.35
+2017-11-12,Packers,Bears,3,0:55,4,1,CHI 49,13-6,Jamaal Williams right guard for 4 yards (tackle by Christian Jones),4,0.000,2.590,2.59
+2017-11-12,Giants,49ers,4,1:29,4,3,SFO 47,13-31,Eli Manning pass complete short right to Shane Vereen for 4 yards (tackle by Brock Coyle),4,0.130,2.720,2.59
+2017-09-24,Dolphins,Jets,4,7:41,4,6,NYJ 42,0-20,Jay Cutler pass complete short middle to DeVante Parker for 4 yards (tackle by Julian Stanford),4,0.460,-1.470,-1.93
+2017-10-01,Texans,Titans,3,9:25,4,1,OTI 27,30-14,Deshaun Watson pass complete short left to DeAndre Hopkins for 4 yards (tackle by LeShaun Sims),4,1.820,4.040,2.22
+2017-12-16,Chargers,Chiefs,4,2:48,4,1,SDG 34,13-30,Melvin Gordon middle for 4 yards (tackle by Justin Houston),4,-1.110,1.470,2.58
+2017-10-08,Cardinals,Eagles,4,14:55,4,1,CRD 34,7-31,Carson Palmer pass complete short left to Larry Fitzgerald for 4 yards (tackle by Malcolm Jenkins),4,-1.110,1.470,2.58
+2017-12-17,Rams,Seahawks,4,5:45,4,5,SEA 32,42-7,Sean Mannion pass complete short right to Derek Carrier for 4 yards (tackle by Bradley McDougald),4,1.260,-0.810,-2.07
+2017-10-12,Panthers,Eagles,4,3:33,4,2,PHI 45,23-28,Cam Newton pass complete short left to Christian McCaffrey for 4 yards (tackle by Mychal Kendricks),4,0.270,2.850,2.58
+2017-10-15,Packers,Vikings,4,6:47,4,4,GNB 40,10-23,Brett Hundley pass complete short left to Jordy Nelson for 4 yards (tackle by Harrison Smith),4,-0.720,1.860,2.58
+2018-01-07,Bills,Jaguars,4,1:17,4,3,BUF 44,3-10,Nathan Peterman left end for 4 yards (tackle by Telvin Smith). Nathan Peterman fumbles (forced by Telvin Smith) ball out of bounds at BUF-48,4,-0.460,2.130,2.59
+2018-01-14,Steelers,Jaguars,4,0:04,4,4,JAX 4,41-45,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 4 yards touchdown,4,3.030,7.000,3.97
+2017-09-10,Browns,Steelers,4,3:40,4,2,PIT 3,16-21,DeShone Kizer pass complete short left to Corey Coleman for 3 yards touchdown. Penalty on J.J. Wilcox: Unnecessary Roughness 15 yards,3,3.050,7.000,3.95
+2017-09-14,Bengals,Texans,3,8:15,4,2,HTX 19,6-10,Jeremy Hill right guard for 3 yards (tackle by Corey Moore),3,2.310,4.510,2.20
+2017-11-26,Browns,Bengals,4,7:01,4,3,CIN 3,15-23,DeShone Kizer middle for 3 yards touchdown,3,3.040,7.000,3.96
+2017-11-26,Eagles,Bears,3,4:20,4,1,CHI 42,24-3,Carson Wentz middle for 3 yards (tackle by Akiem Hicks),3,0.460,2.980,2.52
+2017-09-24,Ravens,Jaguars,4,9:45,4,8,JAX 40,0-44,Ryan Mallett pass complete short right to Javorius Allen for 3 yards (tackle by Telvin Smith),3,0.590,-1.400,-1.99
+2017-12-03,Colts,Jaguars,4,1:56,4,2,CLT 33,10-30,Jacoby Brissett pass complete short right to Chester Rogers for 3 yards,3,-1.180,1.330,2.51
+2017-09-28,Bears,Packers,4,2:00,4,1,CHI 49,14-35,Jordan Howard right guard for 3 yards (tackle by Morgan Burnett),3,-0.130,2.390,2.52
+2017-12-03,Titans,Texans,3,0:49,4,1,HTX 27,10-10,Derrick Henry right guard for 3 yards (tackle by Brian Peters),3,1.820,3.970,2.15
+2017-12-17,Rams,Seahawks,4,8:09,4,1,SEA 40,42-7,Sean Mannion middle for 3 yards (tackle by Quinton Jefferson),3,0.590,3.120,2.53
+2017-10-15,Dolphins,Falcons,3,7:53,4,1,ATL 17,0-17,Jay Cutler pass complete short right to Damien Williams for 3 yards (tackle by Ricardo Allen),3,2.460,4.650,2.19
+2017-10-22,Colts,Jaguars,4,0:21,4,4,JAX 34,0-27,Jacoby Brissett pass complete short left to Quan Bray for 3 yards (tackle by A.J. Bouye),3,1.080,-1.000,-2.08
+2017-09-10,Cardinals,Lions,4,2:27,4,2,DET 30,17-35,Carson Palmer middle for 2 yards (tackle by Jarrad Davis),2,1.500,0.000,-1.50
+2017-11-19,Saints,Washington,3,10:14,4,1,NOR 44,13-17,Drew Brees middle for 2 yards (tackle by Ryan Kerrigan),2,-0.460,1.990,2.45
+2017-09-11,Chargers,Broncos,4,0:42,4,1,SDG 47,21-24,Melvin Gordon middle for 2 yards (tackle by Von Miller),2,-0.260,2.190,2.45
+2017-11-26,Browns,Bengals,4,9:42,4,1,CIN 25,9-23,Isaiah Crowell left guard for 2 yards (tackle by Vontaze Burfict and Carlos Dunlap),2,1.950,4.040,2.09
+2017-09-17,Saints,Patriots,4,7:19,4,1,NWE 42,13-36,Adrian Peterson left end for 2 yards (tackle by Elandon Roberts),2,0.460,2.920,2.46
+2017-09-18,Giants,Lions,4,10:08,4,3,NYG 48,10-24,Eli Manning pass complete short left to Shane Vereen for 2 yards (tackle by Quandre Diggs),2,-0.190,-2.260,-2.07
+2017-12-03,Eagles,Seahawks,3,11:37,4,1,SEA 29,3-10,Carson Wentz middle for 2 yards (tackle by Jarran Reed),2,1.620,3.780,2.16
+2017-12-07,Saints,Falcons,4,1:55,4,1,ATL 24,17-20,Drew Brees right guard for 2 yards (tackle by Kemal Ishmael),2,2.020,0.000,-2.02
+2017-12-10,Eagles,Rams,3,2:28,4,2,RAM 2,30-28,Carson Wentz pass complete short left to Alshon Jeffery for 2 yards touchdown,2,3.250,7.000,3.75
+2017-12-17,Titans,49ers,4,2:34,4,1,OTI 47,20-22,Marcus Mariota middle for 2 yards (tackle by Earl Mitchell),2,-0.260,2.190,2.45
+2017-10-15,Ravens,Bears,4,6:31,4,1,CHI 32,13-17,Javorius Allen left guard for 2 yards (tackle by Eddie Jackson),2,1.310,3.580,2.27
+2017-12-31,Titans,Jaguars,4,12:28,4,1,JAX 32,15-3,Marcus Mariota middle for 2 yards (tackle by Malik Jackson),2,1.310,3.580,2.27
+2017-12-31,Rams,49ers,4,9:43,4,1,SFO 37,6-34,Sean Mannion middle for 2 yards (tackle by Reuben Foster and Sheldon Day),2,0.790,3.250,2.46
+2017-10-29,Eagles,49ers,4,1:53,4,1,SFO 47,33-10,Corey Clement left guard for 2 yards (tackle by Ray-Ray Armstrong),2,0.130,2.590,2.46
+2018-02-04,Eagles,Patriots,4,5:39,4,1,PHI 45,32-33,Nick Foles pass complete short left to Zach Ertz for 2 yards (tackle by Duron Harmon),2,-0.390,2.060,2.45
+2017-11-05,Panthers,Falcons,3,3:59,4,1,ATL 30,17-10,Cam Newton middle for 2 yards (tackle by Deion Jones),2,1.520,3.710,2.19
+2017-11-05,Eagles,Broncos,3,8:21,4,1,DEN 3,31-9,Carson Wentz pass complete short right to Nelson Agholor for 1 yard (tackle by Chris Harris),1,3.060,6.740,3.68
+2017-09-10,Jets,Bills,3,2:06,4,1,BUF 1,12-14,Josh McCown middle for 1 yard touchdown,1,3.550,7.000,3.45
+2017-11-26,Jaguars,Cardinals,3,7:39,4,1,CRD 1,9-16,Blake Bortles right end for 1 yard touchdown,1,3.550,7.000,3.45
+2017-09-21,49ers,Rams,3,5:44,4,1,RAM 1,19-27,Carlos Hyde middle for 1 yard touchdown,1,3.550,7.000,3.45
+2017-09-21,49ers,Rams,4,2:17,4,1,RAM 1,39-41,Carlos Hyde right guard for 1 yard touchdown,1,3.550,7.000,3.45
+2017-09-24,Broncos,Bills,3,0:33,4,2,DEN 31,16-20,De'Angelo Henderson right guard for 1 yard (tackle by Deon Lacey),1,-1.310,-3.510,-2.20
+2017-09-24,Eagles,Giants,3,6:37,4,1,NYG 45,7-0,Carson Wentz middle for 1 yard,1,0.270,2.650,2.38
+2017-10-01,Saints,Dolphins,3,10:44,4,1,MIA 17,3-0,Drew Brees middle for 1 yard (tackle by Vincent Taylor),1,2.460,4.510,2.05
+2017-10-01,Patriots,Panthers,4,3:14,4,1,CAR 1,29-30,Tom Brady pass complete short middle to Danny Amendola for 1 yard touchdown,1,3.550,7.000,3.45
+2017-10-01,Eagles,Chargers,3,5:38,4,1,SDG 42,16-10,Carson Wentz middle for 1 yard (tackle by Damion Square),1,0.460,2.850,2.39
+2017-10-08,Browns,Jets,4,13:03,4,2,NYJ 4,7-10,Isaiah Crowell right guard for 1 yard (tackle by Jordan Jenkins),1,3.040,0.380,-2.66
+2017-10-08,Cowboys,Packers,4,2:16,4,1,GNB 20,24-28,Ezekiel Elliott middle for 1 yard (tackle by Blake Martinez),1,2.270,4.310,2.04
+2017-12-17,Cowboys,Raiders,4,5:06,4,1,DAL 39,17-17,Dak Prescott middle for 1 yard (tackle by Nicholas Morrow),1,-0.780,1.600,2.38
+2017-10-15,Buccaneers,Cardinals,4,3:06,4,1,CRD 1,26-38,Doug Martin middle for 1 yard touchdown,1,3.550,7.000,3.45
+2017-12-24,Panthers,Buccaneers,4,0:45,4,1,TAM 3,15-19,Jonathan Stewart left guard for 1 yard (tackle by William Gholston and Clinton McDonald),1,3.060,0.000,-3.06
+2017-10-16,Titans,Colts,4,15:00,4,1,CLT 43,15-19,Marcus Mariota middle for 1 yard (tackle by Al Woods),1,0.400,2.790,2.39
+2017-12-24,Patriots,Bills,3,8:02,4,1,BUF 26,13-16,Dion Lewis left tackle for 1 yard (tackle by Preston Brown and Matt Milano),1,1.890,3.910,2.02
+2017-10-22,Panthers,Bears,3,6:53,4,2,CHI 25,3-17,Cam Newton right tackle for 1 yard (tackle by Eddie Goldman),1,1.930,-0.540,-2.47
+2017-12-31,Bears,Vikings,4,2:27,4,2,MIN 2,10-23,Mitch Trubisky pass complete short middle to Tarik Cohen for 1 yard (tackle by Linval Joseph and Everson Griffen),1,3.250,0.380,-2.87
+2017-10-29,Bills,Raiders,4,15:00,4,1,RAI 1,26-7,Tyrod Taylor middle for 1 yard touchdown,1,3.550,7.000,3.45
+2018-01-06,Falcons,Rams,3,9:43,4,1,RAM 21,13-10,Matt Ryan middle for 1 yard (tackle by Alec Ogletree),1,2.210,4.240,2.03
+2018-01-07,Jaguars,Bills,3,0:49,4,1,BUF 1,9-3,Blake Bortles pass complete short middle to Ben Koyack for 1 yard touchdown,1,3.550,7.000,3.45
+2017-11-05,Ravens,Titans,4,15:00,4,1,OTI 17,6-16,Javorius Allen middle for no gain (tackle by Wesley Woodyard),0,2.460,0.060,-2.40
+2017-11-12,Bills,Saints,4,3:59,4,1,BUF 44,3-40,Patrick DiMarco right tackle for no gain (tackle by Alex Okafor and Rafael Bush),0,-0.460,-2.650,-2.19
+2017-09-07,Patriots,Chiefs,4,12:29,4,1,KAN 40,27-28,Mike Gillislee middle for no gain (tackle by Frank Zombo and Justin Houston),0,0.590,-1.600,-2.19
+2017-09-07,Chiefs,Patriots,4,10:46,4,1,KAN 49,28-27,id_ for no gain. Penalty on Alex Smith: Delay of Game 5 yards (no play),0,-0.130,-0.460,-0.33
+2017-11-19,Packers,Ravens,3,1:25,4,1,RAV 36,0-13,Jamaal Williams right guard for no gain (tackle by Michael Pierce),0,0.890,-1.330,-2.22
+2017-11-19,Dolphins,Buccaneers,4,7:03,4,1,TAM 34,13-20,Damien Williams right guard for no gain (tackle by Chris Baker and Lavonte David),0,1.100,-1.200,-2.30
+2017-09-17,Vikings,Steelers,3,14:30,4,4,MIN 36,3-14,Ryan Quigley pass incomplete short right intended for Blake Bell (defended by Tyler Matakevich),0,,,
+2017-09-10,49ers,Panthers,4,8:54,4,1,CAR 1,3-23,Carlos Hyde right end for no gain (tackle by Thomas Davis),0,3.550,0.380,-3.17
+2017-11-19,Raiders,Patriots,3,4:45,4,1,RAI 44,0-27,Jamize Olawale middle for no gain (tackle by Patrick Chung),0,-0.460,-2.650,-2.19
+2017-11-23,Giants,Washington,4,2:19,4,3,NYG 32,10-17,Eli Manning sacked for 0 yards. Eli Manning fumbles recovered by Jon Halapio at NYG-32. Penalty on Ereck Flowers: Offensive Holding (Declined),0,-1.240,-1.240,.00
+2017-09-17,Jets,Raiders,3,7:36,4,1,RAI 17,10-21,Elijah McGuire middle for no gain (tackle by Denico Autry and Khalil Mack). Penalty on Josh McCown: Delay of Game 5 yards (no play),0,2.460,2.020,-0.44
+2017-11-26,Panthers,Jets,3,3:23,4,2,NYJ 32,12-17,Cam Newton pass incomplete short right intended for Christian McCaffrey. Penalty on Jordan Jenkins: Defensive Offside 5 yards (no play),0,1.300,3.780,2.48
+2017-09-18,Lions,Giants,4,0:32,4,10,NYG 24,24-10,Theo Riddick right tackle for no gain (tackle by Dalvin Tomlinson),0,1.870,-0.540,-2.41
+2017-09-24,Browns,Colts,4,2:53,4,10,CLT 39,21-31,DeShone Kizer pass incomplete deep right intended for Kasen Williams. Penalty on Rashaan Melvin: Defensive Pass Interference 16 yards (no play),0,0.660,4.040,3.38
+2017-09-17,Vikings,Steelers,4,2:21,4,15,MIN 30,9-23,Case Keenum pass incomplete deep left intended for Stefon Diggs,0,,,
+2017-10-01,Browns,Bengals,4,2:27,4,2,CIN 2,0-31,Kevin Hogan pass incomplete short left intended for Kasen Williams. Penalty on William Jackson: Defensive Pass Interference 1 yards (no play),0,3.250,0.000,-3.25
+2017-10-01,Saints,Dolphins,4,1:17,4,1,MIA 32,20-0,Mark Ingram right guard for no gain (tackle by Ndamukong Suh),0,1.310,-1.070,-2.38
+2017-10-01,Vikings,Lions,4,2:19,4,14,DET 14,7-14,Case Keenum pass incomplete short left intended for Adam Thielen. Penalty on Pat Elflein: Offensive Holding (Declined),0,2.510,0.280,-2.23
+2017-12-10,Titans,Cardinals,3,7:35,4,1,OTI 35,7-3,Eric Weems middle for no gain (tackle by Josh Bynes and Elijhaa Penny),0,-1.040,-3.250,-2.21
+2017-12-10,Titans,Cardinals,4,1:11,4,10,OTI 22,7-12,Marcus Mariota pass incomplete short middle intended for Adoree' Jackson (defended by Tyrann Mathieu). Penalty on Jonnu Smith: Offensive Pass Interference (Declined),0,-1.900,-4.110,-2.21
+2017-09-17,Vikings,Steelers,4,2:26,4,10,MIN 35,9-23,Case Keenum pass complete short middle to Adam Thielen for 10 yards (tackle by William Gay) Penalty on MIN: Illegal Formation 5 yards (no play),0,,,
+2017-12-14,Broncos,Colts,3,6:02,4,1,CLT 46,7-13,Brock Osweiler pass incomplete short right intended for Demaryius Thomas. Penalty on Quincy Wilson: Defensive Holding 4 yards (no play),0,0.200,2.790,2.59
+2017-12-14,Broncos,Colts,4,0:31,4,10,CLT 13,25-13,Devontae Booker middle for no gain (tackle by T.J. Green and Antonio Morrison),0,2.570,0.320,-2.25
+2017-12-17,Browns,Ravens,3,3:25,4,1,RAV 39,10-24,DeShone Kizer left guard for no gain (tackle by C.J. Mosley),0,0.660,-1.530,-2.19
+2017-12-17,Giants,Eagles,4,0:48,4,11,PHI 11,29-34,Eli Manning pass incomplete short left intended for Evan Engram. Penalty on Sterling Shepard: Unsportsmanlike Conduct 15 yards,0,2.700,-0.670,-3.37
+2017-12-17,Raiders,Cowboys,4,1:01,4,10,RAI 30,17-20,Derek Carr pass incomplete deep middle intended for Michael Crabtree. Penalty on Jourdan Lewis: Defensive Pass Interference 55 yards (no play),0,-1.370,4.580,5.95
+2017-12-17,Cardinals,Washington,4,0:23,4,10,WAS 21,15-20,Blaine Gabbert pass incomplete short middle intended for Larry Fitzgerald (defended by D.J. Swearinger). Penalty on D.J. Swearinger: Unsportsmanlike Conduct 10 yards,0,2.060,0.720,-1.34
+2017-10-15,Falcons,Dolphins,4,11:51,4,19,MIA 42,17-14,Matthew Bosher for no gain. Josh Harris fumbles,0,0.460,-2.130,-2.59
+2017-12-23,Packers,Vikings,4,4:03,4,10,GNB 29,0-13,Brett Hundley pass incomplete deep right intended for Michael Clark. Penalty on GNB: Unsportsmanlike Conduct 15 yards,0,-1.440,-4.650,-3.21
+2017-10-15,Broncos,Giants,4,10:07,4,16,NYG 45,3-20,Trevor Siemian pass incomplete deep middle intended for Demaryius Thomas. Penalty on Janoris Jenkins: Defensive Pass Interference 37 yards (no play),0,0.270,5.370,5.10
+2017-10-15,Broncos,Giants,4,8:30,4,1,NYG 1,3-20,C.J. Anderson right guard for no gain (tackle by Janoris Jenkins),0,3.550,0.380,-3.17
+2017-12-24,Panthers,Buccaneers,3,8:25,4,8,CAR 44,12-16,Michael Palardy pass incomplete short middle intended for Ed Dickson. Penalty on Josh Robinson: Defensive Pass Interference 10 yards (no play),0,-0.460,2.520,2.98
+2017-12-24,Chiefs,Dolphins,3,4:10,4,1,MIA 19,23-13,Kareem Hunt middle for no gain (tackle by Reshad Jones and Ndamukong Suh),0,2.340,-0.150,-2.49
+2017-10-16,Colts,Titans,4,2:26,4,1,OTI 13,22-29,Jacoby Brissett right end for no gain (tackle by Wesley Woodyard),0,2.720,0.320,-2.40
+2017-12-24,Falcons,Saints,4,15:00,4,1,NOR 1,3-20,Devonta Freeman left guard for no gain (tackle by Hau'oli Kikaha and Ken Crawley),0,3.550,0.380,-3.17
+2017-12-24,Broncos,Washington,4,5:20,4,2,DEN 46,3-20,Brock Osweiler pass incomplete short right intended for Bennie Fowler. Penalty on DEN: Illegal Formation (Declined),0,-0.320,-2.520,-2.20
+2017-10-22,Titans,Browns,3,9:39,4,1,CLE 1,6-3,Derrick Henry right guard for no gain (tackle by Joe Schobert),0,3.550,0.380,-3.17
+2017-10-22,Colts,Jaguars,3,1:47,4,2,JAX 6,0-27,Jacoby Brissett middle for no gain (tackle by Abry Jones),0,3.010,0.380,-2.63
+2017-10-22,Jaguars,Colts,4,2:09,4,1,CLT 24,27-0,Tommy Bohanon middle for no gain (tackle by Johnathan Hankins),0,2.020,-0.480,-2.50
+2017-12-31,Dolphins,Bills,3,8:49,4,8,BUF 37,0-13,David Fales pass incomplete. Penalty on David Fales: Intentional Grounding 13 yards,0,0.790,-2.260,-3.05
+2017-10-22,Steelers,Bengals,4,15:00,4,1,CIN 38,26-14,Terrell Watson middle for no gain (tackle by Carlos Dunlap and Nick Vigil),0,0.720,-1.470,-2.19
+2017-10-22,Steelers,Bengals,4,0:39,4,9,CIN 21,29-14,Ben Roethlisberger kneels for no gain,0,2.060,-0.340,-2.40
+2017-10-22,Cardinals,Rams,4,2:39,4,7,RAM 49,0-33,Drew Stanton pass incomplete deep right intended for Kerwynn Williams. Penalty on Jared Veldheer: Offensive Holding (Declined),0,0.000,-2.190,-2.19
+2017-12-31,Raiders,Chargers,3,5:51,4,2,SDG 18,10-23,Marshawn Lynch right end for no gain (tackle by Tenny Palepoi),0,2.370,-0.040,-2.41
+2017-12-31,Chargers,Raiders,4,7:09,4,1,RAI 7,30-10,Melvin Gordon middle for no gain (tackle by NaVorro Bowman and Denico Autry),0,3.010,0.380,-2.63
+2017-10-29,Washington,Cowboys,4,4:44,4,10,DAL 23,13-26,Kirk Cousins pass incomplete deep right intended for Josh Doctson. Penalty on Anthony Brown: Defensive Pass Interference 22 yards (no play),0,1.930,6.970,5.04
+2017-11-05,Rams,Giants,4,0:29,4,2,RAM 44,51-17,Malcolm Brown right end for -1 yards (tackle by Calvin Munson). Malcolm Brown fumbles (forced by Calvin Munson) recovered by Austin Blythe at LAR-43,-1,-0.460,-2.720,-2.26
+2017-11-13,Dolphins,Panthers,3,9:41,4,1,MIA 49,7-24,Damien Williams middle for -1 yards (tackle by Kawann Short and Luke Kuechly),-1,-0.130,-2.390,-2.26
+2017-11-16,Steelers,Titans,4,0:46,4,7,OTI 19,40-17,Landry Jones kneels for -1 yards,-1,2.180,-0.280,-2.46
+2017-11-19,Cardinals,Texans,4,6:33,4,1,CRD 35,21-24,Adrian Peterson left tackle for -1 yards (tackle by Zach Cunningham and Jadeveon Clowney),-1,-1.040,-3.310,-2.27
+2017-09-17,Bills,Panthers,3,12:39,4,1,CAR 44,0-6,LeSean McCoy left end for -1 yards (tackle by Thomas Davis),-1,0.330,-1.990,-2.32
+2017-12-31,Raiders,Chargers,4,9:03,4,1,RAI 17,10-30,Derek Carr middle for -1 yards (tackle by Darius Philon). Derek Carr fumbles (forced by Darius Philon) recovered by Joey Bosa at OAK-16 (tackle by Derek Carr),-1,-2.320,-4.510,-2.19
+2017-10-29,Lions,Steelers,3,4:31,4,1,PIT 1,12-13,Matthew Stafford sacked by Tyson Alualu for -1 yards,-1,3.550,0.380,-3.17
+2017-11-05,Jaguars,Bengals,4,0:35,4,6,CIN 6,23-7,Blake Bortles kneels for -1 yards,-1,2.990,0.380,-2.61
+2017-09-10,Texans,Jaguars,4,1:15,4,5,HTX 16,7-29,Deshaun Watson sacked by Calais Campbell and Lerentee McCray for -2 yards,-2,-2.390,-4.650,-2.26
+2017-09-11,Chargers,Broncos,4,12:02,4,1,DEN 48,7-24,Melvin Gordon middle for -2 yards (tackle by Todd Davis),-2,0.070,-2.320,-2.39
+2017-11-26,Patriots,Dolphins,4,15:00,4,1,MIA 25,28-10,Rex Burkhead left guard for -2 yards (tackle by Davon Godchaux and Andre Branch),-2,1.950,-0.740,-2.69
+2017-12-10,Packers,Browns,3,7:24,4,1,CLE 10,7-14,Brett Hundley middle for -2 yards (tackle by Caleb Brantley and James Burgess),-2,2.910,0.350,-2.56
+2017-12-31,Packers,Lions,4,0:34,4,9,GNB 49,11-35,Joe Callahan pass complete short right to Devante Mays for -2 yards (tackle by Jalen Reeves-Maybin),-2,-0.130,-2.460,-2.33
+2017-11-05,Eagles,Broncos,4,1:46,4,8,DEN 32,51-23,Wendell Smallwood right end for -3 yards (tackle by Will Parks),-3,1.240,-1.330,-2.57
+2017-11-06,Packers,Lions,3,7:27,4,2,50,3-17,Brett Hundley pass complete short left to Randall Cobb for -3 yards (tackle by Glover Quin),-3,-0.060,-2.460,-2.40
+2017-10-01,Raiders,Broncos,3,2:32,4,11,RAI 33,7-16,Marquette King right end for -3 yards (tackle by Jordan Taylor). Penalty on Marquette King: Unsportsmanlike Conduct 15 yards,-3,-1.180,-4.580,-3.40
+2017-12-10,Bears,Bengals,4,0:27,4,3,CIN 47,33-7,Tarik Cohen left end for -3 yards (tackle by Andrew Billings),-3,0.130,-2.260,-2.39
+2017-12-25,Raiders,Eagles,4,0:03,4,10,RAI 36,10-19,Derek Carr pass complete short right to Amari Cooper for -3 yards lateral to Jalen Richard for -10 yards. Jalen Richard fumbles recovered by Derek Barnett at OAK-23 and returned for 23 yards touchdown,-3,-0.980,-7.000,-6.02
+2017-11-12,Washington,Vikings,4,4:48,4,1,MIN 33,27-38,Chris Thompson right end for -4 yards (tackle by Tom Johnson),-4,1.210,-1.400,-2.61
+2017-09-24,Chiefs,Chargers,4,15:00,4,14,KAN 39,17-10,Albert Wilson right end for -4 yards (tackle by Chris McCain),-4,-0.780,-3.250,-2.47
+2017-10-08,Lions,Panthers,3,3:18,4,1,DET 49,10-27,Zach Zenner left tackle for -4 yards (tackle by Julius Peppers),-4,-0.130,-2.590,-2.46
+2017-10-22,Falcons,Patriots,4,14:36,4,1,NWE 1,0-20,Taylor Gabriel right end for -5 yards,-5,3.550,0.380,-3.17
+2017-10-26,Dolphins,Ravens,4,11:59,4,6,MIA 43,0-26,Matt Moore sacked by Tyus Bowser for -5 yards,-5,-0.520,-3.050,-2.53
+2017-10-15,Packers,Vikings,4,5:37,4,10,MIN 45,10-23,Brett Hundley sacked by Everson Griffen for -6 yards,-6,0.270,-2.320,-2.59
+2017-12-31,Steelers,Browns,4,0:02,4,18,50,28-24,Landry Jones kneels for -6 yards (tackle by Justin Currie),-6,-0.060,2.650,2.71
+2017-11-19,Rams,Vikings,4,0:19,4,10,MIN 14,7-24,Jared Goff sacked by Tashawn Bower for -7 yards,-7,2.510,-0.340,-2.85
+2017-11-19,Packers,Ravens,3,9:55,4,6,RAV 41,0-13,Brett Hundley sacked by Willie Henry for -8 yards,-8,0.530,-2.190,-2.72
+2017-11-19,Bills,Chargers,3,2:03,4,4,BUF 43,10-46,Tyrod Taylor sacked by Joey Bosa for -8 yards. Tyrod Taylor fumbles (forced by Joey Bosa) recovered by Melvin Ingram at BUF-39 and returned for 39 yards touchdown,-8,-0.520,-7.000,-6.48
+2017-11-23,Giants,Washington,4,2:19,4,3,NYG 32,10-17,Eli Manning sacked by Junior Galette for -8 yards. Eli Manning fumbles (forced by Junior Galette) recovered by Jon Halapio at NYG-19. Penalty on Ereck Flowers: Offensive Holding (Declined),-8,-1.240,-4.310,-3.07
+2017-09-21,49ers,Rams,4,1:50,4,20,SFO 40,39-41,Brian Hoyer sacked by Aaron Donald for -8 yards,-8,-0.720,-3.510,-2.79
+2017-09-10,Bears,Falcons,4,0:08,4,5,ATL 5,17-23,Mike Glennon sacked by Brooks Reed for -9 yards,-9,3.010,0.280,-2.73
+2017-12-24,Lions,Bengals,4,1:00,4,15,DET 37,17-26,Matthew Stafford sacked by Carl Lawson for -9 yards,-9,-0.910,-3.710,-2.80
+2017-12-17,Packers,Panthers,4,5:46,4,14,CAR 30,17-31,Aaron Rodgers sacked by Julius Peppers and Mario Addison for -10 yards,-10,1.410,-1.600,-3.01
+2017-10-29,Browns,Vikings,4,2:56,4,10,CLE 42,16-30,DeShone Kizer sacked by Everson Griffen for -10 yards,-10,-0.590,-3.450,-2.86
+2017-11-05,Texans,Colts,4,0:02,4,7,CLT 7,14-20,Tom Savage sacked by Jabaal Sheard for -10 yards. Tom Savage fumbles (forced by Jabaal Sheard),-10,2.970,0.000,-2.97
+2017-11-12,Cowboys,Falcons,4,4:17,4,6,ATL 20,7-27,Dak Prescott sacked by Brooks Reed for -11 yards. Penalty on Byron Bell: Offensive Holding (Declined),-11,2.150,-1.000,-3.15
+2017-11-19,Packers,Ravens,4,3:44,4,11,GNB 42,0-16,Brett Hundley sacked by Terrell Suggs for -12 yards,-12,-0.590,-3.580,-2.99
+2018-01-07,Panthers,Saints,4,0:11,4,23,NOR 34,26-31,Cam Newton sacked by Vonn Bell for -17 yards,-17,1.060,-2.320,-3.38
+2017-11-05,49ers,Cardinals,4,3:47,4,3,CRD 49,10-20,C.J. Beathard pass incomplete short right intended for Carlos Hyde (defended by Karlos Dansby),,0.000,-2.190,-2.19
+2017-11-06,Packers,Lions,4,6:08,4,13,GNB 45,10-27,Brett Hundley pass incomplete short left intended for Davante Adams,,-0.390,-2.590,-2.20
+2017-11-09,Cardinals,Seahawks,4,4:20,4,8,SEA 15,10-22,Drew Stanton pass incomplete short middle intended for Jaron Brown (defended by Bradley McDougald),,2.440,0.220,-2.22
+2017-11-12,Patriots,Broncos,4,5:22,4,3,DEN 25,41-16,Tom Brady pass incomplete deep right intended for Rob Gronkowski,,1.900,-0.610,-2.51
+2017-11-12,Patriots,Broncos,4,0:32,4,7,DEN 33,41-16,Brian Hoyer pass complete short left to Brandin Cooks for no gain,,1.150,-1.140,-2.29
+2017-11-12,Jaguars,Chargers,3,8:01,4,6,SDG 35,6-14,Blake Bortles pass incomplete short middle intended for Keelan Cole,,0.970,-1.270,-2.24
+2017-11-12,Texans,Rams,4,4:43,4,5,RAM 11,7-33,Tom Savage pass incomplete short middle intended for DeAndre Hopkins is intercepted by Blake Countess at LAR-6 and returned for 19 yards,,2.750,-0.610,-3.36
+2017-11-12,Jets,Buccaneers,4,2:34,4,6,TAM 25,3-15,Josh McCown pass incomplete deep right intended for Robby Anderson,,1.830,-0.610,-2.44
+2017-11-12,Washington,Vikings,3,0:34,4,6,MIN 32,20-35,Kirk Cousins pass incomplete short right intended for Jamison Crowder (defended by Brian Robison),,1.250,-1.070,-2.32
+2017-11-16,Titans,Steelers,4,2:34,4,6,PIT 41,17-40,Marcus Mariota pass incomplete short middle intended for Delanie Walker is intercepted by Sean Davis at PIT-37 and returned for 41 yards,,0.530,-4.110,-4.64
+2017-11-19,Browns,Jaguars,4,0:20,4,5,JAX 22,7-19,DeShone Kizer pass incomplete short left intended for Ricardo Louis,,2.040,-0.410,-2.45
+2017-11-19,Cowboys,Eagles,4,7:10,4,10,PHI 11,9-37,Dak Prescott pass incomplete deep middle intended for Terrance Williams is intercepted by Malcolm Jenkins at PHI--5. Penalty on Fletcher Cox: Illegal Blindside Block 10 yards,,2.700,0.380,-2.32
+2017-09-10,Bengals,Ravens,4,4:43,4,5,RAV 13,0-20,Andy Dalton pass incomplete,,2.620,0.280,-2.34
+2017-11-19,Broncos,Bengals,4,1:00,4,4,DEN 26,17-20,Brock Osweiler pass incomplete short right intended for Emmanuel Sanders (defended by Dre Kirkpatrick),,-1.630,-3.840,-2.21
+2017-11-19,Giants,Chiefs,3,1:41,4,9,KAN 33,6-3,Eli Manning pass incomplete short left intended for Evan Engram (defended by Derrick Johnson),,1.150,-1.140,-2.29
+2017-11-19,Raiders,Patriots,4,2:39,4,3,NWE 21,8-33,Derek Carr pass incomplete deep left intended for Seth Roberts,,2.160,-0.340,-2.50
+2017-09-10,Washington,Eagles,4,0:30,4,2,PHI 42,17-30,Kirk Cousins pass incomplete short right intended for Jordan Reed,,0.460,-1.730,-2.19
+2017-09-14,Bengals,Texans,4,1:13,4,9,CIN 44,9-13,Andy Dalton pass incomplete deep left intended for Alex Erickson,,-0.460,-2.650,-2.19
+2017-09-17,Bills,Panthers,4,0:14,4,11,CAR 33,3-9,Tyrod Taylor pass incomplete deep right intended for Zay Jones,,1.150,-1.140,-2.29
+2017-11-23,Lions,Vikings,4,3:00,4,7,DET 28,23-30,Matthew Stafford pass incomplete short left intended for Marvin Jones is intercepted by Xavier Rhodes at DET-37 and returned for 21 yards,,-1.500,-4.510,-3.01
+2017-09-17,Cowboys,Broncos,3,2:14,4,4,DEN 42,10-35,Dak Prescott pass incomplete short right intended for Jason Witten,,0.460,-1.730,-2.19
+2017-09-17,Cowboys,Broncos,4,3:51,4,3,DEN 7,17-35,Dak Prescott pass incomplete short left intended for Dez Bryant (defended by Bradley Roby),,2.990,0.380,-2.61
+2017-09-17,Cowboys,Broncos,4,1:12,4,6,DEN 6,17-41,Dak Prescott pass incomplete short right intended for Dez Bryant is intercepted by Aqib Talib at DEN--3 and returned for 103 yards touchdown,,2.990,-7.000,-9.99
+2017-11-26,Buccaneers,Falcons,4,7:10,4,1,ATL 18,20-27,Ryan Fitzpatrick pass incomplete short middle intended for Cameron Brate (defended by Keanu Neal),,2.400,-0.040,-2.44
+2017-11-26,Browns,Bengals,4,1:39,4,4,CIN 42,16-30,DeShone Kizer pass incomplete short middle intended for Ricardo Louis,,0.460,-1.730,-2.19
+2017-11-26,Chiefs,Bills,4,2:54,4,4,BUF 46,10-16,Alex Smith pass incomplete deep left intended for Tyreek Hill,,0.200,-1.990,-2.19
+2017-09-17,Browns,Ravens,4,0:32,4,7,RAV 23,10-24,DeShone Kizer pass incomplete short middle intended for Sammie Coates,,1.930,-0.480,-2.41
+2017-11-26,Dolphins,Patriots,4,8:48,4,11,MIA 38,17-28,Matt Moore pass incomplete short right intended for Jarvis Landry,,-0.850,-3.050,-2.20
+2017-09-17,Bears,Buccaneers,4,9:32,4,10,TAM 14,0-29,Mike Glennon pass incomplete short middle intended for Zach Miller,,2.510,0.280,-2.23
+2017-09-17,Bears,Buccaneers,4,5:42,4,3,TAM 7,0-29,Mike Glennon pass incomplete short right intended for Zach Miller (defended by Chris Conte),,2.990,0.380,-2.61
+2017-09-18,Giants,Lions,4,4:34,4,10,DET 29,10-24,Eli Manning pass incomplete short right intended for Odell Beckham,,1.500,-0.870,-2.37
+2017-09-24,Broncos,Bills,4,1:55,4,4,BUF 42,16-26,Trevor Siemian pass incomplete deep left intended for Emmanuel Sanders,,0.460,-1.800,-2.26
+2017-11-26,Eagles,Bears,3,2:08,4,6,CHI 35,24-3,Carson Wentz pass incomplete short right intended for Nelson Agholor,,0.970,-1.270,-2.24
+2017-11-26,Bears,Eagles,4,9:42,4,2,CHI 46,3-31,Mitch Trubisky pass incomplete short middle intended for Tre McBride,,-0.320,-2.520,-2.20
+2017-11-26,Bears,Eagles,4,1:56,4,9,PHI 31,3-31,Mitch Trubisky pass incomplete short right intended for Tre McBride is intercepted by Corey Graham at PHI-22 and returned for 59 yards,,1.320,-4.310,-5.63
+2017-11-30,Washington,Cowboys,4,4:27,4,10,WAS 25,14-31,Kirk Cousins pass incomplete short right intended for Ryan Grant is intercepted by Anthony Brown at WAS-38 and returned for 16 yards. Penalty on Josh Doctson: Unsportsmanlike Conduct 11 yards,,-1.700,-4.840,-3.14
+2017-09-24,Dolphins,Jets,3,8:37,4,7,MIA 28,0-17,Matt Haack pass incomplete deep right intended for Leonte Carroo is intercepted by Terrence Brooks at MIA-49,,-1.500,-2.320,-0.82
+2017-09-24,Dolphins,Jets,4,13:32,4,10,NYJ 21,0-20,Jay Cutler pass incomplete deep right intended for Jarvis Landry (defended by Morris Claiborne),,2.060,-0.340,-2.40
+2017-09-24,Seahawks,Titans,4,7:20,4,22,OTI 28,20-33,Russell Wilson pass incomplete deep right intended for Jimmy Graham (defended by Logan Ryan),,1.590,-0.810,-2.40
+2017-09-24,Giants,Eagles,3,1:22,4,2,PHI 13,0-14,Eli Manning pass incomplete short middle intended for Sterling Shepard (defended by Patrick Robinson),,2.690,0.320,-2.37
+2017-12-03,Bills,Patriots,4,8:51,4,1,NWE 1,3-23,Nathan Peterman pass incomplete short left intended for Zay Jones (defended by Stephon Gilmore),,3.550,0.380,-3.17
+2017-12-03,Bills,Patriots,4,1:05,4,6,BUF 19,3-23,Nathan Peterman pass incomplete short middle intended for Zay Jones (defended by Eric Rowe),,-2.140,-4.310,-2.17
+2017-09-25,Cardinals,Cowboys,4,0:40,4,2,DAL 2,17-28,Carson Palmer pass incomplete short middle intended for Jermaine Gresham (defended by Byron Jones),,3.250,0.380,-2.87
+2017-10-01,Falcons,Bills,4,0:49,4,1,BUF 10,17-23,Matt Ryan pass incomplete short right intended for Taylor Gabriel,,2.910,0.380,-2.53
+2017-10-01,Browns,Bengals,4,12:16,4,10,CIN 36,0-31,DeShone Kizer pass incomplete,,0.880,-1.330,-2.21
+2017-10-01,Dolphins,Saints,4,2:47,4,4,MIA 41,0-20,Jay Cutler pass incomplete short left intended for Kenyan Drake,,-0.650,-2.850,-2.20
+2017-12-03,Chiefs,Jets,4,0:49,4,6,NYJ 19,31-38,Alex Smith pass incomplete short middle intended for Travis Kelce,,2.210,-0.150,-2.36
+2017-10-01,Ravens,Steelers,4,5:48,4,12,PIT 47,9-19,Joe Flacco pass incomplete short middle intended for Michael Campanaro is intercepted by Mike Hilton at PIT-32 and returned for 19 yards,,0.130,-2.320,-2.45
+2017-10-01,Ravens,Steelers,4,0:10,4,3,PIT 4,9-26,Joe Flacco pass incomplete short middle intended for Chris Matthews (defended by Artie Burns),,3.030,0.380,-2.65
+2017-12-03,Eagles,Seahawks,3,3:55,4,3,SEA 25,3-17,Carson Wentz pass incomplete short left intended for Kenjon Barner,,1.900,-0.610,-2.51
+2017-10-01,Buccaneers,Giants,4,10:23,4,2,NYG 35,16-17,Jameis Winston pass incomplete short middle intended for Cameron Brate (defended by Landon Collins),,0.990,-1.270,-2.26
+2017-12-03,Eagles,Seahawks,4,5:48,4,6,SEA 40,10-24,Carson Wentz pass incomplete short middle intended for Trey Burton,,0.590,-1.600,-2.19
+2017-12-10,Colts,Bills,4,14:51,4,2,BUF 30,0-7,Jacoby Brissett pass incomplete short right intended for Chester Rogers (defended by Micah Hyde),,1.500,-0.940,-2.44
+2017-12-10,Vikings,Panthers,4,1:11,4,15,MIN 17,24-31,Case Keenum pass incomplete deep left intended for Adam Thielen (defended by Kurt Coleman),,-2.320,-4.440,-2.12
+2017-12-10,Bengals,Bears,4,6:25,4,16,CHI 36,7-33,Andy Dalton pass incomplete short middle intended for Tyler Boyd (defended by Nick Kwiatkoski),,0.880,-1.330,-2.21
+2017-12-10,Bengals,Bears,4,2:48,4,19,CHI 46,7-33,A.J. McCarron pass incomplete deep left intended for C.J. Uzomah,,0.200,-1.990,-2.19
+2017-12-10,Jets,Broncos,3,1:22,4,3,DEN 41,0-20,Bryce Petty pass incomplete short right intended for Jermaine Kearse,,0.530,-1.660,-2.19
+2017-12-10,Seahawks,Jaguars,4,2:19,4,9,SEA 43,24-30,Russell Wilson pass incomplete deep left intended for Doug Baldwin,,-0.520,-2.720,-2.20
+2017-12-14,Colts,Broncos,4,3:59,4,1,CLT 45,13-25,Jacoby Brissett pass incomplete short middle intended for Chester Rogers,,-0.390,-2.590,-2.20
+2017-12-16,Chargers,Chiefs,4,8:29,4,1,KAN 47,13-23,Philip Rivers pass incomplete short right intended for Antonio Gates is intercepted by Ron Parker at KAN-35,,0.130,-1.270,-1.40
+2017-12-17,Bills,Dolphins,3,11:23,4,7,MIA 36,21-6,Tyrod Taylor pass incomplete deep left intended for Charles Clay,,0.880,-1.330,-2.21
+2017-12-17,Dolphins,Bills,3,8:01,4,8,BUF 38,6-21,Jay Cutler pass incomplete short left intended for Kenny Stills is intercepted by Shareece Wright at BUF-23 and returned for 46 yards. Shareece Wright fumbles recovered by Shareece Wright at MIA-24,,0.720,-4.040,-4.76
+2017-10-08,Giants,Chargers,4,0:49,4,10,SDG 48,22-27,Eli Manning pass incomplete short middle intended for Evan Engram is intercepted by Tre Boston at LAC-33 and returned for 15 yards,,0.070,-2.130,-2.20
+2017-12-17,Bengals,Vikings,4,2:06,4,5,MIN 44,7-34,A.J. McCarron pass incomplete deep left intended for Josh Malone,,0.330,-1.860,-2.19
+2017-12-17,Jets,Saints,4,0:08,4,7,NYJ 24,19-31,Bryce Petty pass incomplete deep left intended for Jojo Natson is intercepted by Marshon Lattimore at NOR-28,,-1.770,0.000,1.77
+2017-10-08,Raiders,Ravens,4,2:05,4,20,RAI 15,17-30,EJ Manuel pass incomplete short left intended for Cordarrelle Patterson,,-2.440,-4.580,-2.14
+2017-10-08,Rams,Seahawks,4,0:08,4,10,SEA 20,10-16,Jared Goff pass incomplete deep middle intended for Cooper Kupp,,2.120,-0.280,-2.40
+2017-10-12,Panthers,Eagles,4,1:22,4,1,PHI 48,23-28,Cam Newton pass incomplete short left intended for Christian McCaffrey,,0.070,-2.130,-2.20
+2017-10-15,Cardinals,Buccaneers,4,2:38,4,2,TAM 35,38-26,Carson Palmer pass incomplete short right intended for John Brown (defended by Justin Evans),,0.990,-1.270,-2.26
+2017-12-23,Packers,Vikings,3,7:37,4,7,MIN 36,0-10,Brett Hundley pass incomplete deep right intended for Michael Clark,,0.880,-1.330,-2.21
+2017-12-23,Packers,Vikings,4,10:09,4,3,MIN 13,0-13,Brett Hundley pass incomplete short left intended for Michael Clark,,2.670,0.280,-2.39
+2017-12-23,Packers,Vikings,4,2:04,4,1,GNB 43,0-16,Brett Hundley pass incomplete short right intended for Lance Kendricks is intercepted by Harrison Smith at GNB-48,,-0.520,-2.390,-1.87
+2017-12-23,Colts,Ravens,4,1:43,4,10,RAV 17,16-23,Jacoby Brissett pass incomplete short middle intended for T.Y. Hilton (defended by Maurice Canady),,2.310,0.060,-2.25
+2017-10-15,Chiefs,Steelers,4,12:54,4,2,PIT 4,3-12,Alex Smith pass incomplete short middle intended for Demetrius Harris (defended by Sean Davis),,3.040,0.380,-2.66
+2017-10-15,Chiefs,Steelers,4,0:58,4,18,PIT 48,13-19,Alex Smith pass incomplete deep middle intended for De'Anthony Thomas,,0.070,-2.130,-2.20
+2017-12-24,Browns,Bears,4,4:21,4,10,CHI 38,3-20,DeShone Kizer pass incomplete short left intended for Rashard Higgins is intercepted by Bryce Callahan at CHI-37 and returned for 21 yards,,0.720,-2.790,-3.51
+2017-12-24,Giants,Cardinals,3,2:24,4,2,CRD 42,0-16,Eli Manning pass incomplete short right intended for Sterling Shepard,,0.460,-1.730,-2.19
+2017-12-24,Giants,Cardinals,4,4:01,4,1,CRD 35,0-23,Eli Manning pass incomplete short left intended for Rhett Ellison,,1.000,-1.270,-2.27
+2017-10-15,Jets,Patriots,3,4:49,4,1,NWE 34,14-21,Josh McCown pass incomplete short left intended for Eric Tomlinson is intercepted by Devin McCourty at NWE-28,,1.100,-0.810,-1.91
+2017-10-15,Jets,Patriots,4,0:20,4,16,NWE 49,17-24,Josh McCown pass incomplete deep right intended for Jeremy Kerley,,0.000,-2.190,-2.19
+2017-10-15,Raiders,Chargers,4,15:00,4,2,SDG 41,10-7,Derek Carr pass incomplete short left intended for Michael Crabtree,,0.530,-1.660,-2.19
+2017-10-15,49ers,Washington,4,0:09,4,20,50,24-26,C.J. Beathard pass incomplete deep right intended for George Kittle is intercepted by Kendall Fuller at WAS-32 and returned for 3 yards,,-0.060,-1.270,-1.21
+2017-12-24,Dolphins,Chiefs,4,2:38,4,15,MIA 31,13-29,Jay Cutler pass incomplete deep left intended for Kenny Stills (defended by Derrick Johnson),,-1.310,-3.510,-2.20
+2017-12-24,Dolphins,Chiefs,4,1:10,4,10,MIA 47,13-29,Jay Cutler pass incomplete deep right intended for DeVante Parker,,-0.260,-2.460,-2.20
+2017-12-24,Bills,Patriots,4,2:35,4,10,50,16-37,Tyrod Taylor pass incomplete deep left intended for Nick O'Leary,,-0.060,-2.260,-2.20
+2017-12-24,Jets,Chargers,4,3:11,4,7,SDG 17,7-14,Bryce Petty pass incomplete deep right intended for Robby Anderson,,2.310,0.060,-2.25
+2017-12-24,Titans,Rams,4,1:45,4,4,RAM 43,23-27,Marcus Mariota pass incomplete short right intended for David Fluellen,,0.400,-1.860,-2.26
+2017-10-22,Browns,Titans,4,12:22,4,3,OTI 37,6-9,Cody Kessler pass incomplete deep left intended for Kenny Britt,,0.790,-1.470,-2.26
+2017-12-31,Broncos,Chiefs,4,7:12,4,15,KAN 16,10-24,Paxton Lynch pass incomplete short right intended for Isaiah McKenzie is intercepted by Terrance Mitchell at KAN-2 and returned for 40 yards,,2.380,-1.730,-4.11
+2017-12-31,Bears,Vikings,4,11:29,4,6,MIN 6,7-23,Mitch Trubisky pass incomplete short right intended for Dontrelle Inman (defended by Xavier Rhodes),,2.990,0.380,-2.61
+2017-10-22,Giants,Seahawks,4,0:42,4,5,SEA 26,7-24,Eli Manning pass incomplete short middle intended for Roger Lewis (defended by Shaquill Griffin),,1.790,-0.670,-2.46
+2017-10-22,Bengals,Steelers,4,3:33,4,2,CIN 33,14-29,Andy Dalton pass incomplete short right intended for A.J. Green,,-1.180,-3.450,-2.27
+2017-10-22,Broncos,Chargers,4,12:49,4,6,SDG 31,0-14,Trevor Siemian pass incomplete deep left intended for Demaryius Thomas is intercepted by Casey Hayward at LAC-10 and returned for -2 yards,,1.340,0.380,-0.96
+2017-10-22,49ers,Cowboys,3,11:16,4,4,DAL 28,3-20,C.J. Beathard pass incomplete short middle intended for Kendrick Bourne,,1.650,-0.810,-2.46
+2017-10-22,Cowboys,49ers,4,3:02,4,11,SFO 15,40-10,Cooper Rush pass incomplete short left intended for Rod Smith,,2.440,0.220,-2.22
+2017-10-22,49ers,Cowboys,4,2:18,4,1,SFO 24,10-40,C.J. Beathard pass incomplete short left intended for Carlos Hyde (defended by Taco Charlton),,-1.770,-3.970,-2.20
+2017-12-31,Eagles,Cowboys,4,5:40,4,2,DAL 44,0-6,Nate Sudfeld pass incomplete short left intended for Shelton Gibson (defended by Bene Benwikere),,0.330,-1.860,-2.19
+2017-10-23,Washington,Eagles,4,0:21,4,10,WAS 35,24-34,Kirk Cousins pass incomplete deep right intended for Josh Doctson,,-1.040,-3.250,-2.21
+2017-12-31,Browns,Steelers,4,1:54,4,2,PIT 27,24-28,DeShone Kizer pass incomplete short left intended for Corey Coleman,,1.800,-0.740,-2.54
+2017-10-26,Dolphins,Ravens,4,1:56,4,9,RAV 39,0-40,Matt Moore pass incomplete short right intended for Kenyan Drake,,0.660,-1.530,-2.19
+2017-10-29,Raiders,Bills,4,3:25,4,3,RAI 48,14-27,Derek Carr pass incomplete short left intended for Amari Cooper,,-0.190,-2.390,-2.20
+2017-10-29,Colts,Bengals,4,1:22,4,4,CIN 48,23-24,Jacoby Brissett pass incomplete short right intended for T.Y. Hilton,,0.070,-2.130,-2.20
+2017-12-31,Raiders,Chargers,4,2:58,4,5,SDG 5,10-30,Derek Carr pass incomplete,,3.010,0.380,-2.63
+2017-10-29,Lions,Steelers,4,2:00,4,7,PIT 8,15-20,Matthew Stafford pass incomplete short middle intended for Eric Ebron (defended by Ryan Shazier),,2.960,0.380,-2.58
+2018-01-06,Chiefs,Titans,4,2:15,4,9,OTI 44,21-22,Alex Smith pass incomplete deep middle intended for Albert Wilson,,0.330,-1.860,-2.19
+2018-01-06,Rams,Falcons,4,2:11,4,5,ATL 5,13-26,Jared Goff pass incomplete short middle intended for Sammy Watkins (defended by Deion Jones),,3.010,0.380,-2.63
+2018-01-06,Rams,Falcons,4,1:14,4,6,ATL 45,13-26,Jared Goff pass incomplete short middle intended for Robert Woods (defended by Vic Beasley),,0.270,-1.930,-2.20
+2018-01-07,Saints,Panthers,4,2:00,4,2,CAR 47,31-26,Drew Brees pass incomplete deep right intended for Alvin Kamara is intercepted by Mike Adams at CAR-30 and returned for 1 yard. Mike Adams fumbles (forced by Alvin Kamara) ball out of bounds at CAR-31,,0.130,-1.000,-1.13
+2017-10-29,Bears,Saints,4,1:57,4,1,CHI 39,12-17,Mitch Trubisky pass incomplete short right intended for Kendall Wright (defended by Kenny Vaccaro),,-0.780,-3.050,-2.27
+2018-01-13,Falcons,Eagles,4,1:05,4,2,PHI 2,10-15,Matt Ryan pass incomplete short right intended for Julio Jones,,3.250,0.380,-2.87
+2018-01-14,Steelers,Jaguars,4,12:50,4,1,JAX 39,21-28,Ben Roethlisberger pass incomplete deep left intended for JuJu Smith-Schuster,,0.660,-1.530,-2.19
+2018-01-21,Jaguars,Patriots,4,1:53,4,15,NWE 43,20-24,Blake Bortles pass incomplete deep right intended for Dede Westbrook (defended by Stephon Gilmore),,0.400,-1.800,-2.20
+2018-01-21,Vikings,Eagles,3,6:27,4,7,PHI 7,7-31,Case Keenum pass incomplete short left intended for Adam Thielen,,2.970,0.380,-2.59
+2018-01-21,Vikings,Eagles,4,12:33,4,2,PHI 40,7-38,Case Keenum pass incomplete short right intended for Stefon Diggs,,0.590,-1.600,-2.19
+2017-10-29,Buccaneers,Panthers,4,2:40,4,14,CAR 28,3-17,Jameis Winston pass incomplete,,1.590,-0.810,-2.40
+2017-10-30,Broncos,Chiefs,4,10:09,4,4,DEN 48,13-23,Trevor Siemian pass incomplete short middle intended for Isaiah McKenzie (defended by Derrick Johnson),,-0.190,-2.390,-2.20
+2017-11-02,Bills,Jets,4,10:33,4,3,BUF 32,7-31,Tyrod Taylor pass incomplete short right intended for Jordan Matthews,,-1.240,-3.450,-2.21
+2017-11-05,Falcons,Panthers,4,8:20,4,7,CAR 39,10-20,Matt Ryan pass incomplete deep left intended for Julio Jones,,0.660,-1.530,-2.19
+2017-11-05,Falcons,Panthers,4,1:48,4,13,ATL 18,17-20,Matt Ryan pass incomplete deep right intended for Taylor Gabriel,,-2.240,-4.370,-2.13
+2017-11-05,Panthers,Falcons,4,0:07,4,4,ATL 12,20-17,Cam Newton pass incomplete,,2.710,-0.350,-3.06
+2017-11-05,Chiefs,Cowboys,4,5:12,4,8,DAL 43,17-28,Alex Smith pass incomplete short middle intended for Travis Kelce is intercepted by Jeff Heath at DAL-36 and returned for 3 yards,,0.400,-1.530,-1.93
+2017-11-05,Dolphins,Raiders,4,2:59,4,19,RAI 48,16-27,Jay Cutler pass incomplete deep left intended for DeVante Parker,,0.070,-2.190,-2.26
